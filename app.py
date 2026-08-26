@@ -1,6 +1,7 @@
 from faq import find_faq_answer
 import os
 
+from google import genai
 from dotenv import load_dotenv
 from flask import Flask, request, abort
 
@@ -23,12 +24,18 @@ app = Flask(__name__)
 # LINE 金鑰
 channel_secret = os.getenv("LINE_CHANNEL_SECRET")
 channel_access_token = os.getenv("LINE_CHANNEL_ACCESS_TOKEN")
+gemini_api_key = os.getenv("GEMINI_API_KEY")
+
+if not gemini_api_key:
+    raise ValueError("找不到 GEMINI_API_KEY")
 
 if not channel_secret:
     raise ValueError("找不到 LINE_CHANNEL_SECRET")
 
 if not channel_access_token:
     raise ValueError("找不到 LINE_CHANNEL_ACCESS_TOKEN")
+
+gemini_client = genai.Client(api_key=gemini_api_key)
 
 handler = WebhookHandler(channel_secret)
 
@@ -66,32 +73,58 @@ def callback():
 # 收到 LINE 文字訊息
 @handler.add(MessageEvent, message=TextMessageContent)
 def handle_message(event):
+
     user_message = event.message.text
+
+    print("收到訊息：", user_message)
 
     answer = find_faq_answer(user_message)
 
     if answer:
         reply_text = answer
+
     else:
-        reply_text = """🍜 哈囉！我是 2026 臺北客家美食節小幫手！
+        try:
+            prompt = f"""
+你是「2026 臺北客家美食節」LINE 官方客服。
 
-目前可以問我：
+回答規則：
+1. 使用繁體中文。
+2. 語氣親切、簡短。
+3. 回答以 1到4 句為主。
+4. 如果不知道活動官方資訊，不可以亂編。
+5. 不知道時請回答：
+「目前我還沒有這項官方資訊，建議洽詢活動客服確認 🙏」
 
-📅 活動時間
-🎉 活動內容
-😋 美食推薦
-🍽️ 店家名單
-
-直接輸入問題就可以囉！
+使用者問題：
+{user_message}
 """
 
+            interaction = gemini_client.interactions.create(
+                model="gemini-3.7-flash",
+                input=prompt
+            )
+
+            reply_text = interaction.output_text
+
+        except Exception as e:
+            print("Gemini 錯誤：", e)
+
+            reply_text = (
+                "不好意思 AI 客服目前暫時忙碌中 🙏 "
+                "請稍後再試一次。"
+            )
+
     with ApiClient(configuration) as api_client:
+
         line_bot_api = MessagingApi(api_client)
 
         line_bot_api.reply_message(
             ReplyMessageRequest(
                 reply_token=event.reply_token,
-                messages=[TextMessage(text=reply_text)]
+                messages=[
+                    TextMessage(text=reply_text)
+                ]
             )
         )
     
