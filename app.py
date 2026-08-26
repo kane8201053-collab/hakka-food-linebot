@@ -1,5 +1,7 @@
+from faq import find_faq_answer
 import os
 
+from dotenv import load_dotenv
 from flask import Flask, request, abort
 
 from linebot.v3 import WebhookHandler
@@ -14,14 +16,13 @@ from linebot.v3.messaging import (
     TextMessage
 )
 
+load_dotenv()
 
 app = Flask(__name__)
 
-
-# 從 Mac 環境變數取得 LINE 金鑰
+# LINE 金鑰
 channel_secret = os.getenv("LINE_CHANNEL_SECRET")
 channel_access_token = os.getenv("LINE_CHANNEL_ACCESS_TOKEN")
-
 
 if not channel_secret:
     raise ValueError("找不到 LINE_CHANNEL_SECRET")
@@ -29,8 +30,6 @@ if not channel_secret:
 if not channel_access_token:
     raise ValueError("找不到 LINE_CHANNEL_ACCESS_TOKEN")
 
-
-# 建立 LINE Webhook 處理器
 handler = WebhookHandler(channel_secret)
 
 configuration = Configuration(
@@ -38,7 +37,7 @@ configuration = Configuration(
 )
 
 
-# 首頁測試
+# 首頁
 @app.route("/", methods=["GET"])
 def home():
     return "2026 臺北客家美食節 LINE Bot 運作中！"
@@ -64,36 +63,46 @@ def callback():
     return "OK"
 
 
-# 收到文字訊息
+# 收到 LINE 文字訊息
 @handler.add(MessageEvent, message=TextMessageContent)
 def handle_message(event):
-
     user_message = event.message.text
 
-    print("收到訊息：", user_message)
+    answer = find_faq_answer(user_message)
 
-    reply_text = "你好！我是 2026 臺北客家美食節小幫手 🍜"
+    if answer:
+        reply_text = answer
+    else:
+        reply_text = """🍜 哈囉！我是 2026 臺北客家美食節小幫手！
+
+目前可以問我：
+
+📅 活動時間
+🎉 活動內容
+😋 美食推薦
+🍽️ 店家名單
+
+直接輸入問題就可以囉！
+"""
 
     with ApiClient(configuration) as api_client:
-
         line_bot_api = MessagingApi(api_client)
 
         line_bot_api.reply_message(
             ReplyMessageRequest(
                 reply_token=event.reply_token,
-                messages=[
-                    TextMessage(text=reply_text)
-                ]
+                messages=[TextMessage(text=reply_text)]
             )
         )
-
-
+    
 if __name__ == "__main__":
+
+    port = int(os.getenv("PORT", 5001))
 
     print("🍜 2026 臺北客家美食節 LINE Bot 啟動！")
 
     app.run(
         host="0.0.0.0",
-        port=5001,
-        debug=True
+        port=port,
+        debug=False
     )
