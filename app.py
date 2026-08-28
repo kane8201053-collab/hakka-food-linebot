@@ -108,7 +108,7 @@ def handle_message(event):
         if district_restaurants:
             restaurant_lines = []
 
-            for restaurant in district_restaurants[:3]:
+            for restaurant in district_restaurants[:5]:
                 dishes = "、".join(restaurant["recommended_dishes"])
                 restaurant_lines.append(
                     f"🍽️ {restaurant['name']}\n"
@@ -188,7 +188,7 @@ def handle_message(event):
                 input=prompt,
                 generation_config={
                     "thinking_level": "minimal",
-                    "max_output_tokens": 200,
+                    "max_output_tokens": 400,
                 },
                 timeout=12,
             )
