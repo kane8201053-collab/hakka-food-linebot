@@ -37,8 +37,6 @@ https://lohasnet.tw/Taipei-HakkaFoodie/
 FAQ_KEYWORDS = {
     "活動時間": [
         "活動時間",
-        "什麼時候",
-        "哪一天",
         "日期"
     ],
 
@@ -49,8 +47,6 @@ FAQ_KEYWORDS = {
     ],
 
     "有什麼好吃的": [
-        "附近",
-        "要吃什麼",
         "客家美食推薦"
     ],
 
