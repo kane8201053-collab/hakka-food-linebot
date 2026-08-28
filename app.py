@@ -85,15 +85,15 @@ def callback():
 @handler.add(MessageEvent, message=TextMessageContent)
 def handle_message(event):
 
-user_message = event.message.text
+    user_message = event.message.text
     
-detected_district = detect_district(user_message)
+    detected_district = detect_district(user_message)
 
-if detected_district:
-    district_restaurants = find_restaurants_by_district(detected_district)
+    if detected_district:
+        district_restaurants = find_restaurants_by_district(detected_district)
 
-else:
-    district_restaurants = []
+    else:
+        district_restaurants = []
 
     print("收到訊息：", user_message)
     print("偵測行政區：", detected_district)
@@ -172,9 +172,9 @@ else:
 協助使用者進行合理推薦。
 
 回答使用繁體中文，簡潔、親切。
-"""
-    input=prompt
-)
+""",
+                input=prompt
+            )
 
             reply_text = interaction.output_text
 

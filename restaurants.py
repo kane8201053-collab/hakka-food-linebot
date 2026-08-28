@@ -23,8 +23,8 @@ RESTAURANTS = [
         "features": ["適合家庭聚餐", "多人聚餐", "道地苗栗客家傳統風味", "平價實惠家常料理"],
         "address": "臺北市北投區中和里中和街457-8號",
         "business_hours":"11:00至14:00、17:00至21:00 每週二休",
-        "phone":"02-28944082"
-        "discount": 
+        "phone":"02-28944082",
+        "discount": "目前尚未提供",
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
     },
     {
@@ -36,8 +36,8 @@ RESTAURANTS = [
         "features": ["客家特色料理", "特色米食", "榮獲多項客家美食料理競賽肯定與電視媒體報導", "北投在地知名老字號私房名店，聚餐人氣極高"],
         "address": "臺北市北投區中央南路二段14-1號1樓",
         "business_hours":"週二至週六 11:00至14:30、17:00至21:00 週日11:00至15:00",
-        "phone":"02-2895-2219"
-        "discount": 
+        "phone":"02-2895-2219",
+        "discount": "目前尚未提供",
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
     },
     {
@@ -62,14 +62,14 @@ def get_restaurant_knowledge():
 店名：{restaurant["name"]}
 行政區：{restaurant["district"]}
 類型：{restaurant["category"]}
-餐廳介紹：{restaurant["description"]}
+餐廳介紹：{restaurant.get("description", "目前尚未提供")}
 推薦餐點：{dishes}
 特色：{features}
 地址：{restaurant["address"]}
-營業時間：{restaurant["business_hours"]}
-聯絡電話：{restaurant["phone"]}
-優惠：{restaurant["discount"]}
-備註：{restaurant["notes"]}
+營業時間：{restaurant.get("business_hours", "目前尚未提供")}
+聯絡電話：{restaurant.get("phone", "目前尚未提供")}
+優惠：{restaurant.get("discount", "目前尚未提供")}
+備註：{restaurant.get("notes", "")}
 """
         lines.append(text.strip())
 
