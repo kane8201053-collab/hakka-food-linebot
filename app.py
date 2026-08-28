@@ -1,6 +1,14 @@
 from faq import find_faq_answer
 from knowledge import HAKKA_FOOD_KNOWLEDGE
 
+from restaurants import (
+    RESTAURANTS,
+    TAIPEI_DISTRICTS,
+    get_restaurant_knowledge,
+    detect_district,
+    find_restaurants_by_district
+)
+
 import os
 
 from google import genai
@@ -38,6 +46,7 @@ if not channel_access_token:
     raise ValueError("找不到 LINE_CHANNEL_ACCESS_TOKEN")
 
 gemini_client = genai.Client(api_key=gemini_api_key)
+restaurant_knowledge = get_restaurant_knowledge()
 
 handler = WebhookHandler(channel_secret)
 
@@ -76,10 +85,20 @@ def callback():
 @handler.add(MessageEvent, message=TextMessageContent)
 def handle_message(event):
 
-    user_message = event.message.text
+user_message = event.message.text
+    
+detected_district = detect_district(user_message)
+
+if detected_district:
+    district_restaurants = find_restaurants_by_district(detected_district)
+
+else:
+    district_restaurants = []
 
     print("收到訊息：", user_message)
-
+    print("偵測行政區：", detected_district)
+    print("區域店家：", district_restaurants)
+    
     answer = find_faq_answer(user_message)
 
     if answer:
@@ -90,41 +109,70 @@ def handle_message(event):
             prompt = f"""
 你是「2026 臺北客家美食節」LINE 官方客服。
 
---------------------
+以下有兩份官方資料：
+
+====================
+【活動官方知識庫】
 {HAKKA_FOOD_KNOWLEDGE}
---------------------
+====================
+
+【合作店家資料庫】
+{restaurant_knowledge}
+====================
 
 請根據以上官方知識庫回答使用者的問題。
 
 回答規則：
 1. 使用繁體中文。
 2. 語氣親切自然，適合 LINE 客服。
-3. 回答以 1到4 句為主。
-4. 官方活動資訊只能根據上面的知識庫回答。
-5. 不可以自行猜測日期、時間、地點、店家、交通、優惠或抽獎資訊。
+3. 如果使用者詢問行政區，優先推薦該行政區的合作店家。
+4. 如果使用者詢問料理，例如客家小炒、粄條、擂茶，請從合作店家資料尋找。
+5. 如果使用者提出需求，例如：
+   - 家庭聚餐
+   - 長輩
+   - 小朋友
+   - 下午茶
+   - 甜點
+   - 午餐
+   - 聚餐
+   可以根據店家 features 推薦。
 6. 如果知識庫沒有答案，請回答：
 「目前官方資料尚未提供這項資訊，建議洽詢活動客服確認 🙏」
 7. 一般客家文化、美食知識可以簡單回答，但不要假裝是本活動的官方資訊。
+8. 每次推薦以 1到3 間為主。
+9. 不可以推薦資料庫中不存在的合作店家。
+10. 不可以自行捏造地址、優惠、餐點。
+11. 如果該行政區目前沒有合作店家，請直接說目前資料庫沒有該區合作店家。
+12. 如果資料不足，不要猜測。
+
+使用者提到的行政區：
+{detected_district if detected_district else "未指定"}
 
 使用者問題：
 {user_message}
 """
 
             interaction = gemini_client.interactions.create(
-
                 model="gemini-3.7-flash",
-
                 system_instruction="""
-你是「2026 臺北客家美食節」官方 LINE 客服。
+你是「2026 臺北客家美食節」官方 LINE AI 客服。
 
-你的首要任務是提供正確、簡短、友善的活動資訊。
+回答活動資訊時，只能使用提供的官方知識庫。
 
-遇到官方資訊問題時，只能依據提供的官方知識庫回答，
-不得自行推測或虛構資訊。
+回答合作店家問題時，只能推薦提供的合作店家資料庫中的店家。
 
-如果資料不足，要明確告知使用者目前尚無官方資訊。
-""",
+禁止自行創造：
+- 店家名稱
+- 地址
+- 優惠
+- 菜色
+- 活動內容
 
+可以依據店家的行政區、料理類型、推薦餐點與特色，
+協助使用者進行合理推薦。
+
+回答使用繁體中文，簡潔、親切。
+"""
     input=prompt
 )
 
