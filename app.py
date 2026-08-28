@@ -104,8 +104,38 @@ def handle_message(event):
     if answer:
         reply_text = answer
 
+    elif detected_district:
+        if district_restaurants:
+            restaurant_lines = []
+
+            for restaurant in district_restaurants[:3]:
+                dishes = "、".join(restaurant["recommended_dishes"])
+                restaurant_lines.append(
+                    f"🍽️ {restaurant['name']}\n"
+                    f"推薦餐點：{dishes}\n"
+                    f"地址：{restaurant['address']}"
+                )
+
+            reply_text = (
+                f"{detected_district}目前有這些合作店家：\n\n"
+                + "\n\n".join(restaurant_lines)
+            )
+        else:
+            reply_text = (
+                f"目前資料庫尚未提供{detected_district}的合作店家資訊 🙏"
+            )
+
     else:
         try:
+            system_instruction = """
+你是「2026 臺北客家美食節」官方 LINE AI 客服。
+
+回答活動資訊時，只能使用提供的官方知識庫。
+回答合作店家問題時，只能推薦提供的合作店家資料庫中的店家。
+禁止自行創造店家名稱、地址、優惠、菜色或活動內容。
+回答使用繁體中文，簡潔、親切。
+"""
+
             prompt = f"""
 你是「2026 臺北客家美食節」LINE 官方客服。
 
@@ -153,27 +183,14 @@ def handle_message(event):
 """
 
             interaction = gemini_client.interactions.create(
-                model="gemini-3.7-flash",
-                system_instruction="""
-你是「2026 臺北客家美食節」官方 LINE AI 客服。
-
-回答活動資訊時，只能使用提供的官方知識庫。
-
-回答合作店家問題時，只能推薦提供的合作店家資料庫中的店家。
-
-禁止自行創造：
-- 店家名稱
-- 地址
-- 優惠
-- 菜色
-- 活動內容
-
-可以依據店家的行政區、料理類型、推薦餐點與特色，
-協助使用者進行合理推薦。
-
-回答使用繁體中文，簡潔、親切。
-""",
-                input=prompt
+                model="gemini-3.5-flash-lite",
+                system_instruction=system_instruction,
+                input=prompt,
+                generation_config={
+                    "thinking_level": "minimal",
+                    "max_output_tokens": 200,
+                },
+                timeout=12,
             )
 
             reply_text = interaction.output_text
