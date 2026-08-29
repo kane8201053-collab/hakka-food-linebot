@@ -182,13 +182,13 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
                     )
                 )
 
-    def test_district_reply_uses_google_maps_buttons(self):
+    def test_district_listing_does_not_get_store_map_buttons(self):
         decision = decide_reply("南港區")
         self.assertEqual("district", decision.route)
         self.assertNotIn("google.com/maps", decision.reply_text)
-        links = build_reply_links(decision.reply_text)
-        self.assertTrue(links[0].url.startswith("https://www.google.com/maps/search/"))
-        self.assertEqual(OFFICIAL_WEBSITE_URL, links[-1].url)
+        links = build_reply_links(decision.reply_text, "南港區")
+        self.assertEqual(1, len(links))
+        self.assertEqual(OFFICIAL_WEBSITE_URL, links[0].url)
 
     def test_every_reply_has_a_clickable_official_link(self):
         links = build_reply_links("目前官方資料尚未提供這項資訊。")
@@ -204,10 +204,22 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         self.assertLessEqual(utf16_length(links[0].label), 20)
 
     def test_overlapping_store_names_only_get_the_specific_map(self):
-        links = build_reply_links("推薦胡鍋｜大烹小饌的石頭火鍋。")
+        question = "胡鍋｜大烹小饌的地址在哪裡？"
+        links = build_reply_links("地址如下。", question)
         map_links = links[:-1]
         self.assertEqual(1, len(map_links))
         self.assertEqual("📍 地址超連結", map_links[0].label)
+
+    def test_question_about_multiple_stores_does_not_get_map_buttons(self):
+        question = "富鼎餐館和苗栗客家菜館的地址在哪裡？"
+        links = build_reply_links("以下是兩間店的地址。", question)
+        self.assertEqual(1, len(links))
+        self.assertEqual(OFFICIAL_WEBSITE_URL, links[0].url)
+
+    def test_general_recommendation_does_not_get_map_even_for_one_result(self):
+        links = build_reply_links("推薦富鼎餐館。", "信義區有什麼好吃的？")
+        self.assertEqual(1, len(links))
+        self.assertEqual(OFFICIAL_WEBSITE_URL, links[0].url)
 
     def test_long_google_maps_url_is_hidden_from_reply_text(self):
         restaurant = next(

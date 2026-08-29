@@ -178,11 +178,10 @@ def _map_button_label(_restaurant_name):
     return "📍 地址超連結"
 
 
-def build_reply_links(reply_text, extra_context="", restaurant_limit=11):
-    """找出答案或問題提到的店家，並保證每則回覆都有官方網站。"""
+def _find_mentioned_restaurants(text):
+    """找出文字中的正式店名，並處理店名互相包含的情況。"""
 
-    searchable_text = f"{reply_text or ''}\n{extra_context or ''}"
-    links = []
+    searchable_text = text or ""
     matches = []
 
     # 先比對長店名，避免「胡鍋｜大烹小饌」同時誤觸另一間「大烹小饌」。
@@ -204,7 +203,20 @@ def build_reply_links(reply_text, extra_context="", restaurant_limit=11):
             continue
         matches.append((start, end, restaurant))
 
-    for _, _, restaurant in sorted(matches, key=lambda item: item[0])[:restaurant_limit]:
+    return [
+        restaurant
+        for _, _, restaurant in sorted(matches, key=lambda item: item[0])
+    ]
+
+
+def build_reply_links(_reply_text, extra_context=""):
+    """只有問題明確提到單一店家時附地圖；每則回覆仍附官方網站。"""
+
+    links = []
+    question_restaurants = _find_mentioned_restaurants(extra_context)
+
+    if len(question_restaurants) == 1:
+        restaurant = question_restaurants[0]
         links.append(
             LinkTarget(
                 label=_map_button_label(restaurant["name"]),
@@ -305,7 +317,7 @@ def build_ai_prompt(user_message, detected_district=None):
 1. 使用繁體中文，語氣親切自然，適合 LINE 客服。
 2. 活動資訊只能使用上方官方知識庫。
 3. 店家只能推薦上方合作店家資料庫中的店家；每次以 1 到 3 間為主，並使用完整正式店名。
-4. 不要在回答文字中輸出網址；系統會依完整店名附上 Google 地圖短按鈕與活動官方網站按鈕。
+4. 不要在回答文字中輸出網址；民眾明確詢問單一正式店家時，系統會附上 Google 地圖短按鈕。每則回答另有活動官方網站按鈕。
 5. 絕不可自行創造店名、地址、電話、營業時間、優惠、餐點或活動內容。
 6. 詢問料理或需求時，可依 recommended_dishes、category、features 推薦。
 7. 該行政區沒有合作店家時，直接說目前資料庫沒有該區合作店家。
