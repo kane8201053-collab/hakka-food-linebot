@@ -27,13 +27,16 @@ from linebot.v3.messaging import (
     QuickReplyItem,
     ReplyMessageRequest,
     TextMessage,
+    URIAction,
 )
 
 from bot_logic import (
     AI_BUSY_REPLY,
     UNSUPPORTED_MESSAGE_REPLY,
     build_ai_prompt,
+    build_reply_links,
     decide_reply,
+    hide_google_maps_urls,
     safe_line_reply,
 )
 
@@ -112,28 +115,40 @@ SYSTEM_INSTRUCTION = """
 """
 
 
-def reply_to_line(event, reply_text):
-    quick_reply = QuickReply(
-        items=[
-            QuickReplyItem(
-                action=MessageAction(
-                    label="🎁 最新抽獎資訊",
-                    text="最新抽獎資訊",
-                )
+def build_line_text_message(reply_text, extra_context=""):
+    visible_reply = safe_line_reply(hide_google_maps_urls(reply_text))
+    quick_reply_items = [
+        QuickReplyItem(
+            action=MessageAction(
+                label="🎁 最新抽獎資訊",
+                text="最新抽獎資訊",
             )
-        ]
+        )
+    ]
+
+    quick_reply_items.extend(
+        QuickReplyItem(
+            action=URIAction(label=link.label, uri=link.url),
+        )
+        for link in build_reply_links(visible_reply, extra_context)
     )
+
+    return TextMessage(
+        text=visible_reply,
+        quick_reply=QuickReply(items=quick_reply_items),
+    )
+
+
+def reply_to_line(event, reply_text):
+    extra_context = ""
+    if isinstance(event.message, TextMessageContent):
+        extra_context = event.message.text
 
     with ApiClient(configuration) as api_client:
         MessagingApi(api_client).reply_message(
             ReplyMessageRequest(
                 reply_token=event.reply_token,
-                messages=[
-                    TextMessage(
-                        text=safe_line_reply(reply_text),
-                        quick_reply=quick_reply,
-                    )
-                ],
+                messages=[build_line_text_message(reply_text, extra_context)],
             )
         )
 

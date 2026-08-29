@@ -3,8 +3,11 @@ import unittest
 from bot_logic import (
     MAX_LINE_REPLY_UNITS,
     MESSAGE_TOO_LONG_REPLY,
+    OFFICIAL_WEBSITE_URL,
     build_ai_prompt,
+    build_reply_links,
     decide_reply,
+    hide_google_maps_urls,
     safe_line_reply,
     utf16_length,
 )
@@ -179,10 +182,46 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
                     )
                 )
 
-    def test_district_reply_includes_google_maps_link(self):
+    def test_district_reply_uses_google_maps_buttons(self):
         decision = decide_reply("南港區")
         self.assertEqual("district", decision.route)
-        self.assertIn("Google Maps：https://www.google.com/maps/search/", decision.reply_text)
+        self.assertNotIn("google.com/maps", decision.reply_text)
+        links = build_reply_links(decision.reply_text)
+        self.assertTrue(links[0].url.startswith("https://www.google.com/maps/search/"))
+        self.assertEqual(OFFICIAL_WEBSITE_URL, links[-1].url)
+
+    def test_every_reply_has_a_clickable_official_link(self):
+        links = build_reply_links("目前官方資料尚未提供這項資訊。")
+        self.assertEqual(1, len(links))
+        self.assertEqual("🔗 活動官方網站", links[0].label)
+        self.assertEqual(OFFICIAL_WEBSITE_URL, links[0].url)
+
+    def test_store_in_question_also_gets_map_button(self):
+        links = build_reply_links("電話是 02-87858788", "富鼎餐館電話是多少？")
+        self.assertEqual(2, len(links))
+        self.assertEqual("📍 地址超連結", links[0].label)
+        self.assertTrue(links[0].url.startswith("https://www.google.com/maps/search/"))
+        self.assertLessEqual(utf16_length(links[0].label), 20)
+
+    def test_overlapping_store_names_only_get_the_specific_map(self):
+        links = build_reply_links("推薦胡鍋｜大烹小饌的石頭火鍋。")
+        map_links = links[:-1]
+        self.assertEqual(1, len(map_links))
+        self.assertEqual("📍 地址超連結", map_links[0].label)
+
+    def test_long_google_maps_url_is_hidden_from_reply_text(self):
+        restaurant = next(
+            item for item in RESTAURANTS if item["name"] == "富鼎餐館"
+        )
+        raw_reply = (
+            "🍽️ 富鼎餐館\n"
+            "地址：臺北市信義區永春里忠孝東路五段783號1樓\n"
+            f"Google Maps：{restaurant['google_maps_url']}"
+        )
+        cleaned = hide_google_maps_urls(raw_reply)
+        self.assertIn("富鼎餐館", cleaned)
+        self.assertIn("地址：", cleaned)
+        self.assertNotIn("google.com/maps", cleaned)
 
 
 if __name__ == "__main__":

@@ -11,6 +11,7 @@ from faq import find_faq_answer
 from knowledge import HAKKA_FOOD_KNOWLEDGE
 from lottery import find_lottery_answer, get_latest_lottery_knowledge
 from restaurants import (
+    RESTAURANTS,
     TAIPEI_DISTRICTS,
     detect_district,
     find_restaurants_by_district,
@@ -20,6 +21,7 @@ from restaurants import (
 
 MAX_USER_MESSAGE_UNITS = 500
 MAX_LINE_REPLY_UNITS = 4800
+OFFICIAL_WEBSITE_URL = "https://lohasnet.tw/Taipei-HakkaFoodie/"
 
 EMPTY_MESSAGE_REPLY = "請輸入想詢問的文字，例如：『大安區有哪些合作店家？』🍜"
 SYMBOL_ONLY_REPLY = "我目前最擅長回答文字問題，請輸入行政區、料理或活動問題喔 🍜"
@@ -110,6 +112,14 @@ class ReplyDecision:
     reply_text: str | None
 
 
+@dataclass(frozen=True)
+class LinkTarget:
+    """LINE URI 按鈕所需的短標籤與真正網址。"""
+
+    label: str
+    url: str
+
+
 def utf16_length(text):
     """LINE 以 UTF-16 code unit 計算文字長度。"""
 
@@ -156,13 +166,80 @@ def build_district_reply(district, limit=5):
         restaurant_lines.append(
             f"🍽️ {restaurant['name']}\n"
             f"推薦餐點：{dishes}\n"
-            f"地址：{restaurant['address']}\n"
-            f"Google Maps：{restaurant['google_maps_url']}"
+            f"地址：{restaurant['address']}"
         )
 
     extra_count = len(restaurants) - limit
     extra_hint = f"\n\n另外還有 {extra_count} 間，可再問我更多店家。" if extra_count > 0 else ""
     return f"{district}目前有這些合作店家：\n\n" + "\n\n".join(restaurant_lines) + extra_hint
+
+
+def _map_button_label(_restaurant_name):
+    return "📍 地址超連結"
+
+
+def build_reply_links(reply_text, extra_context="", restaurant_limit=11):
+    """找出答案或問題提到的店家，並保證每則回覆都有官方網站。"""
+
+    searchable_text = f"{reply_text or ''}\n{extra_context or ''}"
+    links = []
+    matches = []
+
+    # 先比對長店名，避免「胡鍋｜大烹小饌」同時誤觸另一間「大烹小饌」。
+    for restaurant in sorted(
+        RESTAURANTS,
+        key=lambda item: len(item["name"]),
+        reverse=True,
+    ):
+        start = searchable_text.find(restaurant["name"])
+        if start < 0:
+            continue
+
+        end = start + len(restaurant["name"])
+        overlaps_longer_name = any(
+            existing_start <= start and end <= existing_end
+            for existing_start, existing_end, _ in matches
+        )
+        if overlaps_longer_name:
+            continue
+        matches.append((start, end, restaurant))
+
+    for _, _, restaurant in sorted(matches, key=lambda item: item[0])[:restaurant_limit]:
+        links.append(
+            LinkTarget(
+                label=_map_button_label(restaurant["name"]),
+                url=restaurant["google_maps_url"],
+            )
+        )
+
+    links.append(LinkTarget(label="🔗 活動官方網站", url=OFFICIAL_WEBSITE_URL))
+    return links
+
+
+def hide_google_maps_urls(text):
+    """LINE 以短按鈕顯示地圖，因此從回覆本文移除冗長 Maps URL。"""
+
+    if not isinstance(text, str):
+        return text
+
+    cleaned_lines = []
+    marker = "https://www.google.com/maps/search/"
+
+    for line in text.splitlines():
+        if marker in line:
+            prefix = line.split(marker, 1)[0].rstrip()
+            prefix = re.sub(
+                r"(?:Google Maps|Google 地圖|地圖)[：:]?$",
+                "",
+                prefix,
+                flags=re.IGNORECASE,
+            ).rstrip(" ：:（(")
+            if prefix:
+                cleaned_lines.append(prefix)
+        else:
+            cleaned_lines.append(line)
+
+    return "\n".join(cleaned_lines).strip()
 
 
 def decide_reply(user_message):
@@ -227,8 +304,8 @@ def build_ai_prompt(user_message, detected_district=None):
 回答規則：
 1. 使用繁體中文，語氣親切自然，適合 LINE 客服。
 2. 活動資訊只能使用上方官方知識庫。
-3. 店家只能推薦上方合作店家資料庫中的店家；每次以 1 到 3 間為主。
-4. 店家位置可提供資料庫中的 Google Maps 連結。
+3. 店家只能推薦上方合作店家資料庫中的店家；每次以 1 到 3 間為主，並使用完整正式店名。
+4. 不要在回答文字中輸出網址；系統會依完整店名附上 Google 地圖短按鈕與活動官方網站按鈕。
 5. 絕不可自行創造店名、地址、電話、營業時間、優惠、餐點或活動內容。
 6. 詢問料理或需求時，可依 recommended_dishes、category、features 推薦。
 7. 該行政區沒有合作店家時，直接說目前資料庫沒有該區合作店家。
