@@ -1,3 +1,6 @@
+from urllib.parse import urlencode
+
+
 TAIPEI_DISTRICTS = [
     "中正區",
     "大同區",
@@ -12,6 +15,11 @@ TAIPEI_DISTRICTS = [
     "南港區",
     "文山區"
 ]
+
+DISTRICT_ALIASES = {
+    district.removesuffix("區"): district
+    for district in TAIPEI_DISTRICTS
+}
 
 RESTAURANTS = [
     {
@@ -366,7 +374,7 @@ RESTAURANTS = [
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
     },    
     {
-        "name": "胡鍋|大烹小饌",
+        "name": "胡鍋｜大烹小饌",
         "district": "大安區",
         "category": "客家料理｜客家火鍋",
         "description":"客家女婿匠心傳承！客家小炒入火鍋，打造驚艷酒食聚落，客家小炒爆炒入鍋，綻放鑊氣融入湯頭，交織絕妙舌尖相遇",
@@ -535,6 +543,21 @@ RESTAURANTS = [
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
     }                
 ]
+
+
+def build_google_maps_url(restaurant):
+    """用店名與地址建立免 API Key 的 Google Maps 跨平台搜尋網址。"""
+
+    query = f"{restaurant['name']}, {restaurant['address']}"
+    return "https://www.google.com/maps/search/?" + urlencode(
+        {"api": "1", "query": query}
+    )
+
+
+for _restaurant in RESTAURANTS:
+    _restaurant.setdefault("google_maps_url", build_google_maps_url(_restaurant))
+
+
 def get_restaurant_knowledge():
     lines = []
 
@@ -552,7 +575,8 @@ def get_restaurant_knowledge():
 地址：{restaurant["address"]}
 營業時間：{restaurant.get("business_hours", "目前尚未提供")}
 聯絡電話：{restaurant.get("phone", "目前尚未提供")}
-優惠：{restaurant.get("discount", "目前尚未提供")}
+優惠：{restaurant.get("discount") or "目前尚未提供"}
+Google Maps：{restaurant["google_maps_url"]}
 備註：{restaurant.get("notes", "")}
 """
         lines.append(text.strip())
@@ -571,6 +595,10 @@ def find_restaurants_by_district(district):
 def detect_district(text):
     for district in TAIPEI_DISTRICTS:
         if district in text:
+            return district
+
+    for alias, district in DISTRICT_ALIASES.items():
+        if alias in text:
             return district
 
     return None

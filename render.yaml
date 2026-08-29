@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: hakka-food-linebot
+    runtime: python
+    plan: starter
+    region: singapore
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --workers 2 --threads 4 --timeout 30 app:app
+    healthCheckPath: /health
+    autoDeployTrigger: off
+    envVars:
+      - key: LINE_CHANNEL_SECRET
+        sync: false
+      - key: LINE_CHANNEL_ACCESS_TOKEN
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-3.5-flash-lite
+      - key: LOG_LEVEL
+        value: INFO
