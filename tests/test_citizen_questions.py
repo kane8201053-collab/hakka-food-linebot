@@ -203,6 +203,20 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         self.assertTrue(links[0].url.startswith("https://www.google.com/maps/search/"))
         self.assertLessEqual(utf16_length(links[0].label), 20)
 
+    def test_unique_store_short_name_gets_map_button(self):
+        for question in ("富鼎", "苗栗客家", "胡鍋"):
+            with self.subTest(question=question):
+                links = build_reply_links("店家資訊如下。", question)
+                self.assertEqual(2, len(links))
+                self.assertEqual("📍 地址超連結", links[0].label)
+
+    def test_generic_food_words_do_not_trigger_a_store_map(self):
+        for question in ("客家菜", "客家小炒", "我家"):
+            with self.subTest(question=question):
+                links = build_reply_links("推薦資訊如下。", question)
+                self.assertEqual(1, len(links))
+                self.assertEqual(OFFICIAL_WEBSITE_URL, links[0].url)
+
     def test_overlapping_store_names_only_get_the_specific_map(self):
         question = "胡鍋｜大烹小饌的地址在哪裡？"
         links = build_reply_links("地址如下。", question)

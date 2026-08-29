@@ -178,6 +178,33 @@ def _map_button_label(_restaurant_name):
     return "📍 地址超連結"
 
 
+def _normalize_store_search_text(text):
+    return re.sub(r"[\W_]+", "", (text or "").lower())
+
+
+def _longest_common_substring_length(first, second):
+    """計算連續相同字串長度，用來辨識「富鼎」等唯一簡稱。"""
+
+    if not first or not second:
+        return 0
+
+    previous = [0] * (len(second) + 1)
+    longest = 0
+
+    for first_character in first:
+        current = [0]
+        for index, second_character in enumerate(second, start=1):
+            if first_character == second_character:
+                matched_length = previous[index - 1] + 1
+                current.append(matched_length)
+                longest = max(longest, matched_length)
+            else:
+                current.append(0)
+        previous = current
+
+    return longest
+
+
 def _find_mentioned_restaurants(text):
     """找出文字中的正式店名，並處理店名互相包含的情況。"""
 
@@ -203,10 +230,46 @@ def _find_mentioned_restaurants(text):
             continue
         matches.append((start, end, restaurant))
 
-    return [
+    exact_restaurants = [
         restaurant
         for _, _, restaurant in sorted(matches, key=lambda item: item[0])
     ]
+    if exact_restaurants:
+        return exact_restaurants
+
+    detected_district = detect_district(searchable_text)
+    if detected_district and _is_district_listing_question(
+        searchable_text,
+        detected_district,
+    ):
+        return []
+
+    if any(term in searchable_text for term in _SPECIFIC_QUERY_TERMS):
+        return []
+
+    normalized_question = _normalize_store_search_text(searchable_text)
+    if normalized_question in {"客家菜", "客家料理", "餐廳", "店家", "美食", "我家"}:
+        return []
+    scored_restaurants = []
+    for restaurant in RESTAURANTS:
+        score = _longest_common_substring_length(
+            normalized_question,
+            _normalize_store_search_text(restaurant["name"]),
+        )
+        scored_restaurants.append((score, restaurant))
+
+    best_score = max(score for score, _ in scored_restaurants)
+    best_matches = [
+        restaurant
+        for score, restaurant in scored_restaurants
+        if score == best_score
+    ]
+
+    # 至少連續兩字且只有一間最高分，才視為單一店家簡稱。
+    if best_score >= 2 and len(best_matches) == 1:
+        return best_matches
+
+    return []
 
 
 def build_reply_links(_reply_text, extra_context=""):
