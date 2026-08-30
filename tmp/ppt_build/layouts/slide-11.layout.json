@@ -1,0 +1,411 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ac20xj",
+    "id": "ac20xj",
+    "slide": 11,
+    "layoutId": "a18a3a50-9ab1-4475-b804-0009ae4c4716",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "b52e157f-9a65-42c9-9d90-b8631afaa6c6",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a18a3a50-9ab1-4475-b804-0009ae4c4716",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "b52e157f-9a65-42c9-9d90-b8631afaa6c6",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "b52e157f-9a65-42c9-9d90-b8631afaa6c6",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65cnm5wr",
+      "id": "1",
+      "name": "closing-kicker",
+      "bbox": [
+        54,
+        56,
+        300,
+        34
+      ],
+      "geometry": "rect",
+      "text": "最終建議",
+      "textPreview": "最終建議",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#2F80ED",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "最終建議"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "最終建議",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#2F80ED",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "最終建議",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#2F80ED",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t836h0vi",
+      "id": "2",
+      "name": "closing-title",
+      "bbox": [
+        54,
+        182,
+        1080,
+        196
+      ],
+      "geometry": "rect",
+      "text": "讓第二行政中心，\n成為這支影片的「安心落點」",
+      "textPreview": "讓第二行政中心， | 成為這支影片的「安心落點」",
+      "resolvedFontSize": 58,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 58,
+        "typeface": "PingFang TC",
+        "color": "#101114",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "讓第二行政中心，"
+          },
+          {
+            "index": 2,
+            "text": "成為這支影片的「安心落點」"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "讓第二行政中心，",
+          "resolvedTextStyle": {
+            "fontSize": 58,
+            "typeface": "PingFang TC",
+            "color": "#101114",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "讓第二行政中心，",
+              "fontSize": 58,
+              "typeface": "PingFang TC",
+              "color": "#101114",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "成為這支影片的「安心落點」",
+          "resolvedTextStyle": {
+            "fontSize": 58,
+            "typeface": "PingFang TC",
+            "color": "#101114",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "成為這支影片的「安心落點」",
+              "fontSize": 58,
+              "typeface": "PingFang TC",
+              "color": "#101114",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87u5ovex",
+      "id": "3",
+      "name": "closing-subtitle",
+      "bbox": [
+        54,
+        482,
+        790,
+        102
+      ],
+      "geometry": "rect",
+      "text": "保留向前的速度，也讓市民感受到：\n熱鬧與建設的背後，一直有人把城市照顧好。",
+      "textPreview": "保留向前的速度，也讓市民感受到： | 熱鬧與建設的背後，一直有人把城市照顧好。",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "PingFang TC",
+        "color": "#5D6572",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "保留向前的速度，也讓市民感受到："
+          },
+          {
+            "index": 2,
+            "text": "熱鬧與建設的背後，一直有人把城市照顧好。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "保留向前的速度，也讓市民感受到：",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "保留向前的速度，也讓市民感受到：",
+              "fontSize": 25,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "熱鬧與建設的背後，一直有人把城市照顧好。",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "熱鬧與建設的背後，一直有人把城市照顧好。",
+              "fontSize": 25,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2lobqdg",
+      "id": "4",
+      "name": "closing-rule",
+      "bbox": [
+        54,
+        632,
+        610,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F80ED",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1snilwv",
+      "id": "5",
+      "name": "closing-signoff",
+      "bbox": [
+        854,
+        612,
+        372,
+        38
+      ],
+      "geometry": "rect",
+      "text": "新北向前，安心一直都在。",
+      "textPreview": "新北向前，安心一直都在。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#2F80ED",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新北向前，安心一直都在。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新北向前，安心一直都在。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#2F80ED",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新北向前，安心一直都在。",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#2F80ED",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

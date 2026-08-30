@@ -21,6 +21,7 @@ from restaurants import (
 
 MAX_USER_MESSAGE_UNITS = 500
 MAX_LINE_REPLY_UNITS = 4800
+MULTI_STORE_MAP_HINT = "如果詢問單一店家資訊會有地址超連結唷～"
 OFFICIAL_WEBSITE_URL = "https://lohasnet.tw/Taipei-HakkaFoodie/"
 
 EMPTY_MESSAGE_REPLY = "請輸入想詢問的文字，例如：『大安區有哪些合作店家？』🍜"
@@ -289,6 +290,22 @@ def build_reply_links(_reply_text, extra_context=""):
 
     links.append(LinkTarget(label="🔗 活動官方網站", url=OFFICIAL_WEBSITE_URL))
     return links
+
+
+def add_multi_store_map_hint(reply_text):
+    """回覆介紹至少兩家店時，提醒使用者可再詢問單一店家。"""
+
+    if not isinstance(reply_text, str) or not reply_text.strip():
+        return reply_text
+
+    if MULTI_STORE_MAP_HINT in reply_text:
+        return reply_text
+
+    mentioned_restaurants = _find_mentioned_restaurants(reply_text)
+    if len(mentioned_restaurants) < 2:
+        return reply_text
+
+    return f"{reply_text.rstrip()}\n\n{MULTI_STORE_MAP_HINT}"
 
 
 def hide_google_maps_urls(text):

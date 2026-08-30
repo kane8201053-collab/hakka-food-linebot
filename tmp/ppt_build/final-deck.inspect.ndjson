@@ -1,0 +1,176 @@
+{"kind":"deck","id":"pr/lgn7hz","name":"Deck"}
+{"kind":"layout","layoutId":"b52e157f-9a65-42c9-9d90-b8631afaa6c6","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"a18a3a50-9ab1-4475-b804-0009ae4c4716","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/imdsnq","slide":1,"title":"115年新北市國慶升旗典禮｜前導影片腳本優化提案","textShapes":4}
+{"kind":"textbox","id":"sh/wn2x8z21","slide":1,"name":"cover-supertitle","text":"115年新北市國慶升旗典禮｜前導影片腳本優化提案","textPreview":"115年新北市國慶升旗典禮｜前導影片腳本優化提案","textChars":24,"textLines":1,"bbox":[54,48,720,34]}
+{"kind":"textbox","id":"sh/bmtwzulg","slide":1,"name":"cover-title","text":"向前傳遞，\n安心同行","textPreview":"向前傳遞， | 安心同行","textChars":10,"textLines":2,"bbox":[54,174,900,220]}
+{"kind":"textbox","id":"sh/alkf6pkv","slide":1,"name":"cover-subtitle","text":"在原有接力敘事上，加入第二行政中心作為\n「城市安全智慧中心」的安心落點","textPreview":"在原有接力敘事上，加入第二行政中心作為 | 「城市安全智慧中心」的安心落點","textChars":35,"textLines":2,"bbox":[54,500,790,92]}
+{"kind":"shape","id":"sh/9kbexk3q","slide":1,"name":"cover-accent-field","bbox":[1045,0,235,720]}
+{"kind":"shape","id":"sh/ojix4f25","slide":1,"name":"cover-accent-rule","bbox":[1045,0,12,720]}
+{"kind":"textbox","id":"sh/ni9wvulk","slide":1,"name":"cover-tag","text":"SCRIPT\nREVISION","textPreview":"SCRIPT | REVISION","textChars":15,"textLines":2,"bbox":[1082,535,155,86]}
+{"kind":"notes","id":"nt/imdsnq","slide":1,"text":"[Sources]\n- 使用者提供：115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf（附件原腳本）\n- 使用者提供：客戶回饋文字（本次需求）"}
+{"kind":"slide","id":"sl/u7kcoh","slide":2,"title":"這次修改，不是多加一段介紹，而是補上「守護」的意義","textShapes":8}
+{"kind":"textbox","id":"sh/dwz2hcfa","slide":2,"name":"slide-2-title","text":"這次修改，不是多加一段介紹，而是補上「守護」的意義","textPreview":"這次修改，不是多加一段介紹，而是補上「守護」的意義","textChars":25,"textLines":1,"bbox":[54,42,1172,72]}
+{"kind":"shape","id":"sh/qt836xgz","slide":2,"name":"slide-2-title-rule","bbox":[54,124,1172,2]}
+{"kind":"textbox","id":"sh/ruhkf2xk","slide":2,"name":"footer-label-2","text":"115年新北市國慶｜前導影片腳本優化","textPreview":"115年新北市國慶｜前導影片腳本優化","textChars":18,"textLines":1,"bbox":[54,676,420,18]}
+{"kind":"textbox","id":"sh/4r6l4nyt","slide":2,"name":"footer-page-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"textbox","id":"sh/psf2dsfe","slide":2,"name":"brief-kicker","text":"客戶希望觀眾理解","textPreview":"客戶希望觀眾理解","textChars":8,"textLines":1,"bbox":[54,176,420,30]}
+{"kind":"textbox","id":"sh/25oj2xgn","slide":2,"name":"brief-main","text":"第二行政中心\n不只是政府辦公大樓","textPreview":"第二行政中心 | 不只是政府辦公大樓","textChars":16,"textLines":2,"bbox":[54,220,520,104]}
+{"kind":"textbox","id":"sh/3qxkb2x8","slide":2,"name":"brief-body","text":"它也是守護市民生活、整合治安、防災、交通、食安與資訊系統的城市安全智慧中心。","textPreview":"它也是守護市民生活、整合治安、防災、交通、食安與資訊系統的城市安全智慧中心。","textChars":38,"textLines":1,"bbox":[54,356,520,116]}
+{"kind":"shape","id":"sh/g3610nyx","slide":2,"name":"brief-pill","bbox":[54,520,452,50]}
+{"kind":"textbox","id":"sh/h4f29sfi","slide":2,"name":"brief-pill-text","text":"原接力故事保留｜新增「安心」敘事層","textPreview":"原接力故事保留｜新增「安心」敘事層","textChars":17,"textLines":1,"bbox":[68,527,424,38]}
+{"kind":"textbox","id":"sh/kfqh8jit","slide":2,"name":"source-caption","text":"原腳本核心：接力棒傳遞城市精神、建設與下一代","textPreview":"原腳本核心：接力棒傳遞城市精神、建設與下一代","textChars":22,"textLines":1,"bbox":[650,606,576,30]}
+{"kind":"image","id":"im/mtg3m9sr","slide":2,"name":"","geometry":"roundRect","alt":"原腳本提案第一頁：《新北國慶・向前傳遞！》概念總覽","bbox":[650,156,576,432]}
+{"kind":"notes","id":"nt/u7kcoh","slide":2,"text":"[Sources]\n- 使用者提供：115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf（附件原腳本）\n- 使用者提供：客戶回饋文字（本次需求）\n- 視覺資產：附件 PDF 第 1 頁渲染圖"}
+{"kind":"slide","id":"sl/3w58xb","slide":3,"title":"原有的速度感保留，新增一條貫穿全片的「安心接力」","textShapes":12}
+{"kind":"textbox","id":"sh/18nytozy","slide":3,"name":"slide-3-title","text":"原有的速度感保留，新增一條貫穿全片的「安心接力」","textPreview":"原有的速度感保留，新增一條貫穿全片的「安心接力」","textChars":24,"textLines":1,"bbox":[54,42,1172,72]}
+{"kind":"shape","id":"sh/e5czi9g7","slide":3,"name":"slide-3-title-rule","bbox":[54,124,1172,2]}
+{"kind":"textbox","id":"sh/z6lgrehs","slide":3,"name":"footer-label-3","text":"115年新北市國慶｜前導影片腳本優化","textPreview":"115年新北市國慶｜前導影片腳本優化","textChars":18,"textLines":1,"bbox":[54,676,420,18]}
+{"kind":"textbox","id":"sh/obeho3yp","slide":3,"name":"footer-page-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"textbox","id":"sh/9cnix8zu","slide":3,"name":"core-intro","text":"不另開支線介紹大樓；把安全治理藏進既有的跑動、交棒與抵達，最後才完整揭示第二行政中心。","textPreview":"不另開支線介紹大樓；把安全治理藏進既有的跑動、交棒與抵達，最後才完整揭示第二行政中心。","textChars":43,"textLines":1,"bbox":[54,158,1172,70]}
+{"kind":"shape","id":"sh/m9wzmtgj","slide":3,"name":"core-left-panel","bbox":[54,326,561,150]}
+{"kind":"textbox","id":"sh/na5gvyh4","slide":3,"name":"core-left-kicker","text":"原核心｜向前傳遞","textPreview":"原核心｜向前傳遞","textChars":8,"textLines":1,"bbox":[82,346,505,25]}
+{"kind":"textbox","id":"sh/wzyhs3yl","slide":3,"name":"core-left-heading","text":"接力棒＝城市精神與國慶祝福","textPreview":"接力棒＝城市精神與國慶祝福","textChars":13,"textLines":1,"bbox":[82,382,505,70]}
+{"kind":"textbox","id":"sh/x07i18z6","slide":3,"name":"core-left-body","text":"城市建設 → 青年 → 活動 → 下一代","textPreview":"城市建設 → 青年 → 活動 → 下一代","textChars":20,"textLines":1,"bbox":[82,500,505,55]}
+{"kind":"textbox","id":"sh/dkr2poba","slide":3,"name":"core-left-details","text":"強項是節奏明確、角色互動自然；但第二行政中心目前只作為活動場地出現。","textPreview":"強項是節奏明確、角色互動自然；但第二行政中心目前只作為活動場地出現。","textChars":34,"textLines":1,"bbox":[82,562,505,74]}
+{"kind":"shape","id":"sh/cjylgjap","slide":3,"name":"core-right-panel","bbox":[665,326,561,150]}
+{"kind":"textbox","id":"sh/bipknet4","slide":3,"name":"core-right-kicker","text":"修訂核心｜安心同行","textPreview":"修訂核心｜安心同行","textChars":9,"textLines":1,"bbox":[693,346,505,25]}
+{"kind":"textbox","id":"sh/qxg3e9sj","slide":3,"name":"core-right-heading","text":"接力棒＝城市持續在線的守護","textPreview":"接力棒＝城市持續在線的守護","textChars":13,"textLines":1,"bbox":[693,382,505,70]}
+{"kind":"textbox","id":"sh/lor2tor6","slide":3,"name":"core-right-body","text":"城市建設 → 系統連線 → 安心 → 下一代","textPreview":"城市建設 → 系統連線 → 安心 → 下一代","textChars":22,"textLines":1,"bbox":[693,500,505,55]}
+{"kind":"textbox","id":"sh/0nilkjal","slide":3,"name":"core-right-details","text":"讓每一次交棒都多一層意義：城市向前的同時，守護也沒有中斷。","textPreview":"讓每一次交棒都多一層意義：城市向前的同時，守護也沒有中斷。","textChars":29,"textLines":1,"bbox":[693,562,505,74]}
+{"kind":"notes","id":"nt/3w58xb","slide":3,"text":"[Sources]\n- 使用者提供：115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf（附件原腳本）\n- 使用者提供：客戶回饋文字（本次需求）"}
+{"kind":"slide","id":"sl/zfpi6n","slide":4,"title":"安心元素用三步出現：先感覺、再理解、最後記住","textShapes":12}
+{"kind":"textbox","id":"sh/j6x4jehg","slide":4,"name":"slide-4-title","text":"安心元素用三步出現：先感覺、再理解、最後記住","textPreview":"安心元素用三步出現：先感覺、再理解、最後記住","textChars":22,"textLines":1,"bbox":[54,42,1172,72]}
+{"kind":"shape","id":"sh/4765sjy1","slide":4,"name":"slide-4-title-rule","bbox":[54,124,1172,2]}
+{"kind":"textbox","id":"sh/58fmlozm","slide":4,"name":"footer-label-4","text":"115年新北市國慶｜前導影片腳本優化","textPreview":"115年新北市國慶｜前導影片腳本優化","textChars":18,"textLines":1,"bbox":[54,676,420,18]}
+{"kind":"textbox","id":"sh/uh43m90z","slide":4,"name":"footer-page-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"shape","id":"sh/vid4fuh4","slide":4,"name":"timeline-rule","bbox":[54,324,1172,2]}
+{"kind":"textbox","id":"sh/wjmlozip","slide":4,"name":"grammar-label-1","text":"01｜沿途提示","textPreview":"01｜沿途提示","textChars":7,"textLines":1,"bbox":[54,272,210,28]}
+{"kind":"shape","id":"sh/h4vmh4za","slide":4,"name":"grammar-dot-1","bbox":[54,318,14,14]}
+{"kind":"textbox","id":"sh/ed8nytg3","slide":4,"name":"grammar-title-1","text":"安心正在運作","textPreview":"安心正在運作","textChars":6,"textLines":1,"bbox":[54,364,350,54]}
+{"kind":"textbox","id":"sh/feh4ryho","slide":4,"name":"grammar-body-1","text":"接力棒出現微弱藍白光點；三鶯線、淡江大橋的交通畫面搭配極輕量資訊連線效果。","textPreview":"接力棒出現微弱藍白光點；三鶯線、淡江大橋的交通畫面搭配極輕量資訊連線效果。","textChars":37,"textLines":1,"bbox":[54,424,350,184]}
+{"kind":"textbox","id":"sh/fitsr6lc","slide":4,"name":"grammar-label-2","text":"02｜活動快剪","textPreview":"02｜活動快剪","textChars":7,"textLines":1,"bbox":[465,272,210,28]}
+{"kind":"shape","id":"sh/uhkry1kr","slide":4,"name":"grammar-dot-2","bbox":[465,318,14,14]}
+{"kind":"textbox","id":"sh/hkbatg3i","slide":4,"name":"grammar-title-2","text":"守護來自系統整合","textPreview":"守護來自系統整合","textChars":8,"textLines":1,"bbox":[465,364,350,54]}
+{"kind":"textbox","id":"sh/gj2t0b2x","slide":4,"name":"grammar-body-2","text":"只在這一段完整說明一次：治安、防災、交通、食安與資訊系統同步守護。","textPreview":"只在這一段完整說明一次：治安、防災、交通、食安與資訊系統同步守護。","textChars":33,"textLines":1,"bbox":[465,424,350,184]}
+{"kind":"textbox","id":"sh/3mdsvqlo","slide":4,"name":"grammar-label-3","text":"03｜抵達場地","textPreview":"03｜抵達場地","textChars":7,"textLines":1,"bbox":[876,272,210,28]}
+{"kind":"shape","id":"sh/2l4b2lk3","slide":4,"name":"grammar-dot-3","bbox":[876,318,14,14]}
+{"kind":"textbox","id":"sh/p8vaxg3e","slide":4,"name":"grammar-title-3","text":"第二行政中心是安心落點","textPreview":"第二行政中心是安心落點","textChars":11,"textLines":1,"bbox":[876,364,350,54]}
+{"kind":"textbox","id":"sh/47mt4b29","slide":4,"name":"grammar-body-3","text":"所有光線與資訊匯聚建築；用一句定位字卡完成城市安全智慧中心的揭示。","textPreview":"所有光線與資訊匯聚建築；用一句定位字卡完成城市安全智慧中心的揭示。","textChars":33,"textLines":1,"bbox":[876,424,350,184]}
+{"kind":"notes","id":"nt/zfpi6n","slide":4,"text":"[Sources]\n- 使用者提供：115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf（附件原腳本）\n- 使用者提供：客戶回饋文字（本次需求）"}
+{"kind":"slide","id":"sl/sv416s","slide":5,"title":"推薦只改三個關鍵節點，避免 90 秒影片變成設施介紹","textShapes":12}
+{"kind":"textbox","id":"sh/tgfi9sne","slide":5,"name":"slide-5-title","text":"推薦只改三個關鍵節點，避免 90 秒影片變成設施介紹","textPreview":"推薦只改三個關鍵節點，避免 90 秒影片變成設施介紹","textChars":26,"textLines":1,"bbox":[54,42,1172,72]}
+{"kind":"shape","id":"sh/6d4jex4n","slide":5,"name":"slide-5-title-rule","bbox":[54,124,1172,2]}
+{"kind":"textbox","id":"sh/7ed07258","slide":5,"name":"footer-label-5","text":"115年新北市國慶｜前導影片腳本優化","textPreview":"115年新北市國慶｜前導影片腳本優化","textChars":18,"textLines":1,"bbox":[54,676,420,18]}
+{"kind":"textbox","id":"sh/kbm1cnmh","slide":5,"name":"footer-page-5","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"shape","id":"sh/lcvilsn2","slide":5,"name":"timeline-rule","bbox":[54,324,1172,2]}
+{"kind":"textbox","id":"sh/y94jad4r","slide":5,"name":"insert-label-1","text":"0:15-0:23","textPreview":"0:15-0:23","textChars":9,"textLines":1,"bbox":[54,272,210,28]}
+{"kind":"shape","id":"sh/jad0ji5w","slide":5,"name":"insert-dot-1","bbox":[54,318,14,14]}
+{"kind":"textbox","id":"sh/cn2h83ml","slide":5,"name":"insert-title-1","text":"第一次提示｜交通安心","textPreview":"第一次提示｜交通安心","textChars":10,"textLines":1,"bbox":[54,364,350,54]}
+{"kind":"textbox","id":"sh/x8bih8n6","slide":5,"name":"insert-body-1","text":"三鶯線字卡保留重大建設資訊，再補上「交通資訊即時整合」，讓安心先被觀眾感覺到。","textPreview":"三鶯線字卡保留重大建設資訊，再補上「交通資訊即時整合」，讓安心先被觀眾感覺到。","textChars":39,"textLines":1,"bbox":[54,424,350,184]}
+{"kind":"textbox","id":"sh/hkr6xw3e","slide":5,"name":"insert-label-2","text":"0:43-0:59","textPreview":"0:43-0:59","textChars":9,"textLines":1,"bbox":[465,272,210,28]}
+{"kind":"shape","id":"sh/gjip4rmt","slide":5,"name":"insert-dot-2","bbox":[465,318,14,14]}
+{"kind":"textbox","id":"sh/fy9ovml8","slide":5,"name":"insert-title-2","text":"一次說清｜五大系統","textPreview":"一次說清｜五大系統","textChars":9,"textLines":1,"bbox":[465,364,350,54]}
+{"kind":"textbox","id":"sh/ux072h4n","slide":5,"name":"insert-body-2","text":"活動快剪加入值勤、監控與稽核畫面；完整列出治安、防災、交通、食安與資訊系統。","textPreview":"活動快剪加入值勤、監控與稽核畫面；完整列出治安、防災、交通、食安與資訊系統。","textChars":38,"textLines":1,"bbox":[465,424,350,184]}
+{"kind":"textbox","id":"sh/twr6tc3i","slide":5,"name":"insert-label-3","text":"1:04-1:27","textPreview":"1:04-1:27","textChars":9,"textLines":1,"bbox":[876,272,210,28]}
+{"kind":"shape","id":"sh/svip0rmx","slide":5,"name":"insert-dot-3","bbox":[876,318,14,14]}
+{"kind":"textbox","id":"sh/7u9ormlc","slide":5,"name":"insert-title-3","text":"最後揭示｜安心落點","textPreview":"最後揭示｜安心落點","textChars":9,"textLines":1,"bbox":[876,364,350,54]}
+{"kind":"textbox","id":"sh/6t07yh4r","slide":5,"name":"insert-body-3","text":"孩子跑入第二行政中心前廣場，建築與系統連線同框；收在「新北向前，安心一直都在」。","textPreview":"孩子跑入第二行政中心前廣場，建築與系統連線同框；收在「新北向前，安心一直都在」。","textChars":40,"textLines":1,"bbox":[876,424,350,184]}
+{"kind":"notes","id":"nt/sv416s","slide":5,"text":"[Sources]\n- 使用者提供：115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf（附件原腳本）\n- 使用者提供：客戶回饋文字（本次需求）"}
+{"kind":"slide","id":"sl/nj1vho","slide":6,"title":"分鏡修訂①｜第一棒起跑：先埋下「安心訊號」","textShapes":13}
+{"kind":"textbox","id":"sh/ormtovyp","slide":6,"name":"slide-6-title","text":"分鏡修訂①｜第一棒起跑：先埋下「安心訊號」","textPreview":"分鏡修訂①｜第一棒起跑：先埋下「安心訊號」","textChars":21,"textLines":1,"bbox":[54,42,1172,72]}
+{"kind":"shape","id":"sh/nqdsvqhk","slide":6,"name":"slide-6-title-rule","bbox":[54,124,1172,2]}
+{"kind":"textbox","id":"sh/2p4bmlgz","slide":6,"name":"footer-label-6","text":"115年新北市國慶｜前導影片腳本優化","textPreview":"115年新北市國慶｜前導影片腳本優化","textChars":18,"textLines":1,"bbox":[54,676,420,18]}
+{"kind":"textbox","id":"sh/xgfa10zm","slide":6,"name":"footer-page-6","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"textbox","id":"sh/wf6tsvy1","slide":6,"name":"story-1-intro","text":"前段儀式感與 Match Cut 全數保留，安心元素只以聲音與光點進場。","textPreview":"前段儀式感與 Match Cut 全數保留，安心元素只以聲音與光點進場。","textChars":36,"textLines":1,"bbox":[54,154,1000,44]}
+{"kind":"shape","id":"sh/bedszqhg","slide":6,"name":"timeline-rule","bbox":[54,302,1172,2]}
+{"kind":"textbox","id":"sh/at4bqlgv","slide":6,"name":"story1-label-1","text":"0:00-0:15｜保留","textPreview":"0:00-0:15｜保留","textChars":12,"textLines":1,"bbox":[54,250,210,28]}
+{"kind":"shape","id":"sh/dkbapgz2","slide":6,"name":"story1-dot-1","bbox":[54,296,14,14]}
+{"kind":"textbox","id":"sh/sj29gbyx","slide":6,"name":"story1-title-1","text":"眼神、國旗、第一棒","textPreview":"眼神、國旗、第一棒","textChars":9,"textLines":1,"bbox":[54,342,350,54]}
+{"kind":"textbox","id":"sh/qlk7qt83","slide":6,"name":"story1-body-1","text":"畫面：維持眼部特寫、儀隊進場、國旗遮鏡轉龍埔站。\n新增：接力棒尾端亮起一次微弱藍白光點。\n聲音：低頻呼吸中加入一次短促電子提示音。","textPreview":"畫面：維持眼部特寫、儀隊進場、國旗遮鏡轉龍埔站。 | 新增：接力棒尾端亮起一次微弱藍白光點。 | 聲音：低頻呼吸中加入一次短促電子提示音。","textChars":65,"textLines":3,"bbox":[54,402,350,226]}
+{"kind":"textbox","id":"sh/rmt8zepo","slide":6,"name":"story1-label-2","text":"0:15-0:23｜修改","textPreview":"0:15-0:23｜修改","textChars":12,"textLines":1,"bbox":[465,250,210,28]}
+{"kind":"shape","id":"sh/sn2psjq9","slide":6,"name":"story1-dot-2","bbox":[465,296,14,14]}
+{"kind":"textbox","id":"sh/dobq1o7u","slide":6,"name":"story1-title-2","text":"三鶯線＝交通安心","textPreview":"三鶯線＝交通安心","textChars":8,"textLines":1,"bbox":[465,342,350,54]}
+{"kind":"textbox","id":"sh/ep4rut8z","slide":6,"name":"story1-body-2","text":"畫面：空拍與跑動間，疊入極淡交通資訊線。\n字卡：2026 三鶯線，串連三峽、鶯歌與雙北生活圈；交通資訊即時整合，把便利與安心帶進每一天。","textPreview":"畫面：空拍與跑動間，疊入極淡交通資訊線。 | 字卡：2026 三鶯線，串連三峽、鶯歌與雙北生活圈；交通資訊即時整合，把便利與安心帶進每一天。","textChars":68,"textLines":2,"bbox":[465,402,350,226]}
+{"kind":"textbox","id":"sh/fqd83ypk","slide":6,"name":"story1-label-3","text":"0:24-0:29｜保留","textPreview":"0:24-0:29｜保留","textChars":12,"textLines":1,"bbox":[876,250,210,28]}
+{"kind":"shape","id":"sh/0rm9w3q5","slide":6,"name":"story1-dot-3","bbox":[876,296,14,14]}
+{"kind":"textbox","id":"sh/1svq587q","slide":6,"name":"story1-title-3","text":"儀隊節奏插入","textPreview":"儀隊節奏插入","textChars":6,"textLines":1,"bbox":[876,342,350,54]}
+{"kind":"textbox","id":"sh/2d4ryd8b","slide":6,"name":"story1-body-3","text":"畫面：踏步、轉槍、隊形變化不變。\n新增：在動作落點讓同一個藍白光點閃現一次，延續母題。\n原則：此處不加新字卡，讓節奏呼吸。","textPreview":"畫面：踏步、轉槍、隊形變化不變。 | 新增：在動作落點讓同一個藍白光點閃現一次，延續母題。 | 原則：此處不加新字卡，讓節奏呼吸。","textChars":61,"textLines":3,"bbox":[876,402,350,226]}
+{"kind":"notes","id":"nt/nj1vho","slide":6,"text":"[Sources]\n- 使用者提供：115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf（附件原腳本）\n- 使用者提供：客戶回饋文字（本次需求）"}
+{"kind":"slide","id":"sl/wdvemo","slide":7,"title":"分鏡修訂②｜交棒淡江：把熱鬧背後的守護說清楚","textShapes":13}
+{"kind":"textbox","id":"sh/kry1obqd","slide":7,"name":"slide-7-title","text":"分鏡修訂②｜交棒淡江：把熱鬧背後的守護說清楚","textPreview":"分鏡修訂②｜交棒淡江：把熱鬧背後的守護說清楚","textChars":22,"textLines":1,"bbox":[54,42,1172,72]}
+{"kind":"shape","id":"sh/zqp0f69s","slide":7,"name":"slide-7-title-rule","bbox":[54,124,1172,2]}
+{"kind":"textbox","id":"sh/ypgjm187","slide":7,"name":"footer-label-7","text":"115年新北市國慶｜前導影片腳本優化","textPreview":"115年新北市國慶｜前導影片腳本優化","textChars":18,"textLines":1,"bbox":[54,676,420,18]}
+{"kind":"textbox","id":"sh/xonidwrm","slide":7,"name":"footer-page-7","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"textbox","id":"sh/cne1krq1","slide":7,"name":"story-2-intro","text":"中段是唯一完整列出五大系統的段落；前後都回到人物與動作。","textPreview":"中段是唯一完整列出五大系統的段落；前後都回到人物與動作。","textChars":28,"textLines":1,"bbox":[54,154,1000,44]}
+{"kind":"shape","id":"sh/bm50b69g","slide":7,"name":"timeline-rule","bbox":[54,302,1172,2]}
+{"kind":"textbox","id":"sh/a1wji18v","slide":7,"name":"story2-label-1","text":"0:29-0:43｜微調","textPreview":"0:29-0:43｜微調","textChars":12,"textLines":1,"bbox":[54,250,210,28]}
+{"kind":"shape","id":"sh/p0ni9wrq","slide":7,"name":"story2-dot-1","bbox":[54,296,14,14]}
+{"kind":"textbox","id":"sh/oze1grq5","slide":7,"name":"story2-title-1","text":"淡江大橋＝連線守護","textPreview":"淡江大橋＝連線守護","textChars":9,"textLines":1,"bbox":[54,342,350,54]}
+{"kind":"textbox","id":"sh/uh8769kz","slide":7,"name":"story2-body-1","text":"畫面：交棒後，安心光點沿橋塔與車流前進。\n字卡：2026 淡江大橋，串聯淡水、八里；橋梁、交通與防災資訊同步連線，守護每一次出發與抵達。","textPreview":"畫面：交棒後，安心光點沿橋塔與車流前進。 | 字卡：2026 淡江大橋，串聯淡水、八里；橋梁、交通與防災資訊同步連線，守護每一次出發與抵達。","textChars":68,"textLines":2,"bbox":[54,402,350,226]}
+{"kind":"textbox","id":"sh/fih8felk","slide":7,"name":"story2-label-2","text":"0:43-0:59｜重點修改","textPreview":"0:43-0:59｜重點修改","textChars":14,"textLines":1,"bbox":[465,250,210,28]}
+{"kind":"shape","id":"sh/gjqp8j25","slide":7,"name":"story2-dot-2","bbox":[465,296,14,14]}
+{"kind":"textbox","id":"sh/hkzqho3q","slide":7,"name":"story2-title-2","text":"活動快剪＝五大系統","textPreview":"活動快剪＝五大系統","textChars":9,"textLines":1,"bbox":[465,342,350,54]}
+{"kind":"textbox","id":"sh/6do729k3","slide":7,"name":"story2-body-2","text":"畫面：在表演、市集、AR 之間插入 3-4 個值勤／監控／稽核快切。\n字卡：活動的熱鬧背後，治安、防災、交通、食安與資訊系統同步守護。","textPreview":"畫面：在表演、市集、AR 之間插入 3-4 個值勤／監控／稽核快切。 | 字卡：活動的熱鬧背後，治安、防災、交通、食安與資訊系統同步守護。","textChars":67,"textLines":2,"bbox":[465,402,350,226]}
+{"kind":"textbox","id":"sh/7ex8bel8","slide":7,"name":"story2-label-3","text":"0:59-1:03｜保留","textPreview":"0:59-1:03｜保留","textChars":12,"textLines":1,"bbox":[876,250,210,28]}
+{"kind":"shape","id":"sh/sf6p4j2t","slide":7,"name":"story2-dot-3","bbox":[876,296,14,14]}
+{"kind":"textbox","id":"sh/tgzqdo3e","slide":7,"name":"story2-title-3","text":"第三棒交給孩子","textPreview":"第三棒交給孩子","textChars":7,"textLines":1,"bbox":[876,342,350,54]}
+{"kind":"textbox","id":"sh/ypo7ypkr","slide":7,"name":"story2-body-3","text":"畫面：女生蹲低交棒，孩子立刻往前跑。\n新增：接棒瞬間，光點由冷藍轉為較溫暖、穩定的光。\n原則：不再重複五大系統，讓情緒回到人物。","textPreview":"畫面：女生蹲低交棒，孩子立刻往前跑。 | 新增：接棒瞬間，光點由冷藍轉為較溫暖、穩定的光。 | 原則：不再重複五大系統，讓情緒回到人物。","textChars":64,"textLines":3,"bbox":[876,402,350,226]}
+{"kind":"notes","id":"nt/wdvemo","slide":7,"text":"[Sources]\n- 使用者提供：115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf（附件原腳本）\n- 使用者提供：客戶回饋文字（本次需求）"}
+{"kind":"slide","id":"sl/rr91qr","slide":8,"title":"分鏡修訂③｜抵達現場：揭示安心落點","textShapes":13}
+{"kind":"textbox","id":"sh/1sv6lo7a","slide":8,"name":"slide-8-title","text":"分鏡修訂③｜抵達現場：揭示安心落點","textPreview":"分鏡修訂③｜抵達現場：揭示安心落點","textChars":17,"textLines":1,"bbox":[54,42,1172,72]}
+{"kind":"shape","id":"sh/epk7q98j","slide":8,"name":"slide-8-title-rule","bbox":[54,124,1172,2]}
+{"kind":"textbox","id":"sh/fqdojep4","slide":8,"name":"footer-label-8","text":"115年新北市國慶｜前導影片腳本優化","textPreview":"115年新北市國慶｜前導影片腳本優化","textChars":18,"textLines":1,"bbox":[54,676,420,18]}
+{"kind":"textbox","id":"sh/s32pozqd","slide":8,"name":"footer-page-8","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"textbox","id":"sh/d4b6h47y","slide":8,"name":"story-3-intro","text":"收尾仍然熱血溫暖，但必須讓建築、系統與下一代在同一個情緒上落地。","textPreview":"收尾仍然熱血溫暖，但必須讓建築、系統與下一代在同一個情緒上落地。","textChars":32,"textLines":1,"bbox":[54,154,1080,44]}
+{"kind":"shape","id":"sh/q1k7mp8n","slide":8,"name":"timeline-rule","bbox":[54,302,1172,2]}
+{"kind":"textbox","id":"sh/r2tofups","slide":8,"name":"story3-label-1","text":"1:04-1:11｜核心修改","textPreview":"1:04-1:11｜核心修改","textChars":14,"textLines":1,"bbox":[54,250,210,28]}
+{"kind":"shape","id":"sh/4z2pkzqh","slide":8,"name":"story3-dot-1","bbox":[54,296,14,14]}
+{"kind":"textbox","id":"sh/50b6d472","slide":8,"name":"story3-title-1","text":"建築＝城市安全智慧中心","textPreview":"建築＝城市安全智慧中心","textChars":11,"textLines":1,"bbox":[54,342,350,54]}
+{"kind":"textbox","id":"sh/d4b6po3m","slide":8,"name":"story3-body-1","text":"畫面：孩子跑進前廣場，廣角完整帶出第二行政中心；五道細線匯聚建築。\n字卡：不只是辦公大樓，更是整合治安、防災、交通、食安與資訊系統的城市安全智慧中心。","textPreview":"畫面：孩子跑進前廣場，廣角完整帶出第二行政中心；五道細線匯聚建築。 | 字卡：不只是辦公大樓，更是整合治安、防災、交通、食安與資訊系統的城市安全智慧中心。","textChars":75,"textLines":2,"bbox":[54,402,350,226]}
+{"kind":"textbox","id":"sh/c32pwj21","slide":8,"name":"story3-label-2","text":"1:11-1:17｜微調","textPreview":"1:11-1:17｜微調","textChars":12,"textLines":1,"bbox":[465,250,210,28]}
+{"kind":"shape","id":"sh/b2tonelg","slide":8,"name":"story3-dot-2","bbox":[465,296,14,14]}
+{"kind":"textbox","id":"sh/q1k7u9kv","slide":8,"name":"story3-title-2","text":"儀隊高潮＋守護快切","textPreview":"儀隊高潮＋守護快切","textChars":9,"textLines":1,"bbox":[465,342,350,54]}
+{"kind":"textbox","id":"sh/p0r6l43q","slide":8,"name":"story3-body-2","text":"畫面：儀隊最後一段演出中，穿插 2-3 個指揮／監控畫面，單格或雙格即可。\n聲音：安心提示音與音樂最高點合拍。\n原則：不追加說明台詞。","textPreview":"畫面：儀隊最後一段演出中，穿插 2-3 個指揮／監控畫面，單格或雙格即可。 | 聲音：安心提示音與音樂最高點合拍。 | 原則：不追加說明台詞。","textChars":67,"textLines":3,"bbox":[465,402,350,226]}
+{"kind":"textbox","id":"sh/ofipsz25","slide":8,"name":"story3-label-3","text":"1:17-1:27｜修改收束","textPreview":"1:17-1:27｜修改收束","textChars":14,"textLines":1,"bbox":[876,250,210,28]}
+{"kind":"shape","id":"sh/3e9ojelk","slide":8,"name":"story3-dot-3","bbox":[876,296,14,14]}
+{"kind":"textbox","id":"sh/2d07q9kz","slide":8,"name":"story3-title-3","text":"把安心交給下一代","textPreview":"把安心交給下一代","textChars":8,"textLines":1,"bbox":[876,342,350,54]}
+{"kind":"textbox","id":"sh/1cr6h43e","slide":8,"name":"story3-body-3","text":"畫面：全員面向場地，構圖保留第二行政中心。\n情緒字卡：把每一份安心，交給下一代。\nCTA：115年新北市國慶升旗典禮｜10/10；新北向前，安心一直都在。","textPreview":"畫面：全員面向場地，構圖保留第二行政中心。 | 情緒字卡：把每一份安心，交給下一代。 | CTA：115年新北市國慶升旗典禮｜10/10；新北向前，安心一直都在。","textChars":77,"textLines":3,"bbox":[876,402,350,226]}
+{"kind":"notes","id":"nt/rr91qr","slide":8,"text":"[Sources]\n- 使用者提供：115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf（附件原腳本）\n- 使用者提供：客戶回饋文字（本次需求）"}
+{"kind":"slide","id":"sl/hjrt8y","slide":9,"title":"建議字卡可直接採用：前段輕、中央說清、最後留下記憶","textShapes":12}
+{"kind":"textbox","id":"sh/fmpkny1g","slide":9,"name":"slide-9-title","text":"建議字卡可直接採用：前段輕、中央說清、最後留下記憶","textPreview":"建議字卡可直接採用：前段輕、中央說清、最後留下記憶","textChars":25,"textLines":1,"bbox":[54,42,1172,72]}
+{"kind":"shape","id":"sh/gni1w3i1","slide":9,"name":"slide-9-title-rule","bbox":[54,124,1172,2]}
+{"kind":"textbox","id":"sh/1or2p8jm","slide":9,"name":"footer-label-9","text":"115年新北市國慶｜前導影片腳本優化","textPreview":"115年新北市國慶｜前導影片腳本優化","textChars":18,"textLines":1,"bbox":[54,676,420,18]}
+{"kind":"textbox","id":"sh/6xgjqt0z","slide":9,"name":"footer-page-9","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"textbox","id":"sh/ryp0jy1k","slide":9,"name":"copy-intro","text":"字卡避免每段都列系統名稱；資訊層級由「路線」逐步走向「城市安全智慧中心」。","textPreview":"字卡避免每段都列系統名稱；資訊層級由「路線」逐步走向「城市安全智慧中心」。","textChars":37,"textLines":1,"bbox":[54,154,1172,50]}
+{"kind":"shape","id":"sh/szy1s3ip","slide":9,"name":"copy-left-panel","bbox":[54,326,561,150]}
+{"kind":"textbox","id":"sh/tk7il8ja","slide":9,"name":"copy-left-kicker","text":"0:15-0:59","textPreview":"0:15-0:59","textChars":9,"textLines":1,"bbox":[82,346,505,25]}
+{"kind":"textbox","id":"sh/itwjm90n","slide":9,"name":"copy-left-heading","text":"路線與活動段｜鋪陳安心","textPreview":"路線與活動段｜鋪陳安心","textChars":11,"textLines":1,"bbox":[82,382,505,70]}
+{"kind":"textbox","id":"sh/ju50fe18","slide":9,"name":"copy-left-body","text":"① 交通資訊即時整合，把便利與安心帶進每一天。","textPreview":"① 交通資訊即時整合，把便利與安心帶進每一天。","textChars":23,"textLines":1,"bbox":[82,500,505,55]}
+{"kind":"textbox","id":"sh/3m58rqdc","slide":9,"name":"copy-left-details","text":"② 橋梁、交通與防災資訊同步連線，守護每一次出發與抵達。\n③ 活動的熱鬧背後，五大系統同步守護。","textPreview":"② 橋梁、交通與防災資訊同步連線，守護每一次出發與抵達。 | ③ 活動的熱鬧背後，五大系統同步守護。","textChars":48,"textLines":2,"bbox":[82,562,505,74]}
+{"kind":"shape","id":"sh/2lwry5cr","slide":9,"name":"copy-right-panel","bbox":[665,326,561,150]}
+{"kind":"textbox","id":"sh/po7qt0b2","slide":9,"name":"copy-right-kicker","text":"1:04-1:27","textPreview":"1:04-1:27","textChars":9,"textLines":1,"bbox":[693,346,505,25]}
+{"kind":"textbox","id":"sh/4ny90vux","slide":9,"name":"copy-right-heading","text":"抵達與收尾｜完整定位","textPreview":"抵達與收尾｜完整定位","textChars":10,"textLines":1,"bbox":[693,382,505,70]}
+{"kind":"textbox","id":"sh/rqp8vat8","slide":9,"name":"copy-right-body","text":"① 不只是辦公大樓，更是城市安全智慧中心。","textPreview":"① 不只是辦公大樓，更是城市安全智慧中心。","textChars":21,"textLines":1,"bbox":[693,500,505,55]}
+{"kind":"textbox","id":"sh/qpgr25cn","slide":9,"name":"copy-right-details","text":"② 把每一份安心，交給下一代。\n③ 新北向前，安心一直都在。","textPreview":"② 把每一份安心，交給下一代。 | ③ 新北向前，安心一直都在。","textChars":30,"textLines":2,"bbox":[693,562,505,74]}
+{"kind":"notes","id":"nt/hjrt8y","slide":9,"text":"[Sources]\n- 使用者提供：115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf（附件原腳本）\n- 使用者提供：客戶回饋文字（本次需求）"}
+{"kind":"slide","id":"sl/dn1ad0","slide":10,"title":"拍攝與後期只要抓住三個原則，安全元素就不會顯得生硬","textShapes":8}
+{"kind":"textbox","id":"sh/a1g3qlob","slide":10,"name":"slide-10-title","text":"拍攝與後期只要抓住三個原則，安全元素就不會顯得生硬","textPreview":"拍攝與後期只要抓住三個原則，安全元素就不會顯得生硬","textChars":25,"textLines":1,"bbox":[54,42,1172,72]}
+{"kind":"shape","id":"sh/x47m1072","slide":10,"name":"slide-10-title-rule","bbox":[54,124,1172,2]}
+{"kind":"textbox","id":"sh/w3ylsv6h","slide":10,"name":"footer-label-10","text":"115年新北市國慶｜前導影片腳本優化","textPreview":"115年新北市國慶｜前導影片腳本優化","textChars":18,"textLines":1,"bbox":[54,676,420,18]}
+{"kind":"textbox","id":"sh/j6943a5s","slide":10,"name":"footer-page-10","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"textbox","id":"sh/i5g3u5on","slide":10,"name":"production-left-head","text":"拍攝素材","textPreview":"拍攝素材","textChars":4,"textLines":1,"bbox":[54,174,520,36]}
+{"kind":"textbox","id":"sh/5srm50ny","slide":10,"name":"production-left-body","text":"• 第二行政中心完整建築與前廣場廣角\n• 真實值勤／監控／指揮畫面\n• 治安、防災、交通、食安中選 3-4 個代表快切\n• 每個系統畫面控制在 0.5-1 秒，保留社群節奏","textPreview":"• 第二行政中心完整建築與前廣場廣角 | • 真實值勤／監控／指揮畫面 | • 治安、防災、交通、食安中選 3-4 個代表快切 | • 每個系統畫面控制在 0.5-1 秒，保留社群節奏","textChars":86,"textLines":4,"bbox":[54,232,520,204]}
+{"kind":"shape","id":"sh/k7ilwv6d","slide":10,"name":"production-divider","bbox":[636,162,2,442]}
+{"kind":"textbox","id":"sh/za5kr6po","slide":10,"name":"production-right-head","text":"後期語言","textPreview":"後期語言","textChars":4,"textLines":1,"bbox":[690,174,520,36]}
+{"kind":"textbox","id":"sh/y9w3i1o3","slide":10,"name":"production-right-body","text":"• 全片只用一種藍白「安心訊號」\n• 線條在沿途只輕描，結尾才匯聚建築\n• 五大系統只完整出現一次\n• 避免滿畫面 HUD、漂浮圖示與長時間辦公室導覽","textPreview":"• 全片只用一種藍白「安心訊號」 | • 線條在沿途只輕描，結尾才匯聚建築 | • 五大系統只完整出現一次 | • 避免滿畫面 HUD、漂浮圖示與長時間辦公室導覽","textChars":75,"textLines":4,"bbox":[690,232,520,204]}
+{"kind":"shape","id":"sh/sjq5kn6l","slide":10,"name":"production-bottom-callout","bbox":[54,494,1156,104]}
+{"kind":"textbox","id":"sh/dkzmds76","slide":10,"name":"production-bottom-text","text":"判斷標準｜觀眾先覺得「這座城市有人在守護」，最後才知道這份守護匯聚在第二行政中心。","textPreview":"判斷標準｜觀眾先覺得「這座城市有人在守護」，最後才知道這份守護匯聚在第二行政中心。","textChars":41,"textLines":1,"bbox":[82,527,1100,48]}
+{"kind":"notes","id":"nt/dn1ad0","slide":10,"text":"[Sources]\n- 使用者提供：115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf（附件原腳本）\n- 使用者提供：客戶回饋文字（本次需求）"}
+{"kind":"slide","id":"sl/ac20xj","slide":11,"title":"最終建議","textShapes":4}
+{"kind":"textbox","id":"sh/65cnm5wr","slide":11,"name":"closing-kicker","text":"最終建議","textPreview":"最終建議","textChars":4,"textLines":1,"bbox":[54,56,300,34]}
+{"kind":"textbox","id":"sh/t836h0vi","slide":11,"name":"closing-title","text":"讓第二行政中心，\n成為這支影片的「安心落點」","textPreview":"讓第二行政中心， | 成為這支影片的「安心落點」","textChars":22,"textLines":2,"bbox":[54,182,1080,196]}
+{"kind":"textbox","id":"sh/87u5ovex","slide":11,"name":"closing-subtitle","text":"保留向前的速度，也讓市民感受到：\n熱鬧與建設的背後，一直有人把城市照顧好。","textPreview":"保留向前的速度，也讓市民感受到： | 熱鬧與建設的背後，一直有人把城市照顧好。","textChars":37,"textLines":2,"bbox":[54,482,790,102]}
+{"kind":"shape","id":"sh/j2lobqdg","slide":11,"name":"closing-rule","bbox":[54,632,610,4]}
+{"kind":"textbox","id":"sh/y1snilwv","slide":11,"name":"closing-signoff","text":"新北向前，安心一直都在。","textPreview":"新北向前，安心一直都在。","textChars":12,"textLines":1,"bbox":[854,612,372,38]}
+{"kind":"notes","id":"nt/ac20xj","slide":11,"text":"[Sources]\n- 使用者提供：115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf（附件原腳本）\n- 使用者提供：客戶回饋文字（本次需求）"}

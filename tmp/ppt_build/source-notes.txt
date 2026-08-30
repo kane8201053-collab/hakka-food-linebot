@@ -1,0 +1,13 @@
+Primary source
+- /Users/zhangzixuan/Desktop/115年新北市國慶_兩款前導影片腳本提案_細緻版.pdf
+- PDF metadata: 4 pages, 16:9 landscape, created from PowerPoint.
+- The four visible pages all describe one concept: 《新北國慶・向前傳遞！》. No second proposal is visible in the supplied PDF.
+
+Client feedback supplied in the conversation
+- Add an “安心” element.
+- Position New Taipei City Government Second Administrative Center as more than an office building: a city safety intelligence center that protects residents and integrates public security, disaster prevention, transportation, food safety, and information systems.
+
+Usage
+- Page 1 render is embedded as a source visual on slide 2.
+- All script timing, original scene references, and original wording are derived from the supplied PDF.
+- All new wording is a proposed rewrite prepared for this deck; no external claims or assets were introduced.

@@ -33,6 +33,7 @@ from linebot.v3.messaging import (
 from bot_logic import (
     AI_BUSY_REPLY,
     UNSUPPORTED_MESSAGE_REPLY,
+    add_multi_store_map_hint,
     build_ai_prompt,
     build_reply_links,
     decide_reply,
@@ -116,7 +117,8 @@ SYSTEM_INSTRUCTION = """
 
 
 def build_line_text_message(reply_text, extra_context=""):
-    visible_reply = safe_line_reply(hide_google_maps_urls(reply_text))
+    visible_reply = hide_google_maps_urls(reply_text)
+    visible_reply = safe_line_reply(add_multi_store_map_hint(visible_reply))
     quick_reply_items = [
         QuickReplyItem(
             action=MessageAction(

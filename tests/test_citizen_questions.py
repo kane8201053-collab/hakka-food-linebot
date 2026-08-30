@@ -3,7 +3,9 @@ import unittest
 from bot_logic import (
     MAX_LINE_REPLY_UNITS,
     MESSAGE_TOO_LONG_REPLY,
+    MULTI_STORE_MAP_HINT,
     OFFICIAL_WEBSITE_URL,
+    add_multi_store_map_hint,
     build_ai_prompt,
     build_reply_links,
     decide_reply,
@@ -229,6 +231,22 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         links = build_reply_links("以下是兩間店的地址。", question)
         self.assertEqual(1, len(links))
         self.assertEqual(OFFICIAL_WEBSITE_URL, links[0].url)
+
+    def test_reply_with_multiple_stores_gets_single_store_map_hint(self):
+        reply = "推薦富鼎餐館與苗栗客家菜館。"
+        hinted_reply = add_multi_store_map_hint(reply)
+        self.assertTrue(hinted_reply.endswith(MULTI_STORE_MAP_HINT))
+
+    def test_reply_with_one_store_does_not_get_multi_store_hint(self):
+        reply = "推薦富鼎餐館。"
+        self.assertEqual(reply, add_multi_store_map_hint(reply))
+
+    def test_multi_store_hint_is_not_added_twice(self):
+        reply = (
+            "推薦富鼎餐館與苗栗客家菜館。\n\n"
+            f"{MULTI_STORE_MAP_HINT}"
+        )
+        self.assertEqual(reply, add_multi_store_map_hint(reply))
 
     def test_general_recommendation_does_not_get_map_even_for_one_result(self):
         links = build_reply_links("推薦富鼎餐館。", "信義區有什麼好吃的？")

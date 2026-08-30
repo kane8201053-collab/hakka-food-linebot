@@ -1,0 +1,12 @@
+Communication job
+By the end, the client should approve a focused script revision because the original relay narrative can naturally carry an “安心” layer without becoming a facility-introduction film.
+
+Narrative arc
+Original strength -> client request -> creative reinterpretation -> three insertion points -> detailed scene revisions -> ready-to-use copy -> production guidance -> recommendation.
+
+Visual system
+- Codex Grid-inspired white canvas, black typography, pale-gray structural panels, thin rules.
+- One deliberate safety-blue accent (#2F80ED) and pale-blue support (#EAF4FF).
+- PingFang TC for Chinese text, Helvetica Neue fallback.
+- 1280 x 720 canvas; 40px slide titles; 17-22px body; 68px deck title.
+- Source PDF page used as the only embedded visual asset; remaining slides rely on presentation-native type hierarchy and a simple timeline structure.

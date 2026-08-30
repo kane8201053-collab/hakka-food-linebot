@@ -1,0 +1,455 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/imdsnq",
+    "id": "imdsnq",
+    "slide": 1,
+    "layoutId": "a18a3a50-9ab1-4475-b804-0009ae4c4716",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "b52e157f-9a65-42c9-9d90-b8631afaa6c6",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a18a3a50-9ab1-4475-b804-0009ae4c4716",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "b52e157f-9a65-42c9-9d90-b8631afaa6c6",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "b52e157f-9a65-42c9-9d90-b8631afaa6c6",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wn2x8z21",
+      "id": "1",
+      "name": "cover-supertitle",
+      "bbox": [
+        54,
+        48,
+        720,
+        34
+      ],
+      "geometry": "rect",
+      "text": "115年新北市國慶升旗典禮｜前導影片腳本優化提案",
+      "textPreview": "115年新北市國慶升旗典禮｜前導影片腳本優化提案",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#2F80ED",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "115年新北市國慶升旗典禮｜前導影片腳本優化提案"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "115年新北市國慶升旗典禮｜前導影片腳本優化提案",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#2F80ED",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "115年新北市國慶升旗典禮｜前導影片腳本優化提案",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#2F80ED",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bmtwzulg",
+      "id": "2",
+      "name": "cover-title",
+      "bbox": [
+        54,
+        174,
+        900,
+        220
+      ],
+      "geometry": "rect",
+      "text": "向前傳遞，\n安心同行",
+      "textPreview": "向前傳遞， | 安心同行",
+      "resolvedFontSize": 68,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 68,
+        "typeface": "PingFang TC",
+        "color": "#101114",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "向前傳遞，"
+          },
+          {
+            "index": 2,
+            "text": "安心同行"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "向前傳遞，",
+          "resolvedTextStyle": {
+            "fontSize": 68,
+            "typeface": "PingFang TC",
+            "color": "#101114",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "向前傳遞，",
+              "fontSize": 68,
+              "typeface": "PingFang TC",
+              "color": "#101114",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "安心同行",
+          "resolvedTextStyle": {
+            "fontSize": 68,
+            "typeface": "PingFang TC",
+            "color": "#101114",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "安心同行",
+              "fontSize": 68,
+              "typeface": "PingFang TC",
+              "color": "#101114",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/alkf6pkv",
+      "id": "3",
+      "name": "cover-subtitle",
+      "bbox": [
+        54,
+        500,
+        790,
+        92
+      ],
+      "geometry": "rect",
+      "text": "在原有接力敘事上，加入第二行政中心作為\n「城市安全智慧中心」的安心落點",
+      "textPreview": "在原有接力敘事上，加入第二行政中心作為 | 「城市安全智慧中心」的安心落點",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "PingFang TC",
+        "color": "#5D6572",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "在原有接力敘事上，加入第二行政中心作為"
+          },
+          {
+            "index": 2,
+            "text": "「城市安全智慧中心」的安心落點"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "在原有接力敘事上，加入第二行政中心作為",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "在原有接力敘事上，加入第二行政中心作為",
+              "fontSize": 25,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "「城市安全智慧中心」的安心落點",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "「城市安全智慧中心」的安心落點",
+              "fontSize": 25,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9kbexk3q",
+      "id": "4",
+      "name": "cover-accent-field",
+      "bbox": [
+        1045,
+        0,
+        235,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF4FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ojix4f25",
+      "id": "5",
+      "name": "cover-accent-rule",
+      "bbox": [
+        1045,
+        0,
+        12,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F80ED",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ni9wvulk",
+      "id": "6",
+      "name": "cover-tag",
+      "bbox": [
+        1082,
+        535,
+        155,
+        86
+      ],
+      "geometry": "rect",
+      "text": "SCRIPT\nREVISION",
+      "textPreview": "SCRIPT | REVISION",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#2F80ED",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SCRIPT"
+          },
+          {
+            "index": 2,
+            "text": "REVISION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SCRIPT",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#2F80ED",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SCRIPT",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#2F80ED",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "REVISION",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#2F80ED",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REVISION",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#2F80ED",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

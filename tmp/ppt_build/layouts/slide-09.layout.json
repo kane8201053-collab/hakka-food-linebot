@@ -1,0 +1,991 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/hjrt8y",
+    "id": "hjrt8y",
+    "slide": 9,
+    "layoutId": "a18a3a50-9ab1-4475-b804-0009ae4c4716",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "b52e157f-9a65-42c9-9d90-b8631afaa6c6",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a18a3a50-9ab1-4475-b804-0009ae4c4716",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "b52e157f-9a65-42c9-9d90-b8631afaa6c6",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "b52e157f-9a65-42c9-9d90-b8631afaa6c6",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fmpkny1g",
+      "id": "1",
+      "name": "slide-9-title",
+      "bbox": [
+        54,
+        42,
+        1172,
+        72
+      ],
+      "geometry": "rect",
+      "text": "建議字卡可直接採用：前段輕、中央說清、最後留下記憶",
+      "textPreview": "建議字卡可直接採用：前段輕、中央說清、最後留下記憶",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "PingFang TC",
+        "color": "#101114",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "建議字卡可直接採用：前段輕、中央說清、最後留下記憶"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "建議字卡可直接採用：前段輕、中央說清、最後留下記憶",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "PingFang TC",
+            "color": "#101114",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "建議字卡可直接採用：前段輕、中央說清、最後留下記憶",
+              "fontSize": 38,
+              "typeface": "PingFang TC",
+              "color": "#101114",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gni1w3i1",
+      "id": "2",
+      "name": "slide-9-title-rule",
+      "bbox": [
+        54,
+        124,
+        1172,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1or2p8jm",
+      "id": "3",
+      "name": "footer-label-9",
+      "bbox": [
+        54,
+        676,
+        420,
+        18
+      ],
+      "geometry": "rect",
+      "text": "115年新北市國慶｜前導影片腳本優化",
+      "textPreview": "115年新北市國慶｜前導影片腳本優化",
+      "resolvedFontSize": 7,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "PingFang TC",
+        "color": "#5D6572",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.58,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "115年新北市國慶｜前導影片腳本優化"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "115年新北市國慶｜前導影片腳本優化",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "115年新北市國慶｜前導影片腳本優化",
+              "fontSize": 12,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6xgjqt0z",
+      "id": "4",
+      "name": "footer-page-9",
+      "bbox": [
+        1190,
+        674,
+        36,
+        20
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 8.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "PingFang TC",
+        "color": "#5D6572",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.72,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 12,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ryp0jy1k",
+      "id": "5",
+      "name": "copy-intro",
+      "bbox": [
+        54,
+        154,
+        1172,
+        50
+      ],
+      "geometry": "rect",
+      "text": "字卡避免每段都列系統名稱；資訊層級由「路線」逐步走向「城市安全智慧中心」。",
+      "textPreview": "字卡避免每段都列系統名稱；資訊層級由「路線」逐步走向「城市安全智慧中心」。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#5D6572",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "字卡避免每段都列系統名稱；資訊層級由「路線」逐步走向「城市安全智慧中心」。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "字卡避免每段都列系統名稱；資訊層級由「路線」逐步走向「城市安全智慧中心」。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "字卡避免每段都列系統名稱；資訊層級由「路線」逐步走向「城市安全智慧中心」。",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szy1s3ip",
+      "id": "6",
+      "name": "copy-left-panel",
+      "bbox": [
+        54,
+        326,
+        561,
+        150
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F1F2F4",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tk7il8ja",
+      "id": "7",
+      "name": "copy-left-kicker",
+      "bbox": [
+        82,
+        346,
+        505,
+        25
+      ],
+      "geometry": "rect",
+      "text": "0:15-0:59",
+      "textPreview": "0:15-0:59",
+      "resolvedFontSize": 12.83,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "PingFang TC",
+        "color": "#5D6572",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.86,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "0:15-0:59"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "0:15-0:59",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "0:15-0:59",
+              "fontSize": 15,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/itwjm90n",
+      "id": "8",
+      "name": "copy-left-heading",
+      "bbox": [
+        82,
+        382,
+        505,
+        70
+      ],
+      "geometry": "rect",
+      "text": "路線與活動段｜鋪陳安心",
+      "textPreview": "路線與活動段｜鋪陳安心",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "PingFang TC",
+        "color": "#101114",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "路線與活動段｜鋪陳安心"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "路線與活動段｜鋪陳安心",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "PingFang TC",
+            "color": "#101114",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "路線與活動段｜鋪陳安心",
+              "fontSize": 27,
+              "typeface": "PingFang TC",
+              "color": "#101114",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ju50fe18",
+      "id": "9",
+      "name": "copy-left-body",
+      "bbox": [
+        82,
+        500,
+        505,
+        55
+      ],
+      "geometry": "rect",
+      "text": "① 交通資訊即時整合，把便利與安心帶進每一天。",
+      "textPreview": "① 交通資訊即時整合，把便利與安心帶進每一天。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#101114",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "① 交通資訊即時整合，把便利與安心帶進每一天。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "① 交通資訊即時整合，把便利與安心帶進每一天。",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#101114",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "① 交通資訊即時整合，把便利與安心帶進每一天。",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#101114",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m58rqdc",
+      "id": "10",
+      "name": "copy-left-details",
+      "bbox": [
+        82,
+        562,
+        505,
+        74
+      ],
+      "geometry": "rect",
+      "text": "② 橋梁、交通與防災資訊同步連線，守護每一次出發與抵達。\n③ 活動的熱鬧背後，五大系統同步守護。",
+      "textPreview": "② 橋梁、交通與防災資訊同步連線，守護每一次出發與抵達。 | ③ 活動的熱鬧背後，五大系統同步守護。",
+      "resolvedFontSize": 16.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16.51,
+        "typeface": "PingFang TC",
+        "color": "#5D6572",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "② 橋梁、交通與防災資訊同步連線，守護每一次出發與抵達。"
+          },
+          {
+            "index": 2,
+            "text": "③ 活動的熱鬧背後，五大系統同步守護。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "② 橋梁、交通與防災資訊同步連線，守護每一次出發與抵達。",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "② 橋梁、交通與防災資訊同步連線，守護每一次出發與抵達。",
+              "fontSize": 16.51,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "③ 活動的熱鬧背後，五大系統同步守護。",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "③ 活動的熱鬧背後，五大系統同步守護。",
+              "fontSize": 16.51,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lwry5cr",
+      "id": "11",
+      "name": "copy-right-panel",
+      "bbox": [
+        665,
+        326,
+        561,
+        150
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#EAF4FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/po7qt0b2",
+      "id": "12",
+      "name": "copy-right-kicker",
+      "bbox": [
+        693,
+        346,
+        505,
+        25
+      ],
+      "geometry": "rect",
+      "text": "1:04-1:27",
+      "textPreview": "1:04-1:27",
+      "resolvedFontSize": 12.83,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "PingFang TC",
+        "color": "#2F80ED",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.86,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1:04-1:27"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1:04-1:27",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "PingFang TC",
+            "color": "#2F80ED",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1:04-1:27",
+              "fontSize": 15,
+              "typeface": "PingFang TC",
+              "color": "#2F80ED",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4ny90vux",
+      "id": "13",
+      "name": "copy-right-heading",
+      "bbox": [
+        693,
+        382,
+        505,
+        70
+      ],
+      "geometry": "rect",
+      "text": "抵達與收尾｜完整定位",
+      "textPreview": "抵達與收尾｜完整定位",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "PingFang TC",
+        "color": "#101114",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "抵達與收尾｜完整定位"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "抵達與收尾｜完整定位",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "PingFang TC",
+            "color": "#101114",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "抵達與收尾｜完整定位",
+              "fontSize": 27,
+              "typeface": "PingFang TC",
+              "color": "#101114",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqp8vat8",
+      "id": "14",
+      "name": "copy-right-body",
+      "bbox": [
+        693,
+        500,
+        505,
+        55
+      ],
+      "geometry": "rect",
+      "text": "① 不只是辦公大樓，更是城市安全智慧中心。",
+      "textPreview": "① 不只是辦公大樓，更是城市安全智慧中心。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#101114",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "① 不只是辦公大樓，更是城市安全智慧中心。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "① 不只是辦公大樓，更是城市安全智慧中心。",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#101114",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "① 不只是辦公大樓，更是城市安全智慧中心。",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#101114",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpgr25cn",
+      "id": "15",
+      "name": "copy-right-details",
+      "bbox": [
+        693,
+        562,
+        505,
+        74
+      ],
+      "geometry": "rect",
+      "text": "② 把每一份安心，交給下一代。\n③ 新北向前，安心一直都在。",
+      "textPreview": "② 把每一份安心，交給下一代。 | ③ 新北向前，安心一直都在。",
+      "resolvedFontSize": 16.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16.51,
+        "typeface": "PingFang TC",
+        "color": "#5D6572",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "② 把每一份安心，交給下一代。"
+          },
+          {
+            "index": 2,
+            "text": "③ 新北向前，安心一直都在。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "② 把每一份安心，交給下一代。",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "② 把每一份安心，交給下一代。",
+              "fontSize": 16.51,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "③ 新北向前，安心一直都在。",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "PingFang TC",
+            "color": "#5D6572",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "③ 新北向前，安心一直都在。",
+              "fontSize": 16.51,
+              "typeface": "PingFang TC",
+              "color": "#5D6572",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
