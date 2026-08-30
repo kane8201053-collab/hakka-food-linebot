@@ -21,7 +21,7 @@ from restaurants import (
 
 MAX_USER_MESSAGE_UNITS = 500
 MAX_LINE_REPLY_UNITS = 4800
-MULTI_STORE_MAP_HINT = "如果詢問單一店家資訊會有地址超連結唷～"
+MULTI_STORE_MAP_HINT = "如果詢問單一店家會有詳細介紹和地址超連結唷～"
 OFFICIAL_WEBSITE_URL = "https://lohasnet.tw/Taipei-HakkaFoodie/"
 
 EMPTY_MESSAGE_REPLY = "請輸入想詢問的文字，例如：『大安區有哪些合作店家？』🍜"
