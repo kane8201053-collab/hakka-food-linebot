@@ -7,6 +7,7 @@ from bot_logic import (
     OFFICIAL_WEBSITE_URL,
     add_multi_store_map_hint,
     build_ai_prompt,
+    build_district_reply,
     build_reply_links,
     decide_reply,
     hide_google_maps_urls,
@@ -15,7 +16,12 @@ from bot_logic import (
 )
 from knowledge import HAKKA_FOOD_KNOWLEDGE
 from lottery import LATEST_LOTTERY_INFO, get_latest_lottery_reply
-from restaurants import RESTAURANTS, TAIPEI_DISTRICTS, build_google_maps_url
+from restaurants import (
+    RESTAURANTS,
+    TAIPEI_DISTRICTS,
+    build_google_maps_url,
+    find_restaurants_by_district,
+)
 
 
 # 這 64 題是 Day 9 的固定回歸測試；新增功能時不要刪題，應繼續加題。
@@ -191,6 +197,30 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         links = build_reply_links(decision.reply_text, "南港區")
         self.assertEqual(1, len(links))
         self.assertEqual(OFFICIAL_WEBSITE_URL, links[0].url)
+
+    def test_district_listing_includes_every_store(self):
+        for district in TAIPEI_DISTRICTS:
+            restaurants = find_restaurants_by_district(district)
+            if not restaurants:
+                continue
+
+            with self.subTest(district=district):
+                reply = build_district_reply(district)
+                for restaurant in restaurants:
+                    self.assertIn(restaurant["name"], reply)
+                self.assertNotIn("另外還有", reply)
+                self.assertLessEqual(
+                    utf16_length(add_multi_store_map_hint(reply)),
+                    MAX_LINE_REPLY_UNITS,
+                )
+
+    def test_zhongshan_listing_is_not_limited_to_five_stores(self):
+        restaurants = find_restaurants_by_district("中山區")
+        self.assertGreater(len(restaurants), 5)
+
+        reply = decide_reply("中山區有哪些店家？").reply_text
+        for restaurant in restaurants:
+            self.assertIn(restaurant["name"], reply)
 
     def test_every_reply_has_a_clickable_official_link(self):
         links = build_reply_links("目前官方資料尚未提供這項資訊。")

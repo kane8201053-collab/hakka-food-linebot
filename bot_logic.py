@@ -155,14 +155,16 @@ def _is_district_listing_question(message, district):
     return any(phrase in message for phrase in _DISTRICT_LISTING_PHRASES)
 
 
-def build_district_reply(district, limit=5):
+def build_district_reply(district):
+    """列出行政區內所有正式合作店家，不做人為筆數截斷。"""
+
     restaurants = find_restaurants_by_district(district)
 
     if not restaurants:
         return f"目前資料庫尚未提供{district}的合作店家資訊 🙏"
 
     restaurant_lines = []
-    for restaurant in restaurants[:limit]:
+    for restaurant in restaurants:
         dishes = "、".join(restaurant["recommended_dishes"])
         restaurant_lines.append(
             f"🍽️ {restaurant['name']}\n"
@@ -170,9 +172,7 @@ def build_district_reply(district, limit=5):
             f"地址：{restaurant['address']}"
         )
 
-    extra_count = len(restaurants) - limit
-    extra_hint = f"\n\n另外還有 {extra_count} 間，可再問我更多店家。" if extra_count > 0 else ""
-    return f"{district}目前有這些合作店家：\n\n" + "\n\n".join(restaurant_lines) + extra_hint
+    return f"{district}目前有這些合作店家：\n\n" + "\n\n".join(restaurant_lines)
 
 
 def _map_button_label(_restaurant_name):
