@@ -1,0 +1,2894 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/m90b6t0r",
+    "id": "m90b6t0r",
+    "slide": 10,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3mho32",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        30.72,
+        432,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "陸、時程規劃與進度管理",
+      "textPreview": "陸、時程規劃與進度管理",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "陸、時程規劃與進度管理"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "陸、時程規劃與進度管理",
+          "runs": [
+            {
+              "index": 1,
+              "text": "陸、時程規劃與進度管理",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbu58j2h",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        448.32,
+        30.72,
+        288,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "新北市議會案 服務建議書",
+      "textPreview": "新北市議會案 服務建議書",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新北市議會案 服務建議書"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新北市議會案 服務建議書",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新北市議會案 服務建議書",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zelojyl8",
+      "id": "4",
+      "name": "Shape 2",
+      "bbox": [
+        57.6,
+        59.52,
+        678.72,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3E7EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ydcnatkn",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1081.92,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "11",
+      "textPreview": "11",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "11"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "11",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "11",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l036l83y",
+      "id": "6",
+      "name": "Text 4",
+      "bbox": [
+        57.6,
+        84.48,
+        678.72,
+        48
+      ],
+      "geometry": "rect",
+      "text": "陸、時程規劃與進度管理",
+      "textPreview": "陸、時程規劃與進度管理",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "陸、時程規劃與進度管理"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "陸、時程規劃與進度管理",
+          "runs": [
+            {
+              "index": 1,
+              "text": "陸、時程規劃與進度管理",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzu5c32t",
+      "id": "7",
+      "name": "Shape 5",
+      "bbox": [
+        57.6,
+        144,
+        678.72,
+        78.24
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FDF6E0",
+      "lineColor": "#C9A227",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/725onyl4",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        72,
+        153.6,
+        649.92,
+        59.04
+      ],
+      "geometry": "rect",
+      "text": "✎ 撰寫建議(繳交前請刪除)|120 個「日曆天」含例假日,實際工作天約 85 天。委員特別看:LED 到貨期(進口設備常需 45~60 天,是關鍵路徑)、五階段送審往返時間、就職典禮是否獨立標示。甘特圖務必與需求書五階段對應。",
+      "textPreview": "✎ 撰寫建議(繳交前請刪除)|120 個「日曆天」含例假日,實際工作天約 85 天。委員特別看:LED 到貨期(進口設備常需 45~60 天,是關鍵路徑)、五階段送審往返時間、就職典禮是否獨立標示。甘特圖務必與需求書五階段對應。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "✎ 撰寫建議(繳交前請刪除)|120 個「日曆天」含例假日,實際工作天約 85 天。委員特別看:LED"
+          },
+          {
+            "index": 2,
+            "text": "到貨期(進口設備常需 45~60"
+          },
+          {
+            "index": 3,
+            "text": "天,是關鍵路徑)、五階段送審往返時間、就職典禮是否獨立標示。甘特圖務必與需求書五階段對應。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "✎ 撰寫建議(繳交前請刪除)|120 個「日曆天」含例假日,實際工作天約 85 天。委員特別看:LED 到貨期(進口設備常需 45~60 天,是關鍵路徑)、五階段送審往返時間、就職典禮是否獨立標示。甘特圖務必與需求書五階段對應。",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "✎ 撰寫建議(繳交前請刪除)|",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "120 個「日曆天」含例假日,實際工作天約 85 天。委員特別看:LED 到貨期(進口設備常需 45~60 天,是關鍵路徑)、五階段送審往返時間、就職典禮是否獨立標示。甘特圖務必與需求書五階段對應。",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#4A4A4A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cnetkj",
+      "id": "9",
+      "name": "Text 7",
+      "bbox": [
+        57.6,
+        243.36,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "一、五階段作業時程(對應需求書壹、五「專案流程」)",
+      "textPreview": "一、五階段作業時程(對應需求書壹、五「專案流程」)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一、五階段作業時程(對應需求書壹、五「專案流程」)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一、五階段作業時程(對應需求書壹、五「專案流程」)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "一、五階段作業時程(對應需求書壹、五「專案流程」)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/rmhgzyxg",
+      "id": "14",
+      "name": "Table 0",
+      "bbox": [
+        57.6,
+        281.76,
+        678.72,
+        96
+      ],
+      "text": "階段 | 作業項目 | 提供文件供本會確認 | 時程(示例)\n一 | 提出本案之企劃書及工作進度表 | 專案企劃書、工作進度表 | 第 1~15 天\n二 | 規劃製作各項作業腳本及系統架構 | 各項作業規劃文件 | 第 16~45 天\n三 | 確認各項作業模型 | 採用素材及細部作業說明 | 第 40~60 天\n四 | 檢討調整修正 | 實際建置內容之檢視 | 第 61~105 天\n五 | 相關人員教育訓練 | 訓練教材及操作手冊 | 第 106~120 天",
+      "textPreview": "階段 | 作業項目 | 提供文件供本會確認 | 時程(示例) | 一 | 提出本案之企劃書及工作進度表 | 專案企劃書、工作進度表 | 第 1~15 天 | 二 | 規劃製作各項作業腳本及系統架構 | 各項作業規劃文件 | 第 16~45 天 | 三 | 確認各項作業模型 ...",
+      "rows": 6,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            281.76,
+            76.8,
+            16
+          ],
+          "text": "階段",
+          "textPreview": "階段",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "階段",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "階段",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            134.4,
+            281.76,
+            288,
+            16
+          ],
+          "text": "作業項目",
+          "textPreview": "作業項目",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "作業項目",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "作業項目",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            422.4,
+            281.76,
+            182.4,
+            16
+          ],
+          "text": "提供文件供本會確認",
+          "textPreview": "提供文件供本會確認",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供文件供本會確認",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供文件供本會確認",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            604.8,
+            281.76,
+            131.52,
+            16
+          ],
+          "text": "時程(示例)",
+          "textPreview": "時程(示例)",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "時程(示例)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "時程(示例)",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            297.76,
+            76.8,
+            16
+          ],
+          "text": "一",
+          "textPreview": "一",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "一",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "一",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            134.4,
+            297.76,
+            288,
+            16
+          ],
+          "text": "提出本案之企劃書及工作進度表",
+          "textPreview": "提出本案之企劃書及工作進度表",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提出本案之企劃書及工作進度表",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提出本案之企劃書及工作進度表",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            422.4,
+            297.76,
+            182.4,
+            16
+          ],
+          "text": "專案企劃書、工作進度表",
+          "textPreview": "專案企劃書、工作進度表",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "專案企劃書、工作進度表",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "專案企劃書、工作進度表",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            604.8,
+            297.76,
+            131.52,
+            16
+          ],
+          "text": "第 1~15 天",
+          "textPreview": "第 1~15 天",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第 1~15 天",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第 1~15 天",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            313.76,
+            76.8,
+            16
+          ],
+          "text": "二",
+          "textPreview": "二",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "二",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "二",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            134.4,
+            313.76,
+            288,
+            16
+          ],
+          "text": "規劃製作各項作業腳本及系統架構",
+          "textPreview": "規劃製作各項作業腳本及系統架構",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "規劃製作各項作業腳本及系統架構",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "規劃製作各項作業腳本及系統架構",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            422.4,
+            313.76,
+            182.4,
+            16
+          ],
+          "text": "各項作業規劃文件",
+          "textPreview": "各項作業規劃文件",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "各項作業規劃文件",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "各項作業規劃文件",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            604.8,
+            313.76,
+            131.52,
+            16
+          ],
+          "text": "第 16~45 天",
+          "textPreview": "第 16~45 天",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第 16~45 天",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第 16~45 天",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.6,
+            329.76,
+            76.8,
+            16
+          ],
+          "text": "三",
+          "textPreview": "三",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "三",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "三",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            134.4,
+            329.76,
+            288,
+            16
+          ],
+          "text": "確認各項作業模型",
+          "textPreview": "確認各項作業模型",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "確認各項作業模型",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "確認各項作業模型",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            422.4,
+            329.76,
+            182.4,
+            16
+          ],
+          "text": "採用素材及細部作業說明",
+          "textPreview": "採用素材及細部作業說明",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "採用素材及細部作業說明",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "採用素材及細部作業說明",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            604.8,
+            329.76,
+            131.52,
+            16
+          ],
+          "text": "第 40~60 天",
+          "textPreview": "第 40~60 天",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第 40~60 天",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第 40~60 天",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            57.6,
+            345.76,
+            76.8,
+            16
+          ],
+          "text": "四",
+          "textPreview": "四",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "四",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "四",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            134.4,
+            345.76,
+            288,
+            16
+          ],
+          "text": "檢討調整修正",
+          "textPreview": "檢討調整修正",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "檢討調整修正",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "檢討調整修正",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            422.4,
+            345.76,
+            182.4,
+            16
+          ],
+          "text": "實際建置內容之檢視",
+          "textPreview": "實際建置內容之檢視",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "實際建置內容之檢視",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "實際建置內容之檢視",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            604.8,
+            345.76,
+            131.52,
+            16
+          ],
+          "text": "第 61~105 天",
+          "textPreview": "第 61~105 天",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第 61~105 天",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第 61~105 天",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            57.6,
+            361.76,
+            76.8,
+            16
+          ],
+          "text": "五",
+          "textPreview": "五",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "五",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "五",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            134.4,
+            361.76,
+            288,
+            16
+          ],
+          "text": "相關人員教育訓練",
+          "textPreview": "相關人員教育訓練",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "相關人員教育訓練",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "相關人員教育訓練",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            422.4,
+            361.76,
+            182.4,
+            16
+          ],
+          "text": "訓練教材及操作手冊",
+          "textPreview": "訓練教材及操作手冊",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "訓練教材及操作手冊",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "訓練教材及操作手冊",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            604.8,
+            361.76,
+            131.52,
+            16
+          ],
+          "text": "第 106~120 天",
+          "textPreview": "第 106~120 天",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第 106~120 天",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第 106~120 天",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d87uxg3m",
+      "id": "11",
+      "name": "Text 8",
+      "bbox": [
+        57.6,
+        524.79,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "二、整體進度甘特圖(示例)",
+      "textPreview": "二、整體進度甘特圖(示例)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "二、整體進度甘特圖(示例)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "二、整體進度甘特圖(示例)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "二、整體進度甘特圖(示例)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/qlozqtwv",
+      "id": "15",
+      "name": "Table 1",
+      "bbox": [
+        57.6,
+        563.19,
+        678.72,
+        96
+      ],
+      "text": "工作項目 | D1-20 | D21-40 | D41-60 | D61-80 | D81-100 | D101-120\n企劃書及工作進度表送審\n腳本、視覺設計與系統架構\nLED 設備採購與到貨安裝\n展板/影片/手冊建置製作\n五語版本翻譯配音字幕\n檢討調整修正與整合測試\n教育訓練與驗收",
+      "textPreview": "工作項目 | D1-20 | D21-40 | D41-60 | D61-80 | D81-100 | D101-120 | 企劃書及工作進度表送審 | 腳本、視覺設計與系統架構 | LED 設備採購與到貨安裝 | 展板/影片/手冊建置製作 | 五語版本翻譯配音字幕 | 檢...",
+      "rows": 8,
+      "cols": 7,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            563.19,
+            246.72,
+            12
+          ],
+          "text": "工作項目",
+          "textPreview": "工作項目",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "工作項目",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "工作項目",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            304.32,
+            563.19,
+            72,
+            12
+          ],
+          "text": "D1-20",
+          "textPreview": "D1-20",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "D1-20",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "D1-20",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            376.32,
+            563.19,
+            72,
+            12
+          ],
+          "text": "D21-40",
+          "textPreview": "D21-40",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "D21-40",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "D21-40",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            448.32,
+            563.19,
+            72,
+            12
+          ],
+          "text": "D41-60",
+          "textPreview": "D41-60",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "D41-60",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "D41-60",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            520.32,
+            563.19,
+            72,
+            12
+          ],
+          "text": "D61-80",
+          "textPreview": "D61-80",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "D61-80",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "D61-80",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            592.32,
+            563.19,
+            72,
+            12
+          ],
+          "text": "D81-100",
+          "textPreview": "D81-100",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "D81-100",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "D81-100",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 7,
+          "bbox": [
+            664.32,
+            563.19,
+            72,
+            12
+          ],
+          "text": "D101-120",
+          "textPreview": "D101-120",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "D101-120",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "D101-120",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            575.19,
+            246.72,
+            12
+          ],
+          "text": "企劃書及工作進度表送審",
+          "textPreview": "企劃書及工作進度表送審",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "企劃書及工作進度表送審",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "企劃書及工作進度表送審",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            304.32,
+            575.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            376.32,
+            575.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            448.32,
+            575.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            520.32,
+            575.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            592.32,
+            575.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 2,
+          "column": 7,
+          "bbox": [
+            664.32,
+            575.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            587.19,
+            246.72,
+            12
+          ],
+          "text": "腳本、視覺設計與系統架構",
+          "textPreview": "腳本、視覺設計與系統架構",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "腳本、視覺設計與系統架構",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "腳本、視覺設計與系統架構",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            304.32,
+            587.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            376.32,
+            587.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            448.32,
+            587.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            520.32,
+            587.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            592.32,
+            587.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 3,
+          "column": 7,
+          "bbox": [
+            664.32,
+            587.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.6,
+            599.19,
+            246.72,
+            12
+          ],
+          "text": "LED 設備採購與到貨安裝",
+          "textPreview": "LED 設備採購與到貨安裝",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "LED 設備採購與到貨安裝",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "LED 設備採購與到貨安裝",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            304.32,
+            599.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            376.32,
+            599.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            448.32,
+            599.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            520.32,
+            599.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            592.32,
+            599.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 4,
+          "column": 7,
+          "bbox": [
+            664.32,
+            599.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            57.6,
+            611.19,
+            246.72,
+            12
+          ],
+          "text": "展板/影片/手冊建置製作",
+          "textPreview": "展板/影片/手冊建置製作",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "展板/影片/手冊建置製作",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "展板/影片/手冊建置製作",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            304.32,
+            611.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            376.32,
+            611.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            448.32,
+            611.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            520.32,
+            611.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 5,
+          "column": 6,
+          "bbox": [
+            592.32,
+            611.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 5,
+          "column": 7,
+          "bbox": [
+            664.32,
+            611.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            57.6,
+            623.19,
+            246.72,
+            12
+          ],
+          "text": "五語版本翻譯配音字幕",
+          "textPreview": "五語版本翻譯配音字幕",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "五語版本翻譯配音字幕",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "五語版本翻譯配音字幕",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 37,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            304.32,
+            623.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 38,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            376.32,
+            623.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 39,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            448.32,
+            623.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 40,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            520.32,
+            623.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 41,
+          "row": 6,
+          "column": 6,
+          "bbox": [
+            592.32,
+            623.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 42,
+          "row": 6,
+          "column": 7,
+          "bbox": [
+            664.32,
+            623.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 43,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            57.6,
+            635.19,
+            246.72,
+            12
+          ],
+          "text": "檢討調整修正與整合測試",
+          "textPreview": "檢討調整修正與整合測試",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "檢討調整修正與整合測試",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "檢討調整修正與整合測試",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 44,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            304.32,
+            635.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 45,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            376.32,
+            635.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 46,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            448.32,
+            635.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 47,
+          "row": 7,
+          "column": 5,
+          "bbox": [
+            520.32,
+            635.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 48,
+          "row": 7,
+          "column": 6,
+          "bbox": [
+            592.32,
+            635.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 49,
+          "row": 7,
+          "column": 7,
+          "bbox": [
+            664.32,
+            635.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 50,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            57.6,
+            647.19,
+            246.72,
+            12
+          ],
+          "text": "教育訓練與驗收",
+          "textPreview": "教育訓練與驗收",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "教育訓練與驗收",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "教育訓練與驗收",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 51,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            304.32,
+            647.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 52,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            376.32,
+            647.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 53,
+          "row": 8,
+          "column": 4,
+          "bbox": [
+            448.32,
+            647.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 54,
+          "row": 8,
+          "column": 5,
+          "bbox": [
+            520.32,
+            647.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 55,
+          "row": 8,
+          "column": 6,
+          "bbox": [
+            592.32,
+            647.19,
+            72,
+            12
+          ],
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 56,
+          "row": 8,
+          "column": 7,
+          "bbox": [
+            664.32,
+            647.19,
+            72,
+            12
+          ],
+          "fillColor": "#C9A227",
+          "paragraphs": [
+            {
+              "index": 1,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": " ",
+                  "fontSize": 16,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r6pcv6lw",
+      "id": "13",
+      "name": "Text 9",
+      "bbox": [
+        57.6,
+        816.63,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "註:第5屆議員就職典禮全程紀錄依實際典禮日期辦理,不受上表階段限制;金色區塊為該項工作之執行期間。",
+      "textPreview": "註:第5屆議員就職典禮全程紀錄依實際典禮日期辦理,不受上表階段限制;金色區塊為該項工作之執行期間。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "註:第5屆議員就職典禮全程紀錄依實際典禮日期辦理,不受上表階段限制;金色區塊為該項工作之執行期間。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "註:第5屆議員就職典禮全程紀錄依實際典禮日期辦理,不受上表階段限制;金色區塊為該項工作之執行期間。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "註:第5屆議員就職典禮全程紀錄依實際典禮日期辦理,不受上表階段限制;金色區塊為該項工作之執行期間。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

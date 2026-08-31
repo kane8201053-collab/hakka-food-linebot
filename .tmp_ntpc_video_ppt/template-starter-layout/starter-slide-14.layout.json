@@ -1,0 +1,1074 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/b0ulvk",
+    "id": "b0ulvk",
+    "slide": 14,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pw76h87q",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        30.72,
+        432,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "柒、品質管理與監督查核配合",
+      "textPreview": "柒、品質管理與監督查核配合",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "柒、品質管理與監督查核配合"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "柒、品質管理與監督查核配合",
+          "runs": [
+            {
+              "index": 1,
+              "text": "柒、品質管理與監督查核配合",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovy58365",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        448.32,
+        30.72,
+        288,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "新北市議會案 服務建議書",
+      "textPreview": "新北市議會案 服務建議書",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新北市議會案 服務建議書"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新北市議會案 服務建議書",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新北市議會案 服務建議書",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fq54bypo",
+      "id": "4",
+      "name": "Shape 2",
+      "bbox": [
+        57.6,
+        59.52,
+        678.72,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3E7EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/epwn2to3",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1081.92,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "13",
+      "textPreview": "13",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "13"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "13",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "13",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1s7mdo7u",
+      "id": "6",
+      "name": "Text 4",
+      "bbox": [
+        57.6,
+        84.48,
+        678.72,
+        48
+      ],
+      "geometry": "rect",
+      "text": "柒、品質管理與監督查核配合",
+      "textPreview": "柒、品質管理與監督查核配合",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "柒、品質管理與監督查核配合"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "柒、品質管理與監督查核配合",
+          "runs": [
+            {
+              "index": 1,
+              "text": "柒、品質管理與監督查核配合",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0re54j69",
+      "id": "7",
+      "name": "Shape 5",
+      "bbox": [
+        57.6,
+        144,
+        678.72,
+        60.48
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FDF6E0",
+      "lineColor": "#C9A227",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rm547eps",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        72,
+        153.6,
+        649.92,
+        41.28
+      ],
+      "geometry": "rect",
+      "text": "✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。",
+      "textPreview": "✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "✎ 撰寫建議(繳交前請刪除)|"
+          },
+          {
+            "index": 2,
+            "text": "寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10"
+          },
+          {
+            "index": 3,
+            "text": "日改善時限都要點名回應,展現配合度。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "✎ 撰寫建議(繳交前請刪除)|",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#4A4A4A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1wny9o7",
+      "id": "9",
+      "name": "Text 7",
+      "bbox": [
+        57.6,
+        225.6,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "一、工作報告(對應需求書肆、二(一))",
+      "textPreview": "一、工作報告(對應需求書肆、二(一))",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一、工作報告(對應需求書肆、二(一))"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一、工作報告(對應需求書肆、二(一))",
+          "runs": [
+            {
+              "index": 1,
+              "text": "一、工作報告(對應需求書肆、二(一))",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vm503up",
+      "id": "10",
+      "name": "Text 8",
+      "bbox": [
+        57.6,
+        264,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。",
+      "textPreview": "自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較("
+          },
+          {
+            "index": 2,
+            "text": "預定 vs 實際)、待協調事項。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwv698ba",
+      "id": "11",
+      "name": "Text 9",
+      "bbox": [
+        57.6,
+        324.48,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "二、協調會議(對應需求書肆、二(二))",
+      "textPreview": "二、協調會議(對應需求書肆、二(二))",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "二、協調會議(對應需求書肆、二(二))"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "二、協調會議(對應需求書肆、二(二))",
+          "runs": [
+            {
+              "index": 1,
+              "text": "二、協調會議(對應需求書肆、二(二))",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/it4nydcj",
+      "id": "12",
+      "name": "Text 10",
+      "bbox": [
+        57.6,
+        362.88,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。",
+      "textPreview": "配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,"
+          },
+          {
+            "index": 2,
+            "text": "決議事項確實執行並於次月月報回報辦理情形。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3udo7it4",
+      "id": "13",
+      "name": "Text 11",
+      "bbox": [
+        57.6,
+        423.36,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "三、計畫送審(對應需求書肆、二(三))",
+      "textPreview": "三、計畫送審(對應需求書肆、二(三))",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三、計畫送審(對應需求書肆、二(三))"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三、計畫送審(對應需求書肆、二(三))",
+          "runs": [
+            {
+              "index": 1,
+              "text": "三、計畫送審(對應需求書肆、二(三))",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7m5w3ud",
+      "id": "14",
+      "name": "Text 12",
+      "bbox": [
+        57.6,
+        461.76,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。",
+      "textPreview": "依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行"
+          },
+          {
+            "index": 2,
+            "text": "施作。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hsv658vy",
+      "id": "15",
+      "name": "Text 13",
+      "bbox": [
+        57.6,
+        522.24,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "四、缺失改善(對應需求書肆、二(四))",
+      "textPreview": "四、缺失改善(對應需求書肆、二(四))",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "四、缺失改善(對應需求書肆、二(四))"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "四、缺失改善(對應需求書肆、二(四))",
+          "runs": [
+            {
+              "index": 1,
+              "text": "四、缺失改善(對應需求書肆、二(四))",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u5knutcn",
+      "id": "16",
+      "name": "Text 14",
+      "bbox": [
+        57.6,
+        560.64,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。",
+      "textPreview": "對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10"
+          },
+          {
+            "index": 2,
+            "text": "日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6do3yd8",
+      "id": "17",
+      "name": "Text 15",
+      "bbox": [
+        57.6,
+        621.12,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "五、本公司品質保證措施",
+      "textPreview": "五、本公司品質保證措施",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "五、本公司品質保證措施"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "五、本公司品質保證措施",
+          "runs": [
+            {
+              "index": 1,
+              "text": "五、本公司品質保證措施",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0n6p8nux",
+      "id": "18",
+      "name": "Text 16",
+      "bbox": [
+        69.12,
+        659.52,
+        667.2,
+        145.92
+      ],
+      "geometry": "rect",
+      "text": "三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。",
+      "textPreview": "三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。"
+          },
+          {
+            "index": 2,
+            "text": "• 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。"
+          },
+          {
+            "index": 3,
+            "text": "• 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

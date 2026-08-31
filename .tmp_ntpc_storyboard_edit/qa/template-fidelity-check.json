@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-08-31T03:26:57.736Z",
+  "workspace": "/Users/zhangzixuan/Desktop/hakka-food-linebot/.tmp_ntpc_storyboard_edit",
+  "finalPptx": "/Users/zhangzixuan/Desktop/hakka-food-linebot/新北市議會_第5屆簡介影片_詳細腳本_A4直式_含寫實分鏡.pptx",
+  "starterPptx": "/Users/zhangzixuan/Desktop/hakka-food-linebot/.tmp_ntpc_storyboard_edit/template-starter.pptx",
+  "mapPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/.tmp_ntpc_storyboard_edit/template-frame-map.json",
+  "starterLayoutDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/.tmp_ntpc_storyboard_edit/template-starter-layout",
+  "finalLayoutDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/.tmp_ntpc_storyboard_edit/layout/final",
+  "editDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/.tmp_ntpc_storyboard_edit",
+  "issueCount": 0,
+  "issues": []
+}

@@ -1,0 +1,1156 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/fu1gfa1s",
+    "id": "fu1gfa1s",
+    "slide": 8,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18byd4zy",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        30.72,
+        432,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "分鏡腳本｜03 議會職權",
+      "textPreview": "分鏡腳本｜03 議會職權",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "分鏡腳本｜03 議會職權"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "分鏡腳本｜03 議會職權",
+          "runs": [
+            {
+              "index": 1,
+              "text": "分鏡腳本｜03 議會職權",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g72x4zyd",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        448.32,
+        30.72,
+        288,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "新北市議會｜簡介影片腳本",
+      "textPreview": "新北市議會｜簡介影片腳本",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新北市議會｜簡介影片腳本"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新北市議會｜簡介影片腳本",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新北市議會｜簡介影片腳本",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ri9g7uhw",
+      "id": "4",
+      "name": "Shape 2",
+      "bbox": [
+        57.6,
+        59.52,
+        678.72,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3E7EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6h0fypgb",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1081.92,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "8",
+      "textPreview": "8",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "8"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "8",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "8",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tkby9kzm",
+      "id": "6",
+      "name": "Text 4",
+      "bbox": [
+        57.6,
+        84.48,
+        678.72,
+        48
+      ],
+      "geometry": "rect",
+      "text": "場景三｜把制度說清楚，讓職權看得見",
+      "textPreview": "場景三｜把制度說清楚，讓職權看得見",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "場景三｜把制度說清楚，讓職權看得見"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "場景三｜把制度說清楚，讓職權看得見",
+          "runs": [
+            {
+              "index": 1,
+              "text": "場景三｜把制度說清楚，讓職權看得見",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sjix0zy1",
+      "id": "7",
+      "name": "Shape 5",
+      "bbox": [
+        57.6,
+        144,
+        678.72,
+        60.48
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FDF6E0",
+      "lineColor": "#C9A227",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/je9g3ahk",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        72,
+        153.6,
+        649.92,
+        41.28
+      ],
+      "geometry": "rect",
+      "text": "◆ 01:35–02:25｜以『一張城市的共同帳本與規則』解釋職權，避免法條朗讀，讓國內外觀眾迅速理解。",
+      "textPreview": "◆ 01:35–02:25｜以『一張城市的共同帳本與規則』解釋職權，避免法條朗讀，讓國內外觀眾迅速理解。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "◆ 01:35–02:25｜以『一張城市的共同帳本與規則』解釋職權，避免法條朗讀，讓國內外觀眾迅速理解。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "◆ 01:35–02:25｜以『一張城市的共同帳本與規則』解釋職權，避免法條朗讀，讓國內外觀眾迅速理解。",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "◆ 01:35–02:25｜以『一張城市的共同帳本與規則』解釋職權，避免法條朗讀，讓國內外觀眾迅速理解。",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/id0fu50z",
+      "id": "9",
+      "name": "Text 7",
+      "bbox": [
+        57.6,
+        225.6,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "一、內容與旁白",
+      "textPreview": "一、內容與旁白",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一、內容與旁白"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一、內容與旁白",
+          "runs": [
+            {
+              "index": 1,
+              "text": "一、內容與旁白",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7ydoret",
+      "id": "10",
+      "name": "Text 8",
+      "bbox": [
+        57.6,
+        264,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "旁白：『市民選出的議員，在議會審議地方規章與預算、檢視決算、討論提案，也接受人民請願；每一次發言，都連結城市資源與生活選擇。』",
+      "textPreview": "旁白：『市民選出的議員，在議會審議地方規章與預算、檢視決算、討論提案，也接受人民請願；每一次發言，都連結城市資源與生活選擇。』",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旁白：『市民選出的議員，在議會審議地方規章與預算、檢視決算、討論提案，也接受人民請願；每一次發"
+          },
+          {
+            "index": 2,
+            "text": "言，都連結城市資源與生活選擇。』"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旁白：『市民選出的議員，在議會審議地方規章與預算、檢視決算、討論提案，也接受人民請願；每一次發言，都連結城市資源與生活選擇。』",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旁白：『市民選出的議員，在議會審議地方規章與預算、檢視決算、討論提案，也接受人民請願；每一次發言，都連結城市資源與生活選擇。』",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98rehwve",
+      "id": "11",
+      "name": "Text 9",
+      "bbox": [
+        57.6,
+        324.48,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "二、核心意義",
+      "textPreview": "二、核心意義",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "二、核心意義"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "二、核心意義",
+          "runs": [
+            {
+              "index": 1,
+              "text": "二、核心意義",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5gvmhwn",
+      "id": "12",
+      "name": "Text 10",
+      "bbox": [
+        57.6,
+        362.88,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "用清楚、非黨派的制度解說，建立議會作為地方立法與監督機關的專業形象。",
+      "textPreview": "用清楚、非黨派的制度解說，建立議會作為地方立法與監督機關的專業形象。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "用清楚、非黨派的制度解說，建立議會作為地方立法與監督機關的專業形象。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "用清楚、非黨派的制度解說，建立議會作為地方立法與監督機關的專業形象。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "用清楚、非黨派的制度解說，建立議會作為地方立法與監督機關的專業形象。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6pwfmd8",
+      "id": "13",
+      "name": "Text 11",
+      "bbox": [
+        57.6,
+        423.36,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "三、畫面與鏡位",
+      "textPreview": "三、畫面與鏡位",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三、畫面與鏡位"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三、畫面與鏡位",
+          "runs": [
+            {
+              "index": 1,
+              "text": "三、畫面與鏡位",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0jydkreh",
+      "id": "14",
+      "name": "Text 12",
+      "bbox": [
+        57.6,
+        461.76,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "議場空鏡→議程文件→會議進行；24mm 對稱廣角建立秩序，50mm 肩上鏡頭拍閱讀文件，特寫議事槌與表決設備。",
+      "textPreview": "議場空鏡→議程文件→會議進行；24mm 對稱廣角建立秩序，50mm 肩上鏡頭拍閱讀文件，特寫議事槌與表決設備。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "議場空鏡→議程文件→會議進行；24mm 對稱廣角建立秩序，50mm"
+          },
+          {
+            "index": 2,
+            "text": "肩上鏡頭拍閱讀文件，特寫議事槌與表決設備。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "議場空鏡→議程文件→會議進行；24mm 對稱廣角建立秩序，50mm 肩上鏡頭拍閱讀文件，特寫議事槌與表決設備。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "議場空鏡→議程文件→會議進行；24mm 對稱廣角建立秩序，50mm 肩上鏡頭拍閱讀文件，特寫議事槌與表決設備。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1k7edwv2",
+      "id": "15",
+      "name": "Text 13",
+      "bbox": [
+        57.6,
+        522.24,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "四、動態圖像",
+      "textPreview": "四、動態圖像",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "四、動態圖像"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "四、動態圖像",
+          "runs": [
+            {
+              "index": 1,
+              "text": "四、動態圖像",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ehgvihwr",
+      "id": "16",
+      "name": "Text 14",
+      "bbox": [
+        57.6,
+        560.64,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "以『規章／預算／決算／提案／請願』五個關鍵詞沿圓形議場展開；每項只配一個生活例子，不放抽象圖示堆疊。",
+      "textPreview": "以『規章／預算／決算／提案／請願』五個關鍵詞沿圓形議場展開；每項只配一個生活例子，不放抽象圖示堆疊。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "以『規章／預算／決算／提案／請願』五個關鍵詞沿圓形議場展開；每項只配一個生活例子，不放抽象圖示"
+          },
+          {
+            "index": 2,
+            "text": "堆疊。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "以『規章／預算／決算／提案／請願』五個關鍵詞沿圓形議場展開；每項只配一個生活例子，不放抽象圖示堆疊。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "以『規章／預算／決算／提案／請願』五個關鍵詞沿圓形議場展開；每項只配一個生活例子，不放抽象圖示堆疊。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zipwbmdc",
+      "id": "17",
+      "name": "Text 15",
+      "bbox": [
+        57.6,
+        621.12,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "五、轉場與拍攝提醒",
+      "textPreview": "五、轉場與拍攝提醒",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "五、轉場與拍攝提醒"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "五、轉場與拍攝提醒",
+          "runs": [
+            {
+              "index": 1,
+              "text": "五、轉場與拍攝提醒",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfixwbe1",
+      "id": "18",
+      "name": "Text 16",
+      "bbox": [
+        69.12,
+        659.52,
+        667.2,
+        145.92
+      ],
+      "geometry": "rect",
+      "text": "最後停在『請願／市民聲音』，圖像線條延伸成一條路，帶往下一幕的市民情境。\n所有職權文字以最新法規與議會核定版本為準。",
+      "textPreview": "最後停在『請願／市民聲音』，圖像線條延伸成一條路，帶往下一幕的市民情境。 | 所有職權文字以最新法規與議會核定版本為準。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 最後停在『請願／市民聲音』，圖像線條延伸成一條路，帶往下一幕的市民情境。"
+          },
+          {
+            "index": 2,
+            "text": "• 所有職權文字以最新法規與議會核定版本為準。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "最後停在『請願／市民聲音』，圖像線條延伸成一條路，帶往下一幕的市民情境。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "最後停在『請願／市民聲音』，圖像線條延伸成一條路，帶往下一幕的市民情境。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "所有職權文字以最新法規與議會核定版本為準。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "所有職權文字以最新法規與議會核定版本為準。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/mt47qt0z",
+      "id": "19",
+      "bbox": [
+        187,
+        832,
+        420,
+        214
+      ],
+      "geometry": "roundRect",
+      "alt": "分鏡示意：現代地方議會議場於會前準備",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 3738"
+          }
+        ]
+      },
+      "prompt": "AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.",
+      "asset": {
+        "assetId": "268a61fe-08b5-46b5-bc2b-d9e30a6dc925",
+        "contentType": "image/png",
+        "prompt": "AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.",
+        "byteLength": 1945339
+      }
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tw7e9gnq",
+      "id": "20",
+      "name": "Storyboard Concept Label 03",
+      "bbox": [
+        187,
+        810,
+        420,
+        22
+      ],
+      "geometry": "rect",
+      "text": "AI 分鏡示意｜非實拍",
+      "textPreview": "AI 分鏡示意｜非實拍",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 11.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#8A701B",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "none",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 8,
+          "bottom": 0,
+          "left": 8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AI 分鏡示意｜非實拍"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AI 分鏡示意｜非實拍",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#8A701B",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI 分鏡示意｜非實拍",
+              "fontSize": 11.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

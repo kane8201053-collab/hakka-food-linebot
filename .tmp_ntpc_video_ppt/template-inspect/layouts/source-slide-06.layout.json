@@ -1,0 +1,1455 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/x8f69ofe",
+    "id": "x8f69ofe",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhg7epsj",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        30.72,
+        432,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "肆、專案執行計畫",
+      "textPreview": "肆、專案執行計畫",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "肆、專案執行計畫"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "肆、專案執行計畫",
+          "runs": [
+            {
+              "index": 1,
+              "text": "肆、專案執行計畫",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zi98nu94",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        448.32,
+        30.72,
+        288,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "新北市議會案 服務建議書",
+      "textPreview": "新北市議會案 服務建議書",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新北市議會案 服務建議書"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新北市議會案 服務建議書",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新北市議會案 服務建議書",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87ipkzal",
+      "id": "4",
+      "name": "Shape 2",
+      "bbox": [
+        57.6,
+        59.52,
+        678.72,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3E7EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98rqt4r6",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1081.92,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "7",
+      "textPreview": "7",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "7"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "7",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "7",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ml07i9sv",
+      "id": "6",
+      "name": "Text 4",
+      "bbox": [
+        57.6,
+        84.48,
+        678.72,
+        48
+      ],
+      "geometry": "rect",
+      "text": "肆、專案執行計畫",
+      "textPreview": "肆、專案執行計畫",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "肆、專案執行計畫"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "肆、專案執行計畫",
+          "runs": [
+            {
+              "index": 1,
+              "text": "肆、專案執行計畫",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7m98ru9g",
+      "id": "7",
+      "name": "Shape 5",
+      "bbox": [
+        57.6,
+        144,
+        678.72,
+        78.24
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FDF6E0",
+      "lineColor": "#C9A227",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oryp8fah",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        72,
+        153.6,
+        649.92,
+        59.04
+      ],
+      "geometry": "rect",
+      "text": "✎ 撰寫建議(繳交前請刪除)|全書最重要、篇幅最長的一章(建議佔 40% 以上)。各小節均對應需求書參之條文;請填入實際品牌型號與細部作法,並盡量加入示意圖、配置圖、分鏡表——視覺化內容是評選簡報最有力的素材。",
+      "textPreview": "✎ 撰寫建議(繳交前請刪除)|全書最重要、篇幅最長的一章(建議佔 40% 以上)。各小節均對應需求書參之條文;請填入實際品牌型號與細部作法,並盡量加入示意圖、配置圖、分鏡表——視覺化內容是評選簡報最有力的素材。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "✎ 撰寫建議(繳交前請刪除)|全書最重要、篇幅最長的一章(建議佔 40%"
+          },
+          {
+            "index": 2,
+            "text": "以上)。各小節均對應需求書參之條文;請填入實際品牌型號與細部作法,並盡量加入示意圖、配置圖、分鏡表——視"
+          },
+          {
+            "index": 3,
+            "text": "覺化內容是評選簡報最有力的素材。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "✎ 撰寫建議(繳交前請刪除)|全書最重要、篇幅最長的一章(建議佔 40% 以上)。各小節均對應需求書參之條文;請填入實際品牌型號與細部作法,並盡量加入示意圖、配置圖、分鏡表——視覺化內容是評選簡報最有力的素材。",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "✎ 撰寫建議(繳交前請刪除)|",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "全書最重要、篇幅最長的一章(建議佔 40% 以上)。各小節均對應需求書參之條文;請填入實際品牌型號與細部作法,並盡量加入示意圖、配置圖、分鏡表——視覺化內容是評選簡報最有力的素材。",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#4A4A4A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pc76hkr2",
+      "id": "9",
+      "name": "Text 7",
+      "bbox": [
+        57.6,
+        243.36,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "一、會史館展示內容更新規劃(對應需求書參、一)",
+      "textPreview": "一、會史館展示內容更新規劃(對應需求書參、一)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一、會史館展示內容更新規劃(對應需求書參、一)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一、會史館展示內容更新規劃(對應需求書參、一)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "一、會史館展示內容更新規劃(對應需求書參、一)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4bupgn6",
+      "id": "10",
+      "name": "Text 8",
+      "bbox": [
+        57.6,
+        285.6,
+        678.72,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "(一)展板視覺設計及內容更新——六大展區逐區規劃",
+      "textPreview": "(一)展板視覺設計及內容更新——六大展區逐區規劃",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "(一)展板視覺設計及內容更新——六大展區逐區規劃"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "(一)展板視覺設計及內容更新——六大展區逐區規劃",
+          "runs": [
+            {
+              "index": 1,
+              "text": "(一)展板視覺設計及內容更新——六大展區逐區規劃",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#3A4A6B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/bil0belk",
+      "id": "19",
+      "name": "Table 0",
+      "bbox": [
+        57.6,
+        317.28,
+        678.72,
+        96
+      ],
+      "text": "展區 | 更新規劃(示例)\n主題形象區 | 以主視覺重塑入口意象,設置策展主軸牆與議會大事紀年表。\n歷屆議會區 | 梳理第1至4屆議會沿革,以時間軸展板呈現重要決議與里程碑。\n議會首長區 | 更新歷任正副議長介紹,新增第5屆正副議長專區。\n議會資訊區 | 更新議事流程、組織架構、預算審議等公民教育圖解內容。\n本屆議會區 | 全面改版:第5屆議員介紹、選區分布圖、委員會組成。\n國際交流區 | 更新姊妹市/友好城市交流成果,呈現城市外交紀錄。",
+      "textPreview": "展區 | 更新規劃(示例) | 主題形象區 | 以主視覺重塑入口意象,設置策展主軸牆與議會大事紀年表。 | 歷屆議會區 | 梳理第1至4屆議會沿革,以時間軸展板呈現重要決議與里程碑。 | 議會首長區 | 更新歷任正副議長介紹,新增第5屆正副議長專區。 | 議會資訊區 | 更...",
+      "rows": 7,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            317.28,
+            163.2,
+            13.71
+          ],
+          "text": "展區",
+          "textPreview": "展區",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "展區",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "展區",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            220.8,
+            317.28,
+            515.52,
+            13.71
+          ],
+          "text": "更新規劃(示例)",
+          "textPreview": "更新規劃(示例)",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "更新規劃(示例)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "更新規劃(示例)",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            330.99,
+            163.2,
+            13.71
+          ],
+          "text": "主題形象區",
+          "textPreview": "主題形象區",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "主題形象區",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "主題形象區",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            220.8,
+            330.99,
+            515.52,
+            13.71
+          ],
+          "text": "以主視覺重塑入口意象,設置策展主軸牆與議會大事紀年表。",
+          "textPreview": "以主視覺重塑入口意象,設置策展主軸牆與議會大事紀年表。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "以主視覺重塑入口意象,設置策展主軸牆與議會大事紀年表。",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "以主視覺重塑入口意象,設置策展主軸牆與議會大事紀年表。",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            344.71,
+            163.2,
+            13.71
+          ],
+          "text": "歷屆議會區",
+          "textPreview": "歷屆議會區",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "歷屆議會區",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "歷屆議會區",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            220.8,
+            344.71,
+            515.52,
+            13.71
+          ],
+          "text": "梳理第1至4屆議會沿革,以時間軸展板呈現重要決議與里程碑。",
+          "textPreview": "梳理第1至4屆議會沿革,以時間軸展板呈現重要決議與里程碑。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "梳理第1至4屆議會沿革,以時間軸展板呈現重要決議與里程碑。",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "梳理第1至4屆議會沿革,以時間軸展板呈現重要決議與里程碑。",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.6,
+            358.42,
+            163.2,
+            13.71
+          ],
+          "text": "議會首長區",
+          "textPreview": "議會首長區",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "議會首長區",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "議會首長區",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            220.8,
+            358.42,
+            515.52,
+            13.71
+          ],
+          "text": "更新歷任正副議長介紹,新增第5屆正副議長專區。",
+          "textPreview": "更新歷任正副議長介紹,新增第5屆正副議長專區。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "更新歷任正副議長介紹,新增第5屆正副議長專區。",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "更新歷任正副議長介紹,新增第5屆正副議長專區。",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            57.6,
+            372.14,
+            163.2,
+            13.71
+          ],
+          "text": "議會資訊區",
+          "textPreview": "議會資訊區",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "議會資訊區",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "議會資訊區",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            220.8,
+            372.14,
+            515.52,
+            13.71
+          ],
+          "text": "更新議事流程、組織架構、預算審議等公民教育圖解內容。",
+          "textPreview": "更新議事流程、組織架構、預算審議等公民教育圖解內容。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "更新議事流程、組織架構、預算審議等公民教育圖解內容。",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "更新議事流程、組織架構、預算審議等公民教育圖解內容。",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            57.6,
+            385.85,
+            163.2,
+            13.71
+          ],
+          "text": "本屆議會區",
+          "textPreview": "本屆議會區",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本屆議會區",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本屆議會區",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            220.8,
+            385.85,
+            515.52,
+            13.71
+          ],
+          "text": "全面改版:第5屆議員介紹、選區分布圖、委員會組成。",
+          "textPreview": "全面改版:第5屆議員介紹、選區分布圖、委員會組成。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "全面改版:第5屆議員介紹、選區分布圖、委員會組成。",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "全面改版:第5屆議員介紹、選區分布圖、委員會組成。",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            57.6,
+            399.57,
+            163.2,
+            13.71
+          ],
+          "text": "國際交流區",
+          "textPreview": "國際交流區",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "國際交流區",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "國際交流區",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            220.8,
+            399.57,
+            515.52,
+            13.71
+          ],
+          "text": "更新姊妹市/友好城市交流成果,呈現城市外交紀錄。",
+          "textPreview": "更新姊妹市/友好城市交流成果,呈現城市外交紀錄。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "更新姊妹市/友好城市交流成果,呈現城市外交紀錄。",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "更新姊妹市/友好城市交流成果,呈現城市外交紀錄。",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2tcn650",
+      "id": "12",
+      "name": "Text 9",
+      "bbox": [
+        57.6,
+        524.27,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "展板採○○材質(示例:5mm 鋁塑板 UV 直噴或可更換式卡布燈箱),兼顧質感與日後議員更迭時之抽換維護便利;既有燈箱、影像裝置及紀念品陳列一併檢視整理。",
+      "textPreview": "展板採○○材質(示例:5mm 鋁塑板 UV 直噴或可更換式卡布燈箱),兼顧質感與日後議員更迭時之抽換維護便利;既有燈箱、影像裝置及紀念品陳列一併檢視整理。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "展板採○○材質(示例:5mm 鋁塑板 UV"
+          },
+          {
+            "index": 2,
+            "text": "直噴或可更換式卡布燈箱),兼顧質感與日後議員更迭時之抽換維護便利;既有燈箱、影像裝置及紀念品陳列一"
+          },
+          {
+            "index": 3,
+            "text": "併檢視整理。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "展板採○○材質(示例:5mm 鋁塑板 UV 直噴或可更換式卡布燈箱),兼顧質感與日後議員更迭時之抽換維護便利;既有燈箱、影像裝置及紀念品陳列一併檢視整理。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "展板採○○材質(示例:5mm 鋁塑板 UV 直噴或可更換式卡布燈箱),兼顧質感與日後議員更迭時之抽換維護便利;既有燈箱、影像裝置及紀念品陳列一併檢視整理。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u1kbu1ov",
+      "id": "13",
+      "name": "Text 10",
+      "bbox": [
+        57.6,
+        580.91,
+        678.72,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "(二)影音及導覽系統內容更新",
+      "textPreview": "(二)影音及導覽系統內容更新",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "(二)影音及導覽系統內容更新"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "(二)影音及導覽系統內容更新",
+          "runs": [
+            {
+              "index": 1,
+              "text": "(二)影音及導覽系統內容更新",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#3A4A6B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5svutgni",
+      "id": "14",
+      "name": "Text 11",
+      "bbox": [
+        57.6,
+        612.59,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "各展區影音播放內容配合新展示主題全面更新;導覽系統更新各區導覽腳本與多語介面(與簡介影片五語素材共用),並汰換老舊播放主機○台(視現場勘查調整)。",
+      "textPreview": "各展區影音播放內容配合新展示主題全面更新;導覽系統更新各區導覽腳本與多語介面(與簡介影片五語素材共用),並汰換老舊播放主機○台(視現場勘查調整)。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "各展區影音播放內容配合新展示主題全面更新;導覽系統更新各區導覽腳本與多語介面(與簡介影片五語素材"
+          },
+          {
+            "index": 2,
+            "text": "共用),並汰換老舊播放主機○台(視現場勘查調整)。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "各展區影音播放內容配合新展示主題全面更新;導覽系統更新各區導覽腳本與多語介面(與簡介影片五語素材共用),並汰換老舊播放主機○台(視現場勘查調整)。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "各展區影音播放內容配合新展示主題全面更新;導覽系統更新各區導覽腳本與多語介面(與簡介影片五語素材共用),並汰換老舊播放主機○台(視現場勘查調整)。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47mt0b6x",
+      "id": "15",
+      "name": "Text 12",
+      "bbox": [
+        57.6,
+        669.23,
+        678.72,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "(三)AR 擴增實境軟體優化及更新",
+      "textPreview": "(三)AR 擴增實境軟體優化及更新",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "(三)AR 擴增實境軟體優化及更新"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "(三)AR 擴增實境軟體優化及更新",
+          "runs": [
+            {
+              "index": 1,
+              "text": "(三)AR 擴增實境軟體優化及更新",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#3A4A6B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6dcr65c",
+      "id": "16",
+      "name": "Text 13",
+      "bbox": [
+        57.6,
+        700.91,
+        678.72,
+        65.28
+      ],
+      "geometry": "rect",
+      "text": "三面向優化:內容更新(第5屆素材)、效能優化(縮短辨識與載入時間)、體驗優化(介面重整,新增○○互動情境,示例:與虛擬議事槌合影、議事流程小遊戲)。更新後軟體及素材均可於 Microsoft Windows 環境檢視,並移交原始檔與授權文件。",
+      "textPreview": "三面向優化:內容更新(第5屆素材)、效能優化(縮短辨識與載入時間)、體驗優化(介面重整,新增○○互動情境,示例:與虛擬議事槌合影、議事流程小遊戲)。更新後軟體及素材均可於 Microsoft Windows 環境檢視,並移交原始檔與授權文件。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三面向優化:內容更新(第5屆素材)、效能優化(縮短辨識與載入時間)、體驗優化(介面重整,新增○○互動情境,示"
+          },
+          {
+            "index": 2,
+            "text": "例:與虛擬議事槌合影、議事流程小遊戲)。更新後軟體及素材均可於 Microsoft Windows"
+          },
+          {
+            "index": 3,
+            "text": "環境檢視,並移交原始檔與授權文件。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三面向優化:內容更新(第5屆素材)、效能優化(縮短辨識與載入時間)、體驗優化(介面重整,新增○○互動情境,示例:與虛擬議事槌合影、議事流程小遊戲)。更新後軟體及素材均可於 Microsoft Windows 環境檢視,並移交原始檔與授權文件。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "三面向優化:內容更新(第5屆素材)、效能優化(縮短辨識與載入時間)、體驗優化(介面重整,新增○○互動情境,示例:與虛擬議事槌合影、議事流程小遊戲)。更新後軟體及素材均可於 Microsoft Windows 環境檢視,並移交原始檔與授權文件。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i54bylor",
+      "id": "17",
+      "name": "Text 14",
+      "bbox": [
+        57.6,
+        777.71,
+        678.72,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "(四)施工保護與拆除措施(對應需求書參、五(一))",
+      "textPreview": "(四)施工保護與拆除措施(對應需求書參、五(一))",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "(四)施工保護與拆除措施(對應需求書參、五(一))"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "(四)施工保護與拆除措施(對應需求書參、五(一))",
+          "runs": [
+            {
+              "index": 1,
+              "text": "(四)施工保護與拆除措施(對應需求書參、五(一))",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#3A4A6B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twfux0ne",
+      "id": "18",
+      "name": "Text 15",
+      "bbox": [
+        57.6,
+        809.39,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "涉及拆除工程時,施作前鋪設保護材、劃設工區動線,貴重展品先行造冊移置;施工避開開放參觀時段,並投保營造綜合保險○○萬元(示例)。",
+      "textPreview": "涉及拆除工程時,施作前鋪設保護材、劃設工區動線,貴重展品先行造冊移置;施工避開開放參觀時段,並投保營造綜合保險○○萬元(示例)。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "涉及拆除工程時,施作前鋪設保護材、劃設工區動線,貴重展品先行造冊移置;施工避開開放參觀時段,並投保營"
+          },
+          {
+            "index": 2,
+            "text": "造綜合保險○○萬元(示例)。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "涉及拆除工程時,施作前鋪設保護材、劃設工區動線,貴重展品先行造冊移置;施工避開開放參觀時段,並投保營造綜合保險○○萬元(示例)。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "涉及拆除工程時,施作前鋪設保護材、劃設工區動線,貴重展品先行造冊移置;施工避開開放參觀時段,並投保營造綜合保險○○萬元(示例)。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

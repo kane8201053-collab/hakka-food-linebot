@@ -1,0 +1,1689 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/gnmp4jqx",
+    "id": "gnmp4jqx",
+    "slide": 7,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cb2tkvap",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        30.72,
+        432,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "肆、專案執行計畫",
+      "textPreview": "肆、專案執行計畫",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "肆、專案執行計畫"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "肆、專案執行計畫",
+          "runs": [
+            {
+              "index": 1,
+              "text": "肆、專案執行計畫",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbud0ra",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        448.32,
+        30.72,
+        288,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "新北市議會案 服務建議書",
+      "textPreview": "新北市議會案 服務建議書",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新北市議會案 服務建議書"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新北市議會案 服務建議書",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新北市議會案 服務建議書",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ydkbm5sv",
+      "id": "4",
+      "name": "Shape 2",
+      "bbox": [
+        57.6,
+        59.52,
+        678.72,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3E7EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zedcfa9g",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1081.92,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "8",
+      "textPreview": "8",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "8"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "8",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "8",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzmdova1",
+      "id": "6",
+      "name": "Text 4",
+      "bbox": [
+        57.6,
+        92.16,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "二、簡報室設備更新規劃(對應需求書參、二)",
+      "textPreview": "二、簡報室設備更新規劃(對應需求書參、二)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "二、簡報室設備更新規劃(對應需求書參、二)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "二、簡報室設備更新規劃(對應需求書參、二)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "二、簡報室設備更新規劃(對應需求書參、二)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0vuh0rm",
+      "id": "7",
+      "name": "Text 5",
+      "bbox": [
+        57.6,
+        134.4,
+        678.72,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "(一)LED 全彩螢幕規格回應",
+      "textPreview": "(一)LED 全彩螢幕規格回應",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "(一)LED 全彩螢幕規格回應"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "(一)LED 全彩螢幕規格回應",
+          "runs": [
+            {
+              "index": 1,
+              "text": "(一)LED 全彩螢幕規格回應",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#3A4A6B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/sfa5gryp",
+      "id": "18",
+      "name": "Table 0",
+      "bbox": [
+        57.6,
+        166.08,
+        678.72,
+        96
+      ],
+      "text": "項目 | 需求書規格(最低門檻) | 本公司擬供規格(請填入)\n螢幕尺寸 | 不得小於 460 × 258 cm | ○○ × ○○ cm\n點距 | 等於或小於 P1.86 | P○○\n解析度 | 不低於 2,608 × 1,462(3,812,896 像素) | ○○ × ○○\n亮度 | 不得小於 800 cd/m² | ○○ cd/m²\n出廠年份 | 2022 年以後出廠 | 20○○ 年(附原廠出廠證明)\n品牌/產地 | 不得使用中國大陸廠牌資通訊產品 | ○○牌(產地:○○)",
+      "textPreview": "項目 | 需求書規格(最低門檻) | 本公司擬供規格(請填入) | 螢幕尺寸 | 不得小於 460 × 258 cm | ○○ × ○○ cm | 點距 | 等於或小於 P1.86 | P○○ | 解析度 | 不低於 2,608 × 1,462(3,812,896 像素) ...",
+      "rows": 7,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            166.08,
+            153.6,
+            13.71
+          ],
+          "text": "項目",
+          "textPreview": "項目",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "項目",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "項目",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            211.2,
+            166.08,
+            268.8,
+            13.71
+          ],
+          "text": "需求書規格(最低門檻)",
+          "textPreview": "需求書規格(最低門檻)",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "需求書規格(最低門檻)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "需求書規格(最低門檻)",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            480,
+            166.08,
+            256.32,
+            13.71
+          ],
+          "text": "本公司擬供規格(請填入)",
+          "textPreview": "本公司擬供規格(請填入)",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本公司擬供規格(請填入)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本公司擬供規格(請填入)",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            179.79,
+            153.6,
+            13.71
+          ],
+          "text": "螢幕尺寸",
+          "textPreview": "螢幕尺寸",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "螢幕尺寸",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "螢幕尺寸",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            211.2,
+            179.79,
+            268.8,
+            13.71
+          ],
+          "text": "不得小於 460 × 258 cm",
+          "textPreview": "不得小於 460 × 258 cm",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "不得小於 460 × 258 cm",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "不得小於 460 × 258 cm",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            480,
+            179.79,
+            256.32,
+            13.71
+          ],
+          "text": "○○ × ○○ cm",
+          "textPreview": "○○ × ○○ cm",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "○○ × ○○ cm",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "○○ × ○○ cm",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            193.51,
+            153.6,
+            13.71
+          ],
+          "text": "點距",
+          "textPreview": "點距",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "點距",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "點距",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            211.2,
+            193.51,
+            268.8,
+            13.71
+          ],
+          "text": "等於或小於 P1.86",
+          "textPreview": "等於或小於 P1.86",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "等於或小於 P1.86",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "等於或小於 P1.86",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            480,
+            193.51,
+            256.32,
+            13.71
+          ],
+          "text": "P○○",
+          "textPreview": "P○○",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "P○○",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "P○○",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.6,
+            207.22,
+            153.6,
+            13.71
+          ],
+          "text": "解析度",
+          "textPreview": "解析度",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "解析度",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "解析度",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            211.2,
+            207.22,
+            268.8,
+            13.71
+          ],
+          "text": "不低於 2,608 × 1,462(3,812,896 像素)",
+          "textPreview": "不低於 2,608 × 1,462(3,812,896 像素)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "不低於 2,608 × 1,462(3,812,896 像素)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "不低於 2,608 × 1,462(3,812,896 像素)",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            480,
+            207.22,
+            256.32,
+            13.71
+          ],
+          "text": "○○ × ○○",
+          "textPreview": "○○ × ○○",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "○○ × ○○",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "○○ × ○○",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            57.6,
+            220.94,
+            153.6,
+            13.71
+          ],
+          "text": "亮度",
+          "textPreview": "亮度",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "亮度",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "亮度",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            211.2,
+            220.94,
+            268.8,
+            13.71
+          ],
+          "text": "不得小於 800 cd/m²",
+          "textPreview": "不得小於 800 cd/m²",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "不得小於 800 cd/m²",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "不得小於 800 cd/m²",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            480,
+            220.94,
+            256.32,
+            13.71
+          ],
+          "text": "○○ cd/m²",
+          "textPreview": "○○ cd/m²",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "○○ cd/m²",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "○○ cd/m²",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            57.6,
+            234.65,
+            153.6,
+            13.71
+          ],
+          "text": "出廠年份",
+          "textPreview": "出廠年份",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "出廠年份",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "出廠年份",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            211.2,
+            234.65,
+            268.8,
+            13.71
+          ],
+          "text": "2022 年以後出廠",
+          "textPreview": "2022 年以後出廠",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2022 年以後出廠",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2022 年以後出廠",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            480,
+            234.65,
+            256.32,
+            13.71
+          ],
+          "text": "20○○ 年(附原廠出廠證明)",
+          "textPreview": "20○○ 年(附原廠出廠證明)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "20○○ 年(附原廠出廠證明)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "20○○ 年(附原廠出廠證明)",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            57.6,
+            248.37,
+            153.6,
+            13.71
+          ],
+          "text": "品牌/產地",
+          "textPreview": "品牌/產地",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "品牌/產地",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "品牌/產地",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            211.2,
+            248.37,
+            268.8,
+            13.71
+          ],
+          "text": "不得使用中國大陸廠牌資通訊產品",
+          "textPreview": "不得使用中國大陸廠牌資通訊產品",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "不得使用中國大陸廠牌資通訊產品",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "不得使用中國大陸廠牌資通訊產品",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            480,
+            248.37,
+            256.32,
+            13.71
+          ],
+          "text": "○○牌(產地:○○)",
+          "textPreview": "○○牌(產地:○○)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "○○牌(產地:○○)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "○○牌(產地:○○)",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/eh0ba1sr",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        57.6,
+        393.2,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "擬供品牌型號:○○牌 ○○型(原廠型錄詳附件四,依需求書規定逐項標明)。含 LED 控制系統、視訊處理器、訊號整合介面,與既有擴音系統及新影片播放系統整合測試。",
+      "textPreview": "擬供品牌型號:○○牌 ○○型(原廠型錄詳附件四,依需求書規定逐項標明)。含 LED 控制系統、視訊處理器、訊號整合介面,與既有擴音系統及新影片播放系統整合測試。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "擬供品牌型號:○○牌 ○○型(原廠型錄詳附件四,依需求書規定逐項標明)。含 LED"
+          },
+          {
+            "index": 2,
+            "text": "控制系統、視訊處理器、訊號整合介面,與既有擴音系統及新影片播放系統整合測試。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "擬供品牌型號:○○牌 ○○型(原廠型錄詳附件四,依需求書規定逐項標明)。含 LED 控制系統、視訊處理器、訊號整合介面,與既有擴音系統及新影片播放系統整合測試。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "擬供品牌型號:○○牌 ○○型(原廠型錄詳附件四,依需求書規定逐項標明)。含 LED 控制系統、視訊處理器、訊號整合介面,與既有擴音系統及新影片播放系統整合測試。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/baxkjqlk",
+      "id": "10",
+      "name": "Text 7",
+      "bbox": [
+        57.6,
+        449.84,
+        678.72,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "(二)邊框修飾及講桌更換",
+      "textPreview": "(二)邊框修飾及講桌更換",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "(二)邊框修飾及講桌更換"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "(二)邊框修飾及講桌更換",
+          "runs": [
+            {
+              "index": 1,
+              "text": "(二)邊框修飾及講桌更換",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#3A4A6B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9ojq5kz",
+      "id": "11",
+      "name": "Text 8",
+      "bbox": [
+        57.6,
+        481.52,
+        678.72,
+        65.28
+      ],
+      "geometry": "rect",
+      "text": "LED 螢幕安裝後以○○材質(示例:金屬烤漆收邊板)進行邊框修飾,與簡報室整體色調一致;講桌更換為具訊號整合面板之多媒體講桌(示例規格:內建控制面板、HDMI/USB-C 輸入、鵝頸麥克風座)。",
+      "textPreview": "LED 螢幕安裝後以○○材質(示例:金屬烤漆收邊板)進行邊框修飾,與簡報室整體色調一致;講桌更換為具訊號整合面板之多媒體講桌(示例規格:內建控制面板、HDMI/USB-C 輸入、鵝頸麥克風座)。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LED"
+          },
+          {
+            "index": 2,
+            "text": "螢幕安裝後以○○材質(示例:金屬烤漆收邊板)進行邊框修飾,與簡報室整體色調一致;講桌更換為具訊號整合面"
+          },
+          {
+            "index": 3,
+            "text": "板之多媒體講桌(示例規格:內建控制面板、HDMI/USB-C 輸入、鵝頸麥克風座)。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LED 螢幕安裝後以○○材質(示例:金屬烤漆收邊板)進行邊框修飾,與簡報室整體色調一致;講桌更換為具訊號整合面板之多媒體講桌(示例規格:內建控制面板、HDMI/USB-C 輸入、鵝頸麥克風座)。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LED 螢幕安裝後以○○材質(示例:金屬烤漆收邊板)進行邊框修飾,與簡報室整體色調一致;講桌更換為具訊號整合面板之多媒體講桌(示例規格:內建控制面板、HDMI/USB-C 輸入、鵝頸麥克風座)。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xcz2l03q",
+      "id": "12",
+      "name": "Text 9",
+      "bbox": [
+        57.6,
+        554.48,
+        678.72,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "【平面配置示意圖預留位置:簡報室設備配置前後對照,建議置入 1 頁】",
+      "textPreview": "【平面配置示意圖預留位置:簡報室設備配置前後對照,建議置入 1 頁】",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "【平面配置示意圖預留位置:簡報室設備配置前後對照,建議置入 1 頁】"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "【平面配置示意圖預留位置:簡報室設備配置前後對照,建議置入 1 頁】",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "【平面配置示意圖預留位置:簡報室設備配置前後對照,建議置入 1 頁】",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "italic": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbq1sv25",
+      "id": "13",
+      "name": "Text 10",
+      "bbox": [
+        57.6,
+        594.8,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "三、第5屆簡介影片製作規劃(對應需求書參、三)",
+      "textPreview": "三、第5屆簡介影片製作規劃(對應需求書參、三)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三、第5屆簡介影片製作規劃(對應需求書參、三)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三、第5屆簡介影片製作規劃(對應需求書參、三)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "三、第5屆簡介影片製作規劃(對應需求書參、三)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6x0fqlo",
+      "id": "14",
+      "name": "Text 11",
+      "bbox": [
+        57.6,
+        637.04,
+        678.72,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "(一)影片定位與腳本方向——長度 10 至 12 分鐘,三段式結構(示例)",
+      "textPreview": "(一)影片定位與腳本方向——長度 10 至 12 分鐘,三段式結構(示例)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "(一)影片定位與腳本方向——長度 10 至 12 分鐘,三段式結構(示例)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "(一)影片定位與腳本方向——長度 10 至 12 分鐘,三段式結構(示例)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "(一)影片定位與腳本方向——長度 10 至 12 分鐘,三段式結構(示例)",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#3A4A6B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25ojml43",
+      "id": "15",
+      "name": "Text 12",
+      "bbox": [
+        69.12,
+        668.72,
+        667.2,
+        105.6
+      ],
+      "geometry": "rect",
+      "text": "開場(約2分鐘):新北意象與議會定位——最高民意機關的角色。\n主體(約7分鐘):循「一件市民陳情案的旅程」敘事線,帶出議事運作、委員會審查、質詢監督、預算審議與為民服務場景,穿插議員與市民訪談。\n結尾(約2分鐘):第5屆議會願景與國際交流,回扣「民主的日常」主軸。",
+      "textPreview": "開場(約2分鐘):新北意象與議會定位——最高民意機關的角色。 | 主體(約7分鐘):循「一件市民陳情案的旅程」敘事線,帶出議事運作、委員會審查、質詢監督、預算審議與為民服務場景,穿插議員與市民訪談。 | 結尾(約2分鐘):第5屆議會願景與國際交流,回扣「民主的日常」主軸。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 開場(約2分鐘):新北意象與議會定位——最高民意機關的角色。"
+          },
+          {
+            "index": 2,
+            "text": "• "
+          },
+          {
+            "index": 3,
+            "text": "主體(約7分鐘):循「一件市民陳情案的旅程」敘事線,帶出議事運作、委員會審查、質詢監督、預算審議"
+          },
+          {
+            "index": 4,
+            "text": "與為民服務場景,穿插議員與市民訪談。"
+          },
+          {
+            "index": 5,
+            "text": "• 結尾(約2分鐘):第5屆議會願景與國際交流,回扣「民主的日常」主軸。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "開場(約2分鐘):新北意象與議會定位——最高民意機關的角色。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "開場(約2分鐘):新北意象與議會定位——最高民意機關的角色。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "主體(約7分鐘):循「一件市民陳情案的旅程」敘事線,帶出議事運作、委員會審查、質詢監督、預算審議與為民服務場景,穿插議員與市民訪談。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "主體(約7分鐘):循「一件市民陳情案的旅程」敘事線,帶出議事運作、委員會審查、質詢監督、預算審議與為民服務場景,穿插議員與市民訪談。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "結尾(約2分鐘):第5屆議會願景與國際交流,回扣「民主的日常」主軸。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "結尾(約2分鐘):第5屆議會願景與國際交流,回扣「民主的日常」主軸。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p8fih03e",
+      "id": "16",
+      "name": "Text 13",
+      "bbox": [
+        57.6,
+        785.84,
+        678.72,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "(二)拍攝與後製規格",
+      "textPreview": "(二)拍攝與後製規格",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "(二)拍攝與後製規格"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "(二)拍攝與後製規格",
+          "runs": [
+            {
+              "index": 1,
+              "text": "(二)拍攝與後製規格",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#3A4A6B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o761ov2t",
+      "id": "17",
+      "name": "Text 14",
+      "bbox": [
+        57.6,
+        817.52,
+        678.72,
+        65.28
+      ],
+      "geometry": "rect",
+      "text": "全程以 2K 以上等級攝影機拍攝(擬用機型:○○,示例:4K 電影級攝影機),並以相同規格剪輯輸出,製作適合本會簡報室 LED 大屏播映之影片系統;空拍、燈光、收音及配樂授權均由本公司統籌辦理。",
+      "textPreview": "全程以 2K 以上等級攝影機拍攝(擬用機型:○○,示例:4K 電影級攝影機),並以相同規格剪輯輸出,製作適合本會簡報室 LED 大屏播映之影片系統;空拍、燈光、收音及配樂授權均由本公司統籌辦理。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "全程以 2K 以上等級攝影機拍攝(擬用機型:○○,示例:4K"
+          },
+          {
+            "index": 2,
+            "text": "電影級攝影機),並以相同規格剪輯輸出,製作適合本會簡報室 LED"
+          },
+          {
+            "index": 3,
+            "text": "大屏播映之影片系統;空拍、燈光、收音及配樂授權均由本公司統籌辦理。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "全程以 2K 以上等級攝影機拍攝(擬用機型:○○,示例:4K 電影級攝影機),並以相同規格剪輯輸出,製作適合本會簡報室 LED 大屏播映之影片系統;空拍、燈光、收音及配樂授權均由本公司統籌辦理。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "全程以 2K 以上等級攝影機拍攝(擬用機型:○○,示例:4K 電影級攝影機),並以相同規格剪輯輸出,製作適合本會簡報室 LED 大屏播映之影片系統;空拍、燈光、收音及配樂授權均由本公司統籌辦理。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,1130 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/v8chlp",
+    "id": "v8chlp",
+    "slide": 2,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhkn6hkv",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        30.72,
+        432,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "影片企劃｜核心定位",
+      "textPreview": "影片企劃｜核心定位",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "影片企劃｜核心定位"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "影片企劃｜核心定位",
+          "runs": [
+            {
+              "index": 1,
+              "text": "影片企劃｜核心定位",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z2tozm1g",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        448.32,
+        30.72,
+        288,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "新北市議會｜簡介影片腳本",
+      "textPreview": "新北市議會｜簡介影片腳本",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新北市議會｜簡介影片腳本"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新北市議會｜簡介影片腳本",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新北市議會｜簡介影片腳本",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cf25472p",
+      "id": "4",
+      "name": "Shape 2",
+      "bbox": [
+        57.6,
+        59.52,
+        678.72,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3E7EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dgb6xcja",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1081.92,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "2",
+      "textPreview": "2",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qdkn2hkz",
+      "id": "6",
+      "name": "Text 4",
+      "bbox": [
+        57.6,
+        84.48,
+        678.72,
+        48
+      ],
+      "geometry": "rect",
+      "text": "影片不是機關介紹，而是一段可被理解的民主旅程",
+      "textPreview": "影片不是機關介紹，而是一段可被理解的民主旅程",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "影片不是機關介紹，而是一段可被理解的民主旅程"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "影片不是機關介紹，而是一段可被理解的民主旅程",
+          "runs": [
+            {
+              "index": 1,
+              "text": "影片不是機關介紹，而是一段可被理解的民主旅程",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/retov21k",
+      "id": "7",
+      "name": "Shape 5",
+      "bbox": [
+        57.6,
+        144,
+        678.72,
+        60.48
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FDF6E0",
+      "lineColor": "#C9A227",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4bi5072t",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        72,
+        153.6,
+        649.92,
+        41.28
+      ],
+      "geometry": "rect",
+      "text": "◆ 核心提案｜以『一個市民關心的問題，如何走進議會』串起會史、職權、審議、監督、第5屆與國際交流。",
+      "textPreview": "◆ 核心提案｜以『一個市民關心的問題，如何走進議會』串起會史、職權、審議、監督、第5屆與國際交流。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "◆ 核心提案｜以『一個市民關心的問題，如何走進議會』串起會史、職權、審議、監督、第5屆與國際交流。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "◆ 核心提案｜以『一個市民關心的問題，如何走進議會』串起會史、職權、審議、監督、第5屆與國際交流。",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "◆ 核心提案｜以『一個市民關心的問題，如何走進議會』串起會史、職權、審議、監督、第5屆與國際交流。",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pcbmtcje",
+      "id": "9",
+      "name": "Text 7",
+      "bbox": [
+        57.6,
+        225.6,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "一、影片核心定位",
+      "textPreview": "一、影片核心定位",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一、影片核心定位"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一、影片核心定位",
+          "runs": [
+            {
+              "index": 1,
+              "text": "一、影片核心定位",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/9sjedsni",
+      "id": "17",
+      "name": "Table 0",
+      "bbox": [
+        57.6,
+        264,
+        678.72,
+        89.6
+      ],
+      "text": "片名主張 | 看見新北議會｜讀懂民主的日常\n敘事引擎 | 一個問題如何被聽見、整理、審議與追蹤\n觀眾收穫 | 理解議會職權、感受民主參與、記住第5屆新章",
+      "textPreview": "片名主張 | 看見新北議會｜讀懂民主的日常 | 敘事引擎 | 一個問題如何被聽見、整理、審議與追蹤 | 觀眾收穫 | 理解議會職權、感受民主參與、記住第5屆新章",
+      "rows": 3,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            264,
+            144,
+            29.87
+          ],
+          "text": "片名主張",
+          "textPreview": "片名主張",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "片名主張",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "片名主張",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            201.6,
+            264,
+            534.72,
+            29.87
+          ],
+          "text": "看見新北議會｜讀懂民主的日常",
+          "textPreview": "看見新北議會｜讀懂民主的日常",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "看見新北議會｜讀懂民主的日常",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "看見新北議會｜讀懂民主的日常",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            293.87,
+            144,
+            29.87
+          ],
+          "text": "敘事引擎",
+          "textPreview": "敘事引擎",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "敘事引擎",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "敘事引擎",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            201.6,
+            293.87,
+            534.72,
+            29.87
+          ],
+          "text": "一個問題如何被聽見、整理、審議與追蹤",
+          "textPreview": "一個問題如何被聽見、整理、審議與追蹤",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "一個問題如何被聽見、整理、審議與追蹤",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "一個問題如何被聽見、整理、審議與追蹤",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            323.73,
+            144,
+            29.87
+          ],
+          "text": "觀眾收穫",
+          "textPreview": "觀眾收穫",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "觀眾收穫",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "觀眾收穫",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            201.6,
+            323.73,
+            534.72,
+            29.87
+          ],
+          "text": "理解議會職權、感受民主參與、記住第5屆新章",
+          "textPreview": "理解議會職權、感受民主參與、記住第5屆新章",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "理解議會職權、感受民主參與、記住第5屆新章",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "理解議會職權、感受民主參與、記住第5屆新章",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sb61c7ex",
+      "id": "11",
+      "name": "Text 8",
+      "bbox": [
+        57.6,
+        400.91,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "二、核心敘事命題",
+      "textPreview": "二、核心敘事命題",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "二、核心敘事命題"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "二、核心敘事命題",
+          "runs": [
+            {
+              "index": 1,
+              "text": "二、核心敘事命題",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqxkj2dc",
+      "id": "12",
+      "name": "Text 9",
+      "bbox": [
+        57.6,
+        439.31,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "議會不是遙遠的殿堂，而是市民生活議題進入公共制度、接受討論與監督的地方。",
+      "textPreview": "議會不是遙遠的殿堂，而是市民生活議題進入公共制度、接受討論與監督的地方。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "議會不是遙遠的殿堂，而是市民生活議題進入公共制度、接受討論與監督的地方。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "議會不是遙遠的殿堂，而是市民生活議題進入公共制度、接受討論與監督的地方。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "議會不是遙遠的殿堂，而是市民生活議題進入公共制度、接受討論與監督的地方。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6pojaxwr",
+      "id": "13",
+      "name": "Text 10",
+      "bbox": [
+        69.12,
+        492.11,
+        667.2,
+        105.6
+      ],
+      "geometry": "rect",
+      "text": "看見歷史：地方自治如何一路累積。\n看見運作：問題如何走進議會、被檢驗。\n看見未來：第5屆如何承接責任、面向世界。",
+      "textPreview": "看見歷史：地方自治如何一路累積。 | 看見運作：問題如何走進議會、被檢驗。 | 看見未來：第5屆如何承接責任、面向世界。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 看見歷史：地方自治如何一路累積。"
+          },
+          {
+            "index": 2,
+            "text": "• 看見運作：問題如何走進議會、被檢驗。"
+          },
+          {
+            "index": 3,
+            "text": "• 看見未來：第5屆如何承接責任、面向世界。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見歷史：地方自治如何一路累積。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見歷史：地方自治如何一路累積。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "看見運作：問題如何走進議會、被檢驗。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見運作：問題如何走進議會、被檢驗。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "看見未來：第5屆如何承接責任、面向世界。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見未來：第5屆如何承接責任、面向世界。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5of2hsv6",
+      "id": "14",
+      "name": "Text 11",
+      "bbox": [
+        57.6,
+        605.39,
+        678.72,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "建議成片 11:30；保留約 30 秒調整彈性，以實際典禮與議事素材品質微調。",
+      "textPreview": "建議成片 11:30；保留約 30 秒調整彈性，以實際典禮與議事素材品質微調。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "建議成片 11:30；保留約 30 秒調整彈性，以實際典禮與議事素材品質微調。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "建議成片 11:30；保留約 30 秒調整彈性，以實際典禮與議事素材品質微調。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "建議成片 11:30；保留約 30 秒調整彈性，以實際典禮與議事素材品質微調。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "italic": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4n618nel",
+      "id": "15",
+      "name": "Text 12",
+      "bbox": [
+        57.6,
+        645.71,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "三、內容判準",
+      "textPreview": "三、內容判準",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三、內容判準"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三、內容判準",
+          "runs": [
+            {
+              "index": 1,
+              "text": "三、內容判準",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmdkf2dg",
+      "id": "16",
+      "name": "Text 13",
+      "bbox": [
+        69.12,
+        684.11,
+        667.2,
+        125.76
+      ],
+      "geometry": "rect",
+      "text": "制度優先：不以個人政績取代議會功能。\n真實優先：議案、數字、人物均經議會核定。\n可理解優先：法律語言轉成生活情境，五語共享同一畫面邏輯。",
+      "textPreview": "制度優先：不以個人政績取代議會功能。 | 真實優先：議案、數字、人物均經議會核定。 | 可理解優先：法律語言轉成生活情境，五語共享同一畫面邏輯。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 制度優先：不以個人政績取代議會功能。"
+          },
+          {
+            "index": 2,
+            "text": "• 真實優先：議案、數字、人物均經議會核定。"
+          },
+          {
+            "index": 3,
+            "text": "• 可理解優先：法律語言轉成生活情境，五語共享同一畫面邏輯。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "制度優先：不以個人政績取代議會功能。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "制度優先：不以個人政績取代議會功能。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "真實優先：議案、數字、人物均經議會核定。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "真實優先：議案、數字、人物均經議會核定。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "可理解優先：法律語言轉成生活情境，五語共享同一畫面邏輯。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "可理解優先：法律語言轉成生活情境，五語共享同一畫面邏輯。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

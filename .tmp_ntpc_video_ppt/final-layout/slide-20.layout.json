@@ -1,0 +1,967 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/zyxsni5k",
+    "id": "zyxsni5k",
+    "slide": 20,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpwjmh8n",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        30.72,
+        432,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "製作管理｜風險與品管",
+      "textPreview": "製作管理｜風險與品管",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "製作管理｜風險與品管"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "製作管理｜風險與品管",
+          "runs": [
+            {
+              "index": 1,
+              "text": "製作管理｜風險與品管",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rq50vmp8",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        448.32,
+        30.72,
+        288,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "新北市議會｜簡介影片腳本",
+      "textPreview": "新北市議會｜簡介影片腳本",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新北市議會｜簡介影片腳本"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新北市議會｜簡介影片腳本",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新北市議會｜簡介影片腳本",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nu1krqh",
+      "id": "4",
+      "name": "Shape 2",
+      "bbox": [
+        57.6,
+        59.52,
+        678.72,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3E7EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/po3itc72",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1081.92,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "20",
+      "textPreview": "20",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "20"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "20",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "20",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lczih8r",
+      "id": "6",
+      "name": "Text 4",
+      "bbox": [
+        57.6,
+        92.16,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "四個高風險點，都在拍攝前設好備援與核定閘門",
+      "textPreview": "四個高風險點，都在拍攝前設好備援與核定閘門",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "四個高風險點，都在拍攝前設好備援與核定閘門"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "四個高風險點，都在拍攝前設好備援與核定閘門",
+          "runs": [
+            {
+              "index": 1,
+              "text": "四個高風險點，都在拍攝前設好備援與核定閘門",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/ixsv2xcf",
+      "id": "10",
+      "name": "Table 0",
+      "bbox": [
+        57.6,
+        130.56,
+        678.72,
+        96
+      ],
+      "text": "風險 | 觸發情境 | 因應與驗收證據\n就職典禮缺漏 | 一次性事件、機位或收音失效 | 四機＋雙卡＋獨立錄音；彩排、即時監看、當日雙備份\n事實或名單變動 | 第5屆資料未定／職銜更新 | 使用可替換圖層；以議會核定表作唯一資料來源\n五語語意不一致 | 翻譯過長、專名不同、重錄 | 中文先鎖；術語表、母語審校、配音前試讀\nLED 播放異常 | 閃爍、字幕太小、色偏、音量不一 | 現場樣片測試；輸出專用播放檔與備援檔",
+      "textPreview": "風險 | 觸發情境 | 因應與驗收證據 | 就職典禮缺漏 | 一次性事件、機位或收音失效 | 四機＋雙卡＋獨立錄音；彩排、即時監看、當日雙備份 | 事實或名單變動 | 第5屆資料未定／職銜更新 | 使用可替換圖層；以議會核定表作唯一資料來源 | 五語語意不一致 | 翻譯過長...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            130.56,
+            182.4,
+            19.2
+          ],
+          "text": "風險",
+          "textPreview": "風險",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "風險",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "風險",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            240,
+            130.56,
+            211.2,
+            19.2
+          ],
+          "text": "觸發情境",
+          "textPreview": "觸發情境",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "觸發情境",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "觸發情境",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            451.2,
+            130.56,
+            285.12,
+            19.2
+          ],
+          "text": "因應與驗收證據",
+          "textPreview": "因應與驗收證據",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "因應與驗收證據",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "因應與驗收證據",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            149.76,
+            182.4,
+            19.2
+          ],
+          "text": "就職典禮缺漏",
+          "textPreview": "就職典禮缺漏",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "就職典禮缺漏",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "就職典禮缺漏",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            240,
+            149.76,
+            211.2,
+            19.2
+          ],
+          "text": "一次性事件、機位或收音失效",
+          "textPreview": "一次性事件、機位或收音失效",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "一次性事件、機位或收音失效",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "一次性事件、機位或收音失效",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            451.2,
+            149.76,
+            285.12,
+            19.2
+          ],
+          "text": "四機＋雙卡＋獨立錄音；彩排、即時監看、當日雙備份",
+          "textPreview": "四機＋雙卡＋獨立錄音；彩排、即時監看、當日雙備份",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "四機＋雙卡＋獨立錄音；彩排、即時監看、當日雙備份",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "四機＋雙卡＋獨立錄音；彩排、即時監看、當日雙備份",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            168.96,
+            182.4,
+            19.2
+          ],
+          "text": "事實或名單變動",
+          "textPreview": "事實或名單變動",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "事實或名單變動",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "事實或名單變動",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            240,
+            168.96,
+            211.2,
+            19.2
+          ],
+          "text": "第5屆資料未定／職銜更新",
+          "textPreview": "第5屆資料未定／職銜更新",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第5屆資料未定／職銜更新",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第5屆資料未定／職銜更新",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            451.2,
+            168.96,
+            285.12,
+            19.2
+          ],
+          "text": "使用可替換圖層；以議會核定表作唯一資料來源",
+          "textPreview": "使用可替換圖層；以議會核定表作唯一資料來源",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "使用可替換圖層；以議會核定表作唯一資料來源",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "使用可替換圖層；以議會核定表作唯一資料來源",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.6,
+            188.16,
+            182.4,
+            19.2
+          ],
+          "text": "五語語意不一致",
+          "textPreview": "五語語意不一致",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "五語語意不一致",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "五語語意不一致",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            240,
+            188.16,
+            211.2,
+            19.2
+          ],
+          "text": "翻譯過長、專名不同、重錄",
+          "textPreview": "翻譯過長、專名不同、重錄",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "翻譯過長、專名不同、重錄",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "翻譯過長、專名不同、重錄",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            451.2,
+            188.16,
+            285.12,
+            19.2
+          ],
+          "text": "中文先鎖；術語表、母語審校、配音前試讀",
+          "textPreview": "中文先鎖；術語表、母語審校、配音前試讀",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "中文先鎖；術語表、母語審校、配音前試讀",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "中文先鎖；術語表、母語審校、配音前試讀",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            57.6,
+            207.36,
+            182.4,
+            19.2
+          ],
+          "text": "LED 播放異常",
+          "textPreview": "LED 播放異常",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "LED 播放異常",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "LED 播放異常",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            240,
+            207.36,
+            211.2,
+            19.2
+          ],
+          "text": "閃爍、字幕太小、色偏、音量不一",
+          "textPreview": "閃爍、字幕太小、色偏、音量不一",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "閃爍、字幕太小、色偏、音量不一",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "閃爍、字幕太小、色偏、音量不一",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            451.2,
+            207.36,
+            285.12,
+            19.2
+          ],
+          "text": "現場樣片測試；輸出專用播放檔與備援檔",
+          "textPreview": "現場樣片測試；輸出專用播放檔與備援檔",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "現場樣片測試；輸出專用播放檔與備援檔",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "現場樣片測試；輸出專用播放檔與備援檔",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gjuhg7ql",
+      "id": "8",
+      "name": "Text 5",
+      "bbox": [
+        57.6,
+        332.28,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "品質閘門與 120 日內建議節點",
+      "textPreview": "品質閘門與 120 日內建議節點",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "品質閘門與 120 日內建議節點"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "品質閘門與 120 日內建議節點",
+          "runs": [
+            {
+              "index": 1,
+              "text": "品質閘門與 120 日內建議節點",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hk3ipcr6",
+      "id": "9",
+      "name": "Text 6",
+      "bbox": [
+        57.6,
+        370.68,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "D1–15 需求／中文大綱核定；D16–45 勘景、史料與先拍；D46–75 主拍及就職典禮；D76–100 剪輯、動態圖像與五語；D101–120 LED 測試、修正與驗收。每一閘門執行『內容正確→影像聲音→語言字幕→播放相容』四層檢核，留存核定紀錄、素材清單、授權與測試報告。",
+      "textPreview": "D1–15 需求／中文大綱核定；D16–45 勘景、史料與先拍；D46–75 主拍及就職典禮；D76–100 剪輯、動態圖像與五語；D101–120 LED 測試、修正與驗收。每一閘門執行『內容正確→影像聲音→語言字幕→播放相容』四層檢核，留存核定紀錄、素材清單、授權與測試報告。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "D1–15 需求／中文大綱核定；D16–45 勘景、史料與先拍；D46–75 主拍及就職典禮；D76–100"
+          },
+          {
+            "index": 2,
+            "text": "剪輯、動態圖像與五語；D101–120 LED"
+          },
+          {
+            "index": 3,
+            "text": "測試、修正與驗收。每一閘門執行『內容正確→影像聲音→語言字幕→播放相容』四層檢核，留存核定紀錄"
+          },
+          {
+            "index": 4,
+            "text": "、素材清單、授權與測試報告。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "D1–15 需求／中文大綱核定；D16–45 勘景、史料與先拍；D46–75 主拍及就職典禮；D76–100 剪輯、動態圖像與五語；D101–120 LED 測試、修正與驗收。每一閘門執行『內容正確→影像聲音→語言字幕→播放相容』四層檢核，留存核定紀錄、素材清單、授權與測試報告。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "D1–15 需求／中文大綱核定；D16–45 勘景、史料與先拍；D46–75 主拍及就職典禮；D76–100 剪輯、動態圖像與五語；D101–120 LED 測試、修正與驗收。每一閘門執行『內容正確→影像聲音→語言字幕→播放相容』四層檢核，留存核定紀錄、素材清單、授權與測試報告。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,1136 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/6lsnupw7",
+    "id": "6lsnupw7",
+    "slide": 14,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc7eds76",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        30.72,
+        432,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "玖、保固與維護服務計畫",
+      "textPreview": "玖、保固與維護服務計畫",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "玖、保固與維護服務計畫"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "玖、保固與維護服務計畫",
+          "runs": [
+            {
+              "index": 1,
+              "text": "玖、保固與維護服務計畫",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbydknq1",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        448.32,
+        30.72,
+        288,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "新北市議會案 服務建議書",
+      "textPreview": "新北市議會案 服務建議書",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新北市議會案 服務建議書"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新北市議會案 服務建議書",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新北市議會案 服務建議書",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jepwf2pc",
+      "id": "4",
+      "name": "Shape 2",
+      "bbox": [
+        57.6,
+        59.52,
+        678.72,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3E7EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idgvmx8r",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1081.92,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "15",
+      "textPreview": "15",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "15",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "15",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5grehs7i",
+      "id": "6",
+      "name": "Text 4",
+      "bbox": [
+        57.6,
+        84.48,
+        678.72,
+        48
+      ],
+      "geometry": "rect",
+      "text": "玖、保固與維護服務計畫",
+      "textPreview": "玖、保固與維護服務計畫",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "玖、保固與維護服務計畫"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "玖、保固與維護服務計畫",
+          "runs": [
+            {
+              "index": 1,
+              "text": "玖、保固與維護服務計畫",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfidonqx",
+      "id": "7",
+      "name": "Shape 5",
+      "bbox": [
+        57.6,
+        144,
+        678.72,
+        60.48
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FDF6E0",
+      "lineColor": "#C9A227",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zi5c3y98",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        72,
+        153.6,
+        649.92,
+        41.28
+      ],
+      "geometry": "rect",
+      "text": "✎ 撰寫建議(繳交前請刪除)|4 年保固是本案長尾成本,也是委員檢驗你是否「玩真的」之處。回應時效給可承諾的數字即可,不要開過頭;議員更迭配合更換內容務必單獨成節回應——需求書玖、一明定之特殊義務。",
+      "textPreview": "✎ 撰寫建議(繳交前請刪除)|4 年保固是本案長尾成本,也是委員檢驗你是否「玩真的」之處。回應時效給可承諾的數字即可,不要開過頭;議員更迭配合更換內容務必單獨成節回應——需求書玖、一明定之特殊義務。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "✎ 撰寫建議(繳交前請刪除)|4"
+          },
+          {
+            "index": 2,
+            "text": "年保固是本案長尾成本,也是委員檢驗你是否「玩真的」之處。回應時效給可承諾的數字即可,不要開過頭;議員更迭"
+          },
+          {
+            "index": 3,
+            "text": "配合更換內容務必單獨成節回應——需求書玖、一明定之特殊義務。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "✎ 撰寫建議(繳交前請刪除)|4 年保固是本案長尾成本,也是委員檢驗你是否「玩真的」之處。回應時效給可承諾的數字即可,不要開過頭;議員更迭配合更換內容務必單獨成節回應——需求書玖、一明定之特殊義務。",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "✎ 撰寫建議(繳交前請刪除)|",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "4 年保固是本案長尾成本,也是委員檢驗你是否「玩真的」之處。回應時效給可承諾的數字即可,不要開過頭;議員更迭配合更換內容務必單獨成節回應——需求書玖、一明定之特殊義務。",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#4A4A4A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ehwvat8n",
+      "id": "9",
+      "name": "Text 7",
+      "bbox": [
+        57.6,
+        225.6,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "一、保固範圍與期限(對應需求書玖)",
+      "textPreview": "一、保固範圍與期限(對應需求書玖)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一、保固範圍與期限(對應需求書玖)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一、保固範圍與期限(對應需求書玖)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "一、保固範圍與期限(對應需求書玖)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3e1gjyd",
+      "id": "10",
+      "name": "Text 8",
+      "bbox": [
+        57.6,
+        264,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "自本會驗收完成之次日起 4 年,對本案交付之軟硬體提供保固服務,並依需求書規定提報相關資料,負保固維護之責任。",
+      "textPreview": "自本會驗收完成之次日起 4 年,對本案交付之軟硬體提供保固服務,並依需求書規定提報相關資料,負保固維護之責任。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "自本會驗收完成之次日起 4"
+          },
+          {
+            "index": 2,
+            "text": "年,對本案交付之軟硬體提供保固服務,並依需求書規定提報相關資料,負保固維護之責任。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "自本會驗收完成之次日起 4 年,對本案交付之軟硬體提供保固服務,並依需求書規定提報相關資料,負保固維護之責任。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "自本會驗收完成之次日起 4 年,對本案交付之軟硬體提供保固服務,並依需求書規定提報相關資料,負保固維護之責任。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4ni9ofy",
+      "id": "11",
+      "name": "Text 9",
+      "bbox": [
+        57.6,
+        324.48,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "二、專責服務窗口與回應時效(示例)",
+      "textPreview": "二、專責服務窗口與回應時效(示例)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "二、專責服務窗口與回應時效(示例)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "二、專責服務窗口與回應時效(示例)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "二、專責服務窗口與回應時效(示例)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/lknahsfm",
+      "id": "16",
+      "name": "Table 0",
+      "bbox": [
+        57.6,
+        362.88,
+        678.72,
+        96
+      ],
+      "text": "專責人員 | 指派專責工程師○○○,負責系統維護、功能錯誤維修、操作諮詢及必要之系統技術諮詢服務\n報修管道 | 服務專線/電子郵件/LINE 官方帳號(示例)\n回應時效 | 受理後 4 小時內回應;一般障礙次一工作日內到場;重大障礙(LED 無法播映)24 小時內到場(示例)\n預防保養 | 每半年定期保養 1 次,含 LED 模組校正、系統健檢與清潔(示例)",
+      "textPreview": "專責人員 | 指派專責工程師○○○,負責系統維護、功能錯誤維修、操作諮詢及必要之系統技術諮詢服務 | 報修管道 | 服務專線/電子郵件/LINE 官方帳號(示例) | 回應時效 | 受理後 4 小時內回應;一般障礙次一工作日內到場;重大障礙(LED 無法播映)24 小時內到...",
+      "rows": 4,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            362.88,
+            172.8,
+            24
+          ],
+          "text": "專責人員",
+          "textPreview": "專責人員",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "專責人員",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "專責人員",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            230.4,
+            362.88,
+            505.92,
+            24
+          ],
+          "text": "指派專責工程師○○○,負責系統維護、功能錯誤維修、操作諮詢及必要之系統技術諮詢服務",
+          "textPreview": "指派專責工程師○○○,負責系統維護、功能錯誤維修、操作諮詢及必要之系統技術諮詢服務",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "指派專責工程師○○○,負責系統維護、功能錯誤維修、操作諮詢及必要之系統技術諮詢服務",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "指派專責工程師○○○,負責系統維護、功能錯誤維修、操作諮詢及必要之系統技術諮詢服務",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            386.88,
+            172.8,
+            24
+          ],
+          "text": "報修管道",
+          "textPreview": "報修管道",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "報修管道",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "報修管道",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            230.4,
+            386.88,
+            505.92,
+            24
+          ],
+          "text": "服務專線/電子郵件/LINE 官方帳號(示例)",
+          "textPreview": "服務專線/電子郵件/LINE 官方帳號(示例)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "服務專線/電子郵件/LINE 官方帳號(示例)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "服務專線/電子郵件/LINE 官方帳號(示例)",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            410.88,
+            172.8,
+            24
+          ],
+          "text": "回應時效",
+          "textPreview": "回應時效",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "回應時效",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "回應時效",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            230.4,
+            410.88,
+            505.92,
+            24
+          ],
+          "text": "受理後 4 小時內回應;一般障礙次一工作日內到場;重大障礙(LED 無法播映)24 小時內到場(示例)",
+          "textPreview": "受理後 4 小時內回應;一般障礙次一工作日內到場;重大障礙(LED 無法播映)24 小時內到場(示例)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "受理後 4 小時內回應;一般障礙次一工作日內到場;重大障礙(LED 無法播映)24 小時內到場(示例)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "受理後 4 小時內回應;一般障礙次一工作日內到場;重大障礙(LED 無法播映)24 小時內到場(示例)",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.6,
+            434.88,
+            172.8,
+            24
+          ],
+          "text": "預防保養",
+          "textPreview": "預防保養",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "預防保養",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "預防保養",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            230.4,
+            434.88,
+            505.92,
+            24
+          ],
+          "text": "每半年定期保養 1 次,含 LED 模組校正、系統健檢與清潔(示例)",
+          "textPreview": "每半年定期保養 1 次,含 LED 模組校正、系統健檢與清潔(示例)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "每半年定期保養 1 次,含 LED 模組校正、系統健檢與清潔(示例)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "每半年定期保養 1 次,含 LED 模組校正、系統健檢與清潔(示例)",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2507exs",
+      "id": "13",
+      "name": "Text 10",
+      "bbox": [
+        57.6,
+        527.94,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "三、議員更迭之內容更換配合(對應需求書玖、一)",
+      "textPreview": "三、議員更迭之內容更換配合(對應需求書玖、一)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三、議員更迭之內容更換配合(對應需求書玖、一)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三、議員更迭之內容更換配合(對應需求書玖、一)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "三、議員更迭之內容更換配合(對應需求書玖、一)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1k3y9",
+      "id": "14",
+      "name": "Text 11",
+      "bbox": [
+        57.6,
+        566.34,
+        678.72,
+        65.28
+      ],
+      "geometry": "rect",
+      "text": "保固期間本屆議員如有更迭,配合更換相關軟硬體內容:會史館展板抽換、影音導覽與 AR 素材更新、手冊電子檔修訂;展板採可抽換式設計即為此預作準備,更換作業於接獲通知後○○日內完成(示例:14 個日曆天)。",
+      "textPreview": "保固期間本屆議員如有更迭,配合更換相關軟硬體內容:會史館展板抽換、影音導覽與 AR 素材更新、手冊電子檔修訂;展板採可抽換式設計即為此預作準備,更換作業於接獲通知後○○日內完成(示例:14 個日曆天)。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "保固期間本屆議員如有更迭,配合更換相關軟硬體內容:會史館展板抽換、影音導覽與 AR"
+          },
+          {
+            "index": 2,
+            "text": "素材更新、手冊電子檔修訂;展板採可抽換式設計即為此預作準備,更換作業於接獲通知後○○日內完成(示例:14"
+          },
+          {
+            "index": 3,
+            "text": "個日曆天)。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "保固期間本屆議員如有更迭,配合更換相關軟硬體內容:會史館展板抽換、影音導覽與 AR 素材更新、手冊電子檔修訂;展板採可抽換式設計即為此預作準備,更換作業於接獲通知後○○日內完成(示例:14 個日曆天)。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "保固期間本屆議員如有更迭,配合更換相關軟硬體內容:會史館展板抽換、影音導覽與 AR 素材更新、手冊電子檔修訂;展板採可抽換式設計即為此預作準備,更換作業於接獲通知後○○日內完成(示例:14 個日曆天)。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ls7idofu",
+      "id": "15",
+      "name": "Text 12",
+      "bbox": [
+        57.6,
+        646.98,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "四、替代方案機制(對應需求書玖、三)",
+      "textPreview": "四、替代方案機制(對應需求書玖、三)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "四、替代方案機制(對應需求書玖、三)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "四、替代方案機制(對應需求書玖、三)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "四、替代方案機制(對應需求書玖、三)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1wze9g7",
+      "id": "12",
+      "name": "Text 13",
+      "bbox": [
+        57.6,
+        685.38,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "所提供之軟硬體設備及應用系統無法正常運作、修正及補足時,即提供替代方案(如備品替換、備援播放系統),維持本案內容正常運作,不因單一設備故障中斷服務。",
+      "textPreview": "所提供之軟硬體設備及應用系統無法正常運作、修正及補足時,即提供替代方案(如備品替換、備援播放系統),維持本案內容正常運作,不因單一設備故障中斷服務。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "所提供之軟硬體設備及應用系統無法正常運作、修正及補足時,即提供替代方案(如備品替換、備援播放系統),"
+          },
+          {
+            "index": 2,
+            "text": "維持本案內容正常運作,不因單一設備故障中斷服務。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "所提供之軟硬體設備及應用系統無法正常運作、修正及補足時,即提供替代方案(如備品替換、備援播放系統),維持本案內容正常運作,不因單一設備故障中斷服務。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "所提供之軟硬體設備及應用系統無法正常運作、修正及補足時,即提供替代方案(如備品替換、備援播放系統),維持本案內容正常運作,不因單一設備故障中斷服務。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

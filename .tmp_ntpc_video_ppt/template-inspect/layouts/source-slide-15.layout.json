@@ -1,0 +1,2921 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/vaxsvy10",
+    "id": "vaxsvy10",
+    "slide": 15,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/547mhg3m",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        30.72,
+        432,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "拾、經費分配規劃",
+      "textPreview": "拾、經費分配規劃",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "拾、經費分配規劃"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "拾、經費分配規劃",
+          "runs": [
+            {
+              "index": 1,
+              "text": "拾、經費分配規劃",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3y5ov21",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        448.32,
+        30.72,
+        288,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "新北市議會案 服務建議書",
+      "textPreview": "新北市議會案 服務建議書",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新北市議會案 服務建議書"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新北市議會案 服務建議書",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新北市議會案 服務建議書",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/76p4jqls",
+      "id": "4",
+      "name": "Shape 2",
+      "bbox": [
+        57.6,
+        59.52,
+        678.72,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3E7EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65gnqlk7",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1081.92,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "16",
+      "textPreview": "16",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "16",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "16",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t87ml0ji",
+      "id": "6",
+      "name": "Text 4",
+      "bbox": [
+        57.6,
+        84.48,
+        678.72,
+        48
+      ],
+      "geometry": "rect",
+      "text": "拾、經費分配規劃",
+      "textPreview": "拾、經費分配規劃",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "拾、經費分配規劃"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "拾、經費分配規劃",
+          "runs": [
+            {
+              "index": 1,
+              "text": "拾、經費分配規劃",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s7y5sv2x",
+      "id": "7",
+      "name": "Shape 5",
+      "bbox": [
+        57.6,
+        144,
+        678.72,
+        78.24
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FDF6E0",
+      "lineColor": "#C9A227",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/na5476l8",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        72,
+        153.6,
+        649.92,
+        59.04
+      ],
+      "geometry": "rect",
+      "text": "✎ 撰寫建議(繳交前請刪除)|明細數字為示例,請依實際成本調整,但務必:各區塊合計不得超過上限(150/120 萬)、比例合理(設備區塊 LED 通常占大宗)、與執行計畫章節項目一一對應。總價發包,報價含稅及一切費用。",
+      "textPreview": "✎ 撰寫建議(繳交前請刪除)|明細數字為示例,請依實際成本調整,但務必:各區塊合計不得超過上限(150/120 萬)、比例合理(設備區塊 LED 通常占大宗)、與執行計畫章節項目一一對應。總價發包,報價含稅及一切費用。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "✎ 撰寫建議(繳交前請刪除)|明細數字為示例,請依實際成本調整,但務必:各區塊合計不得超過上限(150/120"
+          },
+          {
+            "index": 2,
+            "text": "萬)、比例合理(設備區塊 LED 通常占大宗)、與執行計畫章節項目一一對應。總價發包,報價含稅及一切費用。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "✎ 撰寫建議(繳交前請刪除)|明細數字為示例,請依實際成本調整,但務必:各區塊合計不得超過上限(150/120 萬)、比例合理(設備區塊 LED 通常占大宗)、與執行計畫章節項目一一對應。總價發包,報價含稅及一切費用。",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "✎ 撰寫建議(繳交前請刪除)|",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "明細數字為示例,請依實際成本調整,但務必:各區塊合計不得超過上限(150/120 萬)、比例合理(設備區塊 LED 通常占大宗)、與執行計畫章節項目一一對應。總價發包,報價含稅及一切費用。",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#4A4A4A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m9c3e1kn",
+      "id": "9",
+      "name": "Text 7",
+      "bbox": [
+        57.6,
+        243.36,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "一、總經費架構",
+      "textPreview": "一、總經費架構",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一、總經費架構"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一、總經費架構",
+          "runs": [
+            {
+              "index": 1,
+              "text": "一、總經費架構",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/u5kfulcz",
+      "id": "15",
+      "name": "Table 0",
+      "bbox": [
+        57.6,
+        281.76,
+        678.72,
+        96
+      ],
+      "text": "經費區塊 | 金額(新臺幣) | 占比\n會史館及簡報室設備更新費用 | 1,500,000 元 | 55.6%\n第5屆議會簡介影片、手冊製作費用 | 1,200,000 元 | 44.4%\n總計(總價發包,含稅及一切費用) | 2,700,000 元 | 100%",
+      "textPreview": "經費區塊 | 金額(新臺幣) | 占比 | 會史館及簡報室設備更新費用 | 1,500,000 元 | 55.6% | 第5屆議會簡介影片、手冊製作費用 | 1,200,000 元 | 44.4% | 總計(總價發包,含稅及一切費用) | 2,700,000 元 | 100%",
+      "rows": 4,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            281.76,
+            403.2,
+            24
+          ],
+          "text": "經費區塊",
+          "textPreview": "經費區塊",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "經費區塊",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "經費區塊",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            460.8,
+            281.76,
+            163.2,
+            24
+          ],
+          "text": "金額(新臺幣)",
+          "textPreview": "金額(新臺幣)",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "金額(新臺幣)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "金額(新臺幣)",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            624,
+            281.76,
+            112.32,
+            24
+          ],
+          "text": "占比",
+          "textPreview": "占比",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "占比",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "占比",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            305.76,
+            403.2,
+            24
+          ],
+          "text": "會史館及簡報室設備更新費用",
+          "textPreview": "會史館及簡報室設備更新費用",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "會史館及簡報室設備更新費用",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "會史館及簡報室設備更新費用",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            460.8,
+            305.76,
+            163.2,
+            24
+          ],
+          "text": "1,500,000 元",
+          "textPreview": "1,500,000 元",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1,500,000 元",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1,500,000 元",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            624,
+            305.76,
+            112.32,
+            24
+          ],
+          "text": "55.6%",
+          "textPreview": "55.6%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "55.6%",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "55.6%",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            329.76,
+            403.2,
+            24
+          ],
+          "text": "第5屆議會簡介影片、手冊製作費用",
+          "textPreview": "第5屆議會簡介影片、手冊製作費用",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第5屆議會簡介影片、手冊製作費用",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第5屆議會簡介影片、手冊製作費用",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            460.8,
+            329.76,
+            163.2,
+            24
+          ],
+          "text": "1,200,000 元",
+          "textPreview": "1,200,000 元",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1,200,000 元",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1,200,000 元",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            624,
+            329.76,
+            112.32,
+            24
+          ],
+          "text": "44.4%",
+          "textPreview": "44.4%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "44.4%",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "44.4%",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.6,
+            353.76,
+            403.2,
+            24
+          ],
+          "text": "總計(總價發包,含稅及一切費用)",
+          "textPreview": "總計(總價發包,含稅及一切費用)",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "總計(總價發包,含稅及一切費用)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "總計(總價發包,含稅及一切費用)",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            460.8,
+            353.76,
+            163.2,
+            24
+          ],
+          "text": "2,700,000 元",
+          "textPreview": "2,700,000 元",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2,700,000 元",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2,700,000 元",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#1B2A4A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            624,
+            353.76,
+            112.32,
+            24
+          ],
+          "text": "100%",
+          "textPreview": "100%",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "100%",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "100%",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hsvat0fa",
+      "id": "11",
+      "name": "Text 8",
+      "bbox": [
+        57.6,
+        461.53,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "二、經費分配明細(示例,請依實際成本調整)",
+      "textPreview": "二、經費分配明細(示例,請依實際成本調整)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "二、經費分配明細(示例,請依實際成本調整)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "二、經費分配明細(示例,請依實際成本調整)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "二、經費分配明細(示例,請依實際成本調整)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/h8vy5gbq",
+      "id": "16",
+      "name": "Table 1",
+      "bbox": [
+        57.6,
+        499.93,
+        678.72,
+        96
+      ],
+      "text": "項次 | 工作項目 | 金額(萬元) | 說明\nA | 會史館及簡報室設備更新(上限 150 萬)\nA1 | LED 全彩螢幕(含控制系統、安裝與整合測試) | 95 | 含邊框結構\nA2 | 邊框修飾及多媒體講桌更換 | 10\nA3 | 會史館六大展區展板視覺設計及製作 | 28 | 含施工保護\nA4 | 影音及導覽系統內容更新 | 10\nA5 | AR 擴增實境軟體優化及更新 | 7\n小計 | 150\nB | 簡介影片、手冊製作(上限 120 萬)\nB1 | 簡介影片企劃、拍攝與後製(2K 以上) | 52 | 含放映系統整合\nB2 | 五語翻譯、審校、配音與字幕 | 16\nB3 | 第5屆議員就職典禮全程錄影拍照 | 12 | 含大合照\nB4 | USB 300 個(含外包裝設計)及藍光片 | 16 | USB 3.0/16G 以上\nB5 | 簡介手冊設計及雙語印製 600 本 | 24 | 中英、中日各300\n小計 | 120\n總計 | 270 | 含稅",
+      "textPreview": "項次 | 工作項目 | 金額(萬元) | 說明 | A | 會史館及簡報室設備更新(上限 150 萬) | A1 | LED 全彩螢幕(含控制系統、安裝與整合測試) | 95 | 含邊框結構 | A2 | 邊框修飾及多媒體講桌更換 | 10 | A3 | 會史館六大展區展板...",
+      "rows": 16,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            499.93,
+            67.2,
+            6
+          ],
+          "text": "項次",
+          "textPreview": "項次",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "項次",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "項次",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            124.8,
+            499.93,
+            345.6,
+            6
+          ],
+          "text": "工作項目",
+          "textPreview": "工作項目",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "工作項目",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "工作項目",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            470.4,
+            499.93,
+            115.2,
+            6
+          ],
+          "text": "金額(萬元)",
+          "textPreview": "金額(萬元)",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "金額(萬元)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "金額(萬元)",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            585.6,
+            499.93,
+            150.72,
+            6
+          ],
+          "text": "說明",
+          "textPreview": "說明",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "說明",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "說明",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            505.93,
+            67.2,
+            6
+          ],
+          "text": "A",
+          "textPreview": "A",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "A",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "A",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            124.8,
+            505.93,
+            345.6,
+            6
+          ],
+          "text": "會史館及簡報室設備更新(上限 150 萬)",
+          "textPreview": "會史館及簡報室設備更新(上限 150 萬)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "會史館及簡報室設備更新(上限 150 萬)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "會史館及簡報室設備更新(上限 150 萬)",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            470.4,
+            505.93,
+            115.2,
+            6
+          ],
+          "fillColor": "#FFFFFF"
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            585.6,
+            505.93,
+            150.72,
+            6
+          ],
+          "fillColor": "#FFFFFF"
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            511.93,
+            67.2,
+            6
+          ],
+          "text": "A1",
+          "textPreview": "A1",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "A1",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "A1",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            124.8,
+            511.93,
+            345.6,
+            6
+          ],
+          "text": "LED 全彩螢幕(含控制系統、安裝與整合測試)",
+          "textPreview": "LED 全彩螢幕(含控制系統、安裝與整合測試)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "LED 全彩螢幕(含控制系統、安裝與整合測試)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "LED 全彩螢幕(含控制系統、安裝與整合測試)",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            470.4,
+            511.93,
+            115.2,
+            6
+          ],
+          "text": "95",
+          "textPreview": "95",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "95",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "95",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            585.6,
+            511.93,
+            150.72,
+            6
+          ],
+          "text": "含邊框結構",
+          "textPreview": "含邊框結構",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "含邊框結構",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "含邊框結構",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.6,
+            517.93,
+            67.2,
+            6
+          ],
+          "text": "A2",
+          "textPreview": "A2",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "A2",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "A2",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            124.8,
+            517.93,
+            345.6,
+            6
+          ],
+          "text": "邊框修飾及多媒體講桌更換",
+          "textPreview": "邊框修飾及多媒體講桌更換",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "邊框修飾及多媒體講桌更換",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "邊框修飾及多媒體講桌更換",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            470.4,
+            517.93,
+            115.2,
+            6
+          ],
+          "text": "10",
+          "textPreview": "10",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            585.6,
+            517.93,
+            150.72,
+            6
+          ],
+          "fillColor": "#FFFFFF"
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            57.6,
+            523.93,
+            67.2,
+            6
+          ],
+          "text": "A3",
+          "textPreview": "A3",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "A3",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "A3",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            124.8,
+            523.93,
+            345.6,
+            6
+          ],
+          "text": "會史館六大展區展板視覺設計及製作",
+          "textPreview": "會史館六大展區展板視覺設計及製作",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "會史館六大展區展板視覺設計及製作",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "會史館六大展區展板視覺設計及製作",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            470.4,
+            523.93,
+            115.2,
+            6
+          ],
+          "text": "28",
+          "textPreview": "28",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "28",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "28",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            585.6,
+            523.93,
+            150.72,
+            6
+          ],
+          "text": "含施工保護",
+          "textPreview": "含施工保護",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "含施工保護",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "含施工保護",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            57.6,
+            529.93,
+            67.2,
+            6
+          ],
+          "text": "A4",
+          "textPreview": "A4",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "A4",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "A4",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            124.8,
+            529.93,
+            345.6,
+            6
+          ],
+          "text": "影音及導覽系統內容更新",
+          "textPreview": "影音及導覽系統內容更新",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "影音及導覽系統內容更新",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "影音及導覽系統內容更新",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            470.4,
+            529.93,
+            115.2,
+            6
+          ],
+          "text": "10",
+          "textPreview": "10",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            585.6,
+            529.93,
+            150.72,
+            6
+          ],
+          "fillColor": "#FFFFFF"
+        },
+        {
+          "index": 25,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            57.6,
+            535.93,
+            67.2,
+            6
+          ],
+          "text": "A5",
+          "textPreview": "A5",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "A5",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "A5",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            124.8,
+            535.93,
+            345.6,
+            6
+          ],
+          "text": "AR 擴增實境軟體優化及更新",
+          "textPreview": "AR 擴增實境軟體優化及更新",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "AR 擴增實境軟體優化及更新",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "AR 擴增實境軟體優化及更新",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            470.4,
+            535.93,
+            115.2,
+            6
+          ],
+          "text": "7",
+          "textPreview": "7",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "7",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "7",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            585.6,
+            535.93,
+            150.72,
+            6
+          ],
+          "fillColor": "#FFFFFF"
+        },
+        {
+          "index": 29,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            57.6,
+            541.93,
+            67.2,
+            6
+          ],
+          "fillColor": "#FFFFFF"
+        },
+        {
+          "index": 30,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            124.8,
+            541.93,
+            345.6,
+            6
+          ],
+          "text": "小計",
+          "textPreview": "小計",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "小計",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "小計",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            470.4,
+            541.93,
+            115.2,
+            6
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 8,
+          "column": 4,
+          "bbox": [
+            585.6,
+            541.93,
+            150.72,
+            6
+          ],
+          "fillColor": "#F4F6FA"
+        },
+        {
+          "index": 33,
+          "row": 9,
+          "column": 1,
+          "bbox": [
+            57.6,
+            547.93,
+            67.2,
+            6
+          ],
+          "text": "B",
+          "textPreview": "B",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "B",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "B",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 9,
+          "column": 2,
+          "bbox": [
+            124.8,
+            547.93,
+            345.6,
+            6
+          ],
+          "text": "簡介影片、手冊製作(上限 120 萬)",
+          "textPreview": "簡介影片、手冊製作(上限 120 萬)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "簡介影片、手冊製作(上限 120 萬)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "簡介影片、手冊製作(上限 120 萬)",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 9,
+          "column": 3,
+          "bbox": [
+            470.4,
+            547.93,
+            115.2,
+            6
+          ],
+          "fillColor": "#FFFFFF"
+        },
+        {
+          "index": 36,
+          "row": 9,
+          "column": 4,
+          "bbox": [
+            585.6,
+            547.93,
+            150.72,
+            6
+          ],
+          "fillColor": "#FFFFFF"
+        },
+        {
+          "index": 37,
+          "row": 10,
+          "column": 1,
+          "bbox": [
+            57.6,
+            553.93,
+            67.2,
+            6
+          ],
+          "text": "B1",
+          "textPreview": "B1",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "B1",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "B1",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 38,
+          "row": 10,
+          "column": 2,
+          "bbox": [
+            124.8,
+            553.93,
+            345.6,
+            6
+          ],
+          "text": "簡介影片企劃、拍攝與後製(2K 以上)",
+          "textPreview": "簡介影片企劃、拍攝與後製(2K 以上)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "簡介影片企劃、拍攝與後製(2K 以上)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "簡介影片企劃、拍攝與後製(2K 以上)",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 39,
+          "row": 10,
+          "column": 3,
+          "bbox": [
+            470.4,
+            553.93,
+            115.2,
+            6
+          ],
+          "text": "52",
+          "textPreview": "52",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "52",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "52",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 40,
+          "row": 10,
+          "column": 4,
+          "bbox": [
+            585.6,
+            553.93,
+            150.72,
+            6
+          ],
+          "text": "含放映系統整合",
+          "textPreview": "含放映系統整合",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "含放映系統整合",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "含放映系統整合",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 41,
+          "row": 11,
+          "column": 1,
+          "bbox": [
+            57.6,
+            559.93,
+            67.2,
+            6
+          ],
+          "text": "B2",
+          "textPreview": "B2",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "B2",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "B2",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 42,
+          "row": 11,
+          "column": 2,
+          "bbox": [
+            124.8,
+            559.93,
+            345.6,
+            6
+          ],
+          "text": "五語翻譯、審校、配音與字幕",
+          "textPreview": "五語翻譯、審校、配音與字幕",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "五語翻譯、審校、配音與字幕",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "五語翻譯、審校、配音與字幕",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 43,
+          "row": 11,
+          "column": 3,
+          "bbox": [
+            470.4,
+            559.93,
+            115.2,
+            6
+          ],
+          "text": "16",
+          "textPreview": "16",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "16",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "16",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 44,
+          "row": 11,
+          "column": 4,
+          "bbox": [
+            585.6,
+            559.93,
+            150.72,
+            6
+          ],
+          "fillColor": "#FFFFFF"
+        },
+        {
+          "index": 45,
+          "row": 12,
+          "column": 1,
+          "bbox": [
+            57.6,
+            565.93,
+            67.2,
+            6
+          ],
+          "text": "B3",
+          "textPreview": "B3",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "B3",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "B3",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 46,
+          "row": 12,
+          "column": 2,
+          "bbox": [
+            124.8,
+            565.93,
+            345.6,
+            6
+          ],
+          "text": "第5屆議員就職典禮全程錄影拍照",
+          "textPreview": "第5屆議員就職典禮全程錄影拍照",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第5屆議員就職典禮全程錄影拍照",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第5屆議員就職典禮全程錄影拍照",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 47,
+          "row": 12,
+          "column": 3,
+          "bbox": [
+            470.4,
+            565.93,
+            115.2,
+            6
+          ],
+          "text": "12",
+          "textPreview": "12",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "12",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "12",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 48,
+          "row": 12,
+          "column": 4,
+          "bbox": [
+            585.6,
+            565.93,
+            150.72,
+            6
+          ],
+          "text": "含大合照",
+          "textPreview": "含大合照",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "含大合照",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "含大合照",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 49,
+          "row": 13,
+          "column": 1,
+          "bbox": [
+            57.6,
+            571.93,
+            67.2,
+            6
+          ],
+          "text": "B4",
+          "textPreview": "B4",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "B4",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "B4",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 50,
+          "row": 13,
+          "column": 2,
+          "bbox": [
+            124.8,
+            571.93,
+            345.6,
+            6
+          ],
+          "text": "USB 300 個(含外包裝設計)及藍光片",
+          "textPreview": "USB 300 個(含外包裝設計)及藍光片",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "USB 300 個(含外包裝設計)及藍光片",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "USB 300 個(含外包裝設計)及藍光片",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 51,
+          "row": 13,
+          "column": 3,
+          "bbox": [
+            470.4,
+            571.93,
+            115.2,
+            6
+          ],
+          "text": "16",
+          "textPreview": "16",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "16",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "16",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 52,
+          "row": 13,
+          "column": 4,
+          "bbox": [
+            585.6,
+            571.93,
+            150.72,
+            6
+          ],
+          "text": "USB 3.0/16G 以上",
+          "textPreview": "USB 3.0/16G 以上",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "USB 3.0/16G 以上",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "USB 3.0/16G 以上",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 53,
+          "row": 14,
+          "column": 1,
+          "bbox": [
+            57.6,
+            577.93,
+            67.2,
+            6
+          ],
+          "text": "B5",
+          "textPreview": "B5",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "B5",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "B5",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 54,
+          "row": 14,
+          "column": 2,
+          "bbox": [
+            124.8,
+            577.93,
+            345.6,
+            6
+          ],
+          "text": "簡介手冊設計及雙語印製 600 本",
+          "textPreview": "簡介手冊設計及雙語印製 600 本",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "簡介手冊設計及雙語印製 600 本",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "簡介手冊設計及雙語印製 600 本",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 55,
+          "row": 14,
+          "column": 3,
+          "bbox": [
+            470.4,
+            577.93,
+            115.2,
+            6
+          ],
+          "text": "24",
+          "textPreview": "24",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "24",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "24",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 56,
+          "row": 14,
+          "column": 4,
+          "bbox": [
+            585.6,
+            577.93,
+            150.72,
+            6
+          ],
+          "text": "中英、中日各300",
+          "textPreview": "中英、中日各300",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "中英、中日各300",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "中英、中日各300",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 57,
+          "row": 15,
+          "column": 1,
+          "bbox": [
+            57.6,
+            583.93,
+            67.2,
+            6
+          ],
+          "fillColor": "#FFFFFF"
+        },
+        {
+          "index": 58,
+          "row": 15,
+          "column": 2,
+          "bbox": [
+            124.8,
+            583.93,
+            345.6,
+            6
+          ],
+          "text": "小計",
+          "textPreview": "小計",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "小計",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "小計",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 59,
+          "row": 15,
+          "column": 3,
+          "bbox": [
+            470.4,
+            583.93,
+            115.2,
+            6
+          ],
+          "text": "120",
+          "textPreview": "120",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "120",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "120",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 60,
+          "row": 15,
+          "column": 4,
+          "bbox": [
+            585.6,
+            583.93,
+            150.72,
+            6
+          ],
+          "fillColor": "#F4F6FA"
+        },
+        {
+          "index": 61,
+          "row": 16,
+          "column": 1,
+          "bbox": [
+            57.6,
+            589.93,
+            67.2,
+            6
+          ],
+          "fillColor": "#FFFFFF"
+        },
+        {
+          "index": 62,
+          "row": 16,
+          "column": 2,
+          "bbox": [
+            124.8,
+            589.93,
+            345.6,
+            6
+          ],
+          "text": "總計",
+          "textPreview": "總計",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "總計",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "總計",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 63,
+          "row": 16,
+          "column": 3,
+          "bbox": [
+            470.4,
+            589.93,
+            115.2,
+            6
+          ],
+          "text": "270",
+          "textPreview": "270",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "270",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "270",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#1B2A4A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 64,
+          "row": 16,
+          "column": 4,
+          "bbox": [
+            585.6,
+            589.93,
+            150.72,
+            6
+          ],
+          "text": "含稅",
+          "textPreview": "含稅",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "含稅",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "含稅",
+                  "fontSize": 12,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vqdsrqx4",
+      "id": "13",
+      "name": "Text 9",
+      "bbox": [
+        57.6,
+        974.91,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "三、經費分配原則說明",
+      "textPreview": "三、經費分配原則說明",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三、經費分配原則說明"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三、經費分配原則說明",
+          "runs": [
+            {
+              "index": 1,
+              "text": "三、經費分配原則說明",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vm9ovel",
+      "id": "14",
+      "name": "Text 10",
+      "bbox": [
+        69.12,
+        1013.31,
+        667.2,
+        105.6
+      ],
+      "geometry": "rect",
+      "text": "依需求書明定之兩大區塊上限框列,不相互流用,便於本會勾稽。\nLED 顯示系統為設備區塊核心投資(約六成),確保規格達標並預留整合測試成本。\n各項金額均含人力、材料、稅捐、保險、運輸、安裝及教育訓練等一切費用;4 年保固成本已分攤計入。",
+      "textPreview": "依需求書明定之兩大區塊上限框列,不相互流用,便於本會勾稽。 | LED 顯示系統為設備區塊核心投資(約六成),確保規格達標並預留整合測試成本。 | 各項金額均含人力、材料、稅捐、保險、運輸、安裝及教育訓練等一切費用;4 年保固成本已分攤計入。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 依需求書明定之兩大區塊上限框列,不相互流用,便於本會勾稽。"
+          },
+          {
+            "index": 2,
+            "text": "• LED 顯示系統為設備區塊核心投資(約六成),確保規格達標並預留整合測試成本。"
+          },
+          {
+            "index": 3,
+            "text": "• 各項金額均含人力、材料、稅捐、保險、運輸、安裝及教育訓練等一切費用;4 年保固成本已分攤計入。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "依需求書明定之兩大區塊上限框列,不相互流用,便於本會勾稽。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "依需求書明定之兩大區塊上限框列,不相互流用,便於本會勾稽。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "LED 顯示系統為設備區塊核心投資(約六成),確保規格達標並預留整合測試成本。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "LED 顯示系統為設備區塊核心投資(約六成),確保規格達標並預留整合測試成本。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "各項金額均含人力、材料、稅捐、保險、運輸、安裝及教育訓練等一切費用;4 年保固成本已分攤計入。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "各項金額均含人力、材料、稅捐、保險、運輸、安裝及教育訓練等一切費用;4 年保固成本已分攤計入。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

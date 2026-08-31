@@ -1,0 +1,349 @@
+{"kind":"deck","id":"pr/zebj2n","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"DEFAULT"}
+{"kind":"slide","id":"sl/7sg4d2","slide":1,"title":"服務建議書","textShapes":7}
+{"kind":"shape","id":"sh/8n2dcb21","slide":1,"name":"Shape 0","bbox":[0,0,793.92,211.2]}
+{"kind":"shape","id":"sh/9obe5gjm","slide":1,"name":"Shape 1","bbox":[582.72,-105.6,307.2,307.2]}
+{"kind":"textbox","id":"sh/upkvelk7","slide":1,"name":"Text 2","text":"服務建議書","textPreview":"服務建議書","textChars":5,"textLines":1,"bbox":[57.6,81.6,480,48]}
+{"kind":"textbox","id":"sh/vqtw761s","slide":1,"name":"Text 3","text":"新北市議會","textPreview":"新北市議會","textChars":5,"textLines":1,"bbox":[57.6,321.6,678.72,57.6]}
+{"kind":"textbox","id":"sh/wbmdgb2d","slide":1,"name":"Text 4","text":"會史館增修、簡報室設備更新暨\n第5屆議會簡介影片、手冊規劃製作案","textPreview":"會史館增修、簡報室設備更新暨 | 第5屆議會簡介影片、手冊規劃製作案","textChars":32,"textLines":2,"bbox":[57.6,388.8,678.72,144]}
+{"kind":"textbox","id":"sh/hcve9gjy","slide":1,"name":"Text 5","text":"服 務 建 議 書(企 劃 書)","textPreview":"服 務 建 議 書(企 劃 書)","textChars":16,"textLines":1,"bbox":[57.6,566.4,678.72,86.4]}
+{"kind":"shape","id":"sh/at0v2hk3","slide":1,"name":"Shape 6","bbox":[281.76,686.4,230.4,0]}
+{"kind":"textbox","id":"sh/bu9cvm1o","slide":1,"name":"Text 7","text":"投標廠商:○○○○股份有限公司(請填入)","textPreview":"投標廠商:○○○○股份有限公司(請填入)","textChars":20,"textLines":1,"bbox":[57.6,801.6,678.72,38.4]}
+{"kind":"textbox","id":"sh/nipcnu10","slide":1,"name":"Text 8","text":"聯 絡 人:○○○|電話:○○○○○○○○","textPreview":"聯 絡 人:○○○|電話:○○○○○○○○","textChars":21,"textLines":1,"bbox":[57.6,849.6,678.72,33.6]}
+{"kind":"textbox","id":"sh/mhwvep0f","slide":1,"name":"Text 9","text":"中華民國 115 年 ○ 月 ○ 日","textPreview":"中華民國 115 年 ○ 月 ○ 日","textChars":18,"textLines":1,"bbox":[57.6,892.8,678.72,33.6]}
+{"kind":"notes","id":"nt/7sg4d2","slide":1,"text":""}
+{"kind":"slide","id":"sl/hz7tr4","slide":2,"title":"參、專案理解與整體規劃理念","textShapes":12}
+{"kind":"textbox","id":"sh/cr6lcrit","slide":2,"name":"Text 0","text":"參、專案理解與整體規劃理念","textPreview":"參、專案理解與整體規劃理念","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/xsz2lwje","slide":2,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/2loj6x0b","slide":2,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/nmxkf21w","slide":2,"name":"Text 3","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/on6187ih","slide":2,"name":"Text 4","text":"參、專案理解與整體規劃理念","textPreview":"參、專案理解與整體規劃理念","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/pof2hcj2","slide":2,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/6h83i10v","slide":2,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|委員判斷你「懂不懂這案子」的關鍵章。建議提出貫穿四項工作的策展主軸(示例:民主的日常),讓展板、影片、手冊視覺語言一致——呼應「綜合性企劃」精神,是最容易被忽略的拿分點。","textPreview":"✎ 撰寫建議(繳交前請刪除)|委員判斷你「懂不懂這案子」的關鍵章。建議提出貫穿四項工作的策展主軸(示例:民主的日常),讓展板、影片、手冊視覺語言一致——呼應「綜合性企劃」精神,是最容易被忽略的拿分點。","textChars":100,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/7ihkr61g","slide":2,"name":"Text 7","text":"一、需求重點解析","textPreview":"一、需求重點解析","textChars":8,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/u98v6h8b","slide":2,"name":"Text 8","text":"二、策展主軸與規劃理念(示例,請依貴公司創意調整)","textPreview":"二、策展主軸與規劃理念(示例,請依貴公司創意調整)","textChars":25,"textLines":1,"bbox":[57.6,400.91,678.72,30.72]}
+{"kind":"textbox","id":"sh/hczuhw72","slide":2,"name":"Text 9","text":"本公司以「民主的日常——看得見的議會」為全案策展主軸:議會不是遙遠的殿堂,而是與市民生活息息相關的日常。三項子概念貫穿各工作項目:","textPreview":"本公司以「民主的日常——看得見的議會」為全案策展主軸:議會不是遙遠的殿堂,而是與市民生活息息相關的日常。三項子概念貫穿各工作項目:","textChars":65,"textLines":1,"bbox":[57.6,439.31,678.72,45.12]}
+{"kind":"textbox","id":"sh/gbqd8rqh","slide":2,"name":"Text 10","text":"看見歷史:會史館以時間軸重整歷屆議會脈絡,凸顯地方自治精神之傳承。\n看見運作:簡介影片以「一件市民陳情案的旅程」為敘事線(示例),具象呈現議員如何質詢、審議、監督市政。\n看見未來:本屆議會區與國際交流區呈現第5屆議會之組成、願景與城市外交成果。","textPreview":"看見歷史:會史館以時間軸重整歷屆議會脈絡,凸顯地方自治精神之傳承。 | 看見運作:簡介影片以「一件市民陳情案的旅程」為敘事線(示例),具象呈現議員如何質詢、審議、監督市政。 | 看見未來:本屆議會區與國際交流區呈現第5屆議會之組成、願景與城市外交成果。","textChars":122,"textLines":3,"bbox":[69.12,492.11,667.2,105.6]}
+{"kind":"textbox","id":"sh/3ehcj6ps","slide":2,"name":"Text 11","text":"【設計示意圖預留位置:主視覺與色彩計畫,建議置入 1 頁】","textPreview":"【設計示意圖預留位置:主視覺與色彩計畫,建議置入 1 頁】","textChars":29,"textLines":1,"bbox":[57.6,605.39,678.72,24.96]}
+{"kind":"textbox","id":"sh/2d8va187","slide":2,"name":"Text 12","text":"三、整合執行策略","textPreview":"三、整合執行策略","textChars":8,"textLines":1,"bbox":[57.6,645.71,678.72,30.72]}
+{"kind":"textbox","id":"sh/p0julw7y","slide":2,"name":"Text 13","text":"單一專案經理統籌,下設策展設計、硬體工程、影像製作、手冊編印四個工作組,每週內部進度會議。\n素材一次採集、多重運用:攝影與文史素材同時供展板、影片、手冊使用,降低重工並確保一致性。\n送審前置:各階段文件送審前完成內部三級檢核,縮短往返修正時間。","textPreview":"單一專案經理統籌,下設策展設計、硬體工程、影像製作、手冊編印四個工作組,每週內部進度會議。 | 素材一次採集、多重運用:攝影與文史素材同時供展板、影片、手冊使用,降低重工並確保一致性。 | 送審前置:各階段文件送審前完成內部三級檢核,縮短往返修正時間。","textChars":122,"textLines":3,"bbox":[69.12,684.11,667.2,125.76]}
+{"kind":"table","id":"tb/vyx4futs","slide":2,"name":"Table 0","rows":3,"cols":2,"preview":"整合性 | 四項工作共用同一批素材與設計語言,應由同一策展設計團隊統籌,避免風格割裂。","bbox":[57.6,264,678.72,89.6]}
+{"kind":"notes","id":"nt/hz7tr4","slide":2,"text":""}
+{"kind":"slide","id":"sl/r4ddrv","slide":3,"title":"捌、教育訓練計畫","textShapes":10}
+{"kind":"textbox","id":"sh/7q1432ho","slide":3,"name":"Text 0","text":"捌、教育訓練計畫","textPreview":"捌、教育訓練計畫","textChars":8,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/mpsnax03","slide":3,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/hg3m9czq","slide":3,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/wfa507i5","slide":3,"name":"Text 3","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/vu147mhk","slide":3,"name":"Text 4","text":"捌、教育訓練計畫","textPreview":"捌、教育訓練計畫","textChars":8,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/utsnyh0f","slide":3,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/5k36dwz2","slide":3,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|需求書陸明定教材由廠商提供、地點與名單由機關提供。此章不用長,但要有課表與教材清單,對應專案流程第五階段。","textPreview":"✎ 撰寫建議(繳交前請刪除)|需求書陸明定教材由廠商提供、地點與名單由機關提供。此章不用長,但要有課表與教材清單,對應專案流程第五階段。","textChars":68,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/4ju54rih","slide":3,"name":"Text 7","text":"一、訓練規劃","textPreview":"一、訓練規劃","textChars":6,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/ypsnip0j","slide":3,"name":"Text 8","text":"於專案第五階段(驗收前)辦理;訓練地點及參訓人員名單由本會提供,本公司依參訓對象(管理/操作人員)分級設計課程,每場次提供簽到表與課後問卷。","textPreview":"於專案第五階段(驗收前)辦理;訓練地點及參訓人員名單由本會提供,本公司依參訓對象(管理/操作人員)分級設計課程,每場次提供簽到表與課後問卷。","textChars":70,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/zqlobu14","slide":3,"name":"Text 9","text":"二、課程內容(示例)","textPreview":"二、課程內容(示例)","textChars":10,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/ls36d4ja","slide":3,"name":"Text 10","text":"三、教材與文件","textPreview":"三、教材與文件","textChars":7,"textLines":1,"bbox":[57.6,495.42,678.72,30.72]}
+{"kind":"textbox","id":"sh/mtcnm90v","slide":3,"name":"Text 11","text":"提供訓練教材、各項軟硬體設備操作手冊(紙本及電子檔)各 1 式;訓練後 7 日內依學員回饋修訂教材定稿。","textPreview":"提供訓練教材、各項軟硬體設備操作手冊(紙本及電子檔)各 1 式;訓練後 7 日內依學員回饋修訂教材定稿。","textChars":52,"textLines":1,"bbox":[57.6,533.82,678.72,45.12]}
+{"kind":"table","id":"tb/kvmxkzat","slide":3,"name":"Table 0","rows":4,"cols":3,"preview":"課程 | 內容 | 時數(示例)","bbox":[57.6,362.88,678.72,96]}
+{"kind":"notes","id":"nt/r4ddrv","slide":3,"text":""}
+{"kind":"slide","id":"sl/3c6lkt","slide":4,"title":"陸、時程規劃與進度管理","textShapes":8}
+{"kind":"textbox","id":"sh/8vu1k3at","slide":4,"name":"Text 0","text":"陸、時程規劃與進度管理","textPreview":"陸、時程規劃與進度管理","textChars":11,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/tgn2t8re","slide":4,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/ypcjetsr","slide":4,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/jqlkny9c","slide":4,"name":"Text 3","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/kru1g3ax","slide":4,"name":"Text 4","text":"陸、時程規劃與進度管理","textPreview":"陸、時程規劃與進度管理","textChars":11,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/ls32p8ri","slide":4,"name":"Shape 5","bbox":[57.6,144,678.72,78.24]}
+{"kind":"textbox","id":"sh/ilw3qxsb","slide":4,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|120 個「日曆天」含例假日,實際工作天約 85 天。委員特別看:LED 到貨期(進口設備常需 45~60 天,是關鍵路徑)、五階段送審往返時間、就職典禮是否獨立標示。甘特圖務必與需求書五階段對應。","textPreview":"✎ 撰寫建議(繳交前請刪除)|120 個「日曆天」含例假日,實際工作天約 85 天。委員特別看:LED 到貨期(進口設備常需 45~60 天,是關鍵路徑)、五階段送審往返時間、就職典禮是否獨立標示。甘特圖務必與需求書五階段對應。","textChars":114,"textLines":1,"bbox":[72,153.6,649.92,59.04]}
+{"kind":"textbox","id":"sh/3m5kz29g","slide":4,"name":"Text 7","text":"一、五階段作業時程(對應需求書壹、五「專案流程」)","textPreview":"一、五階段作業時程(對應需求書壹、五「專案流程」)","textChars":25,"textLines":1,"bbox":[57.6,243.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/a14nq1sz","slide":4,"name":"Text 8","text":"二、整體進度甘特圖(示例)","textPreview":"二、整體進度甘特圖(示例)","textChars":13,"textLines":1,"bbox":[57.6,524.79,678.72,30.72]}
+{"kind":"textbox","id":"sh/w3m5sba5","slide":4,"name":"Text 9","text":"註:第5屆議員就職典禮全程紀錄依實際典禮日期辦理,不受上表階段限制;金色區塊為該項工作之執行期間。","textPreview":"註:第5屆議員就職典禮全程紀錄依實際典禮日期辦理,不受上表階段限制;金色區塊為該項工作之執行期間。","textChars":49,"textLines":1,"bbox":[57.6,816.63,678.72,45.12]}
+{"kind":"table","id":"tb/wrut4fi9","slide":4,"name":"Table 0","rows":6,"cols":4,"preview":"階段 | 作業項目 | 提供文件供本會確認 | 時程(示例)","bbox":[57.6,281.76,678.72,96]}
+{"kind":"table","id":"tb/hs3ax0ju","slide":4,"name":"Table 1","rows":8,"cols":7,"preview":"工作項目 | D1-20 | D21-40 | D41-60 | D61-80 | D81-100 | D101-120","bbox":[57.6,563.19,678.72,96]}
+{"kind":"notes","id":"nt/3c6lkt","slide":4,"text":""}
+{"kind":"slide","id":"sl/o608ht","slide":5,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/a14j2h0n","slide":5,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/b2d0bmh8","slide":5,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/k7m18ri5","slide":5,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/lsfihwza","slide":5,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/y54j610z","slide":5,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/z6d0f6hk","slide":5,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/8v61cbi1","slide":5,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/9wfilgzm","slide":5,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/h0v294r2","slide":5,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/gzm10zah","slide":5,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/fydk7utw","slide":5,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/uxkjypsr","slide":5,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/p4v2d4re","slide":5,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/43ml4zat","slide":5,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/32dkbu98","slide":5,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/214j29sn","slide":5,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/58b21kbu","slide":5,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/o608ht","slide":5,"text":""}
+{"kind":"slide","id":"sl/9fmdxt","slide":6,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/36l4jypo","slide":6,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/25s3qt8j","slide":6,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/h4jmho7y","slide":6,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/g3alo3qd","slide":6,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/fi1kfyps","slide":6,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/uhs3mt87","slide":6,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/tgj2do7m","slide":6,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/sfalkjq1","slide":6,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/u9sr6hgb","slide":6,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/va1szmxw","slide":6,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/gbut8ryh","slide":6,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/hc3a1wf2","slide":6,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/65sr2hgf","slide":6,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/761svmxk","slide":6,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/87a94ry5","slide":6,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/t8jaxcfq","slide":6,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/yh8ryxg3","slide":6,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/9fmdxt","slide":6,"text":""}
+{"kind":"slide","id":"sl/85qk9l","slide":7,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/jmhk3a9k","slide":7,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/il83a58z","slide":7,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/tsj294rm","slide":7,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/sralgzq1","slide":7,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/rqhk7u9w","slide":7,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/6p83ep8b","slide":7,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/1gj2d4ry","slide":7,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/gfalkzqd","slide":7,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/6h8fytsr","slide":7,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/rihw7y9c","slide":7,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/sjqx03ax","slide":7,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/tkzy98r2","slide":7,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/el8f2tsn","slide":7,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/fm1gby98","slide":7,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/07ax43at","slide":7,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/18jyd8re","slide":7,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/upofq9sj","slide":7,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/85qk9l","slide":7,"text":""}
+{"kind":"slide","id":"sl/xgvvh7","slide":8,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/18ral8vy","slide":8,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/07its3ud","slide":8,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/nu9snid4","slide":8,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/2t0budcj","slide":8,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/pwrapsvu","slide":8,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/ovitwnup","slide":8,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/3y5sbydk","slide":8,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/ixwritcf","slide":8,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/ofmdgv2l","slide":8,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/9gvep0j6","slide":8,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/md4velkv","slide":8,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/nedwnq10","slide":8,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/w36xkv2x","slide":8,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/x4fet0ji","slide":8,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/a1ovi5kr","slide":8,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/v2xwra1c","slide":8,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/c72d8b2d","slide":8,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/xgvvh7","slide":8,"text":""}
+{"kind":"slide","id":"sl/vkl6vz","slide":9,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/uhof69wv","slide":9,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/vixwzexg","slide":9,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/4nqxcjex","slide":9,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/58zy5ovi","slide":9,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/il8fa9wr","slide":9,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/3mhw3edc","slide":9,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/sbaxgjet","slide":9,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/dcjy9ove","slide":9,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/pobixkna","slide":9,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/onihofmp","slide":9,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/3m90va54","slide":9,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/2l0zm5oj","slide":9,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/dsbi14n6","slide":9,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/cr2hszm1","slide":9,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/bqt0zu5g","slide":9,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/qpkzqp4v","slide":9,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/twryp0n2","slide":9,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/vkl6vz","slide":9,"text":""}
+{"kind":"slide","id":"sl/uuvre3","slide":10,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/7298n2lg","slide":10,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/6107eh4v","slide":10,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/hsrqdw3i","slide":10,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/gripkrmx","slide":10,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/vq98bmlc","slide":10,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/up07ih4r","slide":10,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/xw76hsne","slide":10,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/wvyp8nmt","slide":10,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/u1oz2hkb","slide":10,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/f2xgvm1w","slide":10,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/g36h472h","slide":10,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/h4fyxcj2","slide":10,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/2poz6hkn","slide":10,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/3qhgzm18","slide":10,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/4rqh8r2d","slide":10,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/pszi1wjy","slide":10,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/qt8za1kj","slide":10,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/uuvre3","slide":10,"text":""}
+{"kind":"slide","id":"sl/ey4q3m","slide":11,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/2lwbedor","slide":11,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/nm5c7i5w","slide":11,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/0jutc36l","slide":11,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/1knu58n6","slide":11,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/ehcbatof","slide":11,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/fils3y50","slide":11,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/kfyto7mp","slide":11,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/lg7uhcna","slide":11,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/pob25cnm","slide":11,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/4n2lc761","slide":11,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/3mtk32pg","slide":11,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/2lk3axov","slide":11,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/hkb21s7a","slide":11,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/gj2l8n6p","slide":11,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/fitkzipk","slide":11,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/ux036doz","slide":11,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/1gvmdwnu","slide":11,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/ey4q3m","slide":11,"text":""}
+{"kind":"slide","id":"sl/kr21fr","slide":12,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/5kzq1cru","slide":12,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/4jq9s7q9","slide":12,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/rmh83290","slide":12,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/ql8ruh8f","slide":12,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/doza5cr6","slide":12,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/snq9w7ql","slide":12,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/za1s7m9w","slide":12,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/e9sryh8r","slide":12,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/43ulk3ux","slide":12,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/543md8v2","slide":12,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/i1s3idcr","slide":12,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/3214bydc","slide":12,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/s7u5onut","slide":12,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/ds3mhsve","slide":12,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/q5c3mdcn","slide":12,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/r6l4fid8","slide":12,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/0ve5snup","slide":12,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/kr21fr","slide":12,"text":""}
+{"kind":"slide","id":"sl/8yipwi","slide":13,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/76x8v69s","slide":13,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/65or21s7","slide":13,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/l4fqtgb2","slide":13,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/k3690bah","slide":13,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/jix8r6tw","slide":13,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/yhory1sb","slide":13,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/xgfqpwbq","slide":13,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/wfm9wra5","slide":13,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/6p0vq147","slide":13,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/7q9wjmls","slide":13,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/sridsrmd","slide":13,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/tsrelw3i","slide":13,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/i1gvmh4v","slide":13,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/jmpwfm5g","slide":13,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/knidorm1","slide":13,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/5orehw3m","slide":13,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/axgvih4z","slide":13,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/8yipwi","slide":13,"text":""}
+{"kind":"slide","id":"sl/b0ulvk","slide":14,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/pw76h87q","slide":14,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/ovy58365","slide":14,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/fq54bypo","slide":14,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/epwn2to3","slide":14,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/1s7mdo7u","slide":14,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/0re54j69","slide":14,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/rm547eps","slide":14,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/q1wny9o7","slide":14,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/4vm503up","slide":14,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/pwv698ba","slide":14,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/it4nydcj","slide":14,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/3udo7it4","slide":14,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/g7m5w3ud","slide":14,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/hsv658vy","slide":14,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/u5knutcn","slide":14,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/v6do3yd8","slide":14,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/0n6p8nux","slide":14,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/b0ulvk","slide":14,"text":""}
+{"kind":"slide","id":"sl/bt5ga5","slide":15,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/t03qlgnu","slide":15,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/szupcb69","slide":15,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/ja18fm5c","slide":15,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/i9s76hor","slide":15,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/5wjqhwni","slide":15,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/kbap8r6x","slide":15,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/v6hobmpg","slide":15,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/a5872hov","slide":15,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/svu1wvit","slide":15,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/tw32p0je","slide":15,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/6tcjulkn","slide":15,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/7ulknq18","slide":15,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/kru1sb2h","slide":15,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/5s32lgj2","slide":15,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/ipsjqlkr","slide":15,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/jq1kj61c","slide":15,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/4nel4fi1","slide":15,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/bt5ga5","slide":15,"text":""}
+{"kind":"slide","id":"sl/y06jw5","slide":16,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/eh4vehg3","slide":16,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/zidc7mho","slide":16,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/cfmdc7yd","slide":16,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/dgvu5czy","slide":16,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/qd4vaxg7","slide":16,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/redc32hs","slide":16,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/4r2t8ny1","slide":16,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/5cvu1szm","slide":16,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/t87i9onu","slide":16,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/s7y1gjm9","slide":16,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/76p07e5o","slide":16,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/65gje943","slide":16,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/54ni54ni","slide":16,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/k3e1czmd","slide":16,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/ji503u5s","slide":16,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/ihwjap47","slide":16,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/xgni14nm","slide":16,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/y06jw5","slide":16,"text":""}
+{"kind":"slide","id":"sl/1z4r7o","slide":17,"title":"柒、品質管理與監督查核配合","textShapes":15}
+{"kind":"textbox","id":"sh/83ulo3e5","slide":17,"name":"Text 0","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/t432x8fq","slide":17,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/yxs3itw3","slide":17,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/jy1kryxo","slide":17,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/kzalk3e9","slide":17,"name":"Text 4","text":"柒、品質管理與監督查核配合","textPreview":"柒、品質管理與監督查核配合","textChars":13,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/l0j2tofu","slide":17,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/2tw3udw7","slide":17,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textPreview":"✎ 撰寫建議(繳交前請刪除)|寫法是「把需求書肆、二的四項監督機制逐一承諾做到,並加碼自己的品管制度」。月報格式、會議紀錄、10 日改善時限都要點名回應,展現配合度。","textChars":83,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/3u543ids","slide":17,"name":"Text 7","text":"一、工作報告(對應需求書肆、二(一))","textPreview":"一、工作報告(對應需求書肆、二(一))","textChars":19,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/f2l8re5g","slide":17,"name":"Text 8","text":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textPreview":"自得標日起,每月將工作進度(含前置工作)以書面通知本會;月報含:本期完成事項、下期預定工作、進度比較(預定 vs 實際)、待協調事項。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/e1c7i9ov","slide":17,"name":"Text 9","text":"二、協調會議(對應需求書肆、二(二))","textPreview":"二、協調會議(對應需求書肆、二(二))","textChars":19,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/143qtonm","slide":17,"name":"Text 10","text":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textPreview":"配合本會視需要召開之專案工作會議;會議三日前將工作進度與討論事項送交本會,會後三日內提交會議紀錄,決議事項確實執行並於次月月報回報辦理情形。","textChars":70,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/03upkj61","slide":17,"name":"Text 11","text":"三、計畫送審(對應需求書肆、二(三))","textPreview":"三、計畫送審(對應需求書肆、二(三))","textChars":19,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/nql8ve5c","slide":17,"name":"Text 12","text":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textPreview":"依招標文件、契約書及相關計畫規定日期提出各項計畫,經本會查核通過後據以實施或使用;未經核可不逕行施作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/25c7mto7","slide":17,"name":"Text 13","text":"四、缺失改善(對應需求書肆、二(四))","textPreview":"四、缺失改善(對應需求書肆、二(四))","textChars":19,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/psnqxoni","slide":17,"name":"Text 14","text":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textPreview":"對本會各項監督查核積極配合、提供所需資料並給予必要協助;經通知之缺失,於接獲通知 10 日內提出改善措施並據以執行,配合本會派員複查,直到確實改善為止。","textChars":76,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/orupoj6x","slide":17,"name":"Text 15","text":"五、本公司品質保證措施","textPreview":"五、本公司品質保證措施","textChars":11,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/bu58zy5o","slide":17,"name":"Text 16","text":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。\n素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。\n設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textPreview":"三級檢核制:工作組自主檢查→專案經理複核→品管專員覆核,任一文件與成品送出前完成三級簽核。 | 素材正確性控管:議員姓名、選區、職銜等建立單一來源對照表,付印/上線前送本會最終確認。 | 設備進場檢驗:LED 模組到貨逐批抽驗(亮度、色差、壞點),安裝後 72 小時連續烙機測試。","textChars":136,"textLines":3,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/1z4r7o","slide":17,"text":""}
+{"kind":"slide","id":"sl/3cv47v","slide":18,"title":"伍、專案組織與人力配置","textShapes":11}
+{"kind":"textbox","id":"sh/elk7a5wf","slide":18,"name":"Text 0","text":"伍、專案組織與人力配置","textPreview":"伍、專案組織與人力配置","textChars":11,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/zmtojax0","slide":18,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/ormpgfeh","slide":18,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/9cvqpkf2","slide":18,"name":"Text 3","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/mp47epwr","slide":18,"name":"Text 4","text":"伍、專案組織與人力配置","textPreview":"伍、專案組織與人力配置","textChars":11,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/nqd8naxc","slide":18,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/4vip4vyd","slide":18,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|需求書肆、一明定投標時應詳列成員專業背景(含類似專案績效)、技術專長及負責項目——形式審查重點,每位成員欄位務必填齊,學經歷證明放附件三。","textPreview":"✎ 撰寫建議(繳交前請刪除)|需求書肆、一明定投標時應詳列成員專業背景(含類似專案績效)、技術專長及負責項目——形式審查重點,每位成員欄位務必填齊,學經歷證明放附件三。","textChars":84,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/pgr6d0fy","slide":18,"name":"Text 7","text":"一、專案組織架構","textPreview":"一、專案組織架構","textChars":8,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/hsb6hcbu","slide":18,"name":"Text 8","text":"專案經理一人統籌,直接對本會單一窗口負責,下設四個工作組:策展設計組(展板、手冊、主視覺)、系統工程組(LED、影音導覽、AR)、影像製作組(簡介影片、就職典禮紀錄)、品管行政組(送審文件、品質檢核、進度管控)。","textPreview":"專案經理一人統籌,直接對本會單一窗口負責,下設四個工作組:策展設計組(展板、手冊、主視覺)、系統工程組(LED、影音導覽、AR)、影像製作組(簡介影片、就職典禮紀錄)、品管行政組(送審文件、品質檢核、進度管控)。","textChars":106,"textLines":1,"bbox":[57.6,264,678.72,65.28]}
+{"kind":"textbox","id":"sh/gr2587a9","slide":18,"name":"Text 9","text":"【組織架構圖預留位置:建議以圖呈現,置入半頁】","textPreview":"【組織架構圖預留位置:建議以圖呈現,置入半頁】","textChars":23,"textLines":1,"bbox":[57.6,336.96,678.72,24.96]}
+{"kind":"textbox","id":"sh/v6tof2to","slide":18,"name":"Text 10","text":"二、主要成員與分工","textPreview":"二、主要成員與分工","textChars":9,"textLines":1,"bbox":[57.6,377.28,678.72,30.72]}
+{"kind":"textbox","id":"sh/pwv6lcrq","slide":18,"name":"Text 11","text":"三、專案聯絡與協調機制","textPreview":"三、專案聯絡與協調機制","textChars":11,"textLines":1,"bbox":[57.6,699.53,678.72,30.72]}
+{"kind":"textbox","id":"sh/4v25cra5","slide":18,"name":"Text 12","text":"得標後三日內以書面指定專案經理○○○為本案唯一聯絡窗口(手機/電子郵件 24 小時暢通),負責聯絡、協調及會議召集;如有異動,事前徵得本會同意並辦理交接。","textPreview":"得標後三日內以書面指定專案經理○○○為本案唯一聯絡窗口(手機/電子郵件 24 小時暢通),負責聯絡、協調及會議召集;如有異動,事前徵得本會同意並辦理交接。","textChars":77,"textLines":1,"bbox":[57.6,737.93,678.72,45.12]}
+{"kind":"table","id":"tb/0vq5ov2p","slide":18,"name":"Table 0","rows":8,"cols":4,"preview":"職稱 | 姓名 | 專業背景與類似專案績效 | 負責工作項目","bbox":[57.6,415.68,678.72,96]}
+{"kind":"notes","id":"nt/3cv47v","slide":18,"text":""}
+{"kind":"slide","id":"sl/dwb5p3","slide":19,"title":"捌、教育訓練計畫","textShapes":10}
+{"kind":"textbox","id":"sh/21ovy9ob","slide":19,"name":"Text 0","text":"捌、教育訓練計畫","textPreview":"捌、教育訓練計畫","textChars":8,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/32xc7e5w","slide":19,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/crqd4j6d","slide":19,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/dszexony","slide":19,"name":"Text 3","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/qp8v29o7","slide":19,"name":"Text 4","text":"捌、教育訓練計畫","textPreview":"捌、教育訓練計畫","textChars":8,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/bqhwve5s","slide":19,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/0vqd8369","slide":19,"name":"Text 6","text":"✎ 撰寫建議(繳交前請刪除)|需求書陸明定教材由廠商提供、地點與名單由機關提供。此章不用長,但要有課表與教材清單,對應專案流程第五階段。","textPreview":"✎ 撰寫建議(繳交前請刪除)|需求書陸明定教材由廠商提供、地點與名單由機關提供。此章不用長,但要有課表與教材清單,對應專案流程第五階段。","textChars":68,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/lwje1onu","slide":19,"name":"Text 7","text":"一、訓練規劃","textPreview":"一、訓練規劃","textChars":6,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/xkju90nm","slide":19,"name":"Text 8","text":"於專案第五階段(驗收前)辦理;訓練地點及參訓人員名單由本會提供,本公司依參訓對象(管理/操作人員)分級設計課程,每場次提供簽到表與課後問卷。","textPreview":"於專案第五階段(驗收前)辦理;訓練地點及參訓人員名單由本會提供,本公司依參訓對象(管理/操作人員)分級設計課程,每場次提供簽到表與課後問卷。","textChars":70,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/cjatgv61","slide":19,"name":"Text 9","text":"二、課程內容(示例)","textPreview":"二、課程內容(示例)","textChars":10,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/ah8belob","slide":19,"name":"Text 10","text":"三、教材與文件","textPreview":"三、教材與文件","textChars":7,"textLines":1,"bbox":[57.6,495.42,678.72,30.72]}
+{"kind":"textbox","id":"sh/lojud0ny","slide":19,"name":"Text 11","text":"提供訓練教材、各項軟硬體設備操作手冊(紙本及電子檔)各 1 式;訓練後 7 日內依學員回饋修訂教材定稿。","textPreview":"提供訓練教材、各項軟硬體設備操作手冊(紙本及電子檔)各 1 式;訓練後 7 日內依學員回饋修訂教材定稿。","textChars":52,"textLines":1,"bbox":[57.6,533.82,678.72,45.12]}
+{"kind":"table","id":"tb/bedkf2l8","slide":19,"name":"Table 0","rows":4,"cols":3,"preview":"課程 | 內容 | 時數(示例)","bbox":[57.6,362.88,678.72,96]}
+{"kind":"notes","id":"nt/dwb5p3","slide":19,"text":""}
+{"kind":"slide","id":"sl/xuqttn","slide":20,"title":"陸、時程規劃與進度管理","textShapes":6}
+{"kind":"textbox","id":"sh/x8nmhwzm","slide":20,"name":"Text 0","text":"陸、時程規劃與進度管理","textPreview":"陸、時程規劃與進度管理","textChars":11,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/w7el8ry1","slide":20,"name":"Text 1","text":"新北市議會案 服務建議書","textPreview":"新北市議會案 服務建議書","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/nil4bmhk","slide":20,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/mhc32hgz","slide":20,"name":"Text 3","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/943mdcza","slide":20,"name":"Text 4","text":"三、關鍵路徑與風險管理","textPreview":"三、關鍵路徑與風險管理","textChars":11,"textLines":1,"bbox":[57.6,92.16,678.72,30.72]}
+{"kind":"textbox","id":"sh/rep4n6ho","slide":20,"name":"Text 5","text":"四、進度管理機制","textPreview":"四、進度管理機制","textChars":8,"textLines":1,"bbox":[57.6,332.28,678.72,30.72]}
+{"kind":"textbox","id":"sh/6dwne1g3","slide":20,"name":"Text 6","text":"每月 5 日前提送上月工作進度書面報告(含前置工作);每週內部進度會議、每階段送審前完成內部檢核;如遇進度落後,三日內提出趕工計畫。","textPreview":"每月 5 日前提送上月工作進度書面報告(含前置工作);每週內部進度會議、每階段送審前完成內部檢核;如遇進度落後,三日內提出趕工計畫。","textChars":66,"textLines":1,"bbox":[57.6,370.68,678.72,45.12]}
+{"kind":"table","id":"tb/7u5wre1c","slide":20,"name":"Table 0","rows":5,"cols":3,"preview":"風險項目 | 影響 | 因應對策(示例)","bbox":[57.6,130.56,678.72,96]}
+{"kind":"notes","id":"nt/xuqttn","slide":20,"text":""}

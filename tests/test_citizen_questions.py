@@ -40,9 +40,9 @@ QUESTION_CASES = [
     ("有哪些店家參加？", "faq", "官方網站"),
 
     # 最新抽獎資訊（按鈕與自然問法）
-    ("最新抽獎資訊", "lottery", "扭蛋轉轉樂"),
-    ("現在有什麼抽獎活動？", "lottery", "美食優惠券"),
-    ("要怎麼抽獎？", "lottery", "官方網站"),
+    ("最新抽獎資訊", "lottery", "臺北客家臉書粉絲團"),
+    ("現在有什麼抽獎活動？", "lottery", "沖繩來回機票"),
+    ("要怎麼抽獎？", "lottery", "吃美食＋拍照"),
 
     # 12 行政區、別名與無資料情境（12～28）
     ("北投區有哪些店家？", "district", "苗栗客家菜館"),
@@ -137,13 +137,13 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
 
     def test_ai_prompt_contains_latest_lottery_and_google_maps(self):
         prompt = build_ai_prompt("有什麼優惠？", None)
-        self.assertIn(LATEST_LOTTERY_INFO["title"], prompt)
+        self.assertIn(LATEST_LOTTERY_INFO["description"], prompt)
         self.assertIn("Google Maps：https://www.google.com/maps/search/", prompt)
 
     def test_latest_lottery_reply_uses_editable_source(self):
         reply = get_latest_lottery_reply()
-        for field in ("title", "description", "prize", "url"):
-            self.assertIn(LATEST_LOTTERY_INFO[field], reply)
+        for value in LATEST_LOTTERY_INFO.values():
+            self.assertIn(value, reply)
 
     def test_long_ai_reply_is_safe_for_line(self):
         reply = safe_line_reply("🍜" * 3000)

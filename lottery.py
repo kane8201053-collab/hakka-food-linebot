@@ -6,10 +6,8 @@
 
 
 LATEST_LOTTERY_INFO = {
-    "title": "扭蛋轉轉樂",
-    "description": "前往美食地圖官方網站參加線上遊戲。",
-    "prize": "有機會抽到合作店家美食優惠券。",
-    "url": "https://lohasnet.tw/Taipei-HakkaFoodie/",
+    "participation": "至臺北客家臉書粉絲團的美食地圖上線文章參加抽獎",
+    "description": "吃美食＋拍照即可抽 沖繩來回機票！",
 }
 
 LOTTERY_KEYWORDS = (
@@ -21,7 +19,7 @@ LOTTERY_KEYWORDS = (
     "怎麼抽獎",
     "如何抽獎",
     "有抽獎嗎",
-    "扭蛋轉轉樂",
+    "沖繩來回機票",
 )
 
 
@@ -30,11 +28,8 @@ def get_latest_lottery_reply():
 
     return (
         "🎁 最新抽獎資訊\n\n"
-        f"活動：{LATEST_LOTTERY_INFO['title']}\n"
-        f"內容：{LATEST_LOTTERY_INFO['description']}\n"
-        f"獎項：{LATEST_LOTTERY_INFO['prize']}\n"
-        f"活動詳情：{LATEST_LOTTERY_INFO['url']}\n\n"
-        "實際活動內容與優惠請以官方網站最新公告為準。"
+        f"{LATEST_LOTTERY_INFO['participation']}\n"
+        f"{LATEST_LOTTERY_INFO['description']}"
     )
 
 

@@ -1,0 +1,373 @@
+{"kind":"deck","id":"pr/or9ge1","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"DEFAULT"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"影片企劃書","textShapes":7}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"Shape 0","bbox":[0,0,793.92,211.2]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"name":"Shape 1","bbox":[582.72,-105.6,307.2,307.2]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"Text 2","text":"影片企劃書","textPreview":"影片企劃書","textChars":5,"textLines":1,"bbox":[57.6,81.6,480,48]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"Text 3","text":"看見新北議會","textPreview":"看見新北議會","textChars":6,"textLines":1,"bbox":[57.6,321.6,678.72,57.6]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"Text 4","text":"讀懂民主的日常\n第5屆議會簡介影片","textPreview":"讀懂民主的日常 | 第5屆議會簡介影片","textChars":17,"textLines":2,"bbox":[57.6,388.8,678.72,144]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"Text 5","text":"詳細腳本與拍攝方案","textPreview":"詳細腳本與拍攝方案","textChars":9,"textLines":1,"bbox":[57.6,566.4,678.72,86.4]}
+{"kind":"shape","id":"sh/fu94fe98","slide":1,"name":"Shape 6","bbox":[281.76,686.4,230.4,0]}
+{"kind":"textbox","id":"sh/utg3698n","slide":1,"name":"Text 7","text":"建議片長：11 分 30 秒｜符合 10–12 分鐘需求","textPreview":"建議片長：11 分 30 秒｜符合 10–12 分鐘需求","textChars":28,"textLines":1,"bbox":[57.6,801.6,678.72,38.4]}
+{"kind":"textbox","id":"sh/wn6dc7eh","slide":1,"name":"Text 8","text":"拍攝規格：4K 取材｜2K 以上製作與交付","textPreview":"拍攝規格：4K 取材｜2K 以上製作與交付","textChars":21,"textLines":1,"bbox":[57.6,849.6,678.72,33.6]}
+{"kind":"textbox","id":"sh/hofulsf2","slide":1,"name":"Text 9","text":"版本：中・英・日・台・韓五語","textPreview":"版本：中・英・日・台・韓五語","textChars":14,"textLines":1,"bbox":[57.6,892.8,678.72,33.6]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"封面主標延續整案『民主的日常／看得見的議會』概念。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"影片企劃｜核心定位","textShapes":12}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"Text 0","text":"影片企劃｜核心定位","textPreview":"影片企劃｜核心定位","textChars":9,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/b29kza94","slide":2,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"Text 3","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"Text 4","text":"影片不是機關介紹，而是一段可被理解的民主旅程","textPreview":"影片不是機關介紹，而是一段可被理解的民主旅程","textChars":22,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"name":"Text 6","text":"◆ 核心提案｜以『一個市民關心的問題，如何走進議會』串起會史、職權、審議、監督、第5屆與國際交流。","textPreview":"◆ 核心提案｜以『一個市民關心的問題，如何走進議會』串起會史、職權、審議、監督、第5屆與國際交流。","textChars":49,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"Text 7","text":"一、影片核心定位","textPreview":"一、影片核心定位","textChars":8,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"Text 8","text":"二、核心敘事命題","textPreview":"二、核心敘事命題","textChars":8,"textLines":1,"bbox":[57.6,400.91,678.72,30.72]}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"name":"Text 9","text":"議會不是遙遠的殿堂，而是市民生活議題進入公共制度、接受討論與監督的地方。","textPreview":"議會不是遙遠的殿堂，而是市民生活議題進入公共制度、接受討論與監督的地方。","textChars":36,"textLines":1,"bbox":[57.6,439.31,678.72,45.12]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"Text 10","text":"看見歷史：地方自治如何一路累積。\n看見運作：問題如何走進議會、被檢驗。\n看見未來：第5屆如何承接責任、面向世界。","textPreview":"看見歷史：地方自治如何一路累積。 | 看見運作：問題如何走進議會、被檢驗。 | 看見未來：第5屆如何承接責任、面向世界。","textChars":56,"textLines":3,"bbox":[69.12,492.11,667.2,105.6]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"Text 11","text":"建議成片 11:30；保留約 30 秒調整彈性，以實際典禮與議事素材品質微調。","textPreview":"建議成片 11:30；保留約 30 秒調整彈性，以實際典禮與議事素材品質微調。","textChars":39,"textLines":1,"bbox":[57.6,605.39,678.72,24.96]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"Text 12","text":"三、內容判準","textPreview":"三、內容判準","textChars":6,"textLines":1,"bbox":[57.6,645.71,678.72,30.72]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"Text 13","text":"制度優先：不以個人政績取代議會功能。\n真實優先：議案、數字、人物均經議會核定。\n可理解優先：法律語言轉成生活情境，五語共享同一畫面邏輯。","textPreview":"制度優先：不以個人政績取代議會功能。 | 真實優先：議案、數字、人物均經議會核定。 | 可理解優先：法律語言轉成生活情境，五語共享同一畫面邏輯。","textChars":68,"textLines":3,"bbox":[69.12,684.11,667.2,125.76]}
+{"kind":"table","id":"tb/w3u1wvqh","slide":2,"name":"Table 0","rows":3,"cols":2,"preview":"片名主張 | 看見新北議會｜讀懂民主的日常","bbox":[57.6,264,678.72,89.6]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"溝通工作：評選委員應看見一套可執行、可核對、可延伸為五語版本的完整敘事方案。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx\n- https://web.law.ntpc.gov.tw/Scripts/PrintFLAWDOC01.aspx?fcode=B0040002&flno=36"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"影片企劃｜觀眾與情境","textShapes":10}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"Text 0","text":"影片企劃｜觀眾與情境","textPreview":"影片企劃｜觀眾與情境","textChars":10,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/298ryl4v","slide":3,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"name":"Text 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"name":"Text 4","text":"同一支影片，服務三種觀眾與四種播放情境","textPreview":"同一支影片，服務三種觀眾與四種播放情境","textChars":19,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"name":"Text 6","text":"◆ 觀眾設計｜先用生活共感降低理解門檻，再用制度與真實現場建立信任，最後以第5屆與國際交流形成記憶點。","textPreview":"◆ 觀眾設計｜先用生活共感降低理解門檻，再用制度與真實現場建立信任，最後以第5屆與國際交流形成記憶點。","textChars":51,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"Text 7","text":"一、主要觀眾","textPreview":"一、主要觀眾","textChars":6,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"Text 8","text":"市民與學生是公民教育核心；國內訪賓需要快速理解議會運作；國際訪賓則需要少縮寫、強脈絡、可跨文化理解的制度敘事。","textPreview":"市民與學生是公民教育核心；國內訪賓需要快速理解議會運作；國際訪賓則需要少縮寫、強脈絡、可跨文化理解的制度敘事。","textChars":55,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"Text 9","text":"二、看完應帶走什麼","textPreview":"二、看完應帶走什麼","textChars":9,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/83ulovat","slide":3,"name":"Text 10","text":"三、播放情境與節奏","textPreview":"三、播放情境與節奏","textChars":9,"textLines":1,"bbox":[57.6,495.42,678.72,30.72]}
+{"kind":"textbox","id":"sh/v6l4jq94","slide":3,"name":"Text 11","text":"簡報室 LED 完整播映／會史館導覽前導／國內外訪賓接待／官網與社群延伸。前 40 秒須能獨立吸引注意；每 60–90 秒至少一次場景或資訊形式轉換。","textPreview":"簡報室 LED 完整播映／會史館導覽前導／國內外訪賓接待／官網與社群延伸。前 40 秒須能獨立吸引注意；每 60–90 秒至少一次場景或資訊形式轉換。","textChars":75,"textLines":1,"bbox":[57.6,533.82,678.72,45.12]}
+{"kind":"table","id":"tb/1kruxsbi","slide":3,"name":"Table 0","rows":4,"cols":3,"preview":"觀眾 | 理解重點 | 呈現方式","bbox":[57.6,362.88,678.72,96]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"觀眾分類不使用精確人數；實際參訪族群由議會提供近年資料後再校準。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"影片企劃｜11:30 時間軸","textShapes":8}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"Text 0","text":"影片企劃｜11:30 時間軸","textPreview":"影片企劃｜11:30 時間軸","textChars":14,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"name":"Text 3","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"Text 4","text":"五幕敘事把制度資訊轉成一條能跟隨的路","textPreview":"五幕敘事把制度資訊轉成一條能跟隨的路","textChars":18,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"name":"Shape 5","bbox":[57.6,144,678.72,78.24]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"Text 6","text":"◆ 節奏原則｜前 3 分鐘建立『為什麼』，中段 5 分鐘說清楚『怎麼運作』，最後 3 分半形成第5屆、國際與未來記憶。","textPreview":"◆ 節奏原則｜前 3 分鐘建立『為什麼』，中段 5 分鐘說清楚『怎麼運作』，最後 3 分半形成第5屆、國際與未來記憶。","textChars":59,"textLines":1,"bbox":[72,153.6,649.92,59.04]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"Text 7","text":"一、五幕敘事與時間配置","textPreview":"一、五幕敘事與時間配置","textChars":11,"textLines":1,"bbox":[57.6,243.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"Text 8","text":"二、情緒與資訊密度曲線","textPreview":"二、情緒與資訊密度曲線","textChars":11,"textLines":1,"bbox":[57.6,524.79,678.72,30.72]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"Text 9","text":"註：總長 11:30；實際剪輯可於 10:45–11:45 內調整，但各幕功能與第5屆就職典禮段落不可省略。","textPreview":"註：總長 11:30；實際剪輯可於 10:45–11:45 內調整，但各幕功能與第5屆就職典禮段落不可省略。","textChars":54,"textLines":1,"bbox":[57.6,816.63,678.72,45.12]}
+{"kind":"table","id":"tb/rq1cruhs","slide":4,"name":"Table 0","rows":6,"cols":4,"preview":"幕 | 時間 | 內容 | 觀眾問題","bbox":[57.6,281.76,678.72,96]}
+{"kind":"table","id":"tb/6psvip07","slide":4,"name":"Table 1","rows":8,"cols":7,"preview":"敘事元素 | 開場 | 沿革 | 職權 | 審議 | 第5屆 | 收束","bbox":[57.6,563.19,678.72,96]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"時間碼為第一版腳本基準；腳本核定後進行文字計時與 scratch voice 測試。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"影片企劃｜拍攝語言","textShapes":15}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"Text 0","text":"影片企劃｜拍攝語言","textPreview":"影片企劃｜拍攝語言","textChars":9,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"Text 3","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/l4bupwny","slide":5,"name":"Text 4","text":"4K 取材建立耐用素材，2K 以上交付確保大屏品質","textPreview":"4K 取材建立耐用素材，2K 以上交付確保大屏品質","textChars":25,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"Text 6","text":"◆ 技術主張｜主攝影 4K、10-bit、4:2:2；主敘事 29.97p，動態與慢動作 59.94p，並依 LED 掃描與現場燈源完成防閃測試。","textPreview":"◆ 技術主張｜主攝影 4K、10-bit、4:2:2；主敘事 29.97p，動態與慢動作 59.94p，並依 LED 掃描與現場燈源完成防閃測試。","textChars":73,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"Text 7","text":"一、攝影機與鏡頭","textPreview":"一、攝影機與鏡頭","textChars":8,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"name":"Text 8","text":"主拍雙機、議事與典禮三至四機；24mm 建立空間、35/50mm 敘事、85mm 捕捉表情。訪談雙機保持 10–15° 視差，不越軸。","textPreview":"主拍雙機、議事與典禮三至四機；24mm 建立空間、35/50mm 敘事、85mm 捕捉表情。訪談雙機保持 10–15° 視差，不越軸。","textChars":67,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"Text 9","text":"二、光線與色彩","textPreview":"二、光線與色彩","textChars":7,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/ahkvi1cb","slide":5,"name":"Text 10","text":"自然、可信、具公共機關質感；人物以柔光＋輪廓光，空間保留環境層次。調色採中性膚色、深藍與暖金點題，不套政黨色。","textPreview":"自然、可信、具公共機關質感；人物以柔光＋輪廓光，空間保留環境層次。調色採中性膚色、深藍與暖金點題，不套政黨色。","textChars":55,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"name":"Text 11","text":"三、運鏡與節奏","textPreview":"三、運鏡與節奏","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"Text 12","text":"生活段落可穩定跟拍；議事段落以固定機位、緩推與完整反應鏡頭為主。避免過度滑軌、快速變焦與宣傳片式英雄仰角。","textPreview":"生活段落可穩定跟拍；議事段落以固定機位、緩推與完整反應鏡頭為主。避免過度滑軌、快速變焦與宣傳片式英雄仰角。","textChars":53,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"Text 13","text":"四、收音與音樂","textPreview":"四、收音與音樂","textChars":7,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"Text 14","text":"48kHz／24-bit；訪談領夾＋指向麥雙備援，議場接 clean feed 並錄 room tone。音樂須取得完整授權，重要發言時主動降音樂。","textPreview":"48kHz／24-bit；訪談領夾＋指向麥雙備援，議場接 clean feed 並錄 room tone。音樂須取得完整授權，重要發言時主動降音樂。","textChars":74,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"Text 15","text":"五、後製與輸出","textPreview":"五、後製與輸出","textChars":7,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"Text 16","text":"4K 母帶＋2K 以上主交付；另依 LED 原生解析度與處理器測試輸出播放檔。\n動態圖像使用時間軸、地圖、流程線與關鍵詞，不用大量圖示卡片。\n字幕維持安全邊界；五語分軌、可替換；保留無字幕 clean master。\n交付前於簡報室完成亮度、色彩、字幕可讀性、音量與一鍵播放測試。","textPreview":"4K 母帶＋2K 以上主交付；另依 LED 原生解析度與處理器測試輸出播放檔。 | 動態圖像使用時間軸、地圖、流程線與關鍵詞，不用大量圖示卡片。 | 字幕維持安全邊界；五語分軌、可替換；保留無字幕 clean master。 | 交付前於簡報室完成亮度、色彩、字幕可讀性、音...","textChars":140,"textLines":4,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"29.97/59.94p 為臺灣 60Hz 環境下的建議基準；最終依攝影機、LED 與室內燈具現場 flicker test 確認。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"分鏡腳本｜01 城市開場","textShapes":16}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"Text 0","text":"分鏡腳本｜01 城市開場","textPreview":"分鏡腳本｜01 城市開場","textChars":12,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"Text 3","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"Text 4","text":"場景一｜城市醒來，問題正在發生","textPreview":"場景一｜城市醒來，問題正在發生","textChars":15,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/7m98ru9g","slide":6,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"Text 6","text":"◆ 00:00–00:40｜先拍生活、再進議會；讓觀眾先看見自己，建立『民主就在日常』的情感入口。","textPreview":"◆ 00:00–00:40｜先拍生活、再進議會；讓觀眾先看見自己，建立『民主就在日常』的情感入口。","textChars":49,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"Text 8","text":"清晨列車、校門、市場、河岸與工地交錯。旁白：『每一天，新北都有新的期待——更安全的路、更安心的照顧、更宜居的城市。』","textPreview":"清晨列車、校門、市場、河岸與工地交錯。旁白：『每一天，新北都有新的期待——更安全的路、更安心的照顧、更宜居的城市。』","textChars":58,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"Text 10","text":"議會不是建築或會議的集合，而是市民日常需求進入公共制度的入口。","textPreview":"議會不是建築或會議的集合，而是市民日常需求進入公共制度的入口。","textChars":31,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"Text 12","text":"高點／空拍建立城市尺度；35mm 中景跟拍通勤；85mm 捕捉手、眼神與生活細節。25–30 個短鏡頭，由快轉穩。","textPreview":"高點／空拍建立城市尺度；35mm 中景跟拍通勤；85mm 捕捉手、眼神與生活細節。25–30 個短鏡頭，由快轉穩。","textChars":57,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"Text 13","text":"四、聲音與圖像","textPreview":"四、聲音與圖像","textChars":7,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"name":"Text 14","text":"先以環境音開場，約 8 秒後進音樂；『安全、照顧、交通、環境』以低調動態字浮現。","textPreview":"先以環境音開場，約 8 秒後進音樂；『安全、照顧、交通、環境』以低調動態字浮現。","textChars":40,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"Text 15","text":"五、轉場與拍攝提醒","textPreview":"五、轉場與拍攝提醒","textChars":9,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/twfux0ne","slide":6,"name":"Text 16","text":"市民抬頭望向道路資訊，Match Cut 至議會外觀。旁白問：『這些聲音，如何被聽見？』\n拍攝提醒：避免可辨識車牌、未授權兒童正面與商標；空拍須依核准範圍執行。","textPreview":"市民抬頭望向道路資訊，Match Cut 至議會外觀。旁白問：『這些聲音，如何被聽見？』 | 拍攝提醒：避免可辨識車牌、未授權兒童正面與商標；空拍須依核准範圍執行。","textChars":80,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/cbe5g3ih","slide":6,"name":"Storyboard Concept Label 01","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/b61sbutc","slide":6,"name":"","geometry":"roundRect","alt":"分鏡示意：北台灣城市清晨的通勤、校園與市場日常","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"導演節奏：前 12 秒使用聲音抓住注意力；第 30 秒第一次出現議會建築。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"分鏡腳本｜02 議會沿革","textShapes":16}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"Text 0","text":"分鏡腳本｜02 議會沿革","textPreview":"分鏡腳本｜02 議會沿革","textChars":12,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/ydkbm5sv","slide":7,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"Text 3","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"name":"Text 4","text":"場景二｜一段會史，承接地方自治的選擇","textPreview":"場景二｜一段會史，承接地方自治的選擇","textChars":18,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/l0vuh0rm","slide":7,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"Text 6","text":"◆ 00:40–01:35｜不是年代羅列，而是用三個轉折說明：地方聲音如何逐步制度化、被保存並持續傳承。","textPreview":"◆ 00:40–01:35｜不是年代羅列，而是用三個轉折說明：地方聲音如何逐步制度化、被保存並持續傳承。","textChars":52,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"Text 8","text":"旁白：『從縣參議會、臺北縣議會，到升格後的新北市議會，名稱與城市改變了，讓地方聲音進入公共決策的使命始終延續。』","textPreview":"旁白：『從縣參議會、臺北縣議會，到升格後的新北市議會，名稱與城市改變了，讓地方聲音進入公共決策的使命始終延續。』","textChars":56,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"Text 10","text":"把會史從『歷任名錄』轉成『民主制度的累積』，為第5屆登場建立承先啟後的重量。","textPreview":"把會史從『歷任名錄』轉成『民主制度的累積』，為第5屆登場建立承先啟後的重量。","textChars":38,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"Text 12","text":"歷史照片以慢推、局部放大與紙張紋理呈現；實拍會史館展板、舊議事錄、建築細節，搭配同角度今昔疊化。","textPreview":"歷史照片以慢推、局部放大與紙張紋理呈現；實拍會史館展板、舊議事錄、建築細節，搭配同角度今昔疊化。","textChars":48,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"Text 13","text":"四、圖像與字幕","textPreview":"四、圖像與字幕","textChars":7,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"name":"Text 14","text":"時間軸只保留 3 個節點：參議會起點／縣議會發展／新北市議會。年份與名稱均由議會核定後上線。","textPreview":"時間軸只保留 3 個節點：參議會起點／縣議會發展／新北市議會。年份與名稱均由議會核定後上線。","textChars":46,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"name":"Text 15","text":"五、轉場與拍攝提醒","textPreview":"五、轉場與拍攝提醒","textChars":9,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"Text 16","text":"從舊議事錄翻頁切到今日議程文件，接下一段『議會現在做什麼』。\n素材規格：紙本文物建議 600dpi 掃描；原件拍攝採無反光柔光並由館方監看。","textPreview":"從舊議事錄翻頁切到今日議程文件，接下一段『議會現在做什麼』。 | 素材規格：紙本文物建議 600dpi 掃描；原件拍攝採無反光柔光並由館方監看。","textChars":70,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/id4ju1oz","slide":7,"name":"Storyboard Concept Label 02","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/tsze1szm","slide":7,"name":"","geometry":"roundRect","alt":"分鏡示意：檔案人員檢視舊議事錄與歷史照片","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"史料不得用生成式圖片補造；影像使用範圍、年代、人物與權利狀態逐件建表確認。\n\n[Sources]\n- https://journal.th.gov.tw/intro.php?council=ntp\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"分鏡腳本｜03 議會職權","textShapes":16}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"Text 0","text":"分鏡腳本｜03 議會職權","textPreview":"分鏡腳本｜03 議會職權","textChars":12,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/ri9g7uhw","slide":8,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"Text 3","text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"Text 4","text":"場景三｜把制度說清楚，讓職權看得見","textPreview":"場景三｜把制度說清楚，讓職權看得見","textChars":17,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/sjix0zy1","slide":8,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"Text 6","text":"◆ 01:35–02:25｜以『一張城市的共同帳本與規則』解釋職權，避免法條朗讀，讓國內外觀眾迅速理解。","textPreview":"◆ 01:35–02:25｜以『一張城市的共同帳本與規則』解釋職權，避免法條朗讀，讓國內外觀眾迅速理解。","textChars":52,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"Text 8","text":"旁白：『市民選出的議員，在議會審議地方規章與預算、檢視決算、討論提案，也接受人民請願；每一次發言，都連結城市資源與生活選擇。』","textPreview":"旁白：『市民選出的議員，在議會審議地方規章與預算、檢視決算、討論提案，也接受人民請願；每一次發言，都連結城市資源與生活選擇。』","textChars":63,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"Text 10","text":"用清楚、非黨派的制度解說，建立議會作為地方立法與監督機關的專業形象。","textPreview":"用清楚、非黨派的制度解說，建立議會作為地方立法與監督機關的專業形象。","textChars":34,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"Text 12","text":"議場空鏡→議程文件→會議進行；24mm 對稱廣角建立秩序，50mm 肩上鏡頭拍閱讀文件，特寫議事槌與表決設備。","textPreview":"議場空鏡→議程文件→會議進行；24mm 對稱廣角建立秩序，50mm 肩上鏡頭拍閱讀文件，特寫議事槌與表決設備。","textChars":55,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"Text 13","text":"四、動態圖像","textPreview":"四、動態圖像","textChars":6,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/ehgvihwr","slide":8,"name":"Text 14","text":"以『規章／預算／決算／提案／請願』五個關鍵詞沿圓形議場展開；每項只配一個生活例子，不放抽象圖示堆疊。","textPreview":"以『規章／預算／決算／提案／請願』五個關鍵詞沿圓形議場展開；每項只配一個生活例子，不放抽象圖示堆疊。","textChars":50,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"Text 15","text":"五、轉場與拍攝提醒","textPreview":"五、轉場與拍攝提醒","textChars":9,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"Text 16","text":"最後停在『請願／市民聲音』，圖像線條延伸成一條路，帶往下一幕的市民情境。\n所有職權文字以最新法規與議會核定版本為準。","textPreview":"最後停在『請願／市民聲音』，圖像線條延伸成一條路，帶往下一幕的市民情境。 | 所有職權文字以最新法規與議會核定版本為準。","textChars":58,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/tw7e9gnq","slide":8,"name":"Storyboard Concept Label 03","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/mt47qt0z","slide":8,"name":"","geometry":"roundRect","alt":"分鏡示意：現代地方議會議場於會前準備","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"法規型旁白需由議會法制／議事單位複核；若版面需列舉，完整清單放手冊，影片保留五項核心。\n\n[Sources]\n- https://web.law.ntpc.gov.tw/Scripts/PrintFLAWDAT0202.aspx?fcode=C0000072\n- https://web.law.ntpc.gov.tw/Scripts/PrintFLAWDOC01.aspx?fcode=B0040002&flno=36\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"分鏡腳本｜04 市民聲音","textShapes":16}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"Text 0","text":"分鏡腳本｜04 市民聲音","textPreview":"分鏡腳本｜04 市民聲音","textChars":12,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/nex4jq5k","slide":9,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"Text 3","text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"Text 4","text":"場景四｜一個問題，如何走進議會視野","textPreview":"場景四｜一個問題，如何走進議會視野","textChars":17,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/ofq5svm5","slide":9,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"name":"Text 6","text":"◆ 02:25–03:20｜採『複合情境』而非虛構政績：不同市民提出生活問題，呈現多元入口與共同關注。","textPreview":"◆ 02:25–03:20｜採『複合情境』而非虛構政績：不同市民提出生活問題，呈現多元入口與共同關注。","textChars":51,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"Text 8","text":"旁白：『一個問題，可能從陳情、請願、議員服務、會勘或公開參與被看見。重要的不是聲音大小，而是能否被記錄、理解與追蹤。』","textPreview":"旁白：『一個問題，可能從陳情、請願、議員服務、會勘或公開參與被看見。重要的不是聲音大小，而是能否被記錄、理解與追蹤。』","textChars":59,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"name":"Text 10","text":"把議會拉近市民，呈現『有入口、有紀錄、有回應』的民主參與感，同時不承諾個案必然結果。","textPreview":"把議會拉近市民，呈現『有入口、有紀錄、有回應』的民主參與感，同時不承諾個案必然結果。","textChars":42,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"Text 12","text":"三組生活情境交叉：交通、照顧、環境。手機只拍手部與訊息介面背面；服務場景用中近景與文件特寫，避免演員直視鏡頭表演。","textPreview":"三組生活情境交叉：交通、照顧、環境。手機只拍手部與訊息介面背面；服務場景用中近景與文件特寫，避免演員直視鏡頭表演。","textChars":57,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"name":"Text 13","text":"四、訪談與字幕","textPreview":"四、訪談與字幕","textChars":7,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"name":"Text 14","text":"可用 2–3 句匿名市民短語：『我希望有人聽見……』；若為真實個案，須取得書面同意並刪除個資。","textPreview":"可用 2–3 句匿名市民短語：『我希望有人聽見……』；若為真實個案，須取得書面同意並刪除個資。","textChars":47,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"name":"Text 15","text":"五、轉場與拍攝提醒","textPreview":"五、轉場與拍攝提醒","textChars":9,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"name":"Text 16","text":"紙本陳情／會勘筆記放上桌面，鏡頭沿文字移動至『待研議』標記。\n情境只作流程示意；不得把未結案個案剪成已獲解決的成果故事。","textPreview":"紙本陳情／會勘筆記放上桌面，鏡頭沿文字移動至『待研議』標記。 | 情境只作流程示意；不得把未結案個案剪成已獲解決的成果故事。","textChars":60,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/98ji147e","slide":9,"name":"Storyboard Concept Label 04","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/yho7mlc7","slide":9,"name":"","geometry":"roundRect","alt":"分鏡示意：市民在雨後街道反映道路與排水問題","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"人物使用原則：優先真實受訪者；如需情境重現，畫面註明『情境示意』且不使用可識別真實案件資料。\n\n[Sources]\n- https://web.law.ntpc.gov.tw/Scripts/PrintFLAWDOC01.aspx?fcode=B0040002&flno=36\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"分鏡腳本｜05 成案研議","textShapes":16}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"Text 0","text":"分鏡腳本｜05 成案研議","textPreview":"分鏡腳本｜05 成案研議","textChars":12,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/zelojyl8","slide":10,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"Text 3","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"Text 4","text":"場景五｜從生活語言，整理成可討論的議題","textPreview":"場景五｜從生活語言，整理成可討論的議題","textChars":19,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"Text 6","text":"◆ 03:20–04:20｜呈現幕後工作：蒐集資料、現場會勘、法規與預算檢視，讓觀眾理解議事並非只發生在鏡頭前。","textPreview":"◆ 03:20–04:20｜呈現幕後工作：蒐集資料、現場會勘、法規與預算檢視，讓觀眾理解議事並非只發生在鏡頭前。","textChars":56,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"Text 8","text":"旁白：『被聽見只是第一步。現場狀況、法規依據、預算來源與不同立場，都必須被放在同一張桌上，問題才有機會成為可討論的方案。』","textPreview":"旁白：『被聽見只是第一步。現場狀況、法規依據、預算來源與不同立場，都必須被放在同一張桌上，問題才有機會成為可討論的方案。』","textChars":61,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/q5gb21kb","slide":10,"name":"Text 10","text":"建立專業可信度：民主不是一句口號，而是把經驗轉成證據、把意見轉成議題的過程。","textPreview":"建立專業可信度：民主不是一句口號，而是把經驗轉成證據、把意見轉成議題的過程。","textChars":38,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/r6pcv6lw","slide":10,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"name":"Text 12","text":"會勘採手持穩定器跟拍；室內會議以俯拍文件、側逆光人物輪廓及白板焦點切換；補拍地圖、法規、預算表細節。","textPreview":"會勘採手持穩定器跟拍；室內會議以俯拍文件、側逆光人物輪廓及白板焦點切換；補拍地圖、法規、預算表細節。","textChars":50,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/1cru1g3y","slide":10,"name":"Text 13","text":"四、圖像與節奏","textPreview":"四、圖像與節奏","textChars":7,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/e9gb61k7","slide":10,"name":"Text 14","text":"畫面疊加四層資訊：現場／資料／法規／預算；每層 3–4 秒，最後合併為『議題』標題卡。","textPreview":"畫面疊加四層資訊：現場／資料／法規／預算；每層 3–4 秒，最後合併為『議題』標題卡。","textChars":43,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/fapcz6ls","slide":10,"name":"Text 15","text":"五、轉場與拍攝提醒","textPreview":"五、轉場與拍攝提醒","textChars":9,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/ozitcv29","slide":10,"name":"Text 16","text":"文件被夾入議程資料夾，切到審查會門牌。\n議案名稱與文件內容只拍已公開或經核准版本；機敏資料以景深與遮罩處理。","textPreview":"文件被夾入議程資料夾，切到審查會門牌。 | 議案名稱與文件內容只拍已公開或經核准版本；機敏資料以景深與遮罩處理。","textChars":54,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/xwnupgvy","slide":10,"name":"Storyboard Concept Label 05","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/q90jedkz","slide":10,"name":"","geometry":"roundRect","alt":"分鏡示意：公共服務人員與居民進行道路現勘","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"此段避免過度擺拍；先取得實際作業流程，再設計不干擾公務的補拍動作。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"分鏡腳本｜06 委員會審查","textShapes":16}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"name":"Text 0","text":"分鏡腳本｜06 委員會審查","textPreview":"分鏡腳本｜06 委員會審查","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/wbih4b6d","slide":11,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/n69grmpw","slide":11,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"Text 3","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/98rytw72","slide":11,"name":"Text 4","text":"場景六｜在細節裡，讓不同意見被檢驗","textPreview":"場景六｜在細節裡，讓不同意見被檢驗","textChars":17,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/o7ih0r6h","slide":11,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"Text 6","text":"◆ 04:20–05:35｜全片第一個高密度議事段落；用問答、文件與反應鏡頭呈現審查，而不是只剪激烈發言。","textPreview":"◆ 04:20–05:35｜全片第一個高密度議事段落；用問答、文件與反應鏡頭呈現審查，而不是只剪激烈發言。","textChars":53,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/61kzalof","slide":11,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"Text 8","text":"旁白：『進入審查，不同問題被逐項提出：必要嗎？可行嗎？預算合理嗎？影響誰？每一次追問，都是讓決策更完整的檢驗。』","textPreview":"旁白：『進入審查，不同問題被逐項提出：必要嗎？可行嗎？預算合理嗎？影響誰？每一次追問，都是讓決策更完整的檢驗。』","textChars":56,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"Text 10","text":"表現多元意見與制度化辯證；讓觀眾理解委員會是深入拆解議題的重要場域。","textPreview":"表現多元意見與制度化辯證；讓觀眾理解委員會是深入拆解議題的重要場域。","textChars":34,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/nehs7iho","slide":11,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"Text 12","text":"三機建議：A 機全景安全鏡、B 機發言者中近景、C 機官員／資料／反應特寫；先收完整段落，再取得剪輯所需 cutaway。","textPreview":"三機建議：A 機全景安全鏡、B 機發言者中近景、C 機官員／資料／反應特寫；先收完整段落，再取得剪輯所需 cutaway。","textChars":61,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"name":"Text 13","text":"四、收音與字幕","textPreview":"四、收音與字幕","textChars":7,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"name":"Text 14","text":"接議事系統 clean feed，另錄環境聲備援；發言字幕保留完整語意，不以斷句製造衝突。必要時以圖卡補充名詞。","textPreview":"接議事系統 clean feed，另錄環境聲備援；發言字幕保留完整語意，不以斷句製造衝突。必要時以圖卡補充名詞。","textChars":56,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"Text 15","text":"五、轉場與拍攝提醒","textPreview":"五、轉場與拍攝提醒","textChars":9,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"name":"Text 16","text":"以『問題被拆開』的文件標記轉為下一幕質詢。\n政治中立：不同黨團、性別、選區的可用畫面比例由議會確認；不得只剪單一立場。","textPreview":"以『問題被拆開』的文件標記轉為下一幕質詢。 | 政治中立：不同黨團、性別、選區的可用畫面比例由議會確認；不得只剪單一立場。","textChars":59,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/tsnip0ny","slide":11,"name":"Storyboard Concept Label 06","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/mxg7ulkj","slide":11,"name":"","geometry":"roundRect","alt":"分鏡示意：地方議會委員會進行專業討論","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"實際議事畫面以議會核准的會議與座位區域為準；攝影機不阻擋議事動線。\n\n[Sources]\n- https://vod.ntp.gov.tw/VodCloudV2/VOD/Index\n- https://web.law.ntpc.gov.tw/Scripts/PrintFLAWDOC01.aspx?fcode=B0040002&flno=36\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"分鏡腳本｜07 質詢監督","textShapes":16}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"name":"Text 0","text":"分鏡腳本｜07 質詢監督","textPreview":"分鏡腳本｜07 質詢監督","textChars":12,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/0f2lgnmp","slide":12,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/ra943il8","slide":12,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"Text 3","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"Text 4","text":"場景七｜追問，是把承諾帶回公共檢驗","textPreview":"場景七｜追問，是把承諾帶回公共檢驗","textChars":17,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"name":"Text 6","text":"◆ 05:35–06:55｜用『問題—回應—追蹤』三拍結構，強調責任與資訊公開，不把影片剪成個人英雄敘事。","textPreview":"◆ 05:35–06:55｜用『問題—回應—追蹤』三拍結構，強調責任與資訊公開，不把影片剪成個人英雄敘事。","textChars":53,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"Text 8","text":"旁白：『監督，不只是在議場提出問題；更重要的是要求說明、確認進度，並讓公共資源的使用接受檢驗。』","textPreview":"旁白：『監督，不只是在議場提出問題；更重要的是要求說明、確認進度，並讓公共資源的使用接受檢驗。』","textChars":48,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"name":"Text 10","text":"呈現議員監督市政與行政部門說明責任；焦點放在制度、資料與後續追蹤。","textPreview":"呈現議員監督市政與行政部門說明責任；焦點放在制度、資料與後續追蹤。","textChars":33,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/bulo7u58","slide":12,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/orapcf6h","slide":12,"name":"Text 12","text":"以議員提問、官員回應、資料畫面三角剪輯；長焦拍表情但不捕捉失態；畫面至少保留一次完整問答的連續性。","textPreview":"以議員提問、官員回應、資料畫面三角剪輯；長焦拍表情但不捕捉失態；畫面至少保留一次完整問答的連續性。","textChars":49,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"name":"Text 13","text":"四、圖像與聲音","textPreview":"四、圖像與聲音","textChars":7,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"Text 14","text":"螢幕側欄顯示『問題／回應／追蹤』，搭配日期與公開資料來源；音樂降至最低，保留現場原音的真實感。","textPreview":"螢幕側欄顯示『問題／回應／追蹤』，搭配日期與公開資料來源；音樂降至最低，保留現場原音的真實感。","textChars":47,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/nq1o3a5w","slide":12,"name":"Text 15","text":"五、轉場與拍攝提醒","textPreview":"五、轉場與拍攝提醒","textChars":9,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/0nap8f6l","slide":12,"name":"Text 16","text":"追蹤清單上的一項被勾選，轉為預算與議案文件。\n剪輯守則：不得跨議題拼接問答；字幕、時間與發言者身分須二次校對。","textPreview":"追蹤清單上的一項被勾選，轉為預算與議案文件。 | 剪輯守則：不得跨議題拼接問答；字幕、時間與發言者身分須二次校對。","textChars":55,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/hkbm5wzu","slide":12,"name":"Storyboard Concept Label 07","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/uxknq14z","slide":12,"name":"","geometry":"roundRect","alt":"分鏡示意：議會中進行質詢與答覆","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"建議挑選議會核定、上下文完整且能代表制度運作的公開片段，避免以聲量或戲劇性作為唯一選片標準。\n\n[Sources]\n- https://vod.ntp.gov.tw/VodCloudV2/VOD/Index\n- https://web.law.ntpc.gov.tw/Scripts/PrintFLAWDOC01.aspx?fcode=B0040002&flno=36\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"分鏡腳本｜08 預算議決","textShapes":16}
+{"kind":"textbox","id":"sh/q50nydsj","slide":13,"name":"Text 0","text":"分鏡腳本｜08 預算議決","textPreview":"分鏡腳本｜08 預算議決","textChars":12,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/bq9orito","slide":13,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/o3i5w3ad","slide":13,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/p4r6p8by","slide":13,"name":"Text 3","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/21gnuts7","slide":13,"name":"Text 4","text":"場景八｜每一筆資源，都要回答公共價值","textPreview":"場景八｜每一筆資源，都要回答公共價值","textChars":18,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/32ponyts","slide":13,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/gzy5s3a1","slide":13,"name":"Text 6","text":"◆ 06:55–08:05｜用『共同帳本』解釋預算與議決，把複雜程序轉成市民能感受的選擇與取捨。","textPreview":"◆ 06:55–08:05｜用『共同帳本』解釋預算與議決，把複雜程序轉成市民能感受的選擇與取捨。","textChars":48,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/1076lobm","slide":13,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"Text 8","text":"旁白：『城市的預算，是大家共同的帳本。從建設、教育到社會照顧，每一筆資源的安排，都必須被討論、比較與負責。』","textPreview":"旁白：『城市的預算，是大家共同的帳本。從建設、教育到社會照顧，每一筆資源的安排，都必須被討論、比較與負責。』","textChars":54,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/gb6x0zm9","slide":13,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/vaxg7ulo","slide":13,"name":"Text 10","text":"讓觀眾理解議會議決預算、審議決算與處理提案的公共責任，而非只看表決瞬間。","textPreview":"讓觀眾理解議會議決預算、審議決算與處理提案的公共責任，而非只看表決瞬間。","textChars":36,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/u9ofyp43","slide":13,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/t8fy5k3i","slide":13,"name":"Text 12","text":"預算書翻頁、重點標註、會議發言、表決程序；俯拍建立文件秩序，50mm 捕捉閱讀與交換意見，表決畫面以核准素材為準。","textPreview":"預算書翻頁、重點標註、會議發言、表決程序；俯拍建立文件秩序，50mm 捕捉閱讀與交換意見，表決畫面以核准素材為準。","textChars":57,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/876xwfmx","slide":13,"name":"Text 13","text":"四、動態圖像","textPreview":"四、動態圖像","textChars":6,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"name":"Text 14","text":"一元硬幣化成『公共資源』流向三個生活場景，再回到議場；避免呈現未核定金額與政績式比較。","textPreview":"一元硬幣化成『公共資源』流向三個生活場景，再回到議場；避免呈現未核定金額與政績式比較。","textChars":43,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/6l4fu547","slide":13,"name":"Text 15","text":"五、轉場與拍攝提醒","textPreview":"五、轉場與拍攝提醒","textChars":9,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":13,"name":"Text 16","text":"文件蓋章／收合，畫面切至公開議事平台。\n所有議案狀態須標示『提案、審議、通過或執行』的正確階段，不以動畫暗示既定成果。","textPreview":"文件蓋章／收合，畫面切至公開議事平台。 | 所有議案狀態須標示『提案、審議、通過或執行』的正確階段，不以動畫暗示既定成果。","textChars":59,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/cnqh8fux","slide":13,"name":"Storyboard Concept Label 08","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/z6h0r6t4","slide":13,"name":"","geometry":"roundRect","alt":"分鏡示意：預算文件逐項審閱與註記","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"若要使用實際預算案例，須由議會指定已公開且適合國內外觀眾理解的案例，並以正式資料核對數字。\n\n[Sources]\n- https://web.law.ntpc.gov.tw/Scripts/PrintFLAWDOC01.aspx?fcode=B0040002&flno=36\n- https://vod.ntp.gov.tw/VodCloudV2/VOD/Index\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"分鏡腳本｜09 透明與教育","textShapes":16}
+{"kind":"textbox","id":"sh/xc7eds76","slide":14,"name":"Text 0","text":"分鏡腳本｜09 透明與教育","textPreview":"分鏡腳本｜09 透明與教育","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/wbydknq1","slide":14,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/jepwf2pc","slide":14,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/idgvmx8r","slide":14,"name":"Text 3","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/5grehs7i","slide":14,"name":"Text 4","text":"場景九｜看得懂，民主才真正靠近","textPreview":"場景九｜看得懂，民主才真正靠近","textChars":15,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/kfidonqx","slide":14,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/zi5c3y98","slide":14,"name":"Text 6","text":"◆ 08:05–09:00｜把直播、議事影音、會史館與參訪串在一起，從『公開』推進到『可理解、可參與』。","textPreview":"◆ 08:05–09:00｜把直播、議事影音、會史館與參訪串在一起，從『公開』推進到『可理解、可參與』。","textChars":52,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/ehwvat8n","slide":14,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/c3e1gjyd","slide":14,"name":"Text 8","text":"旁白：『會議公開，是透明的起點；讓市民看得懂議程、找到影像、走進會史館，才讓民主從制度走進學習與生活。』","textPreview":"旁白：『會議公開，是透明的起點；讓市民看得懂議程、找到影像、走進會史館，才讓民主從制度走進學習與生活。』","textChars":52,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/x4ni9ofy","slide":14,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/a1wze9g7","slide":14,"name":"Text 10","text":"回扣本案會史館、簡報室、影片與手冊的整合價值：不同媒介共同完成公民教育。","textPreview":"回扣本案會史館、簡報室、影片與手冊的整合價值：不同媒介共同完成公民教育。","textChars":36,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/b2507exs","slide":14,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/kre1k3y9","slide":14,"name":"Text 12","text":"螢幕錄影呈現 VOD 查詢→學生／訪賓觀看 LED→會史館導覽；以肩後鏡頭帶觀眾一起閱讀，不拍假操作。","textPreview":"螢幕錄影呈現 VOD 查詢→學生／訪賓觀看 LED→會史館導覽；以肩後鏡頭帶觀眾一起閱讀，不拍假操作。","textChars":51,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/ls7idofu","slide":14,"name":"Text 13","text":"四、圖像與聲音","textPreview":"四、圖像與聲音","textChars":7,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/y5wjitgj","slide":14,"name":"Text 14","text":"搜尋、播放、參訪三個動作以同一金色路徑連接；加入學生提問原音或導覽員一句短解說。","textPreview":"搜尋、播放、參訪三個動作以同一金色路徑連接；加入學生提問原音或導覽員一句短解說。","textChars":40,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/z650byxo","slide":14,"name":"Text 15","text":"五、轉場與拍攝提醒","textPreview":"五、轉場與拍攝提醒","textChars":9,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/0buh8zy5","slide":14,"name":"Text 16","text":"年輕觀眾在會史館看見『第5屆』區域，畫面切入就職典禮準備。\n網站畫面拍攝前確認個資、通知與介面版本；後製保留可更新畫面層。","textPreview":"年輕觀眾在會史館看見『第5屆』區域，畫面切入就職典禮準備。 | 網站畫面拍攝前確認個資、通知與介面版本；後製保留可更新畫面層。","textChars":61,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/hsvy50re","slide":14,"name":"Storyboard Concept Label 09","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/alcvepkf","slide":14,"name":"","geometry":"roundRect","alt":"分鏡示意：民眾參觀互動式地方自治歷史展示","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"網站與系統畫面以實際可用介面拍攝；若上線前改版，保留一次更新補拍。\n\n[Sources]\n- https://vod.ntp.gov.tw/VodCloudV2/VOD/Index\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"分鏡腳本｜10 第5屆登場","textShapes":16}
+{"kind":"textbox","id":"sh/547mhg3m","slide":15,"name":"Text 0","text":"分鏡腳本｜10 第5屆登場","textPreview":"分鏡腳本｜10 第5屆登場","textChars":13,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/k3y5ov21","slide":15,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/76p4jqls","slide":15,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/65gnqlk7","slide":15,"name":"Text 3","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/t87ml0ji","slide":15,"name":"Text 4","text":"場景十｜新的任期，從公開承諾開始","textPreview":"場景十｜新的任期，從公開承諾開始","textChars":16,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/s7y5sv2x","slide":15,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/na5476l8","slide":15,"name":"Text 6","text":"◆ 09:00–10:05｜以就職典禮現場原音作情緒高點；名單、職銜與席次在議會正式確認後才鎖定。","textPreview":"◆ 09:00–10:05｜以就職典禮現場原音作情緒高點；名單、職銜與席次在議會正式確認後才鎖定。","textChars":49,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/m9c3e1kn","slide":15,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/wrm9kvep","slide":15,"name":"Text 8","text":"典禮原音先行。旁白：『新的任期，從一份公開承諾開始。來自不同地方、不同經驗的代表，在這裡共同承擔城市的下一段責任。』","textPreview":"典禮原音先行。旁白：『新的任期，從一份公開承諾開始。來自不同地方、不同經驗的代表，在這裡共同承擔城市的下一段責任。』","textChars":58,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/hsvat0fa","slide":15,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/upkrilwj","slide":15,"name":"Text 10","text":"把第5屆放在制度傳承與多元代表的脈絡中，而不是人物名單快速輪播。","textPreview":"把第5屆放在制度傳承與多元代表的脈絡中，而不是人物名單快速輪播。","textChars":32,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/vqdsrqx4","slide":15,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/4vm9ovel","slide":15,"name":"Text 12","text":"四機紀錄：A 全景、B 宣誓／主席台、C 議員特寫、D 遊走與備援；雙卡同錄、時間碼同步。大合照另設階梯與均勻柔光。","textPreview":"四機紀錄：A 全景、B 宣誓／主席台、C 議員特寫、D 遊走與備援；雙卡同錄、時間碼同步。大合照另設階梯與均勻柔光。","textChars":58,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/5wvax0f6","slide":15,"name":"Text 13","text":"四、人物呈現","textPreview":"四、人物呈現","textChars":6,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/it4rm5wv","slide":15,"name":"Text 14","text":"每位議員至少保留一個可用正面鏡頭；姓名、選區、黨籍／無黨籍與職銜依議會核定資料製作可替換圖層。","textPreview":"每位議員至少保留一個可用正面鏡頭；姓名、選區、黨籍／無黨籍與職銜依議會核定資料製作可替換圖層。","textChars":47,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/judsvqxg","slide":15,"name":"Text 15","text":"五、轉場與拍攝提醒","textPreview":"五、轉場與拍攝提醒","textChars":9,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/0z29cbyh","slide":15,"name":"Text 16","text":"掌聲延續到國際訪賓握手／多語歡迎畫面。\n典禮不可重來：前一日走位彩排、雙機位備援、獨立錄音、現場即時備份；未核定資料不上字。","textPreview":"掌聲延續到國際訪賓握手／多語歡迎畫面。 | 典禮不可重來：前一日走位彩排、雙機位備援、獨立錄音、現場即時備份；未核定資料不上字。","textChars":62,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/1kjyt83e","slide":15,"name":"Storyboard Concept Label 10","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/yh8369s3","slide":15,"name":"","geometry":"roundRect","alt":"分鏡示意：地方議會就職宣誓典禮概念重現","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":"就職典禮建立獨立拍攝任務書、機位圖、鏡頭責任表與備援清單；當日完成至少兩份實體備份。\n\n[Sources]\n- https://web.law.ntpc.gov.tw/Scripts/PrintFLAWDAT0202.aspx?fcode=C0000072\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"分鏡腳本｜11 國際交流","textShapes":16}
+{"kind":"textbox","id":"sh/8z2h8bq1","slide":16,"name":"Text 0","text":"分鏡腳本｜11 國際交流","textPreview":"分鏡腳本｜11 國際交流","textChars":12,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/9kby1g7m","slide":16,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/ytkf2h8j","slide":16,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/zutgvm94","slide":16,"name":"Text 3","text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/kv2h4rqp","slide":16,"name":"Text 4","text":"場景十一｜讓地方民主被世界理解","textPreview":"場景十一｜讓地方民主被世界理解","textChars":15,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/lwbyxwra","slide":16,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/ip4zel83","slide":16,"name":"Text 6","text":"◆ 10:05–10:55｜五語不是逐字換聲，而是把制度與文化翻成國際訪賓能理解的語境；畫面維持同一版本。","textPreview":"◆ 10:05–10:55｜五語不是逐字換聲，而是把制度與文化翻成國際訪賓能理解的語境；畫面維持同一版本。","textChars":53,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/3qdg7qpo","slide":16,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/fm1gzq5o","slide":16,"name":"Text 8","text":"旁白：『地方治理面對的課題各不相同，但傾聽、審議與負責，是城市交流共同的語言。新北議會以開放的姿態，分享經驗，也持續學習。』","textPreview":"旁白：『地方治理面對的課題各不相同，但傾聽、審議與負責，是城市交流共同的語言。新北議會以開放的姿態，分享經驗，也持續學習。』","textChars":62,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/e1sf65o3","slide":16,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/1ojy10ne","slide":16,"name":"Text 10","text":"服務外賓接待與城市交流，同時把五語製作從規格要求提升為議會形象的一部分。","textPreview":"服務外賓接待與城市交流，同時把五語製作從規格要求提升為議會形象的一部分。","textChars":36,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/gnax8v6t","slide":16,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/nqlg3a5k","slide":16,"name":"Text 12","text":"外賓入館、簡報室觀看、交換資料與會談廣角；避免只拍握手，補足聆聽、提問、翻閱手冊與導覽互動。","textPreview":"外賓入館、簡報室觀看、交換資料與會談廣角；避免只拍握手，補足聆聽、提問、翻閱手冊與導覽互動。","textChars":46,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/2pcfa5oz","slide":16,"name":"Text 13","text":"四、語言與字幕","textPreview":"四、語言與字幕","textChars":7,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/ps3y5knq","slide":16,"name":"Text 14","text":"中、英、日、台、韓版本共用畫面；語音分軌、字幕獨立。專有名詞建立術語表，英日韓由母語審校，台語由專業顧問審訂。","textPreview":"中、英、日、台、韓版本共用畫面；語音分軌、字幕獨立。專有名詞建立術語表，英日韓由母語審校，台語由專業顧問審訂。","textChars":55,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/oruhcf65","slide":16,"name":"Text 15","text":"五、轉場與拍攝提醒","textPreview":"五、轉場與拍攝提醒","textChars":9,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/bulg7u5g","slide":16,"name":"Text 16","text":"五種語言的『歡迎』快速交疊後歸於城市夜景。\n外賓肖像與旗幟須確認授權與外交禮序；無適當既有素材時，改以空間、文件與語言圖層呈現。","textPreview":"五種語言的『歡迎』快速交疊後歸於城市夜景。 | 外賓肖像與旗幟須確認授權與外交禮序；無適當既有素材時，改以空間、文件與語言圖層呈現。","textChars":64,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/mpgj6t8j","slide":16,"name":"Storyboard Concept Label 11","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/pgval4ru","slide":16,"name":"","geometry":"roundRect","alt":"分鏡示意：國際訪賓在公共機構進行導覽交流","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":"多語版不得以機器翻譯直接上線；配音前先核定中文定稿與術語表，避免五版本同步返工。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"分鏡腳本｜12 未來收束","textShapes":16}
+{"kind":"textbox","id":"sh/1c7e50ni","slide":17,"name":"Text 0","text":"分鏡腳本｜12 未來收束","textPreview":"分鏡腳本｜12 未來收束","textChars":12,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/gbedwfmx","slide":17,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/rm5czq50","slide":17,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/6lwvql4v","slide":17,"name":"Text 3","text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/t8ne10n6","slide":17,"name":"Text 4","text":"場景十二｜不同聲音，在制度裡共同前進","textPreview":"場景十二｜不同聲音，在制度裡共同前進","textChars":18,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/snedsvml","slide":17,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/jilcvq54","slide":17,"name":"Text 6","text":"◆ 10:55–11:30｜回到開場的生活場景，以一句可長期使用的品牌主張收束，讓影片不因單一任期事件快速過時。","textPreview":"◆ 10:55–11:30｜回到開場的生活場景，以一句可長期使用的品牌主張收束，讓影片不因單一任期事件快速過時。","textChars":56,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/ihcvml4j","slide":17,"name":"Text 7","text":"一、內容與旁白","textPreview":"一、內容與旁白","textChars":7,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/4by9or6l","slide":17,"name":"Text 8","text":"旁白：『從一個問題，到一場討論；從一項選擇，到城市的下一步。新北市議會，讓不同聲音在制度裡被聽見，讓民主成為我們共同的日常。』","textPreview":"旁白：『從一個問題，到一場討論；從一項選擇，到城市的下一步。新北市議會，讓不同聲音在制度裡被聽見，讓民主成為我們共同的日常。』","textChars":63,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/pc7qhwn6","slide":17,"name":"Text 9","text":"二、核心意義","textPreview":"二、核心意義","textChars":6,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/29grm1of","slide":17,"name":"Text 10","text":"完成首尾呼應：議會的價值不只在作出決定，也在讓差異被看見、被討論、被公共檢驗。","textPreview":"完成首尾呼應：議會的價值不只在作出決定，也在讓差異被看見、被討論、被公共檢驗。","textChars":39,"textLines":1,"bbox":[57.6,362.88,678.72,45.12]}
+{"kind":"textbox","id":"sh/3ap8fm50","slide":17,"name":"Text 11","text":"三、畫面與鏡位","textPreview":"三、畫面與鏡位","textChars":7,"textLines":1,"bbox":[57.6,423.36,678.72,30.72]}
+{"kind":"textbox","id":"sh/gnepkr69","slide":17,"name":"Text 12","text":"回到開場人物與城市夜景；議會建築定鏡 4–5 秒，最後疊上主標『看見新北議會｜讀懂民主的日常』。","textPreview":"回到開場人物與城市夜景；議會建築定鏡 4–5 秒，最後疊上主標『看見新北議會｜讀懂民主的日常』。","textChars":48,"textLines":1,"bbox":[57.6,461.76,678.72,45.12]}
+{"kind":"textbox","id":"sh/honqdwnu","slide":17,"name":"Text 13","text":"四、聲音與片尾","textPreview":"四、聲音與片尾","textChars":7,"textLines":1,"bbox":[57.6,522.24,678.72,30.72]}
+{"kind":"textbox","id":"sh/ulw7ihoj","slide":17,"name":"Text 14","text":"音樂回到主旋律並留出一句旁白空間；片尾列製作、授權與議會核定資訊，不以冗長工作名單稀釋主標。","textPreview":"音樂回到主旋律並留出一句旁白空間；片尾列製作、授權與議會核定資訊，不以冗長工作名單稀釋主標。","textChars":46,"textLines":1,"bbox":[57.6,560.64,678.72,45.12]}
+{"kind":"textbox","id":"sh/fm58bm54","slide":17,"name":"Text 15","text":"五、版本與彈性","textPreview":"五、版本與彈性","textChars":7,"textLines":1,"bbox":[57.6,621.12,678.72,30.72]}
+{"kind":"textbox","id":"sh/0ji9wb6t","slide":17,"name":"Text 16","text":"標準片長 11:30；可依實際素材在 10:45–11:45 內微調，仍符合 10–12 分鐘需求。\n另輸出 60 秒／30 秒精華版時，沿用開場—制度—第5屆—主標四拍結構。","textPreview":"標準片長 11:30；可依實際素材在 10:45–11:45 內微調，仍符合 10–12 分鐘需求。 | 另輸出 60 秒／30 秒精華版時，沿用開場—制度—第5屆—主標四拍結構。","textChars":88,"textLines":2,"bbox":[69.12,659.52,667.2,145.92]}
+{"kind":"textbox","id":"sh/90nq9gfi","slide":17,"name":"Storyboard Concept Label 12","text":"AI 分鏡示意｜非實拍","textPreview":"AI 分鏡示意｜非實拍","textChars":11,"textLines":1,"bbox":[187,810,420,22]}
+{"kind":"image","id":"im/q50z210f","slide":17,"name":"","geometry":"roundRect","alt":"分鏡示意：北台灣城市與公共建築的藍調夜景","prompt":"AI-generated photorealistic storyboard concept image; anonymous generic civic setting; not documentary evidence.","bbox":[187,832,420,214]}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":"片尾主標至少停留 4 秒；五語版片尾均保留新北市議會正式中英文名稱與核定識別。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx\n\n- AI-generated storyboard concept image; not documentary evidence."}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"拍攝執行｜訪談與補拍","textShapes":11}
+{"kind":"textbox","id":"sh/wrelszu9","slide":18,"name":"Text 0","text":"拍攝執行｜訪談與補拍","textPreview":"拍攝執行｜訪談與補拍","textChars":10,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/hsn2l4bu","slide":18,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/itw3upcf","slide":18,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/je5knut0","slide":18,"name":"Text 3","text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/4felwzu5","slide":18,"name":"Text 4","text":"訪談提供觀點，B-roll 負責證明與轉場","textPreview":"訪談提供觀點，B-roll 負責證明與轉場","textChars":21,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/5gnmp4bq","slide":18,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/6hw3y9sb","slide":18,"name":"Text 6","text":"◆ 受訪原則｜每人只回答一個敘事任務；先取得完整句，再剪成 8–15 秒可用片段。名單由議會核定並兼顧黨團、性別、選區與角色多元。","textPreview":"◆ 受訪原則｜每人只回答一個敘事任務；先取得完整句，再剪成 8–15 秒可用片段。名單由議會核定並兼顧黨團、性別、選區與角色多元。","textChars":65,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/rip4retw","slide":18,"name":"Text 7","text":"一、訪談設計","textPreview":"一、訪談設計","textChars":6,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/fapkr6pw","slide":18,"name":"Text 8","text":"訪談不重複旁白，而是補上『為什麼重要』與『現場如何做』。問題避免引導政績與未核定承諾；每位受訪者拍 20 秒靜默、自然工作與視線備援鏡頭。","textPreview":"訪談不重複旁白，而是補上『為什麼重要』與『現場如何做』。問題避免引導政績與未核定承諾；每位受訪者拍 20 秒靜默、自然工作與視線備援鏡頭。","textChars":69,"textLines":1,"bbox":[57.6,264,678.72,65.28]}
+{"kind":"textbox","id":"sh/upg3i18r","slide":18,"name":"Text 9","text":"【建議每人錄製 15–25 分鐘；正式成片合計使用 60–90 秒，避免影片被訪談切碎。】","textPreview":"【建議每人錄製 15–25 分鐘；正式成片合計使用 60–90 秒，避免影片被訪談切碎。】","textChars":45,"textLines":1,"bbox":[57.6,336.96,678.72,24.96]}
+{"kind":"textbox","id":"sh/1cr2tg72","slide":18,"name":"Text 10","text":"二、角色、提問與拍攝方式","textPreview":"二、角色、提問與拍攝方式","textChars":12,"textLines":1,"bbox":[57.6,377.28,678.72,30.72]}
+{"kind":"textbox","id":"sh/7mpknmp0","slide":18,"name":"Text 11","text":"三、必要 B-roll 清單","textPreview":"三、必要 B-roll 清單","textChars":14,"textLines":1,"bbox":[57.6,699.53,678.72,30.72]}
+{"kind":"textbox","id":"sh/6lg3e18f","slide":18,"name":"Text 12","text":"建築晨昏、議場空鏡、會議進行、審查文件、服務與會勘、會史館展板、LED 播映、VOD 操作、外賓導覽、城市生活、就職典禮全流程。每一場景至少取得全／中／近／細節／反應五類鏡頭。","textPreview":"建築晨昏、議場空鏡、會議進行、審查文件、服務與會勘、會史館展板、LED 播映、VOD 操作、外賓導覽、城市生活、就職典禮全流程。每一場景至少取得全／中／近／細節／反應五類鏡頭。","textChars":88,"textLines":1,"bbox":[57.6,737.93,678.72,45.12]}
+{"kind":"table","id":"tb/ulkf2t0n","slide":18,"name":"Table 0","rows":8,"cols":4,"preview":"受訪角色 | 內容任務 | 建議提問 | 拍攝方式","bbox":[57.6,415.68,678.72,96]}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":"受訪名單與問題須於拍攝前送議會核定；訪談同意書包含肖像、聲音、五語版本、公開播映與長期保存範圍。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx"}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"後期製作｜五語與交付","textShapes":10}
+{"kind":"textbox","id":"sh/9gb6xgbi","slide":19,"name":"Text 0","text":"後期製作｜五語與交付","textPreview":"後期製作｜五語與交付","textChars":10,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/8v2pobax","slide":19,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/vitozqt8","slide":19,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/ahk7qls3","slide":19,"name":"Text 3","text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/xkbq10be","slide":19,"name":"Text 4","text":"先鎖定中文，再讓五種語言共享同一套畫面證據","textPreview":"先鎖定中文，再讓五種語言共享同一套畫面證據","textChars":21,"textLines":1,"bbox":[57.6,84.48,678.72,48]}
+{"kind":"shape","id":"sh/wj2psvat","slide":19,"name":"Shape 5","bbox":[57.6,144,678.72,60.48]}
+{"kind":"textbox","id":"sh/jmd83atk","slide":19,"name":"Text 6","text":"◆ 版本策略｜五語共用畫面與時間碼；旁白、字幕、片頭尾及術語表分軌，日後更新不必重剪。","textPreview":"◆ 版本策略｜五語共用畫面與時間碼；旁白、字幕、片頭尾及術語表分軌，日後更新不必重剪。","textChars":43,"textLines":1,"bbox":[72,153.6,649.92,41.28]}
+{"kind":"textbox","id":"sh/il47u5sz","slide":19,"name":"Text 7","text":"一、五語製作流程","textPreview":"一、五語製作流程","textChars":8,"textLines":1,"bbox":[57.6,225.6,678.72,30.72]}
+{"kind":"textbox","id":"sh/cri1gnql","slide":19,"name":"Text 8","text":"中文旁白核定→建立專名／職稱／法規術語表→翻譯→母語審校→配音試讀→字幕與音軌→內部雙人檢核→議會確認。台語另由專業顧問審訂語體與讀音。","textPreview":"中文旁白核定→建立專名／職稱／法規術語表→翻譯→母語審校→配音試讀→字幕與音軌→內部雙人檢核→議會確認。台語另由專業顧問審訂語體與讀音。","textChars":68,"textLines":1,"bbox":[57.6,264,678.72,45.12]}
+{"kind":"textbox","id":"sh/dsri9sr6","slide":19,"name":"Text 9","text":"二、三道版本閘門","textPreview":"二、三道版本閘門","textChars":8,"textLines":1,"bbox":[57.6,324.48,678.72,30.72]}
+{"kind":"textbox","id":"sh/rqp07290","slide":19,"name":"Text 10","text":"三、交付與可維護性","textPreview":"三、交付與可維護性","textChars":9,"textLines":1,"bbox":[57.6,495.42,678.72,30.72]}
+{"kind":"textbox","id":"sh/0vi1k7qx","slide":19,"name":"Text 11","text":"交付 4K／2K 以上母帶、五語播放檔、無字幕 clean master、字幕檔、分軌音訊、配樂授權、工程檔與素材索引。影片中的第5屆人名與職銜採可替換圖層，保固期間更新不破壞主剪輯。","textPreview":"交付 4K／2K 以上母帶、五語播放檔、無字幕 clean master、字幕檔、分軌音訊、配樂授權、工程檔與素材索引。影片中的第5屆人名與職銜採可替換圖層，保固期間更新不破壞主剪輯。","textChars":92,"textLines":1,"bbox":[57.6,533.82,678.72,45.12]}
+{"kind":"table","id":"tb/m50zqxsv","slide":19,"name":"Table 0","rows":4,"cols":3,"preview":"階段 | 核對重點 | 通過條件","bbox":[57.6,362.88,678.72,96]}
+{"kind":"notes","id":"nt/nid43ytk","slide":19,"text":"實際檔案格式、編碼、響度與 LED 原生輸出解析度於設備整合測試後定稿。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx"}
+{"kind":"slide","id":"sl/zyxsni5k","slide":20,"title":"製作管理｜風險與品管","textShapes":6}
+{"kind":"textbox","id":"sh/qpwjmh8n","slide":20,"name":"Text 0","text":"製作管理｜風險與品管","textPreview":"製作管理｜風險與品管","textChars":10,"textLines":1,"bbox":[57.6,30.72,432,23.04]}
+{"kind":"textbox","id":"sh/rq50vmp8","slide":20,"name":"Text 1","text":"新北市議會｜簡介影片腳本","textPreview":"新北市議會｜簡介影片腳本","textChars":12,"textLines":1,"bbox":[448.32,30.72,288,23.04]}
+{"kind":"shape","id":"sh/4nu1krqh","slide":20,"name":"Shape 2","bbox":[57.6,59.52,678.72,0]}
+{"kind":"textbox","id":"sh/po3itc72","slide":20,"name":"Text 3","text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[358.56,1081.92,76.8,24.96]}
+{"kind":"textbox","id":"sh/2lczih8r","slide":20,"name":"Text 4","text":"四個高風險點，都在拍攝前設好備援與核定閘門","textPreview":"四個高風險點，都在拍攝前設好備援與核定閘門","textChars":21,"textLines":1,"bbox":[57.6,92.16,678.72,30.72]}
+{"kind":"textbox","id":"sh/gjuhg7ql","slide":20,"name":"Text 5","text":"品質閘門與 120 日內建議節點","textPreview":"品質閘門與 120 日內建議節點","textChars":16,"textLines":1,"bbox":[57.6,332.28,678.72,30.72]}
+{"kind":"textbox","id":"sh/hk3ipcr6","slide":20,"name":"Text 6","text":"D1–15 需求／中文大綱核定；D16–45 勘景、史料與先拍；D46–75 主拍及就職典禮；D76–100 剪輯、動態圖像與五語；D101–120 LED 測試、修正與驗收。每一閘門執行『內容正確→影像聲音→語言字幕→播放相容』四層檢核，留存核定紀錄、素材清單、授權與測試報告。","textPreview":"D1–15 需求／中文大綱核定；D16–45 勘景、史料與先拍；D46–75 主拍及就職典禮；D76–100 剪輯、動態圖像與五語；D101–120 LED 測試、修正與驗收。每一閘門執行『內容正確→影像聲音→語言字幕→播放相容』四層檢核，留存核定紀錄、素材清單、授權與測試報告。","textChars":140,"textLines":1,"bbox":[57.6,370.68,678.72,45.12]}
+{"kind":"table","id":"tb/ixsv2xcf","slide":20,"name":"Table 0","rows":5,"cols":3,"preview":"風險 | 觸發情境 | 因應與驗收證據","bbox":[57.6,130.56,678.72,96]}
+{"kind":"notes","id":"nt/zyxsni5k","slide":20,"text":"時程須與議會實際決標日、就職典禮日期、審稿週期及 LED 安裝測試窗口整合後更新。\n\n[Sources]\n- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx"}

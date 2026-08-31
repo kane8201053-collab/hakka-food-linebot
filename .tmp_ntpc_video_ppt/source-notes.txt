@@ -1,0 +1,14 @@
+SOURCE NOTES
+
+User source deck:
+- /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx
+- Relevant source concepts: slides 3, 5, 7, 8, 12 and 16.
+
+Official/legal references used for factual framing:
+- New Taipei City Council Organization Self-Government Ordinance: https://web.law.ntpc.gov.tw/Scripts/PrintFLAWDAT0202.aspx?fcode=C0000072
+- Local Government Act, council powers: https://web.law.ntpc.gov.tw/Scripts/PrintFLAWDOC01.aspx?fcode=B0040002&flno=36
+- New Taipei City Council VOD system: https://vod.ntp.gov.tw/VodCloudV2/VOD/Index
+- Taiwan local council journal repository, New Taipei history: https://journal.th.gov.tw/intro.php?council=ntp
+
+No external images are used. Proposed narration, camera grammar, interview design, workflow and QA specifications are original production recommendations derived from the brief.
+

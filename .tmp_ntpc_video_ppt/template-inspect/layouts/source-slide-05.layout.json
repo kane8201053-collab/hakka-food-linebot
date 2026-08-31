@@ -1,0 +1,1141 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/i107q5of",
+    "id": "i107q5of",
+    "slide": 5,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dgbulwnm",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        30.72,
+        432,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "參、專案理解與整體規劃理念",
+      "textPreview": "參、專案理解與整體規劃理念",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "參、專案理解與整體規劃理念"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "參、專案理解與整體規劃理念",
+          "runs": [
+            {
+              "index": 1,
+              "text": "參、專案理解與整體規劃理念",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cf2tcr61",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        448.32,
+        30.72,
+        288,
+        23.04
+      ],
+      "geometry": "rect",
+      "text": "新北市議會案 服務建議書",
+      "textPreview": "新北市議會案 服務建議書",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新北市議會案 服務建議書"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新北市議會案 服務建議書",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新北市議會案 服務建議書",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z2tcnm5s",
+      "id": "4",
+      "name": "Shape 2",
+      "bbox": [
+        57.6,
+        59.52,
+        678.72,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3E7EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhkbe1o7",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1081.92,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "6",
+      "textPreview": "6",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "6"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "6",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "6",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4bupwny",
+      "id": "6",
+      "name": "Text 4",
+      "bbox": [
+        57.6,
+        84.48,
+        678.72,
+        48
+      ],
+      "geometry": "rect",
+      "text": "參、專案理解與整體規劃理念",
+      "textPreview": "參、專案理解與整體規劃理念",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "參、專案理解與整體規劃理念"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "參、專案理解與整體規劃理念",
+          "runs": [
+            {
+              "index": 1,
+              "text": "參、專案理解與整體規劃理念",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032tgr6d",
+      "id": "7",
+      "name": "Shape 5",
+      "bbox": [
+        57.6,
+        144,
+        678.72,
+        60.48
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FDF6E0",
+      "lineColor": "#C9A227",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6dcr65o",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        72,
+        153.6,
+        649.92,
+        41.28
+      ],
+      "geometry": "rect",
+      "text": "✎ 撰寫建議(繳交前請刪除)|委員判斷你「懂不懂這案子」的關鍵章。建議提出貫穿四項工作的策展主軸(示例:民主的日常),讓展板、影片、手冊視覺語言一致——呼應「綜合性企劃」精神,是最容易被忽略的拿分點。",
+      "textPreview": "✎ 撰寫建議(繳交前請刪除)|委員判斷你「懂不懂這案子」的關鍵章。建議提出貫穿四項工作的策展主軸(示例:民主的日常),讓展板、影片、手冊視覺語言一致——呼應「綜合性企劃」精神,是最容易被忽略的拿分點。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "✎ 撰寫建議(繳交前請刪除)|"
+          },
+          {
+            "index": 2,
+            "text": "委員判斷你「懂不懂這案子」的關鍵章。建議提出貫穿四項工作的策展主軸(示例:民主的日常),讓展板、影片、手"
+          },
+          {
+            "index": 3,
+            "text": "冊視覺語言一致——呼應「綜合性企劃」精神,是最容易被忽略的拿分點。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "✎ 撰寫建議(繳交前請刪除)|委員判斷你「懂不懂這案子」的關鍵章。建議提出貫穿四項工作的策展主軸(示例:民主的日常),讓展板、影片、手冊視覺語言一致——呼應「綜合性企劃」精神,是最容易被忽略的拿分點。",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "✎ 撰寫建議(繳交前請刪除)|",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "委員判斷你「懂不懂這案子」的關鍵章。建議提出貫穿四項工作的策展主軸(示例:民主的日常),讓展板、影片、手冊視覺語言一致——呼應「綜合性企劃」精神,是最容易被忽略的拿分點。",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#4A4A4A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5kbi1oj",
+      "id": "9",
+      "name": "Text 7",
+      "bbox": [
+        57.6,
+        225.6,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "一、需求重點解析",
+      "textPreview": "一、需求重點解析",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一、需求重點解析"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一、需求重點解析",
+          "runs": [
+            {
+              "index": 1,
+              "text": "一、需求重點解析",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/sn6po36d",
+      "id": "17",
+      "name": "Table 0",
+      "bbox": [
+        57.6,
+        264,
+        678.72,
+        89.6
+      ],
+      "text": "整合性 | 四項工作共用同一批素材與設計語言,應由同一策展設計團隊統籌,避免風格割裂。\n規格符合性 | LED 四項規格為最低門檻;設備須 2022 年後出廠、附原廠型錄逐項標明,不得使用中國大陸廠牌資通訊產品。\n時效性 | 全案 120 個日曆天,含五階段送審與教育訓練;就職典禮為一次性事件,不容失誤。",
+      "textPreview": "整合性 | 四項工作共用同一批素材與設計語言,應由同一策展設計團隊統籌,避免風格割裂。 | 規格符合性 | LED 四項規格為最低門檻;設備須 2022 年後出廠、附原廠型錄逐項標明,不得使用中國大陸廠牌資通訊產品。 | 時效性 | 全案 120 個日曆天,含五階段送審與教...",
+      "rows": 3,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            264,
+            144,
+            29.87
+          ],
+          "text": "整合性",
+          "textPreview": "整合性",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "整合性",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "整合性",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            201.6,
+            264,
+            534.72,
+            29.87
+          ],
+          "text": "四項工作共用同一批素材與設計語言,應由同一策展設計團隊統籌,避免風格割裂。",
+          "textPreview": "四項工作共用同一批素材與設計語言,應由同一策展設計團隊統籌,避免風格割裂。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "四項工作共用同一批素材與設計語言,應由同一策展設計團隊統籌,避免風格割裂。",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "四項工作共用同一批素材與設計語言,應由同一策展設計團隊統籌,避免風格割裂。",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            293.87,
+            144,
+            29.87
+          ],
+          "text": "規格符合性",
+          "textPreview": "規格符合性",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "規格符合性",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "規格符合性",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            201.6,
+            293.87,
+            534.72,
+            29.87
+          ],
+          "text": "LED 四項規格為最低門檻;設備須 2022 年後出廠、附原廠型錄逐項標明,不得使用中國大陸廠牌資通訊產品。",
+          "textPreview": "LED 四項規格為最低門檻;設備須 2022 年後出廠、附原廠型錄逐項標明,不得使用中國大陸廠牌資通訊產品。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "LED 四項規格為最低門檻;設備須 2022 年後出廠、附原廠型錄逐項標明,不得使用中國大陸廠牌資通訊產品。",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "LED 四項規格為最低門檻;設備須 2022 年後出廠、附原廠型錄逐項標明,不得使用中國大陸廠牌資通訊產品。",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            323.73,
+            144,
+            29.87
+          ],
+          "text": "時效性",
+          "textPreview": "時效性",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "時效性",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "時效性",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            201.6,
+            323.73,
+            534.72,
+            29.87
+          ],
+          "text": "全案 120 個日曆天,含五階段送審與教育訓練;就職典禮為一次性事件,不容失誤。",
+          "textPreview": "全案 120 個日曆天,含五階段送審與教育訓練;就職典禮為一次性事件,不容失誤。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "全案 120 個日曆天,含五階段送審與教育訓練;就職典禮為一次性事件,不容失誤。",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "全案 120 個日曆天,含五階段送審與教育訓練;就職典禮為一次性事件,不容失誤。",
+                  "fontSize": 12.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#222222"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4vedgvm",
+      "id": "11",
+      "name": "Text 8",
+      "bbox": [
+        57.6,
+        400.91,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "二、策展主軸與規劃理念(示例,請依貴公司創意調整)",
+      "textPreview": "二、策展主軸與規劃理念(示例,請依貴公司創意調整)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "二、策展主軸與規劃理念(示例,請依貴公司創意調整)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "二、策展主軸與規劃理念(示例,請依貴公司創意調整)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "二、策展主軸與規劃理念(示例,請依貴公司創意調整)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahkvi1cb",
+      "id": "12",
+      "name": "Text 9",
+      "bbox": [
+        57.6,
+        439.31,
+        678.72,
+        45.12
+      ],
+      "geometry": "rect",
+      "text": "本公司以「民主的日常——看得見的議會」為全案策展主軸:議會不是遙遠的殿堂,而是與市民生活息息相關的日常。三項子概念貫穿各工作項目:",
+      "textPreview": "本公司以「民主的日常——看得見的議會」為全案策展主軸:議會不是遙遠的殿堂,而是與市民生活息息相關的日常。三項子概念貫穿各工作項目:",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "本公司以「民主的日常——看得見的議會」為全案策展主軸:議會不是遙遠的殿堂,而是與市民生活息息相關"
+          },
+          {
+            "index": 2,
+            "text": "的日常。三項子概念貫穿各工作項目:"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "本公司以「民主的日常——看得見的議會」為全案策展主軸:議會不是遙遠的殿堂,而是與市民生活息息相關的日常。三項子概念貫穿各工作項目:",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "本公司以「民主的日常——看得見的議會」為全案策展主軸:議會不是遙遠的殿堂,而是與市民生活息息相關的日常。三項子概念貫穿各工作項目:",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2twb6dw",
+      "id": "13",
+      "name": "Text 10",
+      "bbox": [
+        69.12,
+        492.11,
+        667.2,
+        105.6
+      ],
+      "geometry": "rect",
+      "text": "看見歷史:會史館以時間軸重整歷屆議會脈絡,凸顯地方自治精神之傳承。\n看見運作:簡介影片以「一件市民陳情案的旅程」為敘事線(示例),具象呈現議員如何質詢、審議、監督市政。\n看見未來:本屆議會區與國際交流區呈現第5屆議會之組成、願景與城市外交成果。",
+      "textPreview": "看見歷史:會史館以時間軸重整歷屆議會脈絡,凸顯地方自治精神之傳承。 | 看見運作:簡介影片以「一件市民陳情案的旅程」為敘事線(示例),具象呈現議員如何質詢、審議、監督市政。 | 看見未來:本屆議會區與國際交流區呈現第5屆議會之組成、願景與城市外交成果。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 看見歷史:會史館以時間軸重整歷屆議會脈絡,凸顯地方自治精神之傳承。"
+          },
+          {
+            "index": 2,
+            "text": "• "
+          },
+          {
+            "index": 3,
+            "text": "看見運作:簡介影片以「一件市民陳情案的旅程」為敘事線(示例),具象呈現議員如何質詢、審議、監督市"
+          },
+          {
+            "index": 4,
+            "text": "政。"
+          },
+          {
+            "index": 5,
+            "text": "• 看見未來:本屆議會區與國際交流區呈現第5屆議會之組成、願景與城市外交成果。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見歷史:會史館以時間軸重整歷屆議會脈絡,凸顯地方自治精神之傳承。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見歷史:會史館以時間軸重整歷屆議會脈絡,凸顯地方自治精神之傳承。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "看見運作:簡介影片以「一件市民陳情案的旅程」為敘事線(示例),具象呈現議員如何質詢、審議、監督市政。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見運作:簡介影片以「一件市民陳情案的旅程」為敘事線(示例),具象呈現議員如何質詢、審議、監督市政。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "看見未來:本屆議會區與國際交流區呈現第5屆議會之組成、願景與城市外交成果。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見未來:本屆議會區與國際交流區呈現第5屆議會之組成、願景與城市外交成果。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k7mxovud",
+      "id": "14",
+      "name": "Text 11",
+      "bbox": [
+        57.6,
+        605.39,
+        678.72,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "【設計示意圖預留位置:主視覺與色彩計畫,建議置入 1 頁】",
+      "textPreview": "【設計示意圖預留位置:主視覺與色彩計畫,建議置入 1 頁】",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "【設計示意圖預留位置:主視覺與色彩計畫,建議置入 1 頁】"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "【設計示意圖預留位置:主視覺與色彩計畫,建議置入 1 頁】",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "【設計示意圖預留位置:主視覺與色彩計畫,建議置入 1 頁】",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "italic": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58vehgvy",
+      "id": "15",
+      "name": "Text 12",
+      "bbox": [
+        57.6,
+        645.71,
+        678.72,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "三、整合執行策略",
+      "textPreview": "三、整合執行策略",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三、整合執行策略"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三、整合執行策略",
+          "runs": [
+            {
+              "index": 1,
+              "text": "三、整合執行策略",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i54fmlc7",
+      "id": "16",
+      "name": "Text 13",
+      "bbox": [
+        69.12,
+        684.11,
+        667.2,
+        125.76
+      ],
+      "geometry": "rect",
+      "text": "單一專案經理統籌,下設策展設計、硬體工程、影像製作、手冊編印四個工作組,每週內部進度會議。\n素材一次採集、多重運用:攝影與文史素材同時供展板、影片、手冊使用,降低重工並確保一致性。\n送審前置:各階段文件送審前完成內部三級檢核,縮短往返修正時間。",
+      "textPreview": "單一專案經理統籌,下設策展設計、硬體工程、影像製作、手冊編印四個工作組,每週內部進度會議。 | 素材一次採集、多重運用:攝影與文史素材同時供展板、影片、手冊使用,降低重工並確保一致性。 | 送審前置:各階段文件送審前完成內部三級檢核,縮短往返修正時間。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 單一專案經理統籌,下設策展設計、硬體工程、影像製作、手冊編印四個工作組,每週內部進度會議。"
+          },
+          {
+            "index": 2,
+            "text": "• 素材一次採集、多重運用:攝影與文史素材同時供展板、影片、手冊使用,降低重工並確保一致性。"
+          },
+          {
+            "index": 3,
+            "text": "• 送審前置:各階段文件送審前完成內部三級檢核,縮短往返修正時間。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "單一專案經理統籌,下設策展設計、硬體工程、影像製作、手冊編印四個工作組,每週內部進度會議。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "單一專案經理統籌,下設策展設計、硬體工程、影像製作、手冊編印四個工作組,每週內部進度會議。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "素材一次採集、多重運用:攝影與文史素材同時供展板、影片、手冊使用,降低重工並確保一致性。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "素材一次採集、多重運用:攝影與文史素材同時供展板、影片、手冊使用,降低重工並確保一致性。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "送審前置:各階段文件送審前完成內部三級檢核,縮短往返修正時間。",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "送審前置:各階段文件送審前完成內部三級檢核,縮短往返修正時間。",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#222222"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

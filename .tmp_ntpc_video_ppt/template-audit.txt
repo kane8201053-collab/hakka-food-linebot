@@ -1,0 +1,18 @@
+SOURCE TEMPLATE AUDIT
+
+Source: /Users/zhangzixuan/Desktop/新北市議會案_服務建議書_A4直式_1.pptx
+Format: A4 portrait, 794 x 1122 px; 16 slides; one DEFAULT layout and one master.
+Visual system: white page, navy #1C3155-style headings, gold #C9A227 accents, pale-gold callout boxes, thin light-gray rule, centered page number.
+Typography: Microsoft JhengHei for Chinese content; Calibri theme fallback. Main page title approximately 24–28 pt equivalent; section headings approximately 14–16 pt; body approximately 10–12 pt.
+Reusable patterns:
+- Slide 1: cover with navy top field, project title stack and administrative lines.
+- Slide 5: positioning/strategy page with one 3x2 table and three narrative sections.
+- Slide 9: team/interview matrix with an 8x4 table.
+- Slide 10: schedule page with one 6x4 table and one 8x7 timeline table.
+- Slide 11: compact risk table with one follow-up section.
+- Slide 12: five repeated heading/body blocks, ideal for detailed storyboard scenes.
+- Slide 13: compact 4x3 table plus three explanatory sections.
+
+Insertion contract: duplicate source slides only, rewrite inherited text/table cells in place, preserve the top rail, accent boxes, margins, page marker and master/layout relationship. Do not overlay a new visual system.
+Placeholder audit: the source layouts contain no inherited master/layout elements and no visible empty PowerPoint placeholders. All copied slide-local text/table content used in the new narrative is explicitly mapped for rewrite.
+

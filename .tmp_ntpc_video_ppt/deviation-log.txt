@@ -1,0 +1,7 @@
+INTENTIONAL DEVIATIONS
+
+1. Existing yellow authoring-tip callouts are retained as a visual device but rewritten as audience-facing "本頁重點／導演提示" statements.
+2. Existing chapter labels and page numbers are rewritten for the standalone video-script appendix.
+3. Existing tables are repurposed for audience, timing, interview, multilingual and risk information while preserving their inherited style and location.
+4. No new visual primitives or external images are added; the source proposal's document-like A4 hierarchy is preserved.
+
