@@ -27,9 +27,11 @@ def get_latest_lottery_reply():
     """產生可以直接傳給 LINE 使用者的最新抽獎說明。"""
 
     return (
-        "🎁 最新抽獎資訊\n\n"
+        "想參加抽獎嗎？好吃又有機會出國唷！🎉✈️\n\n"
+        "🎁 最新抽獎資訊\n"
         f"{LATEST_LOTTERY_INFO['participation']}\n"
-        f"{LATEST_LOTTERY_INFO['description']}"
+        f"{LATEST_LOTTERY_INFO['description']}\n\n"
+        "準備好照片後，記得前往指定文章參加活動唷～ 📸🍽️"
     )
 
 

@@ -11,6 +11,7 @@ from bot_logic import (
     build_reply_links,
     decide_reply,
     hide_google_maps_urls,
+    remove_asterisks_for_single_store,
     safe_line_reply,
     utf16_length,
 )
@@ -139,11 +140,16 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         prompt = build_ai_prompt("有什麼優惠？", None)
         self.assertIn(LATEST_LOTTERY_INFO["description"], prompt)
         self.assertIn("Google Maps：https://www.google.com/maps/search/", prompt)
+        self.assertIn("有互動感", prompt)
+        self.assertIn("不使用 Markdown", prompt)
+        self.assertIn("下一步引導", prompt)
 
     def test_latest_lottery_reply_uses_editable_source(self):
         reply = get_latest_lottery_reply()
         for value in LATEST_LOTTERY_INFO.values():
             self.assertIn(value, reply)
+        self.assertIn("想參加抽獎嗎", reply)
+        self.assertIn("記得前往指定文章", reply)
 
     def test_long_ai_reply_is_safe_for_line(self):
         reply = safe_line_reply("🍜" * 3000)
@@ -214,6 +220,15 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
                     MAX_LINE_REPLY_UNITS,
                 )
 
+    def test_district_reply_has_interactive_opening_and_follow_up(self):
+        reply = build_district_reply("北投區")
+        self.assertTrue(reply.startswith("找到囉！🔍"))
+        self.assertIn("你對哪一家有興趣呢？", reply)
+        self.assertIn("直接輸入完整店名", reply)
+
+        single_store_reply = build_district_reply("南港區")
+        self.assertIn("對這家店有興趣嗎？", single_store_reply)
+
     def test_zhongshan_listing_is_not_limited_to_five_stores(self):
         restaurants = find_restaurants_by_district("中山區")
         self.assertGreater(len(restaurants), 5)
@@ -234,6 +249,24 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         self.assertEqual("📍 地址超連結", links[0].label)
         self.assertTrue(links[0].url.startswith("https://www.google.com/maps/search/"))
         self.assertLessEqual(utf16_length(links[0].label), 20)
+
+    def test_single_store_reply_removes_all_asterisks(self):
+        reply = "🏠 **老頭家客家菜**\n- **行政區**：文山區"
+        cleaned = remove_asterisks_for_single_store(
+            reply,
+            "請介紹老頭家客家菜",
+        )
+        self.assertNotIn("*", cleaned)
+        self.assertIn("🏠 老頭家客家菜", cleaned)
+        self.assertIn("- 行政區：文山區", cleaned)
+
+    def test_non_single_store_reply_keeps_asterisks(self):
+        reply = "**中山區合作店家**"
+        cleaned = remove_asterisks_for_single_store(
+            reply,
+            "中山區有哪些店家？",
+        )
+        self.assertEqual(reply, cleaned)
 
     def test_unique_store_short_name_gets_map_button(self):
         for question in ("富鼎", "苗栗客家", "胡鍋"):
@@ -266,6 +299,7 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         reply = "推薦富鼎餐館與苗栗客家菜館。"
         hinted_reply = add_multi_store_map_hint(reply)
         self.assertTrue(hinted_reply.endswith(MULTI_STORE_MAP_HINT))
+        self.assertIn(f"\n\n{MULTI_STORE_MAP_HINT}", hinted_reply)
 
     def test_reply_with_one_store_does_not_get_multi_store_hint(self):
         reply = "推薦富鼎餐館。"
