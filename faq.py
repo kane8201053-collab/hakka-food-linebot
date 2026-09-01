@@ -1,4 +1,4 @@
-RESTAURANT_RECOMMENDATION_REPLY = """您好！歡迎來到 2026 臺北客家美食節！🍜
+RESTAURANT_RECOMMENDATION_REPLY = """您好！歡迎來到 2026 臺北客家美食節！🍜我是你的AI小幫手😋
 
 請問你想找臺北市哪一區的合作店家呢？告訴我您想去的行政區，我來為您推薦美味的合作店家料理！"""
 

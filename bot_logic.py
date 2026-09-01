@@ -285,7 +285,16 @@ def _find_mentioned_restaurants(text):
         return []
 
     normalized_question = _normalize_store_search_text(searchable_text)
-    if normalized_question in {"客家菜", "客家料理", "餐廳", "店家", "美食", "我家"}:
+    if normalized_question in {
+        "客家菜",
+        "客家料理",
+        "客家美食推薦",
+        "請推薦給我客家美食",
+        "餐廳",
+        "店家",
+        "美食",
+        "我家",
+    }:
         return []
     scored_restaurants = []
     for restaurant in RESTAURANTS:
