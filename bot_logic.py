@@ -289,6 +289,7 @@ def _find_mentioned_restaurants(text):
         "客家菜",
         "客家料理",
         "客家美食推薦",
+        "推薦客家美食",
         "請推薦給我客家美食",
         "餐廳",
         "店家",
@@ -363,6 +364,34 @@ def remove_asterisks_for_single_store(reply_text, extra_context=""):
         return reply_text
 
     return reply_text.replace("*", "")
+
+
+def add_spacing_for_single_store_fields(reply_text, extra_context=""):
+    """詢問單一店家時，在各資料欄位之間固定保留一行空白。"""
+
+    if not isinstance(reply_text, str):
+        return reply_text
+
+    if len(_find_mentioned_restaurants(extra_context)) != 1:
+        return reply_text
+
+    field_pattern = re.compile(
+        r"^(?:🏠|🏙️?|🍽️?|📝|🥢|✨|📍|🕒|☎️?)?\s*"
+        r"(?:店名|行政區|類型|餐廳介紹|推薦餐點|特色|地址|營業時間|聯絡電話|優惠|Google Maps|備註)[：:]",
+        flags=re.IGNORECASE,
+    )
+    spaced_lines = []
+
+    for line in reply_text.splitlines():
+        if (
+            field_pattern.match(line.strip())
+            and spaced_lines
+            and spaced_lines[-1].strip()
+        ):
+            spaced_lines.append("")
+        spaced_lines.append(line)
+
+    return "\n".join(spaced_lines)
 
 
 def hide_google_maps_urls(text):
@@ -466,7 +495,7 @@ def build_ai_prompt(user_message, detected_district=None):
 13. 開頭先用一句話回應民眾的需求；提供資料後，以一個與問題相關的簡短問題或下一步引導作結。
 14. 一般回覆使用 2 到 4 個合適的 Emoji；單一店家回覆的固定欄位 Emoji 不受此數量限制。
 15. 不使用 Markdown 格式，不要輸出星號、井字號或反引號作為排版符號。
-16. 詢問單一店家時，依序完整列出資料庫已有的欄位，並固定使用「🏠 店名、🏙️ 行政區、🍽️ 類型、📝 餐廳介紹、🥢 推薦餐點、✨ 特色、📍 地址、🕒 營業時間、☎️ 聯絡電話」作為欄位名稱；最後提醒可點下方「地址超連結」查看位置。
+16. 詢問單一店家時，依序完整列出資料庫已有的欄位，並固定使用「🏠 店名、🏙️ 行政區、🍽️ 類型、📝 餐廳介紹、🥢 推薦餐點、✨ 特色、📍 地址、🕒 營業時間、☎️ 聯絡電話」作為欄位名稱；每個欄位之間空一整行，最後提醒可點下方「地址超連結」查看位置。
 17. 推薦多家店時，結尾邀請民眾直接輸入感興趣的完整店名，以取得詳細介紹。
 
 辨識到的行政區：{detected_district or "未指定"}

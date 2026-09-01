@@ -34,6 +34,7 @@ from bot_logic import (
     AI_BUSY_REPLY,
     UNSUPPORTED_MESSAGE_REPLY,
     add_multi_store_map_hint,
+    add_spacing_for_single_store_fields,
     build_ai_prompt,
     build_reply_links,
     decide_reply,
@@ -41,6 +42,7 @@ from bot_logic import (
     remove_asterisks_for_single_store,
     safe_line_reply,
 )
+from faq import DISTRICT_SELECTOR_OPTIONS, RESTAURANT_RECOMMENDATION_REPLY
 
 load_dotenv()
 
@@ -125,21 +127,37 @@ def build_line_text_message(reply_text, extra_context=""):
         visible_reply,
         extra_context,
     )
+    visible_reply = add_spacing_for_single_store_fields(
+        visible_reply,
+        extra_context,
+    )
     visible_reply = safe_line_reply(add_multi_store_map_hint(visible_reply))
     reply_links = build_reply_links(visible_reply, extra_context)
-    address_links = [
-        link for link in reply_links if link.label == "📍 地址超連結"
-    ]
+    show_district_selector = visible_reply == RESTAURANT_RECOMMENDATION_REPLY
+    address_links = []
+    if not show_district_selector:
+        address_links = [
+            link for link in reply_links if link.label == "📍 地址超連結"
+        ]
     other_links = [
         link for link in reply_links if link.label != "📍 地址超連結"
     ]
 
-    quick_reply_items = [
+    quick_reply_items = []
+    if show_district_selector:
+        quick_reply_items.extend(
+            QuickReplyItem(
+                action=MessageAction(label=district, text=district),
+            )
+            for district in DISTRICT_SELECTOR_OPTIONS
+        )
+
+    quick_reply_items.extend(
         QuickReplyItem(
             action=URIAction(label=link.label, uri=link.url),
         )
         for link in address_links
-    ]
+    )
     quick_reply_items.append(
         QuickReplyItem(
             action=MessageAction(
