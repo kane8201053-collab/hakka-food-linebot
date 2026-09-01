@@ -184,6 +184,32 @@ def build_district_reply(district):
             "想改找其他行政區嗎？直接輸入行政區名稱，我再幫你找找看！🍜"
         )
 
+    if len(restaurants) == 1:
+        restaurant = restaurants[0]
+        dishes = "、".join(restaurant["recommended_dishes"])
+        features = "、".join(restaurant["features"])
+        description = restaurant.get("description") or "目前尚未提供"
+        business_hours = restaurant.get("business_hours") or "目前尚未提供"
+        phone = restaurant.get("phone") or "目前尚未提供"
+        discount = restaurant.get("discount") or "目前尚未提供"
+        notes = restaurant.get("notes") or "目前尚未提供"
+
+        return (
+            f"找到囉！🔍 {district}目前只有這一家合作店家：\n\n"
+            f"🏠 店名：{restaurant['name']}\n\n"
+            f"🏙️ 行政區：{restaurant['district']}\n\n"
+            f"🍽️ 類型：{restaurant['category']}\n\n"
+            f"📝 餐廳介紹：{description}\n\n"
+            f"🥢 推薦餐點：{dishes}\n\n"
+            f"✨ 特色：{features}\n\n"
+            f"📍 地址：{restaurant['address']}\n\n"
+            f"🕒 營業時間：{business_hours}\n\n"
+            f"☎️ 聯絡電話：{phone}\n\n"
+            f"優惠：{discount}\n\n"
+            f"備註：{notes}\n\n"
+            "想取得地址導航嗎？直接輸入店名，就會出現地址超連結唷！📍"
+        )
+
     restaurant_lines = []
     for restaurant in restaurants:
         dishes = "、".join(restaurant["recommended_dishes"])
@@ -193,16 +219,10 @@ def build_district_reply(district):
             f"地址：{restaurant['address']}"
         )
 
-    if len(restaurants) == 1:
-        follow_up = (
-            "對這家店有興趣嗎？直接輸入完整店名，"
-            "我可以繼續幫你介紹！😊"
-        )
-    else:
-        follow_up = (
-            "你對哪一家有興趣呢？直接輸入完整店名，"
-            "我可以繼續幫你介紹！😊"
-        )
+    follow_up = (
+        "你對哪一家有興趣呢？直接輸入完整店名，"
+        "我可以繼續幫你介紹！😊"
+    )
 
     return (
         f"找到囉！🔍 {district}目前有這些合作店家：\n\n"
@@ -320,10 +340,20 @@ def _find_mentioned_restaurants(text):
 
 
 def build_reply_links(_reply_text, extra_context=""):
-    """只有問題明確提到單一店家時附地圖；每則回覆仍附官方網站。"""
+    """單店或僅一家店的行政區附地圖；每則回覆仍附官方網站。"""
 
     links = []
     question_restaurants = _find_mentioned_restaurants(extra_context)
+
+    if not question_restaurants:
+        detected_district = detect_district(extra_context)
+        if detected_district and _is_district_listing_question(
+            extra_context,
+            detected_district,
+        ):
+            district_restaurants = find_restaurants_by_district(detected_district)
+            if len(district_restaurants) == 1:
+                question_restaurants = district_restaurants
 
     if len(question_restaurants) == 1:
         restaurant = question_restaurants[0]

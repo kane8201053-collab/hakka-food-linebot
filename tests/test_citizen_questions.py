@@ -255,13 +255,25 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
             with self.subTest(label=label):
                 self.assertIn(label, knowledge)
 
-    def test_district_listing_does_not_get_store_map_buttons(self):
-        decision = decide_reply("南港區")
+    def test_multi_store_district_listing_does_not_get_map_button(self):
+        decision = decide_reply("北投區")
         self.assertEqual("district", decision.route)
         self.assertNotIn("google.com/maps", decision.reply_text)
-        links = build_reply_links(decision.reply_text, "南港區")
+        links = build_reply_links(decision.reply_text, "北投區")
         self.assertEqual(1, len(links))
         self.assertEqual(OFFICIAL_WEBSITE_URL, links[0].url)
+
+    def test_single_store_district_listing_gets_map_button(self):
+        for district in ("信義區", "南港區", "內湖區"):
+            with self.subTest(district=district):
+                decision = decide_reply(district)
+                links = build_reply_links(decision.reply_text, district)
+                self.assertEqual(2, len(links))
+                self.assertEqual("📍 地址超連結", links[0].label)
+                self.assertTrue(
+                    links[0].url.startswith("https://www.google.com/maps/search/")
+                )
+                self.assertEqual(OFFICIAL_WEBSITE_URL, links[1].url)
 
     def test_district_listing_includes_every_store(self):
         for district in TAIPEI_DISTRICTS:
@@ -286,7 +298,29 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         self.assertIn("直接輸入完整店名", reply)
 
         single_store_reply = build_district_reply("南港區")
-        self.assertIn("對這家店有興趣嗎？", single_store_reply)
+        self.assertIn("目前只有這一家合作店家", single_store_reply)
+        self.assertIn("直接輸入店名", single_store_reply)
+
+    def test_single_store_districts_show_complete_restaurant_details(self):
+        for district in ("信義區", "南港區", "內湖區"):
+            with self.subTest(district=district):
+                restaurants = find_restaurants_by_district(district)
+                self.assertEqual(1, len(restaurants))
+                restaurant = restaurants[0]
+                reply = build_district_reply(district)
+
+                self.assertIn(f"{district}目前只有這一家合作店家", reply)
+                self.assertIn(f"🏠 店名：{restaurant['name']}", reply)
+                self.assertIn(f"🏙️ 行政區：{restaurant['district']}", reply)
+                self.assertIn(f"🍽️ 類型：{restaurant['category']}", reply)
+                self.assertIn(f"📝 餐廳介紹：{restaurant['description']}", reply)
+                self.assertIn("🥢 推薦餐點：", reply)
+                self.assertIn("✨ 特色：", reply)
+                self.assertIn(f"📍 地址：{restaurant['address']}", reply)
+                self.assertIn(f"🕒 營業時間：{restaurant['business_hours']}", reply)
+                self.assertIn(f"☎️ 聯絡電話：{restaurant['phone']}", reply)
+                self.assertIn("優惠：", reply)
+                self.assertIn(f"備註：{restaurant['notes']}", reply)
 
     def test_zhongshan_listing_is_not_limited_to_five_stores(self):
         restaurants = find_restaurants_by_district("中山區")
@@ -395,10 +429,11 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         )
         self.assertEqual(reply, add_multi_store_map_hint(reply))
 
-    def test_general_recommendation_does_not_get_map_even_for_one_result(self):
+    def test_single_store_district_recommendation_gets_map_button(self):
         links = build_reply_links("推薦富鼎餐館。", "信義區有什麼好吃的？")
-        self.assertEqual(1, len(links))
-        self.assertEqual(OFFICIAL_WEBSITE_URL, links[0].url)
+        self.assertEqual(2, len(links))
+        self.assertEqual("📍 地址超連結", links[0].label)
+        self.assertEqual(OFFICIAL_WEBSITE_URL, links[1].url)
 
     def test_long_google_maps_url_is_hidden_from_reply_text(self):
         restaurant = next(
