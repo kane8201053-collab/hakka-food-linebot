@@ -1,3 +1,8 @@
+RESTAURANT_RECOMMENDATION_REPLY = """您好！歡迎來到 2026 臺北客家美食節！🍜
+
+請問你想找臺北市哪一區的合作店家呢？告訴我您想去的行政區，我來為您推薦美味的合作店家料理！"""
+
+
 FAQ_DATA = {
     "活動時間": """
 想安排時間來品嚐客家好味道嗎？📅
@@ -73,6 +78,9 @@ FAQ_KEYWORDS = {
 
 def find_faq_answer(user_message):
     user_message = user_message.strip().lower()
+
+    if user_message == "請推薦給我客家美食":
+        return RESTAURANT_RECOMMENDATION_REPLY
 
     for faq_name, keywords in FAQ_KEYWORDS.items():
         for keyword in keywords:
