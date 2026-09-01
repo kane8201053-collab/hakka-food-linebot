@@ -566,15 +566,15 @@ def get_restaurant_knowledge():
         features = "、".join(restaurant["features"])
 
         text = f"""
-店名：{restaurant["name"]}
-行政區：{restaurant["district"]}
-類型：{restaurant["category"]}
-餐廳介紹：{restaurant.get("description", "目前尚未提供")}
-推薦餐點：{dishes}
-特色：{features}
-地址：{restaurant["address"]}
-營業時間：{restaurant.get("business_hours", "目前尚未提供")}
-聯絡電話：{restaurant.get("phone", "目前尚未提供")}
+🏠 店名：{restaurant["name"]}
+🏙️ 行政區：{restaurant["district"]}
+🍽️ 類型：{restaurant["category"]}
+📝 餐廳介紹：{restaurant.get("description", "目前尚未提供")}
+🥢 推薦餐點：{dishes}
+✨ 特色：{features}
+📍 地址：{restaurant["address"]}
+🕒 營業時間：{restaurant.get("business_hours", "目前尚未提供")}
+☎️ 聯絡電話：{restaurant.get("phone", "目前尚未提供")}
 優惠：{restaurant.get("discount") or "目前尚未提供"}
 Google Maps：{restaurant["google_maps_url"]}
 備註：{restaurant.get("notes", "")}

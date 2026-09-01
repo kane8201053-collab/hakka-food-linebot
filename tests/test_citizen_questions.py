@@ -22,6 +22,7 @@ from restaurants import (
     TAIPEI_DISTRICTS,
     build_google_maps_url,
     find_restaurants_by_district,
+    get_restaurant_knowledge,
 )
 
 
@@ -195,6 +196,22 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
                         "https://www.google.com/maps/search/?api=1&query="
                     )
                 )
+
+    def test_restaurant_knowledge_uses_confirmed_field_emojis(self):
+        knowledge = get_restaurant_knowledge()
+        for label in (
+            "🏠 店名：",
+            "🏙️ 行政區：",
+            "🍽️ 類型：",
+            "📝 餐廳介紹：",
+            "🥢 推薦餐點：",
+            "✨ 特色：",
+            "📍 地址：",
+            "🕒 營業時間：",
+            "☎️ 聯絡電話：",
+        ):
+            with self.subTest(label=label):
+                self.assertIn(label, knowledge)
 
     def test_district_listing_does_not_get_store_map_buttons(self):
         decision = decide_reply("南港區")
