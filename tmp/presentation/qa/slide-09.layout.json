@@ -1,0 +1,1260 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/qtycjk",
+    "id": "qtycjk",
+    "slide": 9,
+    "layoutId": "c5bbf4c3-e4ce-4bf6-bdc2-638dde4f8678",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "3f6652a9-b548-4f3c-b184-a4b59dea0aef",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F6F2E9",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "c5bbf4c3-e4ce-4bf6-bdc2-638dde4f8678",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "3f6652a9-b548-4f3c-b184-a4b59dea0aef",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "3f6652a9-b548-4f3c-b184-a4b59dea0aef",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zi5cbex",
+      "id": "1",
+      "name": "top-band-9",
+      "bbox": [
+        0,
+        0,
+        1280,
+        112
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#0B1F3A",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3y9oj6dc",
+      "id": "2",
+      "name": "top-accent-9",
+      "bbox": [
+        0,
+        0,
+        18,
+        112
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#3979B8",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ix0na1wr",
+      "id": "3",
+      "name": "top-section-9",
+      "bbox": [
+        70,
+        24,
+        260,
+        24
+      ],
+      "geometry": "rect",
+      "text": "第三章｜看見多元",
+      "textPreview": "第三章｜看見多元",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#3979B8",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第三章｜看見多元"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第三章｜看見多元",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#3979B8",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第三章｜看見多元",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#3979B8",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcr6hwv6",
+      "id": "4",
+      "name": "top-title-9",
+      "bbox": [
+        70,
+        50,
+        950,
+        50
+      ],
+      "geometry": "rect",
+      "text": "從海岸出發，城市的每一種距離都值得被理解",
+      "textPreview": "從海岸出發，城市的每一種距離都值得被理解",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 42,
+        "typeface": "PingFang TC",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "從海岸出發，城市的每一種距離都值得被理解"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "從海岸出發，城市的每一種距離都值得被理解",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "PingFang TC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "從海岸出發，城市的每一種距離都值得被理解",
+              "fontSize": 42,
+              "typeface": "PingFang TC",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gby58bel",
+      "id": "5",
+      "name": "top-subtitle-9",
+      "bbox": [
+        1015,
+        31,
+        190,
+        52
+      ],
+      "geometry": "rect",
+      "text": "02:20—03:15",
+      "textPreview": "02:20—03:15",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#CAD6E2",
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02:20—03:15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02:20—03:15",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#CAD6E2",
+            "alignment": "right",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02:20—03:15",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#CAD6E2",
+              "alignment": "right",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vapof6dg",
+      "id": "6",
+      "name": "left-rail-9",
+      "bbox": [
+        50,
+        138,
+        378,
+        502
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFD8DF",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9gn61wv",
+      "id": "7",
+      "name": "rail-accent-9",
+      "bbox": [
+        50,
+        138,
+        10,
+        502
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#3979B8",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18b6t0vq",
+      "id": "8",
+      "name": "scene-index-9",
+      "bbox": [
+        80,
+        160,
+        300,
+        38
+      ],
+      "geometry": "rect",
+      "text": "SC 04",
+      "textPreview": "SC 04",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "PingFang TC",
+        "color": "#3979B8",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SC 04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SC 04",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "PingFang TC",
+            "color": "#3979B8",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SC 04",
+              "fontSize": 32,
+              "typeface": "PingFang TC",
+              "color": "#3979B8",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/072pkve5",
+      "id": "9",
+      "name": "visual-label-9",
+      "bbox": [
+        80,
+        210,
+        260,
+        28
+      ],
+      "geometry": "rect",
+      "text": "畫面 / VISUAL",
+      "textPreview": "畫面 / VISUAL",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#0B1F3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "畫面 / VISUAL"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "畫面 / VISUAL",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#0B1F3A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "畫面 / VISUAL",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#0B1F3A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ehofex0b",
+      "id": "10",
+      "name": "visual-copy-9",
+      "bbox": [
+        80,
+        248,
+        315,
+        220
+      ],
+      "geometry": "rect",
+      "text": "淡水河口日出接北海岸公路\n漁港／溫泉／山城／鐵道／海岸\n地名：淡水、八里、三芝、石門、金山、萬里、瑞芳、貢寮",
+      "textPreview": "淡水河口日出接北海岸公路 | 漁港／溫泉／山城／鐵道／海岸 | 地名：淡水、八里、三芝、石門、金山、萬里、瑞芳、貢寮",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21.51,
+        "typeface": "PingFang TC",
+        "color": "#162536",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "淡水河口日出接北海岸公路"
+          },
+          {
+            "index": 2,
+            "text": "漁港／溫泉／山城／鐵道／海岸"
+          },
+          {
+            "index": 3,
+            "text": "地名：淡水、八里、三芝、石門"
+          },
+          {
+            "index": 4,
+            "text": "、金山、萬里、瑞芳、貢寮"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "淡水河口日出接北海岸公路",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.16
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "淡水河口日出接北海岸公路",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.16
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "漁港／溫泉／山城／鐵道／海岸",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.16
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "漁港／溫泉／山城／鐵道／海岸",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.16
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "地名：淡水、八里、三芝、石門、金山、萬里、瑞芳、貢寮",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.16
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "地名：淡水、八里、三芝、石門、金山、萬里、瑞芳、貢寮",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.16
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fixg72hw",
+      "id": "11",
+      "name": "onscreen-label-9",
+      "bbox": [
+        80,
+        484,
+        260,
+        28
+      ],
+      "geometry": "rect",
+      "text": "字卡 / ON SCREEN",
+      "textPreview": "字卡 / ON SCREEN",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#0B1F3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "字卡 / ON SCREEN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "字卡 / ON SCREEN",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#0B1F3A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "字卡 / ON SCREEN",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#0B1F3A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0j6xg7ih",
+      "id": "12",
+      "name": "onscreen-copy-9",
+      "bbox": [
+        80,
+        520,
+        315,
+        92
+      ],
+      "geometry": "rect",
+      "text": "海岸的遠近，也是生活的遠近",
+      "textPreview": "海岸的遠近，也是生活的遠近",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21.51,
+        "typeface": "PingFang TC",
+        "color": "#3979B8",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "海岸的遠近，也是生活的遠近"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "海岸的遠近，也是生活的遠近",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#3979B8",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "海岸的遠近，也是生活的遠近",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#3979B8",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1kfy9czm",
+      "id": "13",
+      "name": "vo-label-9",
+      "bbox": [
+        462,
+        152,
+        300,
+        28
+      ],
+      "geometry": "rect",
+      "text": "旁白 / VOICE OVER",
+      "textPreview": "旁白 / VOICE OVER",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#0B1F3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旁白 / VOICE OVER"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旁白 / VOICE OVER",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#0B1F3A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旁白 / VOICE OVER",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#0B1F3A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qt4fax0z",
+      "id": "14",
+      "name": "vo-rule-9",
+      "bbox": [
+        462,
+        190,
+        728,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#3979B8",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/redg32hk",
+      "id": "15",
+      "name": "vo-copy-9",
+      "bbox": [
+        462,
+        214,
+        728,
+        318
+      ],
+      "geometry": "rect",
+      "text": "沿著淡水河走向海岸，風景遼闊，生活的距離卻很具體。通勤要多一段轉乘，觀光要兼顧居民日常，產業要找到新的機會，山海也需要被長久守護。議會所看見的，不只是地圖上的邊界，而是每一條回家的路、每一個在地生活的選擇。不同地方提出不同需要，也讓城市學會用更多角度思考。",
+      "textPreview": "沿著淡水河走向海岸，風景遼闊，生活的距離卻很具體。通勤要多一段轉乘，觀光要兼顧居民日常，產業要找到新的機會，山海也需要被長久守護。議會所看見的，不只是地圖上的邊界，而是每一條回家的路、每一個在地生活的選擇。不同地方提出不同需要，也讓城市學會用更多角度思考。",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "PingFang TC",
+        "color": "#162536",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "沿著淡水河走向海岸，風景遼闊，生活的距離卻很具體。通勤要"
+          },
+          {
+            "index": 2,
+            "text": "多一段轉乘，觀光要兼顧居民日常，產業要找到新的機會，山海"
+          },
+          {
+            "index": 3,
+            "text": "也需要被長久守護。議會所看見的，不只是地圖上的邊界，而是"
+          },
+          {
+            "index": 4,
+            "text": "每一條回家的路、每一個在地生活的選擇。不同地方提出不同需"
+          },
+          {
+            "index": 5,
+            "text": "要，也讓城市學會用更多角度思考。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "沿著淡水河走向海岸，風景遼闊，生活的距離卻很具體。通勤要多一段轉乘，觀光要兼顧居民日常，產業要找到新的機會，山海也需要被長久守護。議會所看見的，不只是地圖上的邊界，而是每一條回家的路、每一個在地生活的選擇。不同地方提出不同需要，也讓城市學會用更多角度思考。",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "沿著淡水河走向海岸，風景遼闊，生活的距離卻很具體。通勤要多一段轉乘，觀光要兼顧居民日常，產業要找到新的機會，山海也需要被長久守護。議會所看見的，不只是地圖上的邊界，而是每一條回家的路、每一個在地生活的選擇。不同地方提出不同需要，也讓城市學會用更多角度思考。",
+              "fontSize": 25,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfmxc7i5",
+      "id": "16",
+      "name": "sound-bar-9",
+      "bbox": [
+        462,
+        552,
+        728,
+        70
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#DCEAF7",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dgvy5szq",
+      "id": "17",
+      "name": "sound-label-9",
+      "bbox": [
+        486,
+        570,
+        70,
+        28
+      ],
+      "geometry": "rect",
+      "text": "聲音",
+      "textPreview": "聲音",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#3979B8",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "聲音"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "聲音",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#3979B8",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "聲音",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#3979B8",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap8fmh0j",
+      "id": "18",
+      "name": "sound-copy-9",
+      "bbox": [
+        564,
+        566,
+        600,
+        40
+      ],
+      "geometry": "rect",
+      "text": "海浪、風聲與列車通過聲交織；節奏由寬廣轉為前進。",
+      "textPreview": "海浪、風聲與列車通過聲交織；節奏由寬廣轉為前進。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 21,
+        "typeface": "PingFang TC",
+        "color": "#162536",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "海浪、風聲與列車通過聲交織；節奏由寬廣轉為前進。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "海浪、風聲與列車通過聲交織；節奏由寬廣轉為前進。",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "海浪、風聲與列車通過聲交織；節奏由寬廣轉為前進。",
+              "fontSize": 21,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bahgfmh4",
+      "id": "19",
+      "name": "footer-section-9",
+      "bbox": [
+        72,
+        680,
+        250,
+        22
+      ],
+      "geometry": "rect",
+      "text": "第三章｜看見多元",
+      "textPreview": "第三章｜看見多元",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#5C6B78",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第三章｜看見多元"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第三章｜看見多元",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#5C6B78",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第三章｜看見多元",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#5C6B78",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7u9c7exg",
+      "id": "20",
+      "name": "footer-page-9",
+      "bbox": [
+        1160,
+        680,
+        48,
+        22
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#5C6B78",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#5C6B78",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#5C6B78",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

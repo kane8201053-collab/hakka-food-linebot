@@ -1,0 +1,1264 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/6u3blk",
+    "id": "6u3blk",
+    "slide": 20,
+    "layoutId": "c5bbf4c3-e4ce-4bf6-bdc2-638dde4f8678",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "3f6652a9-b548-4f3c-b184-a4b59dea0aef",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F6F2E9",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "c5bbf4c3-e4ce-4bf6-bdc2-638dde4f8678",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "3f6652a9-b548-4f3c-b184-a4b59dea0aef",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "3f6652a9-b548-4f3c-b184-a4b59dea0aef",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t0vq1ove",
+      "id": "1",
+      "name": "top-band-20",
+      "bbox": [
+        0,
+        0,
+        1280,
+        112
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#0B1F3A",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dk769cn",
+      "id": "2",
+      "name": "top-accent-20",
+      "bbox": [
+        0,
+        0,
+        18,
+        112
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#E96C57",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7etozed8",
+      "id": "3",
+      "name": "top-section-20",
+      "bbox": [
+        70,
+        24,
+        260,
+        24
+      ],
+      "geometry": "rect",
+      "text": "第六章｜看見未來",
+      "textPreview": "第六章｜看見未來",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#E96C57",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第六章｜看見未來"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第六章｜看見未來",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#E96C57",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第六章｜看見未來",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#E96C57",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3mpcjup",
+      "id": "4",
+      "name": "top-title-20",
+      "bbox": [
+        70,
+        50,
+        950,
+        50
+      ],
+      "geometry": "rect",
+      "text": "議長建議致詞：從市民需要出發，與城市一起前進",
+      "textPreview": "議長建議致詞：從市民需要出發，與城市一起前進",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 42,
+        "typeface": "PingFang TC",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "議長建議致詞：從市民需要出發，與城市一起前進"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "議長建議致詞：從市民需要出發，與城市一起前進",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "PingFang TC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "議長建議致詞：從市民需要出發，與城市一起前進",
+              "fontSize": 42,
+              "typeface": "PingFang TC",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4vq5ova",
+      "id": "5",
+      "name": "top-subtitle-20",
+      "bbox": [
+        1015,
+        31,
+        190,
+        52
+      ],
+      "geometry": "rect",
+      "text": "11:00—11:20",
+      "textPreview": "11:00—11:20",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#CAD6E2",
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "11:00—11:20"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "11:00—11:20",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#CAD6E2",
+            "alignment": "right",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "11:00—11:20",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#CAD6E2",
+              "alignment": "right",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u147atcz",
+      "id": "6",
+      "name": "left-rail-20",
+      "bbox": [
+        50,
+        138,
+        378,
+        502
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFD8DF",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2d83yd4",
+      "id": "7",
+      "name": "rail-accent-20",
+      "bbox": [
+        50,
+        138,
+        10,
+        502
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#E96C57",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/476pg3u1",
+      "id": "8",
+      "name": "scene-index-20",
+      "bbox": [
+        80,
+        160,
+        300,
+        38
+      ],
+      "geometry": "rect",
+      "text": "SC 15",
+      "textPreview": "SC 15",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "PingFang TC",
+        "color": "#E96C57",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SC 15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SC 15",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "PingFang TC",
+            "color": "#E96C57",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SC 15",
+              "fontSize": 32,
+              "typeface": "PingFang TC",
+              "color": "#E96C57",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58fq98vm",
+      "id": "9",
+      "name": "visual-label-20",
+      "bbox": [
+        80,
+        210,
+        260,
+        28
+      ],
+      "geometry": "rect",
+      "text": "畫面 / VISUAL",
+      "textPreview": "畫面 / VISUAL",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#0B1F3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "畫面 / VISUAL"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "畫面 / VISUAL",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#0B1F3A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "畫面 / VISUAL",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#0B1F3A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5kru1gzm",
+      "id": "10",
+      "name": "visual-copy-20",
+      "bbox": [
+        80,
+        248,
+        315,
+        220
+      ],
+      "geometry": "rect",
+      "text": "議長自然光中近景面向鏡頭\n穿插議場傾聽、市民互動\n就職後依實際議長身份錄製",
+      "textPreview": "議長自然光中近景面向鏡頭 | 穿插議場傾聽、市民互動 | 就職後依實際議長身份錄製",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21.51,
+        "typeface": "PingFang TC",
+        "color": "#162536",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "議長自然光中近景面向鏡頭"
+          },
+          {
+            "index": 2,
+            "text": "穿插議場傾聽、市民互動"
+          },
+          {
+            "index": 3,
+            "text": "就職後依實際議長身份錄製"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "議長自然光中近景面向鏡頭",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.16
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "議長自然光中近景面向鏡頭",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.16
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "穿插議場傾聽、市民互動",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.16
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "穿插議場傾聽、市民互動",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.16
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "就職後依實際議長身份錄製",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.16
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "就職後依實際議長身份錄製",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.16
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4jitsbi1",
+      "id": "11",
+      "name": "onscreen-label-20",
+      "bbox": [
+        80,
+        484,
+        260,
+        28
+      ],
+      "geometry": "rect",
+      "text": "字卡 / ON SCREEN",
+      "textPreview": "字卡 / ON SCREEN",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#0B1F3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "字卡 / ON SCREEN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "字卡 / ON SCREEN",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#0B1F3A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "字卡 / ON SCREEN",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#0B1F3A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji9czqhw",
+      "id": "12",
+      "name": "onscreen-copy-20",
+      "bbox": [
+        80,
+        520,
+        315,
+        92
+      ],
+      "geometry": "rect",
+      "text": "第5屆新北市議會｜議長（姓名後補）",
+      "textPreview": "第5屆新北市議會｜議長（姓名後補）",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21.51,
+        "typeface": "PingFang TC",
+        "color": "#E96C57",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第5屆新北市議會｜議長（姓名"
+          },
+          {
+            "index": 2,
+            "text": "後補）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第5屆新北市議會｜議長（姓名後補）",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#E96C57",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第5屆新北市議會｜議長（姓名後補）",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#E96C57",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ih0bql0b",
+      "id": "13",
+      "name": "vo-label-20",
+      "bbox": [
+        462,
+        152,
+        300,
+        28
+      ],
+      "geometry": "rect",
+      "text": "旁白 / VOICE OVER",
+      "textPreview": "旁白 / VOICE OVER",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#0B1F3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旁白 / VOICE OVER"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旁白 / VOICE OVER",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#0B1F3A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旁白 / VOICE OVER",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#0B1F3A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8bu50zy",
+      "id": "14",
+      "name": "vo-rule-20",
+      "bbox": [
+        462,
+        190,
+        728,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#E96C57",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sn2dwvid",
+      "id": "15",
+      "name": "vo-copy-20",
+      "bbox": [
+        462,
+        214,
+        728,
+        318
+      ],
+      "geometry": "rect",
+      "text": "第5屆新北市議會，將以市民的需要為起點，在多元意見中尋找共識，在監督與合作中推動城市前進。讓每一個聲音被聽見、每一項託付被看見；讓議會成為市民可以理解、可以靠近，也可以共同參與的民主殿堂。未來，我們會和所有新北市民一起，為更好的生活努力。",
+      "textPreview": "第5屆新北市議會，將以市民的需要為起點，在多元意見中尋找共識，在監督與合作中推動城市前進。讓每一個聲音被聽見、每一項託付被看見；讓議會成為市民可以理解、可以靠近，也可以共同參與的民主殿堂。未來，我們會和所有新北市民一起，為更好的生活努力。",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "PingFang TC",
+        "color": "#162536",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第5屆新北市議會，將以市民的需要為起點，在多元意見中尋找"
+          },
+          {
+            "index": 2,
+            "text": "共識，在監督與合作中推動城市前進。讓每一個聲音被聽見、每"
+          },
+          {
+            "index": 3,
+            "text": "一項託付被看見；讓議會成為市民可以理解、可以靠近，也可以"
+          },
+          {
+            "index": 4,
+            "text": "共同參與的民主殿堂。未來，我們會和所有新北市民一起，為更"
+          },
+          {
+            "index": 5,
+            "text": "好的生活努力。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第5屆新北市議會，將以市民的需要為起點，在多元意見中尋找共識，在監督與合作中推動城市前進。讓每一個聲音被聽見、每一項託付被看見；讓議會成為市民可以理解、可以靠近，也可以共同參與的民主殿堂。未來，我們會和所有新北市民一起，為更好的生活努力。",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第5屆新北市議會，將以市民的需要為起點，在多元意見中尋找共識，在監督與合作中推動城市前進。讓每一個聲音被聽見、每一項託付被看見；讓議會成為市民可以理解、可以靠近，也可以共同參與的民主殿堂。未來，我們會和所有新北市民一起，為更好的生活努力。",
+              "fontSize": 25,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rm9c3qhs",
+      "id": "16",
+      "name": "sound-bar-20",
+      "bbox": [
+        462,
+        552,
+        728,
+        70
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#F8DDD7",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6l0vul07",
+      "id": "17",
+      "name": "sound-label-20",
+      "bbox": [
+        486,
+        570,
+        70,
+        28
+      ],
+      "geometry": "rect",
+      "text": "聲音",
+      "textPreview": "聲音",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#E96C57",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "聲音"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "聲音",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#E96C57",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "聲音",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#E96C57",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9c7utwze",
+      "id": "18",
+      "name": "sound-copy-20",
+      "bbox": [
+        564,
+        566,
+        600,
+        40
+      ],
+      "geometry": "rect",
+      "text": "以同期原音為主，音樂降低；最後一句後留一秒停頓再進片尾。",
+      "textPreview": "以同期原音為主，音樂降低；最後一句後留一秒停頓再進片尾。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 21,
+        "typeface": "PingFang TC",
+        "color": "#162536",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "以同期原音為主，音樂降低；最後一句後留一秒停頓再進片尾"
+          },
+          {
+            "index": 2,
+            "text": "。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "以同期原音為主，音樂降低；最後一句後留一秒停頓再進片尾。",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "以同期原音為主，音樂降低；最後一句後留一秒停頓再進片尾。",
+              "fontSize": 21,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8rytkri9",
+      "id": "19",
+      "name": "footer-section-20",
+      "bbox": [
+        72,
+        680,
+        250,
+        22
+      ],
+      "geometry": "rect",
+      "text": "第六章｜看見未來",
+      "textPreview": "第六章｜看見未來",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#5C6B78",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第六章｜看見未來"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第六章｜看見未來",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#5C6B78",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第六章｜看見未來",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#5C6B78",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0v2dgbqp",
+      "id": "20",
+      "name": "footer-page-20",
+      "bbox": [
+        1160,
+        680,
+        48,
+        22
+      ],
+      "geometry": "rect",
+      "text": "20",
+      "textPreview": "20",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#5C6B78",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "20"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "20",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#5C6B78",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "20",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#5C6B78",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

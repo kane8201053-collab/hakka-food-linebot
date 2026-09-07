@@ -1,0 +1,1256 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/uwytu5",
+    "id": "uwytu5",
+    "slide": 15,
+    "layoutId": "c5bbf4c3-e4ce-4bf6-bdc2-638dde4f8678",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "3f6652a9-b548-4f3c-b184-a4b59dea0aef",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F6F2E9",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "c5bbf4c3-e4ce-4bf6-bdc2-638dde4f8678",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "3f6652a9-b548-4f3c-b184-a4b59dea0aef",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "3f6652a9-b548-4f3c-b184-a4b59dea0aef",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyd8rih8",
+      "id": "1",
+      "name": "top-band-15",
+      "bbox": [
+        0,
+        0,
+        1280,
+        112
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#0B1F3A",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gz69knyt",
+      "id": "2",
+      "name": "top-accent-15",
+      "bbox": [
+        0,
+        0,
+        18,
+        112
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#18AFA3",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/10fqtsze",
+      "id": "3",
+      "name": "top-section-15",
+      "bbox": [
+        70,
+        24,
+        260,
+        24
+      ],
+      "geometry": "rect",
+      "text": "第四章｜看見議事",
+      "textPreview": "第四章｜看見議事",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#18AFA3",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第四章｜看見議事"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第四章｜看見議事",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#18AFA3",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第四章｜看見議事",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#18AFA3",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/21ormxgz",
+      "id": "4",
+      "name": "top-title-15",
+      "bbox": [
+        70,
+        50,
+        950,
+        50
+      ],
+      "geometry": "rect",
+      "text": "每一條法規、每一筆預算，都牽動真實生活",
+      "textPreview": "每一條法規、每一筆預算，都牽動真實生活",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 42,
+        "typeface": "PingFang TC",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "每一條法規、每一筆預算，都牽動真實生活"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "每一條法規、每一筆預算，都牽動真實生活",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "PingFang TC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "每一條法規、每一筆預算，都牽動真實生活",
+              "fontSize": 42,
+              "typeface": "PingFang TC",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3mx8v2hk",
+      "id": "5",
+      "name": "top-subtitle-15",
+      "bbox": [
+        1015,
+        31,
+        190,
+        52
+      ],
+      "geometry": "rect",
+      "text": "07:35—08:20",
+      "textPreview": "07:35—08:20",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#CAD6E2",
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07:35—08:20"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07:35—08:20",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#CAD6E2",
+            "alignment": "right",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07:35—08:20",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#CAD6E2",
+              "alignment": "right",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/on69o7yp",
+      "id": "6",
+      "name": "left-rail-15",
+      "bbox": [
+        50,
+        138,
+        378,
+        502
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFD8DF",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pofaxcza",
+      "id": "7",
+      "name": "rail-accent-15",
+      "bbox": [
+        50,
+        138,
+        10,
+        502
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#18AFA3",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5krat0f",
+      "id": "8",
+      "name": "scene-index-15",
+      "bbox": [
+        80,
+        160,
+        300,
+        38
+      ],
+      "geometry": "rect",
+      "text": "SC 10",
+      "textPreview": "SC 10",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "PingFang TC",
+        "color": "#18AFA3",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SC 10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SC 10",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "PingFang TC",
+            "color": "#18AFA3",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SC 10",
+              "fontSize": 32,
+              "typeface": "PingFang TC",
+              "color": "#18AFA3",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqt8jyh0",
+      "id": "9",
+      "name": "visual-label-15",
+      "bbox": [
+        80,
+        210,
+        260,
+        28
+      ],
+      "geometry": "rect",
+      "text": "畫面 / VISUAL",
+      "textPreview": "畫面 / VISUAL",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#0B1F3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "畫面 / VISUAL"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "畫面 / VISUAL",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#0B1F3A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "畫面 / VISUAL",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#0B1F3A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z29cvq9w",
+      "id": "10",
+      "name": "visual-copy-15",
+      "bbox": [
+        80,
+        248,
+        315,
+        220
+      ],
+      "geometry": "rect",
+      "text": "法規條文與預算書近拍\n審查標記／數字核對／提案表決\n數字轉化道路、校園、照顧現場",
+      "textPreview": "法規條文與預算書近拍 | 審查標記／數字核對／提案表決 | 數字轉化道路、校園、照顧現場",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21.51,
+        "typeface": "PingFang TC",
+        "color": "#162536",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "法規條文與預算書近拍"
+          },
+          {
+            "index": 2,
+            "text": "審查標記／數字核對／提案表決"
+          },
+          {
+            "index": 3,
+            "text": "數字轉化道路、校園、照顧現場"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "法規條文與預算書近拍",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.16
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "法規條文與預算書近拍",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.16
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "審查標記／數字核對／提案表決",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.16
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "審查標記／數字核對／提案表決",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.16
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "數字轉化道路、校園、照顧現場",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.16
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "數字轉化道路、校園、照顧現場",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.16
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e10b2lsb",
+      "id": "11",
+      "name": "onscreen-label-15",
+      "bbox": [
+        80,
+        484,
+        260,
+        28
+      ],
+      "geometry": "rect",
+      "text": "字卡 / ON SCREEN",
+      "textPreview": "字卡 / ON SCREEN",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#0B1F3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "字卡 / ON SCREEN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "字卡 / ON SCREEN",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#0B1F3A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "字卡 / ON SCREEN",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#0B1F3A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/14rux0r2",
+      "id": "12",
+      "name": "onscreen-copy-15",
+      "bbox": [
+        80,
+        520,
+        315,
+        92
+      ],
+      "geometry": "rect",
+      "text": "把資源用在真正需要的地方",
+      "textPreview": "把資源用在真正需要的地方",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21.51,
+        "typeface": "PingFang TC",
+        "color": "#18AFA3",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "把資源用在真正需要的地方"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "把資源用在真正需要的地方",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "PingFang TC",
+            "color": "#18AFA3",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "把資源用在真正需要的地方",
+              "fontSize": 21.51,
+              "typeface": "PingFang TC",
+              "color": "#18AFA3",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/03it4vah",
+      "id": "13",
+      "name": "vo-label-15",
+      "bbox": [
+        462,
+        152,
+        300,
+        28
+      ],
+      "geometry": "rect",
+      "text": "旁白 / VOICE OVER",
+      "textPreview": "旁白 / VOICE OVER",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#0B1F3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旁白 / VOICE OVER"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旁白 / VOICE OVER",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#0B1F3A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旁白 / VOICE OVER",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#0B1F3A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rypcrq9k",
+      "id": "14",
+      "name": "vo-rule-15",
+      "bbox": [
+        462,
+        190,
+        728,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#18AFA3",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qxgbylsf",
+      "id": "15",
+      "name": "vo-copy-15",
+      "bbox": [
+        462,
+        214,
+        728,
+        318
+      ],
+      "geometry": "rect",
+      "text": "一條自治法規，可能改變城市運作的規則；一筆預算，可能決定一項服務能不能走進社區。議會審議法規、預算與決算，也議決市府及議員提案，接受人民請願。每一次逐條討論、每一次追問數字，目的都不是讓文件更厚，而是讓公共資源更透明、更合理，真正用在需要的地方。",
+      "textPreview": "一條自治法規，可能改變城市運作的規則；一筆預算，可能決定一項服務能不能走進社區。議會審議法規、預算與決算，也議決市府及議員提案，接受人民請願。每一次逐條討論、每一次追問數字，目的都不是讓文件更厚，而是讓公共資源更透明、更合理，真正用在需要的地方。",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "PingFang TC",
+        "color": "#162536",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一條自治法規，可能改變城市運作的規則；一筆預算，可能決定"
+          },
+          {
+            "index": 2,
+            "text": "一項服務能不能走進社區。議會審議法規、預算與決算，也議決"
+          },
+          {
+            "index": 3,
+            "text": "市府及議員提案，接受人民請願。每一次逐條討論、每一次追問"
+          },
+          {
+            "index": 4,
+            "text": "數字，目的都不是讓文件更厚，而是讓公共資源更透明、更合理"
+          },
+          {
+            "index": 5,
+            "text": "，真正用在需要的地方。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一條自治法規，可能改變城市運作的規則；一筆預算，可能決定一項服務能不能走進社區。議會審議法規、預算與決算，也議決市府及議員提案，接受人民請願。每一次逐條討論、每一次追問數字，目的都不是讓文件更厚，而是讓公共資源更透明、更合理，真正用在需要的地方。",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "一條自治法規，可能改變城市運作的規則；一筆預算，可能決定一項服務能不能走進社區。議會審議法規、預算與決算，也議決市府及議員提案，接受人民請願。每一次逐條討論、每一次追問數字，目的都不是讓文件更厚，而是讓公共資源更透明、更合理，真正用在需要的地方。",
+              "fontSize": 25,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0rutgrq",
+      "id": "16",
+      "name": "sound-bar-15",
+      "bbox": [
+        462,
+        552,
+        728,
+        70
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#DDF3EF",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/czyt0ba5",
+      "id": "17",
+      "name": "sound-label-15",
+      "bbox": [
+        486,
+        570,
+        70,
+        28
+      ],
+      "geometry": "rect",
+      "text": "聲音",
+      "textPreview": "聲音",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang TC",
+        "color": "#18AFA3",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "聲音"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "聲音",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang TC",
+            "color": "#18AFA3",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "聲音",
+              "fontSize": 20,
+              "typeface": "PingFang TC",
+              "color": "#18AFA3",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3apcn69o",
+      "id": "18",
+      "name": "sound-copy-15",
+      "bbox": [
+        564,
+        566,
+        600,
+        40
+      ],
+      "geometry": "rect",
+      "text": "翻頁、鍵盤與計算機聲；生活畫面出現時，音樂轉為溫暖。",
+      "textPreview": "翻頁、鍵盤與計算機聲；生活畫面出現時，音樂轉為溫暖。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 21,
+        "typeface": "PingFang TC",
+        "color": "#162536",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "翻頁、鍵盤與計算機聲；生活畫面出現時，音樂轉為溫暖。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "翻頁、鍵盤與計算機聲；生活畫面出現時，音樂轉為溫暖。",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "PingFang TC",
+            "color": "#162536",
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "翻頁、鍵盤與計算機聲；生活畫面出現時，音樂轉為溫暖。",
+              "fontSize": 21,
+              "typeface": "PingFang TC",
+              "color": "#162536",
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29gbu1s3",
+      "id": "19",
+      "name": "footer-section-15",
+      "bbox": [
+        72,
+        680,
+        250,
+        22
+      ],
+      "geometry": "rect",
+      "text": "第四章｜看見議事",
+      "textPreview": "第四章｜看見議事",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#5C6B78",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第四章｜看見議事"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第四章｜看見議事",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#5C6B78",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第四章｜看見議事",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#5C6B78",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65wv61cv",
+      "id": "20",
+      "name": "footer-page-15",
+      "bbox": [
+        1160,
+        680,
+        48,
+        22
+      ],
+      "geometry": "rect",
+      "text": "15",
+      "textPreview": "15",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#5C6B78",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "15",
+          "lineSpacingPercent": 115000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#5C6B78",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.15
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "15",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#5C6B78",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.15
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

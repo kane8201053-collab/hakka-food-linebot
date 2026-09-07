@@ -1,0 +1,2019 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/gny5sjyp",
+    "id": "gny5sjyp",
+    "slide": 16,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8z2h8bq1",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        28.8,
+        480,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "PRODUCTION TEAM",
+      "textPreview": "PRODUCTION TEAM",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PRODUCTION TEAM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PRODUCTION TEAM",
+          "runs": [
+            {
+              "index": 1,
+              "text": "PRODUCTION TEAM",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9kby1g7m",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        333.12,
+        28.8,
+        403.2,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "看見.共好 － 第5屆新北市議會|影片腳本",
+      "textPreview": "看見.共好 － 第5屆新北市議會|影片腳本",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好 － 第5屆新北市議會|影片腳本"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好 － 第5屆新北市議會|影片腳本",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好 － 第5屆新北市議會|影片腳本",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ytkf2h8j",
+      "id": "4",
+      "name": "Text 2",
+      "bbox": [
+        57.6,
+        55.68,
+        678.72,
+        52.8
+      ],
+      "geometry": "rect",
+      "text": "工作團隊與執行分工　|　影片拍攝陣容",
+      "textPreview": "工作團隊與執行分工　|　影片拍攝陣容",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工作團隊與執行分工　|　影片拍攝陣容"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工作團隊與執行分工　|　影片拍攝陣容",
+          "runs": [
+            {
+              "index": 1,
+              "text": "工作團隊與執行分工",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "　|　影片拍攝陣容",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zutgvm94",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1079.04,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "16",
+      "textPreview": "16",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "16",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "16",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kv2h4rqp",
+      "id": "6",
+      "name": "Shape 4",
+      "bbox": [
+        57.6,
+        126.72,
+        5.76,
+        24.96
+      ],
+      "geometry": "rect",
+      "fillColor": "#C9A227"
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwbyxwra",
+      "id": "7",
+      "name": "Text 5",
+      "bbox": [
+        74.88,
+        122.88,
+        403.2,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "團隊拍攝實績影像",
+      "textPreview": "團隊拍攝實績影像",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "團隊拍攝實績影像"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "團隊拍攝實績影像",
+          "runs": [
+            {
+              "index": 1,
+              "text": "團隊拍攝實績影像",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ip4zel83",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        480,
+        122.88,
+        256.32,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "近年大型活動與影片拍攝現場紀錄",
+      "textPreview": "近年大型活動與影片拍攝現場紀錄",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "近年大型活動與影片拍攝現場紀錄"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "近年大型活動與影片拍攝現場紀錄",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "近年大型活動與影片拍攝現場紀錄",
+              "fontSize": 12,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/147ahkjq",
+      "id": "28",
+      "name": "Image 0",
+      "bbox": [
+        57.6,
+        163.2,
+        216.64,
+        162.48
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image59.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 56972
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image59.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 56972
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fm1gzq5o",
+      "id": "10",
+      "name": "Shape 7",
+      "bbox": [
+        57.6,
+        163.2,
+        216.64,
+        162.48
+      ],
+      "geometry": "rect",
+      "lineColor": "#D8DDE7",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/g3y9of25",
+      "id": "29",
+      "name": "Image 1",
+      "bbox": [
+        288.64,
+        163.2,
+        216.64,
+        162.48
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image60.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 46710
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image60.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 46710
+      }
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1ojy10ne",
+      "id": "12",
+      "name": "Shape 8",
+      "bbox": [
+        288.64,
+        163.2,
+        216.64,
+        162.48
+      ],
+      "geometry": "rect",
+      "lineColor": "#D8DDE7",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/69c7yl03",
+      "id": "30",
+      "name": "Image 2",
+      "bbox": [
+        519.68,
+        163.2,
+        216.64,
+        162.48
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image61.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 75266
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image61.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 75266
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqlg3a5k",
+      "id": "14",
+      "name": "Shape 9",
+      "bbox": [
+        519.68,
+        163.2,
+        216.64,
+        162.48
+      ],
+      "geometry": "rect",
+      "lineColor": "#D8DDE7",
+      "lineWidth": 1
+    },
+    {
+      "order": 14,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ra58rqho",
+      "id": "31",
+      "name": "Image 3",
+      "bbox": [
+        57.6,
+        340.08,
+        216.64,
+        162.48
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image62.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 75767
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image62.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 75767
+      }
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ps3y5knq",
+      "id": "16",
+      "name": "Shape 10",
+      "bbox": [
+        57.6,
+        340.08,
+        216.64,
+        162.48
+      ],
+      "geometry": "rect",
+      "lineColor": "#D8DDE7",
+      "lineWidth": 1
+    },
+    {
+      "order": 16,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/sbep0vi9",
+      "id": "32",
+      "name": "Image 4",
+      "bbox": [
+        288.64,
+        340.08,
+        216.64,
+        162.48
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image63.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 60771
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image63.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 60771
+      }
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bulg7u5g",
+      "id": "18",
+      "name": "Shape 11",
+      "bbox": [
+        288.64,
+        340.08,
+        216.64,
+        162.48
+      ],
+      "geometry": "rect",
+      "lineColor": "#D8DDE7",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/tcnqtgze",
+      "id": "33",
+      "name": "Image 5",
+      "bbox": [
+        519.68,
+        340.08,
+        216.64,
+        162.48
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image64.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 48860
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image64.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 48860
+      }
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mpgj6t8j",
+      "id": "20",
+      "name": "Shape 12",
+      "bbox": [
+        519.68,
+        340.08,
+        216.64,
+        162.48
+      ],
+      "geometry": "rect",
+      "lineColor": "#D8DDE7",
+      "lineWidth": 1
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qp0zepo",
+      "id": "21",
+      "name": "Shape 13",
+      "bbox": [
+        57.6,
+        521.76,
+        5.76,
+        24.96
+      ],
+      "geometry": "rect",
+      "fillColor": "#C9A227"
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8by18jq9",
+      "id": "22",
+      "name": "Text 14",
+      "bbox": [
+        74.88,
+        517.92,
+        403.2,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "攝/錄影設備規格",
+      "textPreview": "攝/錄影設備規格",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "攝/錄影設備規格"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "攝/錄影設備規格",
+          "runs": [
+            {
+              "index": 1,
+              "text": "攝/錄影設備規格",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9c7i1o7u",
+      "id": "23",
+      "name": "Text 15",
+      "bbox": [
+        480,
+        517.92,
+        256.32,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "2022年後出廠；檢附型號、年份與原廠規格",
+      "textPreview": "2022年後出廠；檢附型號、年份與原廠規格",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2022年後出廠；檢附型號、年份與原廠規格"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2022年後出廠；檢附型號、年份與原廠規格",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2022年後出廠；檢附型號、年份與原廠規格",
+              "fontSize": 12,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/exwzqdsn",
+      "id": "34",
+      "name": "Table 0",
+      "bbox": [
+        57.6,
+        558.24,
+        678.72,
+        244
+      ],
+      "text": "類別 | 器材名稱 | 規格 | 本案用途\n主攝影機 | Sony ILME-FX3 電影攝影機 | 4K 3,840×2,160 最高 120p;S-Cinetone、10-bit 4:2:2 | 議事紀錄、訪談與情境補拍主機\n副攝影機 | Sony A7S III 專業級錄影相機 | 4K 3,840×2,160 最高 120p;高感光、低雜訊 | 多機同步收錄、夜間與室內場景\n鏡頭組 | Sony FE 16-35mm / 24-70mm / 70-200mm F2.8 GM | 全片幅高感光變焦鏡頭組 | 廣角空間至長焦特寫全涵蓋\n空拍系統 | Skydio X10（美國製） | 4K 3,840×2,880；最大起飛重量2.49kg；360°避障 | 城市空景、選區地景、片尾拉升\n穩定/移動 | 非陸製三軸穩定器、電動滑軌、專業腳架組 | 支援長時間手持與軌道運鏡 | 議事廳環繞、會勘跟拍、文件微距\n燈光/收音 | 非陸製LED燈、無線麥克風、指向性麥克風、多軌錄音機 | 雙系統備援收音 | 訪談布光、議事現場與環境音採集",
+      "textPreview": "類別 | 器材名稱 | 規格 | 本案用途 | 主攝影機 | Sony ILME-FX3 電影攝影機 | 4K 3,840×2,160 最高 120p;S-Cinetone、10-bit 4:2:2 | 議事紀錄、訪談與情境補拍主機 | 副攝影機 | Sony A7S II...",
+      "rows": 7,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            558.24,
+            91.2,
+            34.86
+          ],
+          "text": "類別",
+          "textPreview": "類別",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "類別",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "類別",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            148.8,
+            558.24,
+            225.6,
+            34.86
+          ],
+          "text": "器材名稱",
+          "textPreview": "器材名稱",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "器材名稱",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "器材名稱",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            374.4,
+            558.24,
+            196.8,
+            34.86
+          ],
+          "text": "規格",
+          "textPreview": "規格",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "規格",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "規格",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            571.2,
+            558.24,
+            165.12,
+            34.86
+          ],
+          "text": "本案用途",
+          "textPreview": "本案用途",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本案用途",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本案用途",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            593.1,
+            91.2,
+            34.86
+          ],
+          "text": "主攝影機",
+          "textPreview": "主攝影機",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "主攝影機",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "主攝影機",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#1B2A4A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            148.8,
+            593.1,
+            225.6,
+            34.86
+          ],
+          "text": "Sony ILME-FX3 電影攝影機",
+          "textPreview": "Sony ILME-FX3 電影攝影機",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sony ILME-FX3 電影攝影機",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sony ILME-FX3 電影攝影機",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            374.4,
+            593.1,
+            196.8,
+            34.86
+          ],
+          "text": "4K 3,840×2,160 最高 120p;S-Cinetone、10-bit 4:2:2",
+          "textPreview": "4K 3,840×2,160 最高 120p;S-Cinetone、10-bit 4:2:2",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4K 3,840×2,160 最高 120p;S-Cinetone、10-bit 4:2:2",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4K 3,840×2,160 最高 120p;S-Cinetone、10-bit 4:2:2",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            571.2,
+            593.1,
+            165.12,
+            34.86
+          ],
+          "text": "議事紀錄、訪談與情境補拍主機",
+          "textPreview": "議事紀錄、訪談與情境補拍主機",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "議事紀錄、訪談與情境補拍主機",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "議事紀錄、訪談與情境補拍主機",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            627.95,
+            91.2,
+            34.86
+          ],
+          "text": "副攝影機",
+          "textPreview": "副攝影機",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "副攝影機",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "副攝影機",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#1B2A4A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            148.8,
+            627.95,
+            225.6,
+            34.86
+          ],
+          "text": "Sony A7S III 專業級錄影相機",
+          "textPreview": "Sony A7S III 專業級錄影相機",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sony A7S III 專業級錄影相機",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sony A7S III 專業級錄影相機",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            374.4,
+            627.95,
+            196.8,
+            34.86
+          ],
+          "text": "4K 3,840×2,160 最高 120p;高感光、低雜訊",
+          "textPreview": "4K 3,840×2,160 最高 120p;高感光、低雜訊",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4K 3,840×2,160 最高 120p;高感光、低雜訊",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4K 3,840×2,160 最高 120p;高感光、低雜訊",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            571.2,
+            627.95,
+            165.12,
+            34.86
+          ],
+          "text": "多機同步收錄、夜間與室內場景",
+          "textPreview": "多機同步收錄、夜間與室內場景",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "多機同步收錄、夜間與室內場景",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "多機同步收錄、夜間與室內場景",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.6,
+            662.81,
+            91.2,
+            34.86
+          ],
+          "text": "鏡頭組",
+          "textPreview": "鏡頭組",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "鏡頭組",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "鏡頭組",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#1B2A4A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            148.8,
+            662.81,
+            225.6,
+            34.86
+          ],
+          "text": "Sony FE 16-35mm / 24-70mm / 70-200mm F2.8 GM",
+          "textPreview": "Sony FE 16-35mm / 24-70mm / 70-200mm F2.8 GM",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sony FE 16-35mm / 24-70mm / 70-200mm F2.8 GM",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sony FE 16-35mm / 24-70mm / 70-200mm F2.8 GM",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            374.4,
+            662.81,
+            196.8,
+            34.86
+          ],
+          "text": "全片幅高感光變焦鏡頭組",
+          "textPreview": "全片幅高感光變焦鏡頭組",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "全片幅高感光變焦鏡頭組",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "全片幅高感光變焦鏡頭組",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            571.2,
+            662.81,
+            165.12,
+            34.86
+          ],
+          "text": "廣角空間至長焦特寫全涵蓋",
+          "textPreview": "廣角空間至長焦特寫全涵蓋",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "廣角空間至長焦特寫全涵蓋",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "廣角空間至長焦特寫全涵蓋",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            57.6,
+            697.67,
+            91.2,
+            34.86
+          ],
+          "text": "空拍系統",
+          "textPreview": "空拍系統",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "空拍系統",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "空拍系統",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#1B2A4A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            148.8,
+            697.67,
+            225.6,
+            34.86
+          ],
+          "text": "Skydio X10（美國製）",
+          "textPreview": "Skydio X10（美國製）",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Skydio X10（美國製）",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Skydio X10（美國製）",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            374.4,
+            697.67,
+            196.8,
+            34.86
+          ],
+          "text": "4K 3,840×2,880；最大起飛重量2.49kg；360°避障",
+          "textPreview": "4K 3,840×2,880；最大起飛重量2.49kg；360°避障",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4K 3,840×2,880；最大起飛重量2.49kg；360°避障",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4K 3,840×2,880；最大起飛重量2.49kg；360°避障",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            571.2,
+            697.67,
+            165.12,
+            34.86
+          ],
+          "text": "城市空景、選區地景、片尾拉升",
+          "textPreview": "城市空景、選區地景、片尾拉升",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "城市空景、選區地景、片尾拉升",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "城市空景、選區地景、片尾拉升",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            57.6,
+            732.53,
+            91.2,
+            34.86
+          ],
+          "text": "穩定/移動",
+          "textPreview": "穩定/移動",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "穩定/移動",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "穩定/移動",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#1B2A4A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            148.8,
+            732.53,
+            225.6,
+            34.86
+          ],
+          "text": "非陸製三軸穩定器、電動滑軌、專業腳架組",
+          "textPreview": "非陸製三軸穩定器、電動滑軌、專業腳架組",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "非陸製三軸穩定器、電動滑軌、專業腳架組",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "非陸製三軸穩定器、電動滑軌、專業腳架組",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            374.4,
+            732.53,
+            196.8,
+            34.86
+          ],
+          "text": "支援長時間手持與軌道運鏡",
+          "textPreview": "支援長時間手持與軌道運鏡",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "支援長時間手持與軌道運鏡",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "支援長時間手持與軌道運鏡",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            571.2,
+            732.53,
+            165.12,
+            34.86
+          ],
+          "text": "議事廳環繞、會勘跟拍、文件微距",
+          "textPreview": "議事廳環繞、會勘跟拍、文件微距",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "議事廳環繞、會勘跟拍、文件微距",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "議事廳環繞、會勘跟拍、文件微距",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            57.6,
+            767.38,
+            91.2,
+            34.86
+          ],
+          "text": "燈光/收音",
+          "textPreview": "燈光/收音",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "燈光/收音",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "燈光/收音",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#1B2A4A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            148.8,
+            767.38,
+            225.6,
+            34.86
+          ],
+          "text": "非陸製LED燈、無線麥克風、指向性麥克風、多軌錄音機",
+          "textPreview": "非陸製LED燈、無線麥克風、指向性麥克風、多軌錄音機",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "非陸製LED燈、無線麥克風、指向性麥克風、多軌錄音機",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "非陸製LED燈、無線麥克風、指向性麥克風、多軌錄音機",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            374.4,
+            767.38,
+            196.8,
+            34.86
+          ],
+          "text": "雙系統備援收音",
+          "textPreview": "雙系統備援收音",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "雙系統備援收音",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "雙系統備援收音",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            571.2,
+            767.38,
+            165.12,
+            34.86
+          ],
+          "text": "訪談布光、議事現場與環境音採集",
+          "textPreview": "訪談布光、議事現場與環境音採集",
+          "fillColor": "#F4F6FA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "訪談布光、議事現場與環境音採集",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "訪談布光、議事現場與環境音採集",
+                  "fontSize": 11.33,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zm50veps",
+      "id": "25",
+      "name": "Shape 16",
+      "bbox": [
+        294,
+        824,
+        442,
+        218
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FDF6E0",
+      "lineColor": "#C9A227",
+      "lineWidth": 1
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kne14jqd",
+      "id": "26",
+      "name": "Text 17",
+      "bbox": [
+        315,
+        836,
+        400,
+        28
+      ],
+      "geometry": "rect",
+      "text": "設備合規與交付原則（對應需求書參、五）",
+      "textPreview": "設備合規與交付原則（對應需求書參、五）",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "設備合規與交付原則（對應需求書參、五）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "設備合規與交付原則（對應需求書參、五）",
+          "runs": [
+            {
+              "index": 1,
+              "text": "設備合規與交付原則（對應需求書參、五）",
+              "fontSize": 13.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lo7ixo7y",
+      "id": "27",
+      "name": "Text 18",
+      "bbox": [
+        315,
+        867,
+        400,
+        155
+      ],
+      "geometry": "rect",
+      "text": "• 實際進場器材須為2022年後出廠，逐項檢附品牌、型號、製造年份與原廠規格。\n• 不使用中國大陸廠牌之資通訊產品；穩定、收音、燈光與儲存設備一併列入清冊。\n• 空拍由持專業操作證人員執行，依地點完成登錄、空域／場地申請及責任保險。\n• 全片採4K拍攝與4K主檔輸出，另依簡報室LED完成實機測試與播放版轉製。",
+      "textPreview": "• 實際進場器材須為2022年後出廠，逐項檢附品牌、型號、製造年份與原廠規格。 | • 不使用中國大陸廠牌之資通訊產品；穩定、收音、燈光與儲存設備一併列入清冊。 | • 空拍由持專業操作證人員執行，依地點完成登錄、空域／場地申請及責任保險。 | • 全片採4K拍攝與4K主檔...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 12,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•"
+          },
+          {
+            "index": 2,
+            "text": "實際進場器材須為2022年後出廠，逐項檢附品牌、型號、製造年份與"
+          },
+          {
+            "index": 3,
+            "text": "原廠規格。"
+          },
+          {
+            "index": 4,
+            "text": "•"
+          },
+          {
+            "index": 5,
+            "text": "不使用中國大陸廠牌之資通訊產品；穩定、收音、燈光與儲存設備一"
+          },
+          {
+            "index": 6,
+            "text": "併列入清冊。"
+          },
+          {
+            "index": 7,
+            "text": "•"
+          },
+          {
+            "index": 8,
+            "text": "空拍由持專業操作證人員執行，依地點完成登錄、空域／場地申請及"
+          },
+          {
+            "index": 9,
+            "text": "責任保險。"
+          },
+          {
+            "index": 10,
+            "text": "•"
+          },
+          {
+            "index": 11,
+            "text": "全片採4K拍攝與4K主檔輸出，另依簡報室LED完成實機測試與播放版"
+          },
+          {
+            "index": 12,
+            "text": "轉製。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• 實際進場器材須為2022年後出廠，逐項檢附品牌、型號、製造年份與原廠規格。\n• 不使用中國大陸廠牌之資通訊產品；穩定、收音、燈光與儲存設備一併列入清冊。\n• 空拍由持專業操作證人員執行，依地點完成登錄、空域／場地申請及責任保險。\n• 全片採4K拍攝與4K主檔輸出，另依簡報室LED完成實機測試與播放版轉製。",
+          "lineSpacingPercent": 125000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 實際進場器材須為2022年後出廠，逐項檢附品牌、型號、製造年份與原廠規格。\n• 不使用中國大陸廠牌之資通訊產品；穩定、收音、燈光與儲存設備一併列入清冊。\n• 空拍由持專業操作證人員執行，依地點完成登錄、空域／場地申請及責任保險。\n• 全片採4K拍攝與4K主檔輸出，另依簡報室LED完成實機測試與播放版轉製。",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 27,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/4nupwbix",
+      "id": "36",
+      "name": "neutral-professional-drone",
+      "bbox": [
+        57.6,
+        850,
+        220,
+        146.67
+      ],
+      "alt": "Skydio X10 professional drone in flight",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "uri": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/fix-final-deck-20260903/skydio-x10-crop.png"
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "uri": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/fix-final-deck-20260903/skydio-x10-crop.png"
+      }
+    }
+  ],
+  "composeRuns": []
+}

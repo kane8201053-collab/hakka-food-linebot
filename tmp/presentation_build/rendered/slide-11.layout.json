@@ -1,0 +1,1459 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/af60k0",
+    "id": "af60k0",
+    "slide": 11,
+    "layoutId": "ede0ace0-d57a-491a-8b05-db160473e468",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7F3EA",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1123
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ede0ace0-d57a-491a-8b05-db160473e468",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8z2xkz69",
+      "id": "1",
+      "name": "scene-kicker-11",
+      "bbox": [
+        48,
+        36,
+        360,
+        28
+      ],
+      "geometry": "rect",
+      "text": "分鏡腳本｜第二章｜看見每一種生活",
+      "textPreview": "分鏡腳本｜第二章｜看見每一種生活",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "PingFang TC",
+        "color": "#D9962C",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "分鏡腳本｜第二章｜看見每一種生活"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "分鏡腳本｜第二章｜看見每一種生活",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#D9962C",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "分鏡腳本｜第二章｜看見每一種生活",
+              "fontSize": 14,
+              "typeface": "PingFang TC",
+              "color": "#D9962C",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nytwru54",
+      "id": "2",
+      "name": "scene-title-11",
+      "bbox": [
+        48,
+        70,
+        698,
+        60
+      ],
+      "geometry": "rect",
+      "text": "看見地理，也看見跨界文化",
+      "textPreview": "看見地理，也看見跨界文化",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見地理，也看見跨界文化"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見地理，也看見跨界文化",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見地理，也看見跨界文化",
+              "fontSize": 28,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mx0fipoj",
+      "id": "3",
+      "name": "scene-band-11",
+      "bbox": [
+        48,
+        148,
+        698,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "#F4E7C9",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwrepkny",
+      "id": "4",
+      "name": "scene-band-label-11",
+      "bbox": [
+        62,
+        152,
+        380,
+        40
+      ],
+      "geometry": "rect",
+      "text": "選區群像 C｜第 9 至第 13 選舉區",
+      "textPreview": "選區群像 C｜第 9 至第 13 選舉區",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "PingFang TC",
+        "color": "#D9962C",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "選區群像 C｜第 9 至第 13 選舉區"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "選區群像 C｜第 9 至第 13 選舉區",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#D9962C",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "選區群像 C｜第 9 至第 13 選舉區",
+              "fontSize": 14,
+              "typeface": "PingFang TC",
+              "color": "#D9962C",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0vixgz6d",
+      "id": "5",
+      "name": "scene-duration-11",
+      "bbox": [
+        454,
+        152,
+        276,
+        40
+      ],
+      "geometry": "rect",
+      "text": "04:05–04:55｜50 秒｜累計 04:55",
+      "textPreview": "04:05–04:55｜50 秒｜累計 04:55",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04:05–04:55｜50 秒｜累計 04:55"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04:05–04:55｜50 秒｜累計 04:55",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04:05–04:55｜50 秒｜累計 04:55",
+              "fontSize": 12,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zu9wnu5s",
+      "id": "6",
+      "name": "col-head-11-0",
+      "bbox": [
+        48,
+        208,
+        225,
+        38
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/et0fepo7",
+      "id": "7",
+      "name": "col-head-text-11-0",
+      "bbox": [
+        52,
+        210,
+        217,
+        34
+      ],
+      "geometry": "rect",
+      "text": "畫面設計",
+      "textPreview": "畫面設計",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "畫面設計"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "畫面設計",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "畫面設計",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5svy1on2",
+      "id": "8",
+      "name": "col-body-11-0",
+      "bbox": [
+        48,
+        246,
+        225,
+        810
+      ],
+      "geometry": "rect",
+      "fillColor": "#FCFAF5",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/krmxsj6h",
+      "id": "9",
+      "name": "col-head-11-1",
+      "bbox": [
+        273,
+        208,
+        184,
+        38
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qp0vupkr",
+      "id": "10",
+      "name": "col-head-text-11-1",
+      "bbox": [
+        277,
+        210,
+        176,
+        34
+      ],
+      "geometry": "rect",
+      "text": "剪輯／聲音",
+      "textPreview": "剪輯／聲音",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "剪輯／聲音"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "剪輯／聲音",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "剪輯／聲音",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqtc3ulc",
+      "id": "11",
+      "name": "col-body-11-1",
+      "bbox": [
+        273,
+        246,
+        184,
+        810
+      ],
+      "geometry": "rect",
+      "fillColor": "#FCFAF5",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sr2dwf2x",
+      "id": "12",
+      "name": "col-head-11-2",
+      "bbox": [
+        457,
+        208,
+        289,
+        38
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsbu5k3i",
+      "id": "13",
+      "name": "col-head-text-11-2",
+      "bbox": [
+        461,
+        210,
+        281,
+        34
+      ],
+      "geometry": "rect",
+      "text": "旁白／字卡",
+      "textPreview": "旁白／字卡",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旁白／字卡"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旁白／字卡",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旁白／字卡",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il0bq5kv",
+      "id": "14",
+      "name": "col-body-11-2",
+      "bbox": [
+        457,
+        246,
+        289,
+        810
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m9czal0",
+      "id": "15",
+      "name": "visual-11",
+      "bbox": [
+        60,
+        260,
+        201,
+        782
+      ],
+      "geometry": "rect",
+      "text": "第 9 選區｜新店、深坑、石碇、坪林、烏來：溪谷、茶鄉、山路、部落\n\n第 10 選區｜平溪、瑞芳、雙溪、貢寮：山城、鐵道、海岸\n\n第 11 選區｜金山、萬里、汐止：漁港、溫泉、科技與通勤\n\n第 12 選區｜平地原住民：跨行政區的族人生活與文化\n\n第 13 選區｜山地原住民：部落、語言、工藝、土地連結",
+      "textPreview": "第 9 選區｜新店、深坑、石碇、坪林、烏來：溪谷、茶鄉、山路、部落 |  | 第 10 選區｜平溪、瑞芳、雙溪、貢寮：山城、鐵道、海岸 |  | 第 11 選區｜金山、萬里、汐止：漁港、溫泉、科技與通勤 |  | 第 12 選區｜平地原住民：跨行政區的族人生活與文化 |  ...",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 22,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第 9"
+          },
+          {
+            "index": 2,
+            "text": "選區｜新店、深坑、石碇"
+          },
+          {
+            "index": 3,
+            "text": "、坪林、烏來：溪谷、茶"
+          },
+          {
+            "index": 4,
+            "text": "鄉、山路、部落"
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "第 10"
+          },
+          {
+            "index": 7,
+            "text": "選區｜平溪、瑞芳、雙溪"
+          },
+          {
+            "index": 8,
+            "text": "、貢寮：山城、鐵道、海"
+          },
+          {
+            "index": 9,
+            "text": "岸"
+          },
+          {
+            "index": 10,
+            "text": ""
+          },
+          {
+            "index": 11,
+            "text": "第 11"
+          },
+          {
+            "index": 12,
+            "text": "選區｜金山、萬里、汐止"
+          },
+          {
+            "index": 13,
+            "text": "：漁港、溫泉、科技與通"
+          },
+          {
+            "index": 14,
+            "text": "勤"
+          },
+          {
+            "index": 15,
+            "text": ""
+          },
+          {
+            "index": 16,
+            "text": "第 12"
+          },
+          {
+            "index": 17,
+            "text": "選區｜平地原住民：跨行"
+          },
+          {
+            "index": 18,
+            "text": "政區的族人生活與文化"
+          },
+          {
+            "index": 19,
+            "text": ""
+          },
+          {
+            "index": 20,
+            "text": "第 13"
+          },
+          {
+            "index": 21,
+            "text": "選區｜山地原住民：部落"
+          },
+          {
+            "index": 22,
+            "text": "、語言、工藝、土地連結"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第 9 選區｜新店、深坑、石碇、坪林、烏來：溪谷、茶鄉、山路、部落",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第 9 選區｜新店、深坑、石碇、坪林、烏來：溪谷、茶鄉、山路、部落",
+              "fontSize": 17,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "第 10 選區｜平溪、瑞芳、雙溪、貢寮：山城、鐵道、海岸",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第 10 選區｜平溪、瑞芳、雙溪、貢寮：山城、鐵道、海岸",
+              "fontSize": 17,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "第 11 選區｜金山、萬里、汐止：漁港、溫泉、科技與通勤",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第 11 選區｜金山、萬里、汐止：漁港、溫泉、科技與通勤",
+              "fontSize": 17,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "第 12 選區｜平地原住民：跨行政區的族人生活與文化",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第 12 選區｜平地原住民：跨行政區的族人生活與文化",
+              "fontSize": 17,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "第 13 選區｜山地原住民：部落、語言、工藝、土地連結",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第 13 選區｜山地原住民：部落、語言、工藝、土地連結",
+              "fontSize": 17,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nidsf2l",
+      "id": "16",
+      "name": "audio-11",
+      "bbox": [
+        285,
+        260,
+        160,
+        782
+      ],
+      "geometry": "rect",
+      "text": "溪流與鐵道聲串起山海\n\n進入原住民選區時，採現場族語問候或經授權歌聲\n\n音樂不挪用儀式性歌謠；文化素材先取得族群同意",
+      "textPreview": "溪流與鐵道聲串起山海 |  | 進入原住民選區時，採現場族語問候或經授權歌聲 |  | 音樂不挪用儀式性歌謠；文化素材先取得族群同意",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#60727A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 10,
+        "lines": [
+          {
+            "index": 1,
+            "text": "溪流與鐵道聲串起山"
+          },
+          {
+            "index": 2,
+            "text": "海"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "進入原住民選區時，"
+          },
+          {
+            "index": 5,
+            "text": "採現場族語問候或經"
+          },
+          {
+            "index": 6,
+            "text": "授權歌聲"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "音樂不挪用儀式性歌"
+          },
+          {
+            "index": 9,
+            "text": "謠；文化素材先取得"
+          },
+          {
+            "index": 10,
+            "text": "族群同意"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "溪流與鐵道聲串起山海",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "溪流與鐵道聲串起山海",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "進入原住民選區時，採現場族語問候或經授權歌聲",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "進入原住民選區時，採現場族語問候或經授權歌聲",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "音樂不挪用儀式性歌謠；文化素材先取得族群同意",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "音樂不挪用儀式性歌謠；文化素材先取得族群同意",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5oru1k36",
+      "id": "17",
+      "name": "narration-11",
+      "bbox": [
+        471,
+        258,
+        261,
+        786
+      ],
+      "geometry": "rect",
+      "text": "【旁白】\n新店、深坑、石碇、坪林與烏來，沿著溪谷連結都會、茶鄉與部落；平溪、瑞芳、雙溪、貢寮，讓山城、鐵道與海岸彼此相望；金山、萬里、汐止，則把海洋、溫泉、科技與通勤生活連成一線。\n\n還有跨越行政邊界的平地與山地原住民選區，讓族人的生活、語言與文化，在城市裡持續被看見。\n\n十三個選區，六十八席民意；每一席，都連著一群人的現在與未來。\n【字卡】\n第 9–13 選舉區｜山海．城鄉．族群．文化傳承",
+      "textPreview": "【旁白】 | 新店、深坑、石碇、坪林與烏來，沿著溪谷連結都會、茶鄉與部落；平溪、瑞芳、雙溪、貢寮，讓山城、鐵道與海岸彼此相望；金山、萬里、汐止，則把海洋、溫泉、科技與通勤生活連成一線。 |  | 還有跨越行政邊界的平地與山地原住民選區，讓族人的生活、語言與文化，在城市裡持續...",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 21,
+        "lines": [
+          {
+            "index": 1,
+            "text": "【旁白】"
+          },
+          {
+            "index": 2,
+            "text": "新店、深坑、石碇、坪林與烏來"
+          },
+          {
+            "index": 3,
+            "text": "，沿著溪谷連結都會、茶鄉與部"
+          },
+          {
+            "index": 4,
+            "text": "落；平溪、瑞芳、雙溪、貢寮，"
+          },
+          {
+            "index": 5,
+            "text": "讓山城、鐵道與海岸彼此相望；"
+          },
+          {
+            "index": 6,
+            "text": "金山、萬里、汐止，則把海洋、"
+          },
+          {
+            "index": 7,
+            "text": "溫泉、科技與通勤生活連成一線"
+          },
+          {
+            "index": 8,
+            "text": "。"
+          },
+          {
+            "index": 9,
+            "text": ""
+          },
+          {
+            "index": 10,
+            "text": "還有跨越行政邊界的平地與山地"
+          },
+          {
+            "index": 11,
+            "text": "原住民選區，讓族人的生活、語"
+          },
+          {
+            "index": 12,
+            "text": "言與文化，在城市裡持續被看見"
+          },
+          {
+            "index": 13,
+            "text": "。"
+          },
+          {
+            "index": 14,
+            "text": ""
+          },
+          {
+            "index": 15,
+            "text": "十三個選區，六十八席民意；每"
+          },
+          {
+            "index": 16,
+            "text": "一席，都連著一群人的現在與未"
+          },
+          {
+            "index": 17,
+            "text": "來。"
+          },
+          {
+            "index": 18,
+            "text": "【字卡】"
+          },
+          {
+            "index": 19,
+            "text": "第 9–13"
+          },
+          {
+            "index": 20,
+            "text": "選舉區｜山海．城鄉．族群．文"
+          },
+          {
+            "index": 21,
+            "text": "化傳承"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "【旁白】\n新店、深坑、石碇、坪林與烏來，沿著溪谷連結都會、茶鄉與部落；平溪、瑞芳、雙溪、貢寮，讓山城、鐵道與海岸彼此相望；金山、萬里、汐止，則把海洋、溫泉、科技與通勤生活連成一線。\n\n還有跨越行政邊界的平地與山地原住民選區，讓族人的生活、語言與文化，在城市裡持續被看見。\n\n十三個選區，六十八席民意；每一席，都連著一群人的現在與未來。",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.24
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "【旁白】\n",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.24
+            },
+            {
+              "index": 2,
+              "text": "新店、深坑、石碇、坪林與烏來，沿著溪谷連結都會、茶鄉與部落；平溪、瑞芳、雙溪、貢寮，讓山城、鐵道與海岸彼此相望；金山、萬里、汐止，則把海洋、溫泉、科技與通勤生活連成一線。\n\n還有跨越行政邊界的平地與山地原住民選區，讓族人的生活、語言與文化，在城市裡持續被看見。\n\n十三個選區，六十八席民意；每一席，都連著一群人的現在與未來。",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.24
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "【字卡】\n第 9–13 選舉區｜山海．城鄉．族群．文化傳承",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.24
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "【字卡】\n",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.24
+            },
+            {
+              "index": 2,
+              "text": "第 9–13 選舉區｜山海．城鄉．族群．文化傳承",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.24
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2h4v29kz",
+      "id": "18",
+      "name": "footer-line-11",
+      "bbox": [
+        48,
+        1075,
+        698,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nidcbelk",
+      "id": "19",
+      "name": "footer-label-11",
+      "bbox": [
+        48,
+        1080,
+        570,
+        26
+      ],
+      "geometry": "rect",
+      "text": "看見.共好｜第二章｜看見每一種生活｜04:05–04:55",
+      "textPreview": "看見.共好｜第二章｜看見每一種生活｜04:05–04:55",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "PingFang TC",
+        "color": "#60727A",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好｜第二章｜看見每一種生活｜04:05–04:55"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好｜第二章｜看見每一種生活｜04:05–04:55",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好｜第二章｜看見每一種生活｜04:05–04:55",
+              "fontSize": 12,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j25sn61w",
+      "id": "20",
+      "name": "footer-page-11",
+      "bbox": [
+        686,
+        1080,
+        60,
+        26
+      ],
+      "geometry": "rect",
+      "text": "11",
+      "textPreview": "11",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "11"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "11",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "11",
+              "fontSize": 13,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

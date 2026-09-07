@@ -1,0 +1,3002 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/hwbqtkby",
+    "id": "hwbqtkby",
+    "slide": 2,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b29kza94",
+      "id": "4",
+      "name": "Text 2",
+      "bbox": [
+        57.6,
+        55.68,
+        678.72,
+        52.8
+      ],
+      "geometry": "rect",
+      "text": "分鏡腳本對照總表（總長度約11分10秒）",
+      "textPreview": "分鏡腳本對照總表（總長度約11分10秒）",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "分鏡腳本對照總表（總長度約11分10秒）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "分鏡腳本對照總表（總長度約11分10秒）",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "分鏡腳本對照總表（總長度約11分10秒）",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/j65krqps",
+      "id": "10",
+      "name": "Table 0",
+      "bbox": [
+        57.6,
+        102.26,
+        678.72,
+        661.56
+      ],
+      "text": "編號 | 章節 / 段落 | 時間碼 | 長度 | 累計\n第一章 看見城市|先看見生活,再看見機關\n1-1 | 片頭|城市醒來,四百萬雙眼睛 | 00:00–01:00 | 60 秒 | 01:00\n1-2 | 議會沿革|讓歷史成為民意的來路 | 01:00–01:50 | 50 秒 | 01:50\n1-3 | 就職與片名|從選票走進議事殿堂 | 01:50–02:35 | 45 秒 | 02:35\n第二章 看見每一種生活|13 選舉區、68 席民意\n2-1 | 選區群像 A|第 1–4 選舉區(海岸・成長・新舊交會・河岸) | 02:35–03:20 | 45 秒 | 03:20\n2-2 | 選區群像 B|第 5–8 選舉區(核心・密度・公共空間・文化產業) | 03:20–04:05 | 45 秒 | 04:05\n2-3 | 選區群像 C|第 9–13 選舉區(山海・城鄉・族群・文化傳承) | 04:05–04:55 | 50 秒 | 04:55\n第三章\n看見民意如何成為行動｜跟著一件市民關切走進議會\n3-1 | 轉折|三個日常問題,是行動的起點 | 04:55–05:15 | 20 秒 | 05:15\n3-2 | 民意轉化 A｜受理 → 查證 → 現勘 → 定義問題 → 形成處理路徑 | 05:15–06:05 | 50 秒 | 06:05\n3-3 | 民意轉化 B｜質詢／提案／協調 → 必要時審查與議決 → 追蹤 | 06:05–06:55 | 50 秒 | 06:55\n第四章 看見議會如何運作|制度與團隊\n4-1 | 議會職權|議決・審查・質詢・請願・監督 | 06:55–08:15 | 80 秒 | 08:15\n4-2 | 行政團隊|會史館與簡報室,保存民主紀錄 | 08:15–09:10 | 55 秒 | 09:10\n第五章 走向共好|承諾與回望\n5-1 | 議長期許|讓每一份託付持續被看見 | 09:10–10:15 | 65 秒 | 10:15\n5-2 | 片尾|回收清晨,回到片名 | 10:15–11:10 | 55 秒 | 11:10",
+      "textPreview": "編號 | 章節 / 段落 | 時間碼 | 長度 | 累計 | 第一章 看見城市|先看見生活,再看見機關 | 1-1 | 片頭|城市醒來,四百萬雙眼睛 | 00:00–01:00 | 60 秒 | 01:00 | 1-2 | 議會沿革|讓歷史成為民意的來路 | 01:00–0...",
+      "rows": 19,
+      "cols": 5,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            102.26,
+            59.52,
+            32.74
+          ],
+          "text": "編號",
+          "textPreview": "編號",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "編號",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "編號",
+                  "fontSize": 18.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            117.12,
+            102.26,
+            340.8,
+            32.74
+          ],
+          "text": "章節 / 段落",
+          "textPreview": "章節 / 段落",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "章節 / 段落",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "章節 / 段落",
+                  "fontSize": 18.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            457.92,
+            102.26,
+            110.4,
+            32.74
+          ],
+          "text": "時間碼",
+          "textPreview": "時間碼",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "時間碼",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "時間碼",
+                  "fontSize": 18.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            568.32,
+            102.26,
+            81.6,
+            32.74
+          ],
+          "text": "長度",
+          "textPreview": "長度",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "長度",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "長度",
+                  "fontSize": 18.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            649.92,
+            102.26,
+            86.4,
+            32.74
+          ],
+          "text": "累計",
+          "textPreview": "累計",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "累計",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "累計",
+                  "fontSize": 18.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            135,
+            59.52,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            117.12,
+            135,
+            340.8,
+            40.64
+          ],
+          "text": "第一章 看見城市|先看見生活,再看見機關",
+          "textPreview": "第一章 看見城市|先看見生活,再看見機關",
+          "fillColor": "#233154",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第一章 看見城市|先看見生活,再看見機關",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第一章 看見城市|先看見生活,再看見機關",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#C9A227"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            457.92,
+            135,
+            110.4,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            568.32,
+            135,
+            81.6,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            649.92,
+            135,
+            86.4,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            175.64,
+            59.52,
+            32.74
+          ],
+          "text": "1-1",
+          "textPreview": "1-1",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1-1",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1-1",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            117.12,
+            175.64,
+            340.8,
+            32.74
+          ],
+          "text": "片頭|城市醒來,四百萬雙眼睛",
+          "textPreview": "片頭|城市醒來,四百萬雙眼睛",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "片頭|城市醒來,四百萬雙眼睛",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "片頭|城市醒來,四百萬雙眼睛",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            457.92,
+            175.64,
+            110.4,
+            32.74
+          ],
+          "text": "00:00–01:00",
+          "textPreview": "00:00–01:00",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "00:00–01:00",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "00:00–01:00",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            568.32,
+            175.64,
+            81.6,
+            32.74
+          ],
+          "text": "60 秒",
+          "textPreview": "60 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "60 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "60 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            649.92,
+            175.64,
+            86.4,
+            32.74
+          ],
+          "text": "01:00",
+          "textPreview": "01:00",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "01:00",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "01:00",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.6,
+            208.38,
+            59.52,
+            32.74
+          ],
+          "text": "1-2",
+          "textPreview": "1-2",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1-2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1-2",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            117.12,
+            208.38,
+            340.8,
+            32.74
+          ],
+          "text": "議會沿革|讓歷史成為民意的來路",
+          "textPreview": "議會沿革|讓歷史成為民意的來路",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "議會沿革|讓歷史成為民意的來路",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "議會沿革|讓歷史成為民意的來路",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            457.92,
+            208.38,
+            110.4,
+            32.74
+          ],
+          "text": "01:00–01:50",
+          "textPreview": "01:00–01:50",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "01:00–01:50",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "01:00–01:50",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            568.32,
+            208.38,
+            81.6,
+            32.74
+          ],
+          "text": "50 秒",
+          "textPreview": "50 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "50 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "50 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            649.92,
+            208.38,
+            86.4,
+            32.74
+          ],
+          "text": "01:50",
+          "textPreview": "01:50",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "01:50",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "01:50",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            57.6,
+            241.12,
+            59.52,
+            32.74
+          ],
+          "text": "1-3",
+          "textPreview": "1-3",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1-3",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1-3",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            117.12,
+            241.12,
+            340.8,
+            32.74
+          ],
+          "text": "就職與片名|從選票走進議事殿堂",
+          "textPreview": "就職與片名|從選票走進議事殿堂",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "就職與片名|從選票走進議事殿堂",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "就職與片名|從選票走進議事殿堂",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            457.92,
+            241.12,
+            110.4,
+            32.74
+          ],
+          "text": "01:50–02:35",
+          "textPreview": "01:50–02:35",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "01:50–02:35",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "01:50–02:35",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            568.32,
+            241.12,
+            81.6,
+            32.74
+          ],
+          "text": "45 秒",
+          "textPreview": "45 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "45 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "45 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            649.92,
+            241.12,
+            86.4,
+            32.74
+          ],
+          "text": "02:35",
+          "textPreview": "02:35",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "02:35",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "02:35",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            57.6,
+            273.86,
+            59.52,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 27,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            117.12,
+            273.86,
+            340.8,
+            40.64
+          ],
+          "text": "第二章 看見每一種生活|13 選舉區、68 席民意",
+          "textPreview": "第二章 看見每一種生活|13 選舉區、68 席民意",
+          "fillColor": "#233154",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第二章 看見每一種生活|13 選舉區、68 席民意",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二章 看見每一種生活|13 選舉區、68 席民意",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#C9A227"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            457.92,
+            273.86,
+            110.4,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 29,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            568.32,
+            273.86,
+            81.6,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 30,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            649.92,
+            273.86,
+            86.4,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 31,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            57.6,
+            314.5,
+            59.52,
+            32.74
+          ],
+          "text": "2-1",
+          "textPreview": "2-1",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2-1",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2-1",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            117.12,
+            314.5,
+            340.8,
+            32.74
+          ],
+          "text": "選區群像 A|第 1–4 選舉區(海岸・成長・新舊交會・河岸)",
+          "textPreview": "選區群像 A|第 1–4 選舉區(海岸・成長・新舊交會・河岸)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "選區群像 A|第 1–4 選舉區(海岸・成長・新舊交會・河岸)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "選區群像 A|第 1–4 選舉區(海岸・成長・新舊交會・河岸)",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            457.92,
+            314.5,
+            110.4,
+            32.74
+          ],
+          "text": "02:35–03:20",
+          "textPreview": "02:35–03:20",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "02:35–03:20",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "02:35–03:20",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            568.32,
+            314.5,
+            81.6,
+            32.74
+          ],
+          "text": "45 秒",
+          "textPreview": "45 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "45 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "45 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 7,
+          "column": 5,
+          "bbox": [
+            649.92,
+            314.5,
+            86.4,
+            32.74
+          ],
+          "text": "03:20",
+          "textPreview": "03:20",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "03:20",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "03:20",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            57.6,
+            347.24,
+            59.52,
+            32.74
+          ],
+          "text": "2-2",
+          "textPreview": "2-2",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2-2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2-2",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 37,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            117.12,
+            347.24,
+            340.8,
+            32.74
+          ],
+          "text": "選區群像 B|第 5–8 選舉區(核心・密度・公共空間・文化產業)",
+          "textPreview": "選區群像 B|第 5–8 選舉區(核心・密度・公共空間・文化產業)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "選區群像 B|第 5–8 選舉區(核心・密度・公共空間・文化產業)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "選區群像 B|第 5–8 選舉區(核心・密度・公共空間・文化產業)",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 38,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            457.92,
+            347.24,
+            110.4,
+            32.74
+          ],
+          "text": "03:20–04:05",
+          "textPreview": "03:20–04:05",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "03:20–04:05",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "03:20–04:05",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 39,
+          "row": 8,
+          "column": 4,
+          "bbox": [
+            568.32,
+            347.24,
+            81.6,
+            32.74
+          ],
+          "text": "45 秒",
+          "textPreview": "45 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "45 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "45 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 40,
+          "row": 8,
+          "column": 5,
+          "bbox": [
+            649.92,
+            347.24,
+            86.4,
+            32.74
+          ],
+          "text": "04:05",
+          "textPreview": "04:05",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "04:05",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "04:05",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 41,
+          "row": 9,
+          "column": 1,
+          "bbox": [
+            57.6,
+            379.98,
+            59.52,
+            32.74
+          ],
+          "text": "2-3",
+          "textPreview": "2-3",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2-3",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2-3",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 42,
+          "row": 9,
+          "column": 2,
+          "bbox": [
+            117.12,
+            379.98,
+            340.8,
+            32.74
+          ],
+          "text": "選區群像 C|第 9–13 選舉區(山海・城鄉・族群・文化傳承)",
+          "textPreview": "選區群像 C|第 9–13 選舉區(山海・城鄉・族群・文化傳承)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "選區群像 C|第 9–13 選舉區(山海・城鄉・族群・文化傳承)",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "選區群像 C|第 9–13 選舉區(山海・城鄉・族群・文化傳承)",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 43,
+          "row": 9,
+          "column": 3,
+          "bbox": [
+            457.92,
+            379.98,
+            110.4,
+            32.74
+          ],
+          "text": "04:05–04:55",
+          "textPreview": "04:05–04:55",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "04:05–04:55",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "04:05–04:55",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 44,
+          "row": 9,
+          "column": 4,
+          "bbox": [
+            568.32,
+            379.98,
+            81.6,
+            32.74
+          ],
+          "text": "50 秒",
+          "textPreview": "50 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "50 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "50 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 45,
+          "row": 9,
+          "column": 5,
+          "bbox": [
+            649.92,
+            379.98,
+            86.4,
+            32.74
+          ],
+          "text": "04:55",
+          "textPreview": "04:55",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "04:55",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "04:55",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 46,
+          "row": 10,
+          "column": 1,
+          "bbox": [
+            57.6,
+            412.72,
+            59.52,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 47,
+          "row": 10,
+          "column": 2,
+          "bbox": [
+            117.12,
+            412.72,
+            340.8,
+            40.64
+          ],
+          "text": "第三章\n看見民意如何成為行動｜跟著一件市民關切走進議會",
+          "textPreview": "第三章 | 看見民意如何成為行動｜跟著一件市民關切走進議會",
+          "fillColor": "#233154",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第三章",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三章",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#C9A227"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "看見民意如何成為行動｜跟著一件市民關切走進議會",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "看見民意如何成為行動｜跟著一件市民關切走進議會",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#C9A227"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 48,
+          "row": 10,
+          "column": 3,
+          "bbox": [
+            457.92,
+            412.72,
+            110.4,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 49,
+          "row": 10,
+          "column": 4,
+          "bbox": [
+            568.32,
+            412.72,
+            81.6,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 50,
+          "row": 10,
+          "column": 5,
+          "bbox": [
+            649.92,
+            412.72,
+            86.4,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 51,
+          "row": 11,
+          "column": 1,
+          "bbox": [
+            57.6,
+            453.36,
+            59.52,
+            32.74
+          ],
+          "text": "3-1",
+          "textPreview": "3-1",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3-1",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3-1",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 52,
+          "row": 11,
+          "column": 2,
+          "bbox": [
+            117.12,
+            453.36,
+            340.8,
+            32.74
+          ],
+          "text": "轉折|三個日常問題,是行動的起點",
+          "textPreview": "轉折|三個日常問題,是行動的起點",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "轉折|三個日常問題,是行動的起點",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "轉折|三個日常問題,是行動的起點",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 53,
+          "row": 11,
+          "column": 3,
+          "bbox": [
+            457.92,
+            453.36,
+            110.4,
+            32.74
+          ],
+          "text": "04:55–05:15",
+          "textPreview": "04:55–05:15",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "04:55–05:15",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "04:55–05:15",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 54,
+          "row": 11,
+          "column": 4,
+          "bbox": [
+            568.32,
+            453.36,
+            81.6,
+            32.74
+          ],
+          "text": "20 秒",
+          "textPreview": "20 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "20 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "20 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 55,
+          "row": 11,
+          "column": 5,
+          "bbox": [
+            649.92,
+            453.36,
+            86.4,
+            32.74
+          ],
+          "text": "05:15",
+          "textPreview": "05:15",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "05:15",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "05:15",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 56,
+          "row": 12,
+          "column": 1,
+          "bbox": [
+            57.6,
+            486.1,
+            59.52,
+            32.74
+          ],
+          "text": "3-2",
+          "textPreview": "3-2",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3-2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3-2",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 57,
+          "row": 12,
+          "column": 2,
+          "bbox": [
+            117.12,
+            486.1,
+            340.8,
+            32.74
+          ],
+          "text": "民意轉化 A｜受理 → 查證 → 現勘 → 定義問題 → 形成處理路徑",
+          "textPreview": "民意轉化 A｜受理 → 查證 → 現勘 → 定義問題 → 形成處理路徑",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "民意轉化 A｜受理 → 查證 → 現勘 → 定義問題 → 形成處理路徑",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "民意轉化 A｜受理 → 查證 → 現勘 → 定義問題 → 形成處理路徑",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 58,
+          "row": 12,
+          "column": 3,
+          "bbox": [
+            457.92,
+            486.1,
+            110.4,
+            32.74
+          ],
+          "text": "05:15–06:05",
+          "textPreview": "05:15–06:05",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "05:15–06:05",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "05:15–06:05",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 59,
+          "row": 12,
+          "column": 4,
+          "bbox": [
+            568.32,
+            486.1,
+            81.6,
+            32.74
+          ],
+          "text": "50 秒",
+          "textPreview": "50 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "50 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "50 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 60,
+          "row": 12,
+          "column": 5,
+          "bbox": [
+            649.92,
+            486.1,
+            86.4,
+            32.74
+          ],
+          "text": "06:05",
+          "textPreview": "06:05",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "06:05",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "06:05",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 61,
+          "row": 13,
+          "column": 1,
+          "bbox": [
+            57.6,
+            518.84,
+            59.52,
+            32.74
+          ],
+          "text": "3-3",
+          "textPreview": "3-3",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3-3",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3-3",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 62,
+          "row": 13,
+          "column": 2,
+          "bbox": [
+            117.12,
+            518.84,
+            340.8,
+            32.74
+          ],
+          "text": "民意轉化 B｜質詢／提案／協調 → 必要時審查與議決 → 追蹤",
+          "textPreview": "民意轉化 B｜質詢／提案／協調 → 必要時審查與議決 → 追蹤",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "民意轉化 B｜質詢／提案／協調 → 必要時審查與議決 → 追蹤",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "民意轉化 B｜質詢／提案／協調 → 必要時審查與議決 → 追蹤",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 63,
+          "row": 13,
+          "column": 3,
+          "bbox": [
+            457.92,
+            518.84,
+            110.4,
+            32.74
+          ],
+          "text": "06:05–06:55",
+          "textPreview": "06:05–06:55",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "06:05–06:55",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "06:05–06:55",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 64,
+          "row": 13,
+          "column": 4,
+          "bbox": [
+            568.32,
+            518.84,
+            81.6,
+            32.74
+          ],
+          "text": "50 秒",
+          "textPreview": "50 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "50 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "50 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 65,
+          "row": 13,
+          "column": 5,
+          "bbox": [
+            649.92,
+            518.84,
+            86.4,
+            32.74
+          ],
+          "text": "06:55",
+          "textPreview": "06:55",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "06:55",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "06:55",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 66,
+          "row": 14,
+          "column": 1,
+          "bbox": [
+            57.6,
+            551.58,
+            59.52,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 67,
+          "row": 14,
+          "column": 2,
+          "bbox": [
+            117.12,
+            551.58,
+            340.8,
+            40.64
+          ],
+          "text": "第四章 看見議會如何運作|制度與團隊",
+          "textPreview": "第四章 看見議會如何運作|制度與團隊",
+          "fillColor": "#233154",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第四章 看見議會如何運作|制度與團隊",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四章 看見議會如何運作|制度與團隊",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#C9A227"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 68,
+          "row": 14,
+          "column": 3,
+          "bbox": [
+            457.92,
+            551.58,
+            110.4,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 69,
+          "row": 14,
+          "column": 4,
+          "bbox": [
+            568.32,
+            551.58,
+            81.6,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 70,
+          "row": 14,
+          "column": 5,
+          "bbox": [
+            649.92,
+            551.58,
+            86.4,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 71,
+          "row": 15,
+          "column": 1,
+          "bbox": [
+            57.6,
+            592.22,
+            59.52,
+            32.74
+          ],
+          "text": "4-1",
+          "textPreview": "4-1",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4-1",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4-1",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 72,
+          "row": 15,
+          "column": 2,
+          "bbox": [
+            117.12,
+            592.22,
+            340.8,
+            32.74
+          ],
+          "text": "議會職權|議決・審查・質詢・請願・監督",
+          "textPreview": "議會職權|議決・審查・質詢・請願・監督",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "議會職權|議決・審查・質詢・請願・監督",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "議會職權|議決・審查・質詢・請願・監督",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 73,
+          "row": 15,
+          "column": 3,
+          "bbox": [
+            457.92,
+            592.22,
+            110.4,
+            32.74
+          ],
+          "text": "06:55–08:15",
+          "textPreview": "06:55–08:15",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "06:55–08:15",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "06:55–08:15",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 74,
+          "row": 15,
+          "column": 4,
+          "bbox": [
+            568.32,
+            592.22,
+            81.6,
+            32.74
+          ],
+          "text": "80 秒",
+          "textPreview": "80 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "80 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "80 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 75,
+          "row": 15,
+          "column": 5,
+          "bbox": [
+            649.92,
+            592.22,
+            86.4,
+            32.74
+          ],
+          "text": "08:15",
+          "textPreview": "08:15",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "08:15",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "08:15",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 76,
+          "row": 16,
+          "column": 1,
+          "bbox": [
+            57.6,
+            624.96,
+            59.52,
+            32.74
+          ],
+          "text": "4-2",
+          "textPreview": "4-2",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4-2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4-2",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 77,
+          "row": 16,
+          "column": 2,
+          "bbox": [
+            117.12,
+            624.96,
+            340.8,
+            32.74
+          ],
+          "text": "行政團隊|會史館與簡報室,保存民主紀錄",
+          "textPreview": "行政團隊|會史館與簡報室,保存民主紀錄",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "行政團隊|會史館與簡報室,保存民主紀錄",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "行政團隊|會史館與簡報室,保存民主紀錄",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 78,
+          "row": 16,
+          "column": 3,
+          "bbox": [
+            457.92,
+            624.96,
+            110.4,
+            32.74
+          ],
+          "text": "08:15–09:10",
+          "textPreview": "08:15–09:10",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "08:15–09:10",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "08:15–09:10",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 79,
+          "row": 16,
+          "column": 4,
+          "bbox": [
+            568.32,
+            624.96,
+            81.6,
+            32.74
+          ],
+          "text": "55 秒",
+          "textPreview": "55 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "55 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "55 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 80,
+          "row": 16,
+          "column": 5,
+          "bbox": [
+            649.92,
+            624.96,
+            86.4,
+            32.74
+          ],
+          "text": "09:10",
+          "textPreview": "09:10",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "09:10",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "09:10",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 81,
+          "row": 17,
+          "column": 1,
+          "bbox": [
+            57.6,
+            657.7,
+            59.52,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 82,
+          "row": 17,
+          "column": 2,
+          "bbox": [
+            117.12,
+            657.7,
+            340.8,
+            40.64
+          ],
+          "text": "第五章 走向共好|承諾與回望",
+          "textPreview": "第五章 走向共好|承諾與回望",
+          "fillColor": "#233154",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第五章 走向共好|承諾與回望",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五章 走向共好|承諾與回望",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#C9A227"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 83,
+          "row": 17,
+          "column": 3,
+          "bbox": [
+            457.92,
+            657.7,
+            110.4,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 84,
+          "row": 17,
+          "column": 4,
+          "bbox": [
+            568.32,
+            657.7,
+            81.6,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 85,
+          "row": 17,
+          "column": 5,
+          "bbox": [
+            649.92,
+            657.7,
+            86.4,
+            40.64
+          ],
+          "fillColor": "#233154"
+        },
+        {
+          "index": 86,
+          "row": 18,
+          "column": 1,
+          "bbox": [
+            57.6,
+            698.34,
+            59.52,
+            32.74
+          ],
+          "text": "5-1",
+          "textPreview": "5-1",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5-1",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5-1",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 87,
+          "row": 18,
+          "column": 2,
+          "bbox": [
+            117.12,
+            698.34,
+            340.8,
+            32.74
+          ],
+          "text": "議長期許|讓每一份託付持續被看見",
+          "textPreview": "議長期許|讓每一份託付持續被看見",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "議長期許|讓每一份託付持續被看見",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "議長期許|讓每一份託付持續被看見",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 88,
+          "row": 18,
+          "column": 3,
+          "bbox": [
+            457.92,
+            698.34,
+            110.4,
+            32.74
+          ],
+          "text": "09:10–10:15",
+          "textPreview": "09:10–10:15",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "09:10–10:15",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "09:10–10:15",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 89,
+          "row": 18,
+          "column": 4,
+          "bbox": [
+            568.32,
+            698.34,
+            81.6,
+            32.74
+          ],
+          "text": "65 秒",
+          "textPreview": "65 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "65 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "65 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 90,
+          "row": 18,
+          "column": 5,
+          "bbox": [
+            649.92,
+            698.34,
+            86.4,
+            32.74
+          ],
+          "text": "10:15",
+          "textPreview": "10:15",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10:15",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10:15",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 91,
+          "row": 19,
+          "column": 1,
+          "bbox": [
+            57.6,
+            731.08,
+            59.52,
+            32.74
+          ],
+          "text": "5-2",
+          "textPreview": "5-2",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5-2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5-2",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 92,
+          "row": 19,
+          "column": 2,
+          "bbox": [
+            117.12,
+            731.08,
+            340.8,
+            32.74
+          ],
+          "text": "片尾|回收清晨,回到片名",
+          "textPreview": "片尾|回收清晨,回到片名",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "片尾|回收清晨,回到片名",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "片尾|回收清晨,回到片名",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 93,
+          "row": 19,
+          "column": 3,
+          "bbox": [
+            457.92,
+            731.08,
+            110.4,
+            32.74
+          ],
+          "text": "10:15–11:10",
+          "textPreview": "10:15–11:10",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10:15–11:10",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10:15–11:10",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 94,
+          "row": 19,
+          "column": 4,
+          "bbox": [
+            568.32,
+            731.08,
+            81.6,
+            32.74
+          ],
+          "text": "55 秒",
+          "textPreview": "55 秒",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "55 秒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "55 秒",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 95,
+          "row": 19,
+          "column": 5,
+          "bbox": [
+            649.92,
+            731.08,
+            86.4,
+            32.74
+          ],
+          "text": "11:10",
+          "textPreview": "11:10",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "11:10",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "11:10",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3i1sfa9",
+      "id": "7",
+      "name": "Shape 4",
+      "bbox": [
+        57.6,
+        858,
+        678.72,
+        208
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FDF6E0"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r65knqtk",
+      "id": "8",
+      "name": "Text 5",
+      "bbox": [
+        81.6,
+        875,
+        630.72,
+        116
+      ],
+      "geometry": "rect",
+      "text": "需求書合規|全片 11 分 10 秒,符合「10 至 12 分鐘」規範,且距上限尚餘 50 秒,可供審查階段增補內容;\n第5屆議員就職典禮全程錄影及拍照素材用於 1-3 段;會史館展示更新與簡報室新 LED 多語播放,於 4-2 段入鏡,四項工作成果於片中互相呼應;\n全片以 2K 以上等級攝影機拍攝並以相同規格剪輯輸出;中、英、日、台、韓五語版本畫面共用、語音與字幕分軌,片名字卡五語同步設計。",
+      "textPreview": "需求書合規|全片 11 分 10 秒,符合「10 至 12 分鐘」規範,且距上限尚餘 50 秒,可供審查階段增補內容; | 第5屆議員就職典禮全程錄影及拍照素材用於 1-3 段;會史館展示更新與簡報室新 LED 多語播放,於 4-2 段入鏡,四項工作成果於片中互相呼應; |...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "需求書合規|全片 11 分 10 秒,符合「10 至 12 分鐘」規範,且距上限尚餘 50"
+          },
+          {
+            "index": 2,
+            "text": "秒,可供審查階段增補內容;"
+          },
+          {
+            "index": 3,
+            "text": "第5屆議員就職典禮全程錄影及拍照素材用於 1-3"
+          },
+          {
+            "index": 4,
+            "text": "段;會史館展示更新與簡報室新 LED 多語播放,於 4-2"
+          },
+          {
+            "index": 5,
+            "text": "段入鏡,四項工作成果於片中互相呼應;"
+          },
+          {
+            "index": 6,
+            "text": "全片以 2K"
+          },
+          {
+            "index": 7,
+            "text": "以上等級攝影機拍攝並以相同規格剪輯輸出;中、英、日、台、韓五語版本"
+          },
+          {
+            "index": 8,
+            "text": "畫面共用、語音與字幕分軌,片名字卡五語同步設計。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "需求書合規|全片 11 分 10 秒,符合「10 至 12 分鐘」規範,且距上限尚餘 50 秒,可供審查階段增補內容;",
+          "lineSpacingPercent": 126000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "需求書合規|",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "全片 11 分 10 秒,符合「10 至 12 分鐘」規範,且距上限尚餘 50 秒,可供審查階段增補內容;",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "第5屆議員就職典禮全程錄影及拍照素材用於 1-3 段;會史館展示更新與簡報室新 LED 多語播放,於 4-2 段入鏡,四項工作成果於片中互相呼應;",
+          "lineSpacingPercent": 126000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "第5屆議員就職典禮全程錄影及拍照素材用於 1-3 段;會史館展示更新與簡報室新 LED 多語播放,於 4-2 段入鏡,四項工作成果於片中互相呼應;",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "全片以 2K 以上等級攝影機拍攝並以相同規格剪輯輸出;中、英、日、台、韓五語版本畫面共用、語音與字幕分軌,片名字卡五語同步設計。",
+          "lineSpacingPercent": 126000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "全片以 2K 以上等級攝影機拍攝並以相同規格剪輯輸出;中、英、日、台、韓五語版本畫面共用、語音與字幕分軌,片名字卡五語同步設計。",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5wjelsz",
+      "id": "9",
+      "name": "Text 6",
+      "bbox": [
+        81.6,
+        1002,
+        630.72,
+        48
+      ],
+      "geometry": "rect",
+      "text": "註：13選舉區、應選68席（區域62、平地原住民4、山地原住民2）依中選會正式公告；第5屆議員就職日為115年12月25日。實際名單、致詞與議程依本會核定資料修正。",
+      "textPreview": "註：13選舉區、應選68席（區域62、平地原住民4、山地原住民2）依中選會正式公告；第5屆議員就職日為115年12月25日。實際名單、致詞與議程依本會核定資料修正。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "註：13選舉區、應選68席（區域62、平地原住民4、山地原住民2）依中選會正式公告；第5屆議員就職日為115年12"
+          },
+          {
+            "index": 2,
+            "text": "月25日。實際名單、致詞與議程依本會核定資料修正。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "註：13選舉區、應選68席（區域62、平地原住民4、山地原住民2）依中選會正式公告；第5屆議員就職日為115年12月25日。實際名單、致詞與議程依本會核定資料修正。",
+          "lineSpacingPercent": 125000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "註：13選舉區、應選68席（區域62、平地原住民4、山地原住民2）依中選會正式公告；第5屆議員就職日為115年12月25日。實際名單、致詞與議程依本會核定資料修正。",
+              "fontSize": 12,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280",
+              "italic": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,109 @@
+{
+  "outputSlides": [
+    { "outputSlide": 1, "sourceSlide": 1, "narrativeRole": "preserve-only concept page", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 2, "sourceSlide": 2, "narrativeRole": "preserve-only outline page", "reuseMode": "duplicate-slide", "editTargets": [] },
+    {
+      "outputSlide": 3, "sourceSlide": 3, "narrativeRole": "storyboard imagery for city opening", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/a5c3ql8z", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "delete", "sourceElementId": "im/n2tc3y1g", "reason": "Replace the existing single illustration with the complete four-shot storyboard." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 4, "sourceSlide": 4, "narrativeRole": "storyboard imagery for council history", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/x8vaxsfe", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 5, "sourceSlide": 5, "narrativeRole": "storyboard imagery for inauguration", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/58vehgvy", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 6, "sourceSlide": 6, "narrativeRole": "storyboard imagery for districts one to four", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/47mt0b6x", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 7, "sourceSlide": 7, "narrativeRole": "storyboard imagery for districts five to eight", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/25ojml43", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 8, "sourceSlide": 8, "narrativeRole": "storyboard imagery for districts nine to thirteen", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/1k7edwv2", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 9, "sourceSlide": 9, "narrativeRole": "storyboard imagery for problem transition", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/do3id4fy", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 10, "sourceSlide": 10, "narrativeRole": "storyboard imagery for petition intake process", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/1cru1g3y", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 11, "sourceSlide": 11, "narrativeRole": "storyboard imagery for questioning and follow-up process", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/1cfa58zi", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 12, "sourceSlide": 12, "narrativeRole": "storyboard imagery for council powers", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/9sj65kn2", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 13, "sourceSlide": 13, "narrativeRole": "storyboard imagery for administrative team", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/876xwfmx", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 14, "sourceSlide": 14, "narrativeRole": "storyboard imagery for fifth-term commitment", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/ls7idofu", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 15, "sourceSlide": 15, "narrativeRole": "storyboard imagery for closing callback", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/5wvax0f6", "reason": "Replace long visual directions with image captions while retaining full text in notes." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 60, "top": 259, "width": 201, "height": 782 }, "reason": "Add one image and caption for every storyboard item inside the cleared visual-design column.", "mustNotOverlapInherited": true }
+      ]
+    },
+    {
+      "outputSlide": 16, "sourceSlide": 1, "narrativeRole": "summary of script highlights and core", "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "action": "rewrite",
+          "sourceElementIds": ["sh/547294r6", "sh/k3yl0zql", "sh/7qp4be9c", "sh/sryl4zqx", "sh/fu94fe98", "sh/hofulsf2", "sh/ul4vaxgb", "sh/vmdcj2xw", "sh/4r6dg7et", "sh/5sfepcfe", "sh/sfqdkrep", "sh/dgzetcfa", "sh/1cvuxc7e", "sh/0bmd476t", "sh/zadcv2p8", "sh/ozmd8r65", "sh/nydczmpk", "sh/mx4v6hoz", "sh/p4bu5s76", "sh/432dwn6l", "sh/wzy1szid", "sh/h072l4jy", "sh/i1gje90j", "sh/j2pkne14", "sh/43y1gji9", "sh/z650ba1k", "sh/z2xgf6to", "sh/e1oz61c3", "sh/14fyhgbe", "sh/036h8but", "sh/nqxgjqtk", "sh/or6hcvu5", "sh/buh0nqtg", "sh/at8zelcb", "sh/6x8f2583", "sh/7yhgbq9o", "sh/kvqx0vqd", "sh/juhg7q9s", "sh/wr6xwbq1", "sh/xsfy5grm"],
+          "reason": "Reuse the concept-page typography and panels for the requested final highlights-and-core synthesis."
+        }
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}

@@ -1,0 +1,163 @@
+{
+  "status": "fail",
+  "checkedAt": "2026-09-03T06:33:58.050Z",
+  "workspace": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18",
+  "finalPptx": "/Users/zhangzixuan/Desktop/hakka-food-linebot/output/看見共好_影片腳本_A4直式_敘事校正版_16-18頁優化版.pptx",
+  "starterPptx": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter.pptx",
+  "mapPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-frame-map.json",
+  "starterLayoutDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout",
+  "finalLayoutDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final",
+  "editDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18",
+  "issueCount": 17,
+  "issues": [
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 16,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-16.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-16.layout.json",
+      "inheritedText": "器材名稱 | 錄影規格 | Sony A7S III  錄影專業級相機 | 4K高畫質最高120p(3,840x1,080/16:9) | Sony ILME-FX3A 電影錄影機 | 4K高畫質最高120p(3,840x1,080/16:9) | 鏡頭-Sony 16-3..."
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 16,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-16.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-16.layout.json",
+      "inheritedText": "鏡頭-Sony 16-35 24-70 70-200"
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 16,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-16.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-16.layout.json",
+      "inheritedText": "器材名稱 | 錄影規格 | Sony A7S III  錄影專業級相機 | 4K高畫質最高120p(3,840x1,080/16:9) | Sony ILME-FX3A 電影錄影機 | 4K高畫質最高120p(3,840x1,080/16:9) | 鏡頭-Sony 16-3..."
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 16,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-16.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-16.layout.json",
+      "inheritedText": "全片幅高感光鏡頭"
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 16,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-16.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-16.layout.json",
+      "inheritedText": "本專案採用設備器材均為最新數位高畫質動態攝影系統"
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 17,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-17.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-17.layout.json",
+      "inheritedText": "(2024) | 新北客家桐花祭宣傳影片 | 臺北市客家義民嘉年華宣傳影片 | (影片腳本企劃、導演、剪輯) | (2025) | 新北平溪天燈節宣傳影片 | 新北市國慶宣傳影片宣傳影片 | (影片腳本企劃、導演、剪輯) | (2026) | 新北平溪天燈節宣傳影片 | 新..."
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 17,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-17.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-17.layout.json"
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 17,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-17.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-17.layout.json"
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 17,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-17.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-17.layout.json"
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 17,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-17.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-17.layout.json",
+      "inheritedText": "攝影師"
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 17,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-17.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-17.layout.json",
+      "inheritedText": "Billy 雨利"
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 18,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-18.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-18.layout.json",
+      "inheritedText": "煒業影像工作室負責人（具備無人機操作證照） |  | 公館旅遊形象影片旅公館 拍攝 | 五結鄉公所幼兒園形象片拍攝 | 四分衛Quarterback喜歡拍照打卡的人SHeldMillie 拍攝 | 脫拉庫-愛情青紅燈-現場版MV 導演/拍攝/剪輯 | 何瑞康【山那OUR L..."
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 18,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-18.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-18.layout.json",
+      "inheritedText": "導演 、攝影"
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 18,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-18.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-18.layout.json",
+      "inheritedText": "2019/9~2020/3  | 攝影師 | MOMOTV 體育賽事部 |  |  | 2020/5~2022/4 | 台北市議員公費助理|羅智強議員| |  | 2022/4~2023/7 | 執行製作|壹電視 新聞思想啟| |  | 2023/8~現職 | 攝影記者|民..."
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 18,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-18.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-18.layout.json"
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 18,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-18.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-18.layout.json",
+      "inheritedText": "製片、場務"
+    },
+    {
+      "severity": "fail",
+      "id": "mask-cover-overlay",
+      "message": "Large new opaque shape appears to cover inherited template content.",
+      "slide": 18,
+      "finalLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/final-layout/final/slide-18.layout.json",
+      "starterLayout": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-starter-layout/starter-slide-18.layout.json",
+      "inheritedText": "製片、場務"
+    }
+  ]
+}

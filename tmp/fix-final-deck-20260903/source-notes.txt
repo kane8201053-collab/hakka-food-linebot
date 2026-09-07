@@ -1,0 +1,17 @@
+Primary source deck:
+- /Users/zhangzixuan/Desktop/看見・共好（腳本＋器材＋人員）.pptx
+
+Requirement source:
+- /Users/zhangzixuan/Desktop/4.需求書.pdf
+
+Verified external sources used for factual corrections:
+- Central Election Commission final 2026 New Taipei council seat allocation: https://web.cec.gov.tw/api/file/45d8e965-f63a-46d5-b636-7d81e47cf4d1.pdf
+- Civil Aviation Administration drone FAQ: https://www.caa.gov.tw/Article.aspx?a=3006&lang=1
+- Civil Aviation Administration operating restrictions: https://www.caa.gov.tw/Article.aspx?a=2430&lang=1
+- Skydio X10 official technical specifications: https://www.skydio.com/x10/technical-specs
+- Skydio official image asset: https://cdn.sanity.io/images/mgxz50fq/production-v3-red/6bc55640edeabf47e5af325d0eb78777e339f6f8-2880x1582.png
+
+Asset treatment:
+- All existing storyboard and team photographs are retained from the user deck.
+- Existing photographs are repositioned or cropped through PowerPoint image frames only; they are not stretched.
+- Slide 16 drone image is replaced by the official Skydio image listed above.

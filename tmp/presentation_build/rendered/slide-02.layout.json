@@ -1,0 +1,1169 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/vlf4sm",
+    "id": "vlf4sm",
+    "slide": 2,
+    "layoutId": "ede0ace0-d57a-491a-8b05-db160473e468",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7F3EA",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1123
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ede0ace0-d57a-491a-8b05-db160473e468",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idwjyt07",
+      "id": "1",
+      "name": "kicker-2",
+      "bbox": [
+        48,
+        45,
+        530,
+        30
+      ],
+      "geometry": "rect",
+      "text": "創意主張",
+      "textPreview": "創意主張",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "PingFang TC",
+        "color": "#147A78",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "創意主張"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "創意主張",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#147A78",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "創意主張",
+              "fontSize": 14,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5g7i9ozi",
+      "id": "2",
+      "name": "title-2",
+      "bbox": [
+        48,
+        82,
+        698,
+        70
+      ],
+      "geometry": "rect",
+      "text": "片名就是整支影片的敘事方法",
+      "textPreview": "片名就是整支影片的敘事方法",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 36,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "片名就是整支影片的敘事方法"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "片名就是整支影片的敘事方法",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "片名就是整支影片的敘事方法",
+              "fontSize": 36,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fy10jid",
+      "id": "3",
+      "name": "title-rule-2",
+      "bbox": [
+        48,
+        162,
+        698,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#147A78",
+      "lineWidth": 3
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/va503ehg",
+      "id": "4",
+      "name": "subtitle-2",
+      "bbox": [
+        48,
+        171,
+        698,
+        38
+      ],
+      "geometry": "rect",
+      "text": "不是把資訊排進影片，而是帶觀眾一步步看見：城市、民意、行動與共同未來。",
+      "textPreview": "不是把資訊排進影片，而是帶觀眾一步步看見：城市、民意、行動與共同未來。",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#60727A",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "不是把資訊排進影片，而是帶觀眾一步步看見：城市、民意、行動與共同未來。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "不是把資訊排進影片，而是帶觀眾一步步看見：城市、民意、行動與共同未來。",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "不是把資訊排進影片，而是帶觀眾一步步看見：城市、民意、行動與共同未來。",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/apwzu90v",
+      "id": "5",
+      "name": "footer-line-2",
+      "bbox": [
+        48,
+        1075,
+        698,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcni5ozm",
+      "id": "6",
+      "name": "footer-label-2",
+      "bbox": [
+        48,
+        1080,
+        570,
+        26
+      ],
+      "geometry": "rect",
+      "text": "看見.共好｜第5屆新北市議會影片腳本",
+      "textPreview": "看見.共好｜第5屆新北市議會影片腳本",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "PingFang TC",
+        "color": "#60727A",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好｜第5屆新北市議會影片腳本"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好｜第5屆新北市議會影片腳本",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好｜第5屆新北市議會影片腳本",
+              "fontSize": 12,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbehwji1",
+      "id": "7",
+      "name": "footer-page-2",
+      "bbox": [
+        686,
+        1080,
+        60,
+        26
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 13,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f690fyh0",
+      "id": "8",
+      "name": "concept-bg-0",
+      "bbox": [
+        48,
+        250,
+        698,
+        205
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#DDEDEA",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/el0j6d0f",
+      "id": "9",
+      "name": "concept-num-0",
+      "bbox": [
+        68,
+        280,
+        80,
+        50
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "PingFang TC",
+        "color": "#147A78",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang TC",
+            "color": "#147A78",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 28,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s3at4ju1",
+      "id": "10",
+      "name": "concept-title-0",
+      "bbox": [
+        160,
+        275,
+        480,
+        54
+      ],
+      "geometry": "rect",
+      "text": "看見城市",
+      "textPreview": "看見城市",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見城市"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見城市",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見城市",
+              "fontSize": 28,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4judobm",
+      "id": "11",
+      "name": "concept-body-0",
+      "bbox": [
+        160,
+        334,
+        520,
+        90
+      ],
+      "geometry": "rect",
+      "text": "從清晨、通勤、海岸、山城與街區日常出發，先讓觀眾感受到新北是一座由不同生活共同組成的城市。",
+      "textPreview": "從清晨、通勤、海岸、山城與街區日常出發，先讓觀眾感受到新北是一座由不同生活共同組成的城市。",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "從清晨、通勤、海岸、山城與街區日常出發，先讓觀眾感受"
+          },
+          {
+            "index": 2,
+            "text": "到新北是一座由不同生活共同組成的城市。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "從清晨、通勤、海岸、山城與街區日常出發，先讓觀眾感受到新北是一座由不同生活共同組成的城市。",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.24
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "從清晨、通勤、海岸、山城與街區日常出發，先讓觀眾感受到新北是一座由不同生活共同組成的城市。",
+              "fontSize": 19,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.24
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1sb29cv",
+      "id": "12",
+      "name": "concept-bg-1",
+      "bbox": [
+        48,
+        495,
+        698,
+        205
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F4E1DC",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r21cbetg",
+      "id": "13",
+      "name": "concept-num-1",
+      "bbox": [
+        68,
+        525,
+        80,
+        50
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "PingFang TC",
+        "color": "#C85B4B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang TC",
+            "color": "#C85B4B",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 28,
+              "typeface": "PingFang TC",
+              "color": "#C85B4B",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zat0ju5",
+      "id": "14",
+      "name": "concept-title-1",
+      "bbox": [
+        160,
+        520,
+        480,
+        54
+      ],
+      "geometry": "rect",
+      "text": "看見民意",
+      "textPreview": "看見民意",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見民意"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見民意",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見民意",
+              "fontSize": 28,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/50ju94ba",
+      "id": "15",
+      "name": "concept-body-1",
+      "bbox": [
+        160,
+        579,
+        520,
+        90
+      ],
+      "geometry": "rect",
+      "text": "讓鏡頭跟著一個聲音走進議會：陳情、現勘、質詢、審查、議決與追蹤，理解代議民主如何運作。",
+      "textPreview": "讓鏡頭跟著一個聲音走進議會：陳情、現勘、質詢、審查、議決與追蹤，理解代議民主如何運作。",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "讓鏡頭跟著一個聲音走進議會：陳情、現勘、質詢、審查、"
+          },
+          {
+            "index": 2,
+            "text": "議決與追蹤，理解代議民主如何運作。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "讓鏡頭跟著一個聲音走進議會：陳情、現勘、質詢、審查、議決與追蹤，理解代議民主如何運作。",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.24
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "讓鏡頭跟著一個聲音走進議會：陳情、現勘、質詢、審查、議決與追蹤，理解代議民主如何運作。",
+              "fontSize": 19,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.24
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ix8by9cz",
+      "id": "16",
+      "name": "concept-bg-2",
+      "bbox": [
+        48,
+        740,
+        698,
+        205
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F4E7C9",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3y1s7etk",
+      "id": "17",
+      "name": "concept-num-2",
+      "bbox": [
+        68,
+        770,
+        80,
+        50
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "PingFang TC",
+        "color": "#D9962C",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang TC",
+            "color": "#D9962C",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 28,
+              "typeface": "PingFang TC",
+              "color": "#D9962C",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvqtwzut",
+      "id": "18",
+      "name": "concept-title-2",
+      "bbox": [
+        160,
+        765,
+        480,
+        54
+      ],
+      "geometry": "rect",
+      "text": "走向共好",
+      "textPreview": "走向共好",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "走向共好"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "走向共好",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "走向共好",
+              "fontSize": 28,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwza54be",
+      "id": "19",
+      "name": "concept-body-2",
+      "bbox": [
+        160,
+        824,
+        520,
+        90
+      ],
+      "geometry": "rect",
+      "text": "差異不必被抹平；議會的價值，是讓不同地區、世代與族群都能被聽見，透過制度找到公共利益。",
+      "textPreview": "差異不必被抹平；議會的價值，是讓不同地區、世代與族群都能被聽見，透過制度找到公共利益。",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "差異不必被抹平；議會的價值，是讓不同地區、世代與族群"
+          },
+          {
+            "index": 2,
+            "text": "都能被聽見，透過制度找到公共利益。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "差異不必被抹平；議會的價值，是讓不同地區、世代與族群都能被聽見，透過制度找到公共利益。",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.24
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "差異不必被抹平；議會的價值，是讓不同地區、世代與族群都能被聽見，透過制度找到公共利益。",
+              "fontSize": 19,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.24
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

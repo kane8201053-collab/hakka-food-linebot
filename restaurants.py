@@ -541,7 +541,98 @@ RESTAURANTS = [
         "phone":"0937017244",
         "discount": "",
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
-    }                
+    },   
+    {
+        "name": "鬍鬚張滷肉飯南昌店",
+        "district": "中正區",
+        "category": "客家料理｜客家便當",
+        "description":"每日現做傳統留香，非常適合午晚餐美食",
+        "recommended_dishes": ["客家鹹豬肉便當"],
+        "features": ["知名連鎖餐廳、套餐完整、味道穩定偏甜潤"],
+        "address": "臺北市中正區南昌路一段70號",
+        "business_hours":"官網查詢 https://shop.fmsc.com.tw/ 門市時間",
+        "phone":"02-23964359",
+        "discount": "",
+        "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
+    },   
+    {
+        "name": "鬍鬚張滷肉飯忠孝新生店",
+        "district": "中正區",
+        "category": "客家料理｜客家便當",
+        "description":"每日現做傳統留香，非常適合午晚餐美食",
+        "recommended_dishes": ["客家鹹豬肉便當"],
+        "features": ["知名連鎖餐廳、套餐完整、味道穩定偏甜潤"],
+        "address": "臺北市中正區忠孝東路二段134巷6號",
+        "business_hours":"官網查詢 https://shop.fmsc.com.tw/ 門市時間",
+        "phone":"02-23958730",
+        "discount": "",
+        "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
+    },   
+    {
+        "name": "鬍鬚張滷肉飯南門店",
+        "district": "中正區",
+        "category": "客家料理｜客家便當",
+        "description":"每日現做傳統留香，非常適合午晚餐美食",
+        "recommended_dishes": ["客家鹹豬肉便當"],
+        "features": ["知名連鎖餐廳、套餐完整、味道穩定偏甜潤"],
+        "address": "臺北市中正區延平南路161號",
+        "business_hours":"官網查詢 https://shop.fmsc.com.tw/ 門市時間",
+        "phone":"02-23713356",
+        "discount": "",
+        "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
+    },   
+    {
+        "name": "鬍鬚張滷肉飯華山店",
+        "district": "中正區",
+        "category": "客家料理｜客家便當",
+        "description":"每日現做傳統留香，非常適合午晚餐美食",
+        "recommended_dishes": ["客家鹹豬肉便當"],
+        "features": ["知名連鎖餐廳、套餐完整、味道穩定偏甜潤"],
+        "address": "臺北市中正區忠孝東路一段150號",
+        "business_hours":"官網查詢 https://shop.fmsc.com.tw/ 門市時間",
+        "phone":"02-23219599",
+        "discount": "",
+        "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
+    },   
+    {
+        "name": "鬍鬚張滷肉飯民權店",
+        "district": "中山區",
+        "category": "客家料理｜客家便當",
+        "description":"每日現做傳統留香，非常適合午晚餐美食",
+        "recommended_dishes": ["客家鹹豬肉便當"],
+        "features": ["知名連鎖餐廳、套餐完整、味道穩定偏甜潤"],
+        "address": "臺北市中山區民權西路43號",
+        "business_hours":"官網查詢 https://shop.fmsc.com.tw/ 門市時間",
+        "phone":"02-29178511",
+        "discount": "",
+        "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
+    },   
+    {
+        "name": "鬍鬚張滷肉飯吉林店",
+        "district": "中山區",
+        "category": "客家料理｜客家便當",
+        "description":"每日現做傳統留香，非常適合午晚餐美食",
+        "recommended_dishes": ["客家鹹豬肉便當"],
+        "features": ["知名連鎖餐廳、套餐完整、味道穩定偏甜潤"],
+        "address": "臺北市中山區吉林路220號",
+        "business_hours":"官網查詢 https://shop.fmsc.com.tw/ 門市時間",
+        "phone":"02-25316407",
+        "discount": "",
+        "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
+    },   
+    {
+        "name": "陽明溫泉渡假村",
+        "district": "士林區",
+        "category": "客家料理",
+        "description":"工作之餘漫步在大自然的山林步道，左右伴隨著蟬鳴鳥叫，是距大台北市最近最舒活的世外桃源，非常適合三五好友及親子全家出遊。",
+        "recommended_dishes": ["招牌東坡肉", "菁山花草茶"],
+        "features": ["陽明溫泉渡假村，山上吃飯、白磺入湯，酸菜與粄條，山裡也吃得到"],
+        "address": "臺北市士林區菁山路101巷71弄16號",
+        "business_hours":"https://www.star-fountain.com/ 見官網",
+        "phone":"02-28625116",
+        "discount": "",
+        "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
+    }
 ]
 
 

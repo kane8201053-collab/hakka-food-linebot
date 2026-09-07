@@ -1,0 +1,1600 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/aumx8r",
+    "id": "aumx8r",
+    "slide": 20,
+    "layoutId": "ede0ace0-d57a-491a-8b05-db160473e468",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7F3EA",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1123
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ede0ace0-d57a-491a-8b05-db160473e468",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9snixsfu",
+      "id": "1",
+      "name": "kicker-20",
+      "bbox": [
+        48,
+        45,
+        530,
+        30
+      ],
+      "geometry": "rect",
+      "text": "拍攝清單",
+      "textPreview": "拍攝清單",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "PingFang TC",
+        "color": "#715B7A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "拍攝清單"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "拍攝清單",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#715B7A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "拍攝清單",
+              "fontSize": 14,
+              "typeface": "PingFang TC",
+              "color": "#715B7A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5wjmdgj",
+      "id": "2",
+      "name": "title-20",
+      "bbox": [
+        48,
+        82,
+        698,
+        70
+      ],
+      "geometry": "rect",
+      "text": "就職典禮素材，是全片最不能補拍的一天",
+      "textPreview": "就職典禮素材，是全片最不能補拍的一天",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 36,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "就職典禮素材，是全片最不能補拍的一天"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "就職典禮素材，是全片最不能補拍的一天",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "就職典禮素材，是全片最不能補拍的一天",
+              "fontSize": 36,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7q50vix4",
+      "id": "3",
+      "name": "title-rule-20",
+      "bbox": [
+        48,
+        162,
+        698,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#715B7A",
+      "lineWidth": 3
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvy1s7yl",
+      "id": "4",
+      "name": "subtitle-20",
+      "bbox": [
+        48,
+        171,
+        698,
+        38
+      ],
+      "geometry": "rect",
+      "text": "以「完整紀錄＋可剪成故事」雙軌思考，確保儀式、人物、關係與情緒都有素材。",
+      "textPreview": "以「完整紀錄＋可剪成故事」雙軌思考，確保儀式、人物、關係與情緒都有素材。",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#60727A",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "以「完整紀錄＋可剪成故事」雙軌思考，確保儀式、人物、關係與情緒都有素材。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "以「完整紀錄＋可剪成故事」雙軌思考，確保儀式、人物、關係與情緒都有素材。",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "以「完整紀錄＋可剪成故事」雙軌思考，確保儀式、人物、關係與情緒都有素材。",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hw7i1sf6",
+      "id": "5",
+      "name": "footer-line-20",
+      "bbox": [
+        48,
+        1075,
+        698,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/utwjqxgf",
+      "id": "6",
+      "name": "footer-label-20",
+      "bbox": [
+        48,
+        1080,
+        570,
+        26
+      ],
+      "geometry": "rect",
+      "text": "看見.共好｜第5屆新北市議會影片腳本",
+      "textPreview": "看見.共好｜第5屆新北市議會影片腳本",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "PingFang TC",
+        "color": "#60727A",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好｜第5屆新北市議會影片腳本"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好｜第5屆新北市議會影片腳本",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好｜第5屆新北市議會影片腳本",
+              "fontSize": 12,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu50z2x0",
+      "id": "7",
+      "name": "footer-page-20",
+      "bbox": [
+        686,
+        1080,
+        60,
+        26
+      ],
+      "geometry": "rect",
+      "text": "20",
+      "textPreview": "20",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "20"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "20",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "20",
+              "fontSize": 13,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zy1w7yh",
+      "id": "8",
+      "name": "capture-bg-0",
+      "bbox": [
+        48,
+        245,
+        215,
+        560
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E9E0EC",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/507i5cf2",
+      "id": "9",
+      "name": "capture-title-0",
+      "bbox": [
+        66,
+        272,
+        179,
+        50
+      ],
+      "geometry": "rect",
+      "text": "必錄儀式",
+      "textPreview": "必錄儀式",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 23,
+        "typeface": "PingFang TC",
+        "color": "#715B7A",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "必錄儀式"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "必錄儀式",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "PingFang TC",
+            "color": "#715B7A",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "必錄儀式",
+              "fontSize": 23,
+              "typeface": "PingFang TC",
+              "color": "#715B7A",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dkvul0ru",
+      "id": "10",
+      "name": "capture-line-0",
+      "bbox": [
+        73,
+        338,
+        165,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#715B7A",
+      "lineWidth": 2
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sjmtsva9",
+      "id": "11",
+      "name": "capture-body-0",
+      "bbox": [
+        70,
+        365,
+        171,
+        405
+      ],
+      "geometry": "rect",
+      "text": "• 報到與進場\n• 全體宣誓\n• 議員逐一簽名\n• 議長、副議長選舉\n• 當選宣告與致詞\n• 正式大合照\n• 完整現場收音",
+      "textPreview": "• 報到與進場 | • 全體宣誓 | • 議員逐一簽名 | • 議長、副議長選舉 | • 當選宣告與致詞 | • 正式大合照 | • 完整現場收音",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 7,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 報到與進場"
+          },
+          {
+            "index": 2,
+            "text": "• 全體宣誓"
+          },
+          {
+            "index": 3,
+            "text": "• 議員逐一簽名"
+          },
+          {
+            "index": 4,
+            "text": "• 議長、副議長選舉"
+          },
+          {
+            "index": 5,
+            "text": "• 當選宣告與致詞"
+          },
+          {
+            "index": 6,
+            "text": "• 正式大合照"
+          },
+          {
+            "index": 7,
+            "text": "• 完整現場收音"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• 報到與進場",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 報到與進場",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "• 全體宣誓",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 全體宣誓",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "• 議員逐一簽名",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 議員逐一簽名",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "• 議長、副議長選舉",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 議長、副議長選舉",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "• 當選宣告與致詞",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 當選宣告與致詞",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "• 正式大合照",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 正式大合照",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "• 完整現場收音",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 完整現場收音",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ridcjq9o",
+      "id": "12",
+      "name": "capture-bg-1",
+      "bbox": [
+        283,
+        245,
+        215,
+        560
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#DDEDEA",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh4bqls3",
+      "id": "13",
+      "name": "capture-title-1",
+      "bbox": [
+        301,
+        272,
+        179,
+        50
+      ],
+      "geometry": "rect",
+      "text": "人物細節",
+      "textPreview": "人物細節",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 23,
+        "typeface": "PingFang TC",
+        "color": "#147A78",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "人物細節"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "人物細節",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "PingFang TC",
+            "color": "#147A78",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "人物細節",
+              "fontSize": 23,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18fup0rq",
+      "id": "14",
+      "name": "capture-line-1",
+      "bbox": [
+        308,
+        338,
+        165,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#147A78",
+      "lineWidth": 2
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/07mtwfa5",
+      "id": "15",
+      "name": "capture-body-1",
+      "bbox": [
+        305,
+        365,
+        171,
+        405
+      ],
+      "geometry": "rect",
+      "text": "• 胸花、名牌、選票與手部\n• 家屬與團隊互動\n• 議員互相致意\n• 宣誓時的眼神\n• 握手、擁抱與祝賀\n• 座位第一次坐定\n• 議場外自然訪談",
+      "textPreview": "• 胸花、名牌、選票與手部 | • 家屬與團隊互動 | • 議員互相致意 | • 宣誓時的眼神 | • 握手、擁抱與祝賀 | • 座位第一次坐定 | • 議場外自然訪談",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•"
+          },
+          {
+            "index": 2,
+            "text": "胸花、名牌、選票與"
+          },
+          {
+            "index": 3,
+            "text": "手部"
+          },
+          {
+            "index": 4,
+            "text": "• 家屬與團隊互動"
+          },
+          {
+            "index": 5,
+            "text": "• 議員互相致意"
+          },
+          {
+            "index": 6,
+            "text": "• 宣誓時的眼神"
+          },
+          {
+            "index": 7,
+            "text": "• 握手、擁抱與祝賀"
+          },
+          {
+            "index": 8,
+            "text": "• 座位第一次坐定"
+          },
+          {
+            "index": 9,
+            "text": "• 議場外自然訪談"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• 胸花、名牌、選票與手部",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 胸花、名牌、選票與手部",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "• 家屬與團隊互動",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 家屬與團隊互動",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "• 議員互相致意",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 議員互相致意",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "• 宣誓時的眼神",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 宣誓時的眼神",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "• 握手、擁抱與祝賀",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 握手、擁抱與祝賀",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "• 座位第一次坐定",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 座位第一次坐定",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "• 議場外自然訪談",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 議場外自然訪談",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6dcna9k",
+      "id": "16",
+      "name": "capture-bg-2",
+      "bbox": [
+        518,
+        245,
+        228,
+        560
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F4E1DC",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/el4bu5sz",
+      "id": "17",
+      "name": "capture-title-2",
+      "bbox": [
+        536,
+        272,
+        192,
+        50
+      ],
+      "geometry": "rect",
+      "text": "技術保障",
+      "textPreview": "技術保障",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 23,
+        "typeface": "PingFang TC",
+        "color": "#C85B4B",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "技術保障"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "技術保障",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "PingFang TC",
+            "color": "#C85B4B",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "技術保障",
+              "fontSize": 23,
+              "typeface": "PingFang TC",
+              "color": "#C85B4B",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcbadgrm",
+      "id": "18",
+      "name": "capture-line-2",
+      "bbox": [
+        543,
+        338,
+        178,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#C85B4B",
+      "lineWidth": 2
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wb2tkba1",
+      "id": "19",
+      "name": "capture-body-2",
+      "bbox": [
+        540,
+        365,
+        184,
+        405
+      ],
+      "geometry": "rect",
+      "text": "• 主機位完整不中斷\n• 側機位捕捉表情\n• 游動機位補近景\n• 獨立錄音與備援\n• 大合照高畫素 RAW\n• 當日雙備份與校驗\n• 名單與座次同步",
+      "textPreview": "• 主機位完整不中斷 | • 側機位捕捉表情 | • 游動機位補近景 | • 獨立錄音與備援 | • 大合照高畫素 RAW | • 當日雙備份與校驗 | • 名單與座次同步",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 7,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 主機位完整不中斷"
+          },
+          {
+            "index": 2,
+            "text": "• 側機位捕捉表情"
+          },
+          {
+            "index": 3,
+            "text": "• 游動機位補近景"
+          },
+          {
+            "index": 4,
+            "text": "• 獨立錄音與備援"
+          },
+          {
+            "index": 5,
+            "text": "• 大合照高畫素 RAW"
+          },
+          {
+            "index": 6,
+            "text": "• 當日雙備份與校驗"
+          },
+          {
+            "index": 7,
+            "text": "• 名單與座次同步"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• 主機位完整不中斷",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 主機位完整不中斷",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "• 側機位捕捉表情",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 側機位捕捉表情",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "• 游動機位補近景",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 游動機位補近景",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "• 獨立錄音與備援",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 獨立錄音與備援",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "• 大合照高畫素 RAW",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 大合照高畫素 RAW",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "• 當日雙備份與校驗",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 當日雙備份與校驗",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "• 名單與座次同步",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 名單與座次同步",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8v6t0bix",
+      "id": "20",
+      "name": "capture-note-bg",
+      "bbox": [
+        48,
+        850,
+        698,
+        142
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9wfu9gzi",
+      "id": "21",
+      "name": "capture-note",
+      "bbox": [
+        70,
+        878,
+        654,
+        90
+      ],
+      "geometry": "rect",
+      "text": "當日採訪建議｜每位議員以同一題收音：「您最希望第 5 屆議會，讓市民看見什麼？」回答控制在 8–12 秒，可作為多語版片頭／社群短版延伸素材。",
+      "textPreview": "當日採訪建議｜每位議員以同一題收音：「您最希望第 5 屆議會，讓市民看見什麼？」回答控制在 8–12 秒，可作為多語版片頭／社群短版延伸素材。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "當日採訪建議｜每位議員以同一題收音：「您最希望第 5"
+          },
+          {
+            "index": 2,
+            "text": "屆議會，讓市民看見什麼？」回答控制在 8–12"
+          },
+          {
+            "index": 3,
+            "text": "秒，可作為多語版片頭／社群短版延伸素材。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "當日採訪建議｜每位議員以同一題收音：「您最希望第 5 屆議會，讓市民看見什麼？」回答控制在 8–12 秒，可作為多語版片頭／社群短版延伸素材。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.25
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "當日採訪建議｜每位議員以同一題收音：「您最希望第 5 屆議會，讓市民看見什麼？」回答控制在 8–12 秒，可作為多語版片頭／社群短版延伸素材。",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.25
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

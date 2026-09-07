@@ -1,0 +1,692 @@
+{
+  "sourcePptx": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/source.pptx",
+  "workspace": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18",
+  "outDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect",
+  "generatedAt": "2026-09-03T06:16:26.423Z",
+  "slideCount": 18,
+  "slideArtifacts": [
+    {
+      "slide": 1,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-01.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-01.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-01.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-01.layout.json"
+    },
+    {
+      "slide": 2,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-02.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-02.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-02.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-02.layout.json"
+    },
+    {
+      "slide": 3,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-03.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-03.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-03.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-03.layout.json"
+    },
+    {
+      "slide": 4,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-04.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-04.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-04.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-04.layout.json"
+    },
+    {
+      "slide": 5,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-05.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-05.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-05.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-05.layout.json"
+    },
+    {
+      "slide": 6,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-06.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-06.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-06.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-06.layout.json"
+    },
+    {
+      "slide": 7,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-07.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-07.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-07.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-07.layout.json"
+    },
+    {
+      "slide": 8,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-08.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-08.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-08.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-08.layout.json"
+    },
+    {
+      "slide": 9,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-09.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-09.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-09.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-09.layout.json"
+    },
+    {
+      "slide": 10,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-10.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-10.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-10.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-10.layout.json"
+    },
+    {
+      "slide": 11,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-11.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-11.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-11.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-11.layout.json"
+    },
+    {
+      "slide": 12,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-12.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-12.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-12.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-12.layout.json"
+    },
+    {
+      "slide": 13,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-13.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-13.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-13.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-13.layout.json"
+    },
+    {
+      "slide": 14,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-14.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-14.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-14.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-14.layout.json"
+    },
+    {
+      "slide": 15,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-15.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-15.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-15.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-15.layout.json"
+    },
+    {
+      "slide": 16,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-16.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-16.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-16.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-16.layout.json"
+    },
+    {
+      "slide": 17,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-17.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-17.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-17.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-17.layout.json"
+    },
+    {
+      "slide": 18,
+      "previewPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/source-slides/source-slide-18.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-18.png",
+      "layoutPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/layouts/source-slide-18.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-18.layout.json"
+    }
+  ],
+  "inspectPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/template-inspect.ndjson",
+  "inspectRelativePath": "template-inspect/template-inspect.ndjson",
+  "inspectTruncated": true,
+  "inspectMetadata": {
+    "revision": "w1p5el",
+    "target": {
+      "id": "pr/t4h7av"
+    },
+    "kind": {
+      "requested": "slide,textbox,shape,image,table,chart",
+      "tokens": [
+        "slide",
+        "textbox",
+        "shape",
+        "image",
+        "table",
+        "chart"
+      ]
+    },
+    "include": {
+      "tokens": []
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  },
+  "extractedMedia": [
+    {
+      "entry": "ppt/media/image43.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image43.png",
+      "relativePath": "template-inspect/assets/ppt/media/image43.png",
+      "bytes": 611890
+    },
+    {
+      "entry": "ppt/media/image44.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image44.png",
+      "relativePath": "template-inspect/assets/ppt/media/image44.png",
+      "bytes": 658015
+    },
+    {
+      "entry": "ppt/media/image8.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image8.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image8.jpg",
+      "bytes": 180635
+    },
+    {
+      "entry": "ppt/media/image42.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image42.png",
+      "relativePath": "template-inspect/assets/ppt/media/image42.png",
+      "bytes": 780772
+    },
+    {
+      "entry": "ppt/media/image46.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image46.png",
+      "relativePath": "template-inspect/assets/ppt/media/image46.png",
+      "bytes": 707307
+    },
+    {
+      "entry": "ppt/media/image47.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image47.png",
+      "relativePath": "template-inspect/assets/ppt/media/image47.png",
+      "bytes": 705320
+    },
+    {
+      "entry": "ppt/media/image48.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image48.png",
+      "relativePath": "template-inspect/assets/ppt/media/image48.png",
+      "bytes": 652108
+    },
+    {
+      "entry": "ppt/media/image49.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image49.png",
+      "relativePath": "template-inspect/assets/ppt/media/image49.png",
+      "bytes": 783374
+    },
+    {
+      "entry": "ppt/media/image50.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image50.png",
+      "relativePath": "template-inspect/assets/ppt/media/image50.png",
+      "bytes": 792401
+    },
+    {
+      "entry": "ppt/media/image41.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image41.png",
+      "relativePath": "template-inspect/assets/ppt/media/image41.png",
+      "bytes": 749121
+    },
+    {
+      "entry": "ppt/media/image51.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image51.png",
+      "relativePath": "template-inspect/assets/ppt/media/image51.png",
+      "bytes": 815575
+    },
+    {
+      "entry": "ppt/media/image52.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image52.png",
+      "relativePath": "template-inspect/assets/ppt/media/image52.png",
+      "bytes": 942118
+    },
+    {
+      "entry": "ppt/media/image53.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image53.png",
+      "relativePath": "template-inspect/assets/ppt/media/image53.png",
+      "bytes": 940624
+    },
+    {
+      "entry": "ppt/media/image54.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image54.png",
+      "relativePath": "template-inspect/assets/ppt/media/image54.png",
+      "bytes": 883506
+    },
+    {
+      "entry": "ppt/media/image40.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image40.png",
+      "relativePath": "template-inspect/assets/ppt/media/image40.png",
+      "bytes": 739477
+    },
+    {
+      "entry": "ppt/media/image55.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image55.png",
+      "relativePath": "template-inspect/assets/ppt/media/image55.png",
+      "bytes": 996296
+    },
+    {
+      "entry": "ppt/media/image56.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image56.png",
+      "relativePath": "template-inspect/assets/ppt/media/image56.png",
+      "bytes": 822369
+    },
+    {
+      "entry": "ppt/media/image57.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image57.png",
+      "relativePath": "template-inspect/assets/ppt/media/image57.png",
+      "bytes": 796643
+    },
+    {
+      "entry": "ppt/media/image58.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image58.png",
+      "relativePath": "template-inspect/assets/ppt/media/image58.png",
+      "bytes": 875992
+    },
+    {
+      "entry": "ppt/media/image39.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image39.png",
+      "relativePath": "template-inspect/assets/ppt/media/image39.png",
+      "bytes": 655680
+    },
+    {
+      "entry": "ppt/media/image59.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image59.png",
+      "relativePath": "template-inspect/assets/ppt/media/image59.png",
+      "bytes": 452723
+    },
+    {
+      "entry": "ppt/media/hdphoto1.wdp",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/hdphoto1.wdp",
+      "relativePath": "template-inspect/assets/ppt/media/hdphoto1.wdp",
+      "bytes": 89700
+    },
+    {
+      "entry": "ppt/media/image38.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image38.png",
+      "relativePath": "template-inspect/assets/ppt/media/image38.png",
+      "bytes": 665628
+    },
+    {
+      "entry": "ppt/media/hdphoto2.wdp",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/hdphoto2.wdp",
+      "relativePath": "template-inspect/assets/ppt/media/hdphoto2.wdp",
+      "bytes": 3057
+    },
+    {
+      "entry": "ppt/media/image61.jpeg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image61.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image61.jpeg",
+      "bytes": 56972
+    },
+    {
+      "entry": "ppt/media/image62.jpeg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image62.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image62.jpeg",
+      "bytes": 46710
+    },
+    {
+      "entry": "ppt/media/image63.jpeg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image63.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image63.jpeg",
+      "bytes": 75266
+    },
+    {
+      "entry": "ppt/media/image64.jpeg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image64.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image64.jpeg",
+      "bytes": 75767
+    },
+    {
+      "entry": "ppt/media/image65.jpeg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image65.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image65.jpeg",
+      "bytes": 60771
+    },
+    {
+      "entry": "ppt/media/image66.jpeg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image66.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image66.jpeg",
+      "bytes": 48860
+    },
+    {
+      "entry": "ppt/media/image67.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image67.png",
+      "relativePath": "template-inspect/assets/ppt/media/image67.png",
+      "bytes": 142979
+    },
+    {
+      "entry": "ppt/media/hdphoto3.wdp",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/hdphoto3.wdp",
+      "relativePath": "template-inspect/assets/ppt/media/hdphoto3.wdp",
+      "bytes": 28896
+    },
+    {
+      "entry": "ppt/media/image68.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image68.png",
+      "relativePath": "template-inspect/assets/ppt/media/image68.png",
+      "bytes": 526093
+    },
+    {
+      "entry": "ppt/media/image69.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image69.png",
+      "relativePath": "template-inspect/assets/ppt/media/image69.png",
+      "bytes": 227048
+    },
+    {
+      "entry": "ppt/media/image37.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image37.png",
+      "relativePath": "template-inspect/assets/ppt/media/image37.png",
+      "bytes": 766347
+    },
+    {
+      "entry": "ppt/media/image70.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image70.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image70.jpg",
+      "bytes": 159802
+    },
+    {
+      "entry": "ppt/media/image71.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image71.png",
+      "relativePath": "template-inspect/assets/ppt/media/image71.png",
+      "bytes": 438038
+    },
+    {
+      "entry": "ppt/media/image72.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image72.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image72.jpg",
+      "bytes": 113877
+    },
+    {
+      "entry": "ppt/media/image36.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image36.png",
+      "relativePath": "template-inspect/assets/ppt/media/image36.png",
+      "bytes": 691029
+    },
+    {
+      "entry": "ppt/media/image73.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image73.png",
+      "relativePath": "template-inspect/assets/ppt/media/image73.png",
+      "bytes": 390670
+    },
+    {
+      "entry": "ppt/media/image74.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image74.png",
+      "relativePath": "template-inspect/assets/ppt/media/image74.png",
+      "bytes": 412028
+    },
+    {
+      "entry": "ppt/media/image75.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image75.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image75.jpg",
+      "bytes": 144104
+    },
+    {
+      "entry": "ppt/media/image45.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image45.png",
+      "relativePath": "template-inspect/assets/ppt/media/image45.png",
+      "bytes": 674577
+    },
+    {
+      "entry": "ppt/media/image35.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image35.png",
+      "relativePath": "template-inspect/assets/ppt/media/image35.png",
+      "bytes": 842327
+    },
+    {
+      "entry": "ppt/media/image7.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image7.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image7.jpg",
+      "bytes": 173022
+    },
+    {
+      "entry": "ppt/media/image34.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image34.png",
+      "relativePath": "template-inspect/assets/ppt/media/image34.png",
+      "bytes": 646112
+    },
+    {
+      "entry": "ppt/media/image33.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image33.png",
+      "relativePath": "template-inspect/assets/ppt/media/image33.png",
+      "bytes": 835666
+    },
+    {
+      "entry": "ppt/media/image6.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image6.png",
+      "relativePath": "template-inspect/assets/ppt/media/image6.png",
+      "bytes": 949319
+    },
+    {
+      "entry": "ppt/media/image5.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image5.png",
+      "relativePath": "template-inspect/assets/ppt/media/image5.png",
+      "bytes": 1016931
+    },
+    {
+      "entry": "ppt/media/image4.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image4.png",
+      "relativePath": "template-inspect/assets/ppt/media/image4.png",
+      "bytes": 986859
+    },
+    {
+      "entry": "ppt/media/image3.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image3.png",
+      "relativePath": "template-inspect/assets/ppt/media/image3.png",
+      "bytes": 837176
+    },
+    {
+      "entry": "ppt/media/image2.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image2.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image2.jpg",
+      "bytes": 209813
+    },
+    {
+      "entry": "ppt/media/image1.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image1.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image1.jpg",
+      "bytes": 168248
+    },
+    {
+      "entry": "ppt/media/image32.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image32.png",
+      "relativePath": "template-inspect/assets/ppt/media/image32.png",
+      "bytes": 977525
+    },
+    {
+      "entry": "ppt/media/image31.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image31.png",
+      "relativePath": "template-inspect/assets/ppt/media/image31.png",
+      "bytes": 1298193
+    },
+    {
+      "entry": "ppt/media/image30.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image30.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image30.jpg",
+      "bytes": 254509
+    },
+    {
+      "entry": "ppt/media/image29.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image29.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image29.jpg",
+      "bytes": 276633
+    },
+    {
+      "entry": "ppt/media/image28.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image28.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image28.jpg",
+      "bytes": 260057
+    },
+    {
+      "entry": "ppt/media/image27.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image27.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image27.jpg",
+      "bytes": 457799
+    },
+    {
+      "entry": "ppt/media/image26.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image26.png",
+      "relativePath": "template-inspect/assets/ppt/media/image26.png",
+      "bytes": 1042802
+    },
+    {
+      "entry": "ppt/media/image25.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image25.png",
+      "relativePath": "template-inspect/assets/ppt/media/image25.png",
+      "bytes": 1014941
+    },
+    {
+      "entry": "ppt/media/image24.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image24.png",
+      "relativePath": "template-inspect/assets/ppt/media/image24.png",
+      "bytes": 990536
+    },
+    {
+      "entry": "ppt/media/image23.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image23.png",
+      "relativePath": "template-inspect/assets/ppt/media/image23.png",
+      "bytes": 990273
+    },
+    {
+      "entry": "ppt/media/image22.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image22.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image22.jpg",
+      "bytes": 255587
+    },
+    {
+      "entry": "ppt/media/image21.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image21.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image21.jpg",
+      "bytes": 184399
+    },
+    {
+      "entry": "ppt/media/image20.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image20.png",
+      "relativePath": "template-inspect/assets/ppt/media/image20.png",
+      "bytes": 973555
+    },
+    {
+      "entry": "ppt/media/image19.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image19.png",
+      "relativePath": "template-inspect/assets/ppt/media/image19.png",
+      "bytes": 949663
+    },
+    {
+      "entry": "ppt/media/image18.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image18.png",
+      "relativePath": "template-inspect/assets/ppt/media/image18.png",
+      "bytes": 996296
+    },
+    {
+      "entry": "ppt/media/image17.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image17.png",
+      "relativePath": "template-inspect/assets/ppt/media/image17.png",
+      "bytes": 986725
+    },
+    {
+      "entry": "ppt/media/image16.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image16.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image16.jpg",
+      "bytes": 287469
+    },
+    {
+      "entry": "ppt/media/image15.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image15.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image15.jpg",
+      "bytes": 176673
+    },
+    {
+      "entry": "ppt/media/image14.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image14.png",
+      "relativePath": "template-inspect/assets/ppt/media/image14.png",
+      "bytes": 893571
+    },
+    {
+      "entry": "ppt/media/image13.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image13.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image13.jpg",
+      "bytes": 173968
+    },
+    {
+      "entry": "ppt/media/image12.jpg",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image12.jpg",
+      "relativePath": "template-inspect/assets/ppt/media/image12.jpg",
+      "bytes": 129092
+    },
+    {
+      "entry": "ppt/media/image11.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image11.png",
+      "relativePath": "template-inspect/assets/ppt/media/image11.png",
+      "bytes": 828189
+    },
+    {
+      "entry": "ppt/media/image10.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image10.png",
+      "relativePath": "template-inspect/assets/ppt/media/image10.png",
+      "bytes": 992109
+    },
+    {
+      "entry": "ppt/media/image9.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image9.png",
+      "relativePath": "template-inspect/assets/ppt/media/image9.png",
+      "bytes": 881635
+    },
+    {
+      "entry": "ppt/media/image60.png",
+      "path": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/revise-slides-16-18/template-inspect/assets/ppt/media/image60.png",
+      "relativePath": "template-inspect/assets/ppt/media/image60.png",
+      "bytes": 11100
+    }
+  ],
+  "fonts": [
+    "+mj-lt",
+    "+mn-cs",
+    "+mn-lt",
+    "Angsana New",
+    "Arial",
+    "Calibri",
+    "Calibri Light",
+    "Cordia New",
+    "DaunPenh",
+    "DokChampa",
+    "Ebrima",
+    "Estrangelo Edessa",
+    "Euphemia",
+    "Gautami",
+    "Iskoola Pota",
+    "Javanese Text",
+    "Kalinga",
+    "Kartika",
+    "Latha",
+    "Leelawadee UI",
+    "MV Boli",
+    "Mangal",
+    "Microsoft Himalaya",
+    "Microsoft JhengHei",
+    "Microsoft New Tai Lue",
+    "Microsoft Tai Le",
+    "Microsoft Uighur",
+    "Microsoft Yi Baiti",
+    "Mongolian Baiti",
+    "MoolBoran",
+    "Myanmar Text",
+    "Nirmala UI",
+    "Noto Sans CJK TC",
+    "Nyala",
+    "Phagspa",
+    "PingFang TC",
+    "Plantagenet Cherokee",
+    "Raavi",
+    "Segoe UI",
+    "Shruti",
+    "Sylfaen",
+    "Times New Roman",
+    "Tunga",
+    "Vrinda",
+    "Wingdings",
+    "微軟正黑體",
+    "新細明體",
+    "游ゴシック",
+    "游ゴシック Light",
+    "等线",
+    "等线 Light",
+    "맑은 고딕"
+  ],
+  "packageParts": {
+    "mediaCount": 78,
+    "slideXmlCount": 18,
+    "chartCount": 0,
+    "tableSlideCount": 2
+  }
+}

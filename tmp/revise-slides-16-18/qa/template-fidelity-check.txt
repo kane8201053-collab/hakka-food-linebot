@@ -1,0 +1,18 @@
+Template fidelity check: fail
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=16
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=16
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=16
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=16
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=16
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=17
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=17
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=17
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=17
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=17
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=17
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=18
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=18
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=18
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=18
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=18
+FAIL mask-cover-overlay: Large new opaque shape appears to cover inherited template content. slide=18

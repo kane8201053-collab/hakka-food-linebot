@@ -1,0 +1,16 @@
+Slides 1–15: no intentional visual or content changes.
+
+Slide 16:
+- Reorganized from a stacked collage/table/product-sheet layout into a photo strip plus two balanced equipment systems.
+- Reused all six production photos at their original 4:3 ratio with cover cropping and no stretching.
+- Replaced the DJI AIR 3S reference with “專業級模組化空拍系統” and an AI-generated, unbranded professional drone visual.
+- Retained the Sony camera and lens information while reducing duplicate specification text.
+
+Slides 17–18:
+- Reorganized three team members per page into consistent horizontal profile sections.
+- Reused all original member photos with proportional cover crops.
+- Condensed repeated credit wording into scannable year/project/responsibility lines without changing the represented experience.
+- Removed the broken off-canvas slide number on slide 18.
+
+QA note:
+- The automated template-overlay scan flags the new card backgrounds on slides 16–18 because those pages were intentionally rebuilt within the documented edit zone after deleting the original table/profile arrangement. Visual inspection confirms the new surfaces do not conceal retained content, and slides 1–15 remain pixel-identical to the imported starter renders.

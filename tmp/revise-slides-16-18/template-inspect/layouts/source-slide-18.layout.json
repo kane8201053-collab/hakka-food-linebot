@@ -1,0 +1,1946 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/y5wne50z",
+    "id": "y5wne50z",
+    "slide": 18,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ilczmx4",
+      "id": "58",
+      "name": "Text 3",
+      "bbox": [
+        198.55,
+        58.29,
+        448.32,
+        63.36
+      ],
+      "geometry": "rect",
+      "text": "工作團隊與執行分工",
+      "textPreview": "工作團隊與執行分工",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工作團隊與執行分工"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工作團隊與執行分工",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "工作團隊與執行分工",
+              "fontSize": 32,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22313F",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5kna5sz",
+      "id": "28",
+      "name": "文字方塊 27",
+      "bbox": [
+        221.58,
+        570.09,
+        495.8,
+        222.96
+      ],
+      "geometry": "rect",
+      "text": "2019/9~2020/3 \n攝影師 | MOMOTV 體育賽事部 | \n\n2020/5~2022/4\n台北市議員公費助理|羅智強議員|\n\n2022/4~2023/7\n執行製作|壹電視 新聞思想啟|\n\n2023/8~現職\n攝影記者|民視 新聞部|",
+      "textPreview": "2019/9~2020/3  | 攝影師 | MOMOTV 體育賽事部 |  |  | 2020/5~2022/4 | 台北市議員公費助理|羅智強議員| |  | 2022/4~2023/7 | 執行製作|壹電視 新聞思想啟| |  | 2023/8~現職 | 攝影記者|民...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 11,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2019/9~2020/3"
+          },
+          {
+            "index": 2,
+            "text": "攝影師 | MOMOTV 體育賽事部 |"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "2020/5~2022/4"
+          },
+          {
+            "index": 5,
+            "text": "台北市議員公費助理|羅智強議員|"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "2022/4~2023/7"
+          },
+          {
+            "index": 8,
+            "text": "執行製作|壹電視 新聞思想啟|"
+          },
+          {
+            "index": 9,
+            "text": ""
+          },
+          {
+            "index": 10,
+            "text": "2023/8~現職"
+          },
+          {
+            "index": 11,
+            "text": "攝影記者|民視 新聞部|"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2019/9~2020/3 ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "2019/9~2020/3 ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "攝影師 | MOMOTV 體育賽事部 | ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "攝影師 ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "| MOMOTV ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "體育賽事部 ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "| ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "\n2020/5~2022/4\n台北市議員公費助理|羅智強議員|\n\n2022/4~2023/7",
+          "runs": [
+            {
+              "index": 1,
+              "text": "\n"
+            },
+            {
+              "index": 2,
+              "text": "2020/5~2022/4",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "\n"
+            },
+            {
+              "index": 4,
+              "text": "台北市議員公費助理",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "|",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "羅智強議員",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": "|",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 8,
+              "text": "\n"
+            },
+            {
+              "index": 9,
+              "text": "\n"
+            },
+            {
+              "index": 10,
+              "text": "2022/4~2023/7",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "執行製作|壹電視 新聞思想啟|\n\n2023/8~現職\n攝影記者|民視 新聞部|",
+          "runs": [
+            {
+              "index": 1,
+              "text": "執行製作",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "|",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "壹電視 新聞思想啟",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "|",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "\n"
+            },
+            {
+              "index": 6,
+              "text": "\n"
+            },
+            {
+              "index": 7,
+              "text": "2023/8~",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 8,
+              "text": "現職",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 9,
+              "text": "\n"
+            },
+            {
+              "index": 10,
+              "text": "攝影記者",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 11,
+              "text": "|",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 12,
+              "text": "民視 新聞部",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 13,
+              "text": "|",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "accent4",
+        "transform": {
+          "lighten": 0.8
+        }
+      },
+      "lineColor": {
+        "type": "theme",
+        "value": "accent4",
+        "transform": {
+          "darken": 0.25
+        }
+      },
+      "lineWidth": 1.33
+    },
+    {
+      "order": 3,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/xsj6tsru",
+      "id": "59",
+      "name": "圖片 28",
+      "bbox": [
+        67.89,
+        582.4,
+        127.88,
+        189.8
+      ],
+      "contentType": "image/png",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0.0807
+      },
+      "asset": {
+        "assetId": "/ppt/media/image73.png",
+        "contentType": "image/png",
+        "byteLength": 390670
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image73.png",
+        "contentType": "image/png",
+        "byteLength": 390670
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t0zqp8bm",
+      "id": "30",
+      "name": "文字方塊 29",
+      "bbox": [
+        67.63,
+        572.65,
+        128.14,
+        29.08
+      ],
+      "geometry": "rect",
+      "text": "宸洛",
+      "textPreview": "宸洛",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "宸洛"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "宸洛",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "宸洛",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "accent4",
+        "transform": {
+          "lighten": 0.8
+        }
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szq9g3uh",
+      "id": "31",
+      "name": "矩形 30",
+      "bbox": [
+        67.63,
+        774.24,
+        127.88,
+        25.54
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": {
+        "type": "theme",
+        "value": "accent2",
+        "transform": {
+          "lighten": 0.8
+        }
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7yh8nytw",
+      "id": "32",
+      "name": "文字方塊 31",
+      "bbox": [
+        78.63,
+        772.21,
+        100.17,
+        29.08
+      ],
+      "geometry": "rect",
+      "text": "製片、場務",
+      "textPreview": "製片、場務",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "製片、場務"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "製片、場務",
+          "runs": [
+            {
+              "index": 1,
+              "text": "製片、場務",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6x8retcb",
+      "id": "33",
+      "name": "文字方塊 32",
+      "bbox": [
+        218.8,
+        834.94,
+        495.8,
+        180.62
+      ],
+      "geometry": "rect",
+      "text": "(2020-2021)\n提米通話 TimmyCall - 遲到王 (Official Music Video) \n提米通話 TimmyCall - Killer Paper (Official Music Video) (攝助、燈光)\n(2024)  \n臺北市客家義民嘉年華影片拍攝 (攝助、燈光)",
+      "textPreview": "(2020-2021) | 提米通話 TimmyCall - 遲到王 (Official Music Video)  | 提米通話 TimmyCall - Killer Paper (Official Music Video) (攝助、燈光) | (2024)   | 臺北...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": "(2020-2021)"
+          },
+          {
+            "index": 2,
+            "text": "提米通話 TimmyCall - 遲到王 (Official Music Video)"
+          },
+          {
+            "index": 3,
+            "text": "提米通話 TimmyCall - Killer Paper (Official Music Video) ("
+          },
+          {
+            "index": 4,
+            "text": "攝助、燈光)"
+          },
+          {
+            "index": 5,
+            "text": "(2024)"
+          },
+          {
+            "index": 6,
+            "text": "臺北市客家義民嘉年華影片拍攝 (攝助、燈光)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "(2020-2021)",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "(2020-2021)",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "提米通話 TimmyCall - 遲到王 (Official Music Video) ",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "提米通話 ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "TimmyCall - ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "遲到王 ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "(",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "Official Music Video)",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": " ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "提米通話 TimmyCall - Killer Paper (Official Music Video) (攝助、燈光)",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "提米通話 ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "TimmyCall - Killer Paper (Official Music Video)",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": " (",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "攝助、燈光",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": ")",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "(2024)  ",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "(2024)  ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "臺北市客家義民嘉年華影片拍攝 (攝助、燈光)",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "臺北市客家義民嘉年華",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "影片拍攝 ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "(",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "攝助、燈光",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": ")",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "accent4",
+        "transform": {
+          "lighten": 0.8
+        }
+      },
+      "lineColor": {
+        "type": "theme",
+        "value": "accent4",
+        "transform": {
+          "darken": 0.25
+        }
+      },
+      "lineWidth": 1.33
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/dobmxoji",
+      "id": "60",
+      "name": "圖片 33",
+      "bbox": [
+        67.63,
+        859.14,
+        134.16,
+        134.62
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image74.png",
+        "contentType": "image/png",
+        "byteLength": 412028
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image74.png",
+        "contentType": "image/png",
+        "byteLength": 412028
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3a9knud",
+      "id": "35",
+      "name": "文字方塊 34",
+      "bbox": [
+        86.21,
+        829.18,
+        96.86,
+        29.08
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": {
+        "type": "theme",
+        "value": "accent4",
+        "transform": {
+          "lighten": 0.8
+        }
+      }
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f218rits",
+      "id": "36",
+      "name": "文字方塊 35",
+      "bbox": [
+        86.21,
+        829.92,
+        95.17,
+        29.08
+      ],
+      "geometry": "rect",
+      "text": "志豪",
+      "textPreview": "志豪",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "志豪"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "志豪",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "志豪",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "color": "#000000",
+              "bold": true,
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u1sridc7",
+      "id": "37",
+      "name": "矩形 36",
+      "bbox": [
+        67.63,
+        995.51,
+        132.5,
+        25.54
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": {
+        "type": "theme",
+        "value": "accent2",
+        "transform": {
+          "lighten": 0.8
+        }
+      }
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x8fqhobu",
+      "id": "38",
+      "name": "文字方塊 37",
+      "bbox": [
+        78.51,
+        993.2,
+        100.17,
+        29.08
+      ],
+      "geometry": "rect",
+      "text": "燈光、場務",
+      "textPreview": "燈光、場務",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "燈光、場務"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "燈光、場務",
+          "runs": [
+            {
+              "index": 1,
+              "text": "燈光、場務",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7698ju9",
+      "id": "39",
+      "name": "文字方塊 38",
+      "bbox": [
+        224.11,
+        163.4,
+        493.27,
+        364.8
+      ],
+      "geometry": "rect",
+      "text": "煒業影像工作室負責人（具備無人機操作證照）\n\n公館旅遊形象影片旅公館 拍攝\n五結鄉公所幼兒園形象片拍攝\n四分衛Quarterback喜歡拍照打卡的人SHeldMillie 拍攝\n脫拉庫-愛情青紅燈-現場版MV 導演/拍攝/剪輯\n何瑞康【山那OUR LAND】 Official Music Video 拍攝\n廖士賢【阿強Lost Guy】Official Music Video 拍攝\n宏佳騰機車廣告 拍攝\n麥卡倫大使社群 拍攝\ncama café源氣特調廣告 拍攝\n2023桃園觀光局形象影片拍攝\n台泥企業形象廣告 拍攝 ",
+      "textPreview": "煒業影像工作室負責人（具備無人機操作證照） |  | 公館旅遊形象影片旅公館 拍攝 | 五結鄉公所幼兒園形象片拍攝 | 四分衛Quarterback喜歡拍照打卡的人SHeldMillie 拍攝 | 脫拉庫-愛情青紅燈-現場版MV 導演/拍攝/剪輯 | 何瑞康【山那OUR L...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 13,
+        "lines": [
+          {
+            "index": 1,
+            "text": "煒業影像工作室負責人（具備無人機操作證照）"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "公館旅遊形象影片旅公館 拍攝"
+          },
+          {
+            "index": 4,
+            "text": "五結鄉公所幼兒園形象片拍攝"
+          },
+          {
+            "index": 5,
+            "text": "四分衛Quarterback喜歡拍照打卡的人SHeldMillie 拍攝"
+          },
+          {
+            "index": 6,
+            "text": "脫拉庫-愛情青紅燈-現場版MV 導演/拍攝/剪輯"
+          },
+          {
+            "index": 7,
+            "text": "何瑞康【山那OUR LAND】 Official Music Video 拍攝"
+          },
+          {
+            "index": 8,
+            "text": "廖士賢【阿強Lost Guy】Official Music Video 拍攝"
+          },
+          {
+            "index": 9,
+            "text": "宏佳騰機車廣告 拍攝"
+          },
+          {
+            "index": 10,
+            "text": "麥卡倫大使社群 拍攝"
+          },
+          {
+            "index": 11,
+            "text": "cama café源氣特調廣告 拍攝"
+          },
+          {
+            "index": 12,
+            "text": "2023桃園觀光局形象影片拍攝"
+          },
+          {
+            "index": 13,
+            "text": "台泥企業形象廣告 拍攝"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "煒業影像工作室負責人（具備無人機操作證照）\n",
+          "runs": [
+            {
+              "index": 1,
+              "text": "煒業影像工作室負責人",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "（具備無人機操作證照）",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "\n"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "公館旅遊形象影片旅公館 拍攝",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "公館旅遊形象影片旅公館",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "拍攝",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "五結鄉公所幼兒園形象片拍攝",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "五結鄉公所幼兒園形象片",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "拍攝",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "四分衛Quarterback喜歡拍照打卡的人SHeldMillie 拍攝",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "四分衛",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "Quarterback",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "喜歡拍照打卡的人",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "SHeldMillie",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "拍攝",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "脫拉庫-愛情青紅燈-現場版MV 導演/拍攝/剪輯",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "脫拉庫",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "-",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "愛情青紅燈",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "-",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "現場版",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "MV",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": " 導演",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 8,
+              "text": "/",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 9,
+              "text": "拍攝",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 10,
+              "text": "/",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 11,
+              "text": "剪輯",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "何瑞康【山那OUR LAND】 Official Music Video 拍攝",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "何瑞康",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "【",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "山那",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "OUR LAND】 Official Music Video",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "拍攝",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "廖士賢【阿強Lost Guy】Official Music Video 拍攝",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "廖士賢",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "【",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "阿強",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "Lost ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "Guy】Official",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": " Music Video",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": " ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 8,
+              "text": "拍攝",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "宏佳騰機車廣告 拍攝",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "宏佳騰機車廣告 ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "拍攝",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "麥卡倫大使社群 拍攝",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "麥卡倫大使社群 拍攝",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "cama café源氣特調廣告 拍攝",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "cama",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " café",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "源氣特調廣告 ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "拍攝",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 11,
+          "text": "2023桃園觀光局形象影片拍攝",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "2023",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "桃園觀光局形象影片",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "拍攝",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 12,
+          "text": "台泥企業形象廣告 拍攝 ",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "台泥企業形象廣告 拍攝 ",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "accent4",
+        "transform": {
+          "lighten": 0.8
+        }
+      },
+      "lineColor": {
+        "type": "theme",
+        "value": "accent4",
+        "transform": {
+          "darken": 0.25
+        }
+      },
+      "lineWidth": 1.33
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0netwrex",
+      "id": "40",
+      "name": "文字方塊 39",
+      "bbox": [
+        76.74,
+        170.83,
+        128.14,
+        29.08
+      ],
+      "geometry": "rect",
+      "text": "廖宗煒",
+      "textPreview": "廖宗煒",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "廖宗煒"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "廖宗煒",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "廖宗煒",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "accent4",
+        "transform": {
+          "lighten": 0.8
+        }
+      }
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lonupwv2",
+      "id": "41",
+      "name": "矩形 40",
+      "bbox": [
+        76.87,
+        361.61,
+        127.88,
+        25.54
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": {
+        "type": "theme",
+        "value": "accent2",
+        "transform": {
+          "lighten": 0.8
+        }
+      }
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylwbuhwr",
+      "id": "42",
+      "name": "文字方塊 41",
+      "bbox": [
+        86.45,
+        360.1,
+        104.21,
+        29.08
+      ],
+      "geometry": "rect",
+      "text": "導演 、攝影",
+      "textPreview": "導演 、攝影",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "導演 、攝影"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "導演 、攝影",
+          "runs": [
+            {
+              "index": 1,
+              "text": "導演 、攝影",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/cn2l4j2x",
+      "id": "61",
+      "name": "圖片 42",
+      "bbox": [
+        78.02,
+        216.18,
+        126.27,
+        141.76
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0.18069,
+        "top": 0,
+        "right": 0.22548,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image75.jpg",
+        "contentType": "image/jpeg",
+        "byteLength": 144104
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image75.jpg",
+        "contentType": "image/jpeg",
+        "byteLength": 144104
+      }
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wrelszu9",
+      "id": "2",
+      "name": "投影片編號版面配置區 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "18",
+      "textPreview": "18",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1"
+          },
+          {
+            "index": 2,
+            "text": "8"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "18",
+          "runs": [
+            {
+              "index": 1,
+              "text": "18"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,4 +1,5 @@
 import unittest
+from unittest.mock import patch
 
 from bot_logic import (
     MAX_LINE_REPLY_UNITS,
@@ -113,6 +114,26 @@ QUESTION_CASES = [
 
 
 class CitizenQuestionRoutingTests(unittest.TestCase):
+    def test_total_count_questions_use_current_database(self):
+        for question in (
+            "總共有幾家合作店家？", "合作店家一共有幾家？",
+            "請問目前有多少間合作餐廳？", "合作店家總數是多少？",
+            "2026 臺北客家美食節共有幾家店家？",
+        ):
+            with self.subTest(question=question):
+                decision = decide_reply(question)
+                self.assertEqual("restaurant-count", decision.route)
+                self.assertIn("共有 47 家合作店家", decision.reply_text)
+                self.assertEqual(1, len(build_reply_links(decision.reply_text, question)))
+        with patch("bot_logic.RESTAURANTS", RESTAURANTS[:-1]):
+            self.assertIn("共有 46 家合作店家", decide_reply("總共有幾家合作店家？").reply_text)
+            self.assertIn("目前合作店家總數：46 家", build_ai_prompt("店家有多少？"))
+
+    def test_filtered_questions_do_not_use_global_total(self):
+        for question in ("中山區有幾家合作店家？", "有幾家店賣客家小炒？", "有哪些合作店家？"):
+            with self.subTest(question=question):
+                self.assertNotEqual("restaurant-count", decide_reply(question).route)
+
     def test_at_least_50_citizen_questions(self):
         self.assertGreaterEqual(len(QUESTION_CASES), 50)
 
@@ -205,7 +226,7 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         self.assertEqual(MESSAGE_TOO_LONG_REPLY, decision.reply_text)
 
     def test_restaurant_database_is_complete_and_consistent(self):
-        self.assertEqual(40, len(RESTAURANTS))
+        self.assertEqual(47, len(RESTAURANTS))
         names = [restaurant["name"] for restaurant in RESTAURANTS]
         self.assertEqual(len(names), len(set(names)))
 

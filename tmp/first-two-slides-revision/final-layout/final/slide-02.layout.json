@@ -1,0 +1,2759 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/hwbqtkby",
+    "id": "hwbqtkby",
+    "slide": 2,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9072xkry",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        28.8,
+        768,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "OUTLINE",
+      "textPreview": "OUTLINE",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "OUTLINE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "OUTLINE",
+          "runs": [
+            {
+              "index": 1,
+              "text": "OUTLINE",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ozy1ofad",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        333.12,
+        28.8,
+        403.2,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "看見.共好 － 第5屆新北市議會|影片腳本",
+      "textPreview": "看見.共好 － 第5屆新北市議會|影片腳本",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好 － 第5屆新北市議會|影片腳本"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好 － 第5屆新北市議會|影片腳本",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好 － 第5屆新北市議會|影片腳本",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b29kza94",
+      "id": "4",
+      "name": "Text 2",
+      "bbox": [
+        57.6,
+        55.68,
+        678.72,
+        52.8
+      ],
+      "geometry": "rect",
+      "text": "影片腳本大綱（總長度：11 分 10 秒）",
+      "textPreview": "影片腳本大綱（總長度：11 分 10 秒）",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "影片腳本大綱（總長度：11 分 10 秒）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "影片腳本大綱（總長度：11 分 10 秒）",
+          "runs": [
+            {
+              "index": 1,
+              "text": "影片腳本大綱（總長度：11 分 10 秒）",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a10jqpsj",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1079.04,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "3",
+      "textPreview": "3",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/sjil0vu9",
+      "id": "6",
+      "name": "Table 0",
+      "bbox": [
+        57.6,
+        117.12,
+        678.72,
+        736.95
+      ],
+      "text": "段落 | 名稱 | 內容綱要 | 長度 | 加總\n片頭 | 看見城市 | 眼睛與光、城市群像、片名建立 | 1:00 | 1:00\n沿革 | 看見傳承 | 地方自治沿革與議場光線承接 | 0:50 | 1:50\n就職 | 每一席的託付 | 第 5 屆宣誓、議長選舉、大合照 | 0:45 | 2:35\n選區 A | 第 1–4 選區 | 海岸、成長、新舊交會、河岸生活 | 0:45 | 3:20\n選區 B | 第 5–8 選區 | 核心、密度、公共空間、文化產業 | 0:45 | 4:05\n選區 C | 第 9–13 選區 | 山海、城鄉、族群與文化傳承 | 0:50 | 4:55\n轉折 | 看見問題 | 由三個日常問題帶入議會核心 | 0:20 | 5:15\n民意 A | 受理到提案 | 受理、查證、現勘、定義問題 | 0:50 | 6:05\n民意 B | 議決與追蹤 | 質詢、審查、議決、追蹤、回現場 | 0:50 | 6:55\n職權 | 公開討論 | 以真實議事動作說明五項職權 | 1:20 | 8:15\n幕後 | 民主被保存 | 行政協作、典藏、會史館與多語測試 | 0:55 | 9:10\n承諾 | 第 5 屆期許 | 議長原音與全體群像，承接託付 | 1:05 | 10:15\n片尾 | 看見未來 | 清晨回收、光點匯聚、正式片名 | 0:55 | 11:10\n總計 | 完整片長 | 第 3 至第 15 頁分鏡時間帶加總 | 11:10 | 11:10",
+      "textPreview": "段落 | 名稱 | 內容綱要 | 長度 | 加總 | 片頭 | 看見城市 | 眼睛與光、城市群像、片名建立 | 1:00 | 1:00 | 沿革 | 看見傳承 | 地方自治沿革與議場光線承接 | 0:50 | 1:50 | 就職 | 每一席的託付 | 第 5 屆宣誓、議長選...",
+      "rows": 15,
+      "cols": 5,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.6,
+            117.12,
+            81.6,
+            41.73
+          ],
+          "text": "段落",
+          "textPreview": "段落",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "段落",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "段落",
+                  "fontSize": 18.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            139.2,
+            117.12,
+            124.8,
+            41.73
+          ],
+          "text": "名稱",
+          "textPreview": "名稱",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "名稱",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "名稱",
+                  "fontSize": 18.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            264,
+            117.12,
+            319.72,
+            41.73
+          ],
+          "text": "內容綱要",
+          "textPreview": "內容綱要",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "內容綱要",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "內容綱要",
+                  "fontSize": 18.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            583.72,
+            117.12,
+            85.4,
+            41.73
+          ],
+          "text": "長度",
+          "textPreview": "長度",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "長度",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "長度",
+                  "fontSize": 18.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            669.12,
+            117.12,
+            67.2,
+            41.73
+          ],
+          "text": "加總",
+          "textPreview": "加總",
+          "fillColor": "#1B2A4A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "加總",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "加總",
+                  "fontSize": 18.67,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.6,
+            158.85,
+            81.6,
+            67.24
+          ],
+          "text": "片頭",
+          "textPreview": "片頭",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "片頭",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "片頭",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            139.2,
+            158.85,
+            124.8,
+            67.24
+          ],
+          "text": "看見城市",
+          "textPreview": "看見城市",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "看見城市",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "看見城市",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            264,
+            158.85,
+            319.72,
+            67.24
+          ],
+          "text": "眼睛與光、城市群像、片名建立",
+          "textPreview": "眼睛與光、城市群像、片名建立",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "眼睛與光、城市群像、片名建立",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "眼睛與光、城市群像、片名建立",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            583.72,
+            158.85,
+            85.4,
+            67.24
+          ],
+          "text": "1:00",
+          "textPreview": "1:00",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1:00",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1:00",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            669.12,
+            158.85,
+            67.2,
+            67.24
+          ],
+          "text": "1:00",
+          "textPreview": "1:00",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1:00",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1:00",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.6,
+            226.09,
+            81.6,
+            43.23
+          ],
+          "text": "沿革",
+          "textPreview": "沿革",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "沿革",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "沿革",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            139.2,
+            226.09,
+            124.8,
+            43.23
+          ],
+          "text": "看見傳承",
+          "textPreview": "看見傳承",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "看見傳承",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "看見傳承",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            264,
+            226.09,
+            319.72,
+            43.23
+          ],
+          "text": "地方自治沿革與議場光線承接",
+          "textPreview": "地方自治沿革與議場光線承接",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "地方自治沿革與議場光線承接",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "地方自治沿革與議場光線承接",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            583.72,
+            226.09,
+            85.4,
+            43.23
+          ],
+          "text": "0:50",
+          "textPreview": "0:50",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0:50",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0:50",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            669.12,
+            226.09,
+            67.2,
+            43.23
+          ],
+          "text": "1:50",
+          "textPreview": "1:50",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1:50",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1:50",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.6,
+            269.31,
+            81.6,
+            67.24
+          ],
+          "text": "就職",
+          "textPreview": "就職",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "就職",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "就職",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            139.2,
+            269.31,
+            124.8,
+            67.24
+          ],
+          "text": "每一席的託付",
+          "textPreview": "每一席的託付",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "每一席的託付",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "每一席的託付",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            264,
+            269.31,
+            319.72,
+            67.24
+          ],
+          "text": "第 5 屆宣誓、議長選舉、大合照",
+          "textPreview": "第 5 屆宣誓、議長選舉、大合照",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第 5 屆宣誓、議長選舉、大合照",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第 5 屆宣誓、議長選舉、大合照",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            583.72,
+            269.31,
+            85.4,
+            67.24
+          ],
+          "text": "0:45",
+          "textPreview": "0:45",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0:45",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0:45",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            669.12,
+            269.31,
+            67.2,
+            67.24
+          ],
+          "text": "2:35",
+          "textPreview": "2:35",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2:35",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2:35",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            57.6,
+            336.55,
+            81.6,
+            43.23
+          ],
+          "text": "選區 A",
+          "textPreview": "選區 A",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "選區 A",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "選區 A",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            139.2,
+            336.55,
+            124.8,
+            43.23
+          ],
+          "text": "第 1–4 選區",
+          "textPreview": "第 1–4 選區",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第 1–4 選區",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第 1–4 選區",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            264,
+            336.55,
+            319.72,
+            43.23
+          ],
+          "text": "海岸、成長、新舊交會、河岸生活",
+          "textPreview": "海岸、成長、新舊交會、河岸生活",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "海岸、成長、新舊交會、河岸生活",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "海岸、成長、新舊交會、河岸生活",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            583.72,
+            336.55,
+            85.4,
+            43.23
+          ],
+          "text": "0:45",
+          "textPreview": "0:45",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0:45",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0:45",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            669.12,
+            336.55,
+            67.2,
+            43.23
+          ],
+          "text": "3:20",
+          "textPreview": "3:20",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3:20",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3:20",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            57.6,
+            379.78,
+            81.6,
+            67.24
+          ],
+          "text": "選區 B",
+          "textPreview": "選區 B",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "選區 B",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "選區 B",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            139.2,
+            379.78,
+            124.8,
+            67.24
+          ],
+          "text": "第 5–8 選區",
+          "textPreview": "第 5–8 選區",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第 5–8 選區",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第 5–8 選區",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            264,
+            379.78,
+            319.72,
+            67.24
+          ],
+          "text": "核心、密度、公共空間、文化產業",
+          "textPreview": "核心、密度、公共空間、文化產業",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "核心、密度、公共空間、文化產業",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "核心、密度、公共空間、文化產業",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            583.72,
+            379.78,
+            85.4,
+            67.24
+          ],
+          "text": "0:45",
+          "textPreview": "0:45",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0:45",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0:45",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            669.12,
+            379.78,
+            67.2,
+            67.24
+          ],
+          "text": "4:05",
+          "textPreview": "4:05",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4:05",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4:05",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            57.6,
+            447.02,
+            81.6,
+            43.23
+          ],
+          "text": "選區 C",
+          "textPreview": "選區 C",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "選區 C",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "選區 C",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            139.2,
+            447.02,
+            124.8,
+            43.23
+          ],
+          "text": "第 9–13 選區",
+          "textPreview": "第 9–13 選區",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第 9–13 選區",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第 9–13 選區",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            264,
+            447.02,
+            319.72,
+            43.23
+          ],
+          "text": "山海、城鄉、族群與文化傳承",
+          "textPreview": "山海、城鄉、族群與文化傳承",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "山海、城鄉、族群與文化傳承",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "山海、城鄉、族群與文化傳承",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            583.72,
+            447.02,
+            85.4,
+            43.23
+          ],
+          "text": "0:50",
+          "textPreview": "0:50",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0:50",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0:50",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 7,
+          "column": 5,
+          "bbox": [
+            669.12,
+            447.02,
+            67.2,
+            43.23
+          ],
+          "text": "4:55",
+          "textPreview": "4:55",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4:55",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4:55",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            57.6,
+            490.25,
+            81.6,
+            67.24
+          ],
+          "text": "轉折",
+          "textPreview": "轉折",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "轉折",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "轉折",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 37,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            139.2,
+            490.25,
+            124.8,
+            67.24
+          ],
+          "text": "看見問題",
+          "textPreview": "看見問題",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "看見問題",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "看見問題",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 38,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            264,
+            490.25,
+            319.72,
+            67.24
+          ],
+          "text": "由三個日常問題帶入議會核心",
+          "textPreview": "由三個日常問題帶入議會核心",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "由三個日常問題帶入議會核心",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "由三個日常問題帶入議會核心",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 39,
+          "row": 8,
+          "column": 4,
+          "bbox": [
+            583.72,
+            490.25,
+            85.4,
+            67.24
+          ],
+          "text": "0:20",
+          "textPreview": "0:20",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0:20",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0:20",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 40,
+          "row": 8,
+          "column": 5,
+          "bbox": [
+            669.12,
+            490.25,
+            67.2,
+            67.24
+          ],
+          "text": "5:15",
+          "textPreview": "5:15",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5:15",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5:15",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 41,
+          "row": 9,
+          "column": 1,
+          "bbox": [
+            57.6,
+            557.49,
+            81.6,
+            43.23
+          ],
+          "text": "民意 A",
+          "textPreview": "民意 A",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "民意 A",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "民意 A",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 42,
+          "row": 9,
+          "column": 2,
+          "bbox": [
+            139.2,
+            557.49,
+            124.8,
+            43.23
+          ],
+          "text": "受理到提案",
+          "textPreview": "受理到提案",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "受理到提案",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "受理到提案",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 43,
+          "row": 9,
+          "column": 3,
+          "bbox": [
+            264,
+            557.49,
+            319.72,
+            43.23
+          ],
+          "text": "受理、查證、現勘、定義問題",
+          "textPreview": "受理、查證、現勘、定義問題",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "受理、查證、現勘、定義問題",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "受理、查證、現勘、定義問題",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 44,
+          "row": 9,
+          "column": 4,
+          "bbox": [
+            583.72,
+            557.49,
+            85.4,
+            43.23
+          ],
+          "text": "0:50",
+          "textPreview": "0:50",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0:50",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0:50",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 45,
+          "row": 9,
+          "column": 5,
+          "bbox": [
+            669.12,
+            557.49,
+            67.2,
+            43.23
+          ],
+          "text": "6:05",
+          "textPreview": "6:05",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6:05",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6:05",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 46,
+          "row": 10,
+          "column": 1,
+          "bbox": [
+            57.6,
+            600.71,
+            81.6,
+            41.73
+          ],
+          "text": "民意 B",
+          "textPreview": "民意 B",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "民意 B",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "民意 B",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 47,
+          "row": 10,
+          "column": 2,
+          "bbox": [
+            139.2,
+            600.71,
+            124.8,
+            41.73
+          ],
+          "text": "議決與追蹤",
+          "textPreview": "議決與追蹤",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "議決與追蹤",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "議決與追蹤",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 48,
+          "row": 10,
+          "column": 3,
+          "bbox": [
+            264,
+            600.71,
+            319.72,
+            41.73
+          ],
+          "text": "質詢、審查、議決、追蹤、回現場",
+          "textPreview": "質詢、審查、議決、追蹤、回現場",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "質詢、審查、議決、追蹤、回現場",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "質詢、審查、議決、追蹤、回現場",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 49,
+          "row": 10,
+          "column": 4,
+          "bbox": [
+            583.72,
+            600.71,
+            85.4,
+            41.73
+          ],
+          "text": "0:50",
+          "textPreview": "0:50",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0:50",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0:50",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 50,
+          "row": 10,
+          "column": 5,
+          "bbox": [
+            669.12,
+            600.71,
+            67.2,
+            41.73
+          ],
+          "text": "6:55",
+          "textPreview": "6:55",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6:55",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6:55",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 51,
+          "row": 11,
+          "column": 1,
+          "bbox": [
+            57.6,
+            642.44,
+            81.6,
+            43.23
+          ],
+          "text": "職權",
+          "textPreview": "職權",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "職權",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "職權",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 52,
+          "row": 11,
+          "column": 2,
+          "bbox": [
+            139.2,
+            642.44,
+            124.8,
+            43.23
+          ],
+          "text": "公開討論",
+          "textPreview": "公開討論",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "公開討論",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "公開討論",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 53,
+          "row": 11,
+          "column": 3,
+          "bbox": [
+            264,
+            642.44,
+            319.72,
+            43.23
+          ],
+          "text": "以真實議事動作說明五項職權",
+          "textPreview": "以真實議事動作說明五項職權",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "以真實議事動作說明五項職權",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "以真實議事動作說明五項職權",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 54,
+          "row": 11,
+          "column": 4,
+          "bbox": [
+            583.72,
+            642.44,
+            85.4,
+            43.23
+          ],
+          "text": "1:20",
+          "textPreview": "1:20",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1:20",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1:20",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 55,
+          "row": 11,
+          "column": 5,
+          "bbox": [
+            669.12,
+            642.44,
+            67.2,
+            43.23
+          ],
+          "text": "8:15",
+          "textPreview": "8:15",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8:15",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8:15",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 56,
+          "row": 12,
+          "column": 1,
+          "bbox": [
+            57.6,
+            685.67,
+            81.6,
+            41.73
+          ],
+          "text": "幕後",
+          "textPreview": "幕後",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "幕後",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "幕後",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 57,
+          "row": 12,
+          "column": 2,
+          "bbox": [
+            139.2,
+            685.67,
+            124.8,
+            41.73
+          ],
+          "text": "民主被保存",
+          "textPreview": "民主被保存",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "民主被保存",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "民主被保存",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 58,
+          "row": 12,
+          "column": 3,
+          "bbox": [
+            264,
+            685.67,
+            319.72,
+            41.73
+          ],
+          "text": "行政協作、典藏、會史館與多語測試",
+          "textPreview": "行政協作、典藏、會史館與多語測試",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "行政協作、典藏、會史館與多語測試",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "行政協作、典藏、會史館與多語測試",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 59,
+          "row": 12,
+          "column": 4,
+          "bbox": [
+            583.72,
+            685.67,
+            85.4,
+            41.73
+          ],
+          "text": "0:55",
+          "textPreview": "0:55",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0:55",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0:55",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 60,
+          "row": 12,
+          "column": 5,
+          "bbox": [
+            669.12,
+            685.67,
+            67.2,
+            41.73
+          ],
+          "text": "9:10",
+          "textPreview": "9:10",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "9:10",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "9:10",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 61,
+          "row": 13,
+          "column": 1,
+          "bbox": [
+            57.6,
+            727.39,
+            81.6,
+            43.23
+          ],
+          "text": "承諾",
+          "textPreview": "承諾",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "承諾",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "承諾",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 62,
+          "row": 13,
+          "column": 2,
+          "bbox": [
+            139.2,
+            727.39,
+            124.8,
+            43.23
+          ],
+          "text": "第 5 屆期許",
+          "textPreview": "第 5 屆期許",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第 5 屆期許",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第 5 屆期許",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 63,
+          "row": 13,
+          "column": 3,
+          "bbox": [
+            264,
+            727.39,
+            319.72,
+            43.23
+          ],
+          "text": "議長原音與全體群像，承接託付",
+          "textPreview": "議長原音與全體群像，承接託付",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "議長原音與全體群像，承接託付",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "議長原音與全體群像，承接託付",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 64,
+          "row": 13,
+          "column": 4,
+          "bbox": [
+            583.72,
+            727.39,
+            85.4,
+            43.23
+          ],
+          "text": "1:05",
+          "textPreview": "1:05",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1:05",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1:05",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 65,
+          "row": 13,
+          "column": 5,
+          "bbox": [
+            669.12,
+            727.39,
+            67.2,
+            43.23
+          ],
+          "text": "10:15",
+          "textPreview": "10:15",
+          "fillColor": "#FDF6E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10:15",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10:15",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#8A701B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 66,
+          "row": 14,
+          "column": 1,
+          "bbox": [
+            57.6,
+            770.62,
+            81.6,
+            41.73
+          ],
+          "text": "片尾",
+          "textPreview": "片尾",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "片尾",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "片尾",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 67,
+          "row": 14,
+          "column": 2,
+          "bbox": [
+            139.2,
+            770.62,
+            124.8,
+            41.73
+          ],
+          "text": "看見未來",
+          "textPreview": "看見未來",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "看見未來",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "看見未來",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 68,
+          "row": 14,
+          "column": 3,
+          "bbox": [
+            264,
+            770.62,
+            319.72,
+            41.73
+          ],
+          "text": "清晨回收、光點匯聚、正式片名",
+          "textPreview": "清晨回收、光點匯聚、正式片名",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "清晨回收、光點匯聚、正式片名",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "清晨回收、光點匯聚、正式片名",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 69,
+          "row": 14,
+          "column": 4,
+          "bbox": [
+            583.72,
+            770.62,
+            85.4,
+            41.73
+          ],
+          "text": "0:55",
+          "textPreview": "0:55",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0:55",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0:55",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 70,
+          "row": 14,
+          "column": 5,
+          "bbox": [
+            669.12,
+            770.62,
+            67.2,
+            41.73
+          ],
+          "text": "11:10",
+          "textPreview": "11:10",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "11:10",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "11:10",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 71,
+          "row": 15,
+          "column": 1,
+          "bbox": [
+            57.6,
+            812.34,
+            81.6,
+            41.73
+          ],
+          "text": "總計",
+          "textPreview": "總計",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "總計",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "總計",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 72,
+          "row": 15,
+          "column": 2,
+          "bbox": [
+            139.2,
+            812.34,
+            124.8,
+            41.73
+          ],
+          "text": "完整片長",
+          "textPreview": "完整片長",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "完整片長",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "完整片長",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 73,
+          "row": 15,
+          "column": 3,
+          "bbox": [
+            264,
+            812.34,
+            319.72,
+            41.73
+          ],
+          "text": "第 3 至第 15 頁分鏡時間帶加總",
+          "textPreview": "第 3 至第 15 頁分鏡時間帶加總",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第 3 至第 15 頁分鏡時間帶加總",
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第 3 至第 15 頁分鏡時間帶加總",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 74,
+          "row": 15,
+          "column": 4,
+          "bbox": [
+            583.72,
+            812.34,
+            85.4,
+            41.73
+          ],
+          "text": "11:10",
+          "textPreview": "11:10",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "11:10",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "11:10",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 75,
+          "row": 15,
+          "column": 5,
+          "bbox": [
+            669.12,
+            812.34,
+            67.2,
+            41.73
+          ],
+          "text": "11:10",
+          "textPreview": "11:10",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "11:10",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "11:10",
+                  "fontSize": 16,
+                  "typeface": "Microsoft JhengHei",
+                  "color": "#22293A"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

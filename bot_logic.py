@@ -343,7 +343,10 @@ def build_reply_links(_reply_text, extra_context=""):
     """單店或僅一家店的行政區附地圖；每則回覆仍附官方網站。"""
 
     links = []
-    question_restaurants = _find_mentioned_restaurants(extra_context)
+    question_restaurants = (
+        [] if is_restaurant_count_question(extra_context)
+        else _find_mentioned_restaurants(extra_context)
+    )
 
     if not question_restaurants:
         detected_district = detect_district(extra_context)
@@ -450,6 +453,21 @@ def hide_google_maps_urls(text):
     return "\n".join(cleaned_lines).strip()
 
 
+def is_restaurant_count_question(user_message):
+    """只辨識全活動店家總數問法，料理或行政區篩選問題照原流程處理。"""
+
+    text = re.sub(r"[\s，。！？?!：:]", "", user_message or "")
+    return bool(re.fullmatch(
+        r"(?:請問)?(?:目前|現在)?"
+        r"(?:2026)?(?:臺北客家美食節|台北客家美食節|活動)?"
+        r"(?:的)?(?:合作店家|合作餐廳|店家|餐廳)?"
+        r"(?:目前|現在)?(?:總共|一共|總計|共有)?(?:有)?"
+        r"(?:幾家|幾間|多少家|多少間|多少|總數|數量)"
+        r"(?:合作店家|合作餐廳|店家|餐廳)?(?:是多少)?(?:呢|嗎)?",
+        text,
+    ))
+
+
 def decide_reply(user_message):
     """先做不需 AI 的防呆、FAQ 與行政區判斷。"""
 
@@ -465,6 +483,13 @@ def decide_reply(user_message):
         return ReplyDecision("invalid", normalized, None, SYMBOL_ONLY_REPLY)
 
     district = detect_district(normalized)
+
+    if is_restaurant_count_question(normalized):
+        return ReplyDecision(
+            "restaurant-count", normalized, None,
+            f"目前 2026 臺北客家美食節共有 {len(RESTAURANTS)} 家合作店家！🍽️\n\n"
+            "想找哪一區的美食呢？告訴我行政區，我來為您介紹合作店家！😊",
+        )
 
     lottery_answer = find_lottery_answer(normalized)
     if lottery_answer:
@@ -502,6 +527,7 @@ def build_ai_prompt(user_message, detected_district=None):
 ====================
 
 【合作店家資料庫】
+目前合作店家總數：{len(RESTAURANTS)} 家。這是全活動總數，非單一行政區或特定料理的店家數。
 {restaurant_knowledge}
 ====================
 

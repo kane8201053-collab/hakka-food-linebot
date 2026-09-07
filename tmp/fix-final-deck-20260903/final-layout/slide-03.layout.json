@@ -1,0 +1,1902 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ofy9wn61",
+    "id": "ofy9wn61",
+    "slide": 3,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei",
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f29gbyx0",
+      "id": "21",
+      "name": "scene-kicker-6",
+      "bbox": [
+        48.26,
+        35.97,
+        359.73,
+        27.98
+      ],
+      "geometry": "rect",
+      "text": "分鏡腳本｜第一章",
+      "textPreview": "分鏡腳本｜第一章",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "分鏡腳本｜第一章"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "分鏡腳本｜第一章",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#147A78",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "分鏡腳本｜第一章",
+              "fontSize": 13.99,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cza94vmx",
+      "id": "2",
+      "name": "scene-title-6",
+      "bbox": [
+        48.26,
+        69.95,
+        697.48,
+        59.96
+      ],
+      "geometry": "rect",
+      "text": "看見城市",
+      "textPreview": "看見城市",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見城市"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見城市",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見城市",
+              "fontSize": 32,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0jax03i",
+      "id": "3",
+      "name": "scene-band-6",
+      "bbox": [
+        48.26,
+        147.89,
+        697.48,
+        47.96
+      ],
+      "geometry": "rect",
+      "fillColor": "#DDEDEA",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/298ryl4v",
+      "id": "4",
+      "name": "scene-band-label-6",
+      "bbox": [
+        62.25,
+        151.89,
+        379.72,
+        39.97
+      ],
+      "geometry": "rect",
+      "text": "片頭｜先看見生活，再看見機關",
+      "textPreview": "片頭｜先看見生活，再看見機關",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "片頭｜先看見生活，再看見機關"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "片頭｜先看見生活，再看見機關",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#147A78",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "片頭｜先看見生活，再看見機關",
+              "fontSize": 13.99,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ah8rqlg",
+      "id": "5",
+      "name": "scene-duration-6",
+      "bbox": [
+        453.96,
+        151.89,
+        275.8,
+        39.97
+      ],
+      "geometry": "rect",
+      "text": "00:00–01:00｜60 秒｜累計 01:00",
+      "textPreview": "00:00–01:00｜60 秒｜累計 01:00",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "00:00–01:00｜60 秒｜累計 01:00"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "00:00–01:00｜60 秒｜累計 01:00",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "00:00–01:00｜60 秒｜累計 01:00",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obq90bml",
+      "id": "6",
+      "name": "col-head-6-0",
+      "bbox": [
+        48.26,
+        207.85,
+        224.83,
+        37.97
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pcjqtg36",
+      "id": "7",
+      "name": "col-head-text-6-0",
+      "bbox": [
+        52.26,
+        209.84,
+        216.84,
+        33.97
+      ],
+      "geometry": "rect",
+      "text": "畫面設計",
+      "textPreview": "畫面設計",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "畫面設計"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "畫面設計",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "畫面設計",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5cra54z",
+      "id": "8",
+      "name": "col-body-6-0",
+      "bbox": [
+        48.26,
+        245.82,
+        224.83,
+        809.4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FCFAF5",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6ls3alk",
+      "id": "9",
+      "name": "col-head-6-1",
+      "bbox": [
+        273.09,
+        207.85,
+        183.86,
+        37.97
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n2l4fq98",
+      "id": "10",
+      "name": "col-head-text-6-1",
+      "bbox": [
+        277.09,
+        209.84,
+        175.87,
+        33.97
+      ],
+      "geometry": "rect",
+      "text": "剪輯／聲音",
+      "textPreview": "剪輯／聲音",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "剪輯／聲音"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "剪輯／聲音",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "剪輯／聲音",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1c3mlsn",
+      "id": "11",
+      "name": "col-body-6-1",
+      "bbox": [
+        273.09,
+        245.82,
+        183.86,
+        809.4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FCFAF5",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/943mhgre",
+      "id": "12",
+      "name": "col-head-6-2",
+      "bbox": [
+        456.96,
+        207.85,
+        288.79,
+        37.97
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83ulovat",
+      "id": "13",
+      "name": "col-head-text-6-2",
+      "bbox": [
+        460.95,
+        209.84,
+        280.79,
+        33.97
+      ],
+      "geometry": "rect",
+      "text": "旁白／字卡",
+      "textPreview": "旁白／字卡",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旁白／字卡"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旁白／字卡",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旁白／字卡",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6l4jq94",
+      "id": "14",
+      "name": "col-body-6-2",
+      "bbox": [
+        456.96,
+        245.82,
+        288.79,
+        809.4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a5c3ql8z",
+      "id": "15",
+      "name": "visual-6",
+      "bbox": [
+        60.25,
+        259.81,
+        200.85,
+        450
+      ],
+      "geometry": "rect",
+      "text": "SHOT 01｜ 黑幕一聲心跳→晨光穿雲縮時→淡水河面反光、山稜線\nSHOT 02｜ 「睜開的眼睛」特寫蒙太奇:孩子、長者、上班族、議事廳裡的眼神\nSHOT 03｜ 萬千目光化為光點,匯聚成片名 3D LOGO\nSHOT 04｜空拍由海岸、河川、山城推進都會→29 區地圖光點依序亮起 ；最後再看見議會外觀",
+      "textPreview": "SHOT 01｜ 黑幕一聲心跳→晨光穿雲縮時→淡水河面反光、山稜線 | SHOT 02｜ 「睜開的眼睛」特寫蒙太奇:孩子、長者、上班族、議事廳裡的眼神 | SHOT 03｜ 萬千目光化為光點,匯聚成片名 3D LOGO | SHOT 04｜空拍由海岸、河川、山城推進都會→2...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 16,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SHOT 01｜"
+          },
+          {
+            "index": 2,
+            "text": "黑幕一聲心跳→晨光穿雲"
+          },
+          {
+            "index": 3,
+            "text": "縮時→淡水河面反光、山"
+          },
+          {
+            "index": 4,
+            "text": "稜線"
+          },
+          {
+            "index": 5,
+            "text": "SHOT 02｜ 「"
+          },
+          {
+            "index": 6,
+            "text": "睜開的眼睛」特寫蒙太奇:"
+          },
+          {
+            "index": 7,
+            "text": "孩子、長者、上班族、議"
+          },
+          {
+            "index": 8,
+            "text": "事廳裡的眼神"
+          },
+          {
+            "index": 9,
+            "text": "SHOT 03｜"
+          },
+          {
+            "index": 10,
+            "text": "萬千目光化為光點,匯聚成"
+          },
+          {
+            "index": 11,
+            "text": "片名 3D LOGO"
+          },
+          {
+            "index": 12,
+            "text": "SHOT"
+          },
+          {
+            "index": 13,
+            "text": "04｜空拍由海岸、河川、"
+          },
+          {
+            "index": 14,
+            "text": "山城推進都會→29"
+          },
+          {
+            "index": 15,
+            "text": "區地圖光點依序亮起 ；"
+          },
+          {
+            "index": 16,
+            "text": "最後再看見議會外觀"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SHOT 01｜ 黑幕一聲心跳→晨光穿雲縮時→淡水河面反光、山稜線",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 01｜ ",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 2,
+              "text": "黑幕一聲心跳→晨光穿雲縮時→淡水河面反光、山稜線",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "SHOT 02｜ 「睜開的眼睛」特寫蒙太奇:孩子、長者、上班族、議事廳裡的眼神",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 02｜",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            },
+            {
+              "index": 3,
+              "text": "「",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 4,
+              "text": "睜開的眼睛」特寫蒙太奇:孩子、長者、上班族、議事廳裡的眼神",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "SHOT 03｜ 萬千目光化為光點,匯聚成片名 3D LOGO",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 03｜ ",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 2,
+              "text": "萬千目光化為光點,匯聚成片名",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 3,
+              "text": " 3D LOGO",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "SHOT 04｜空拍由海岸、河川、山城推進都會→29 區地圖光點依序亮起 ；最後再看見議會外觀",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 04｜空拍由海岸、河川、山城推進都會",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 2,
+              "text": "→29 ",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            },
+            {
+              "index": 3,
+              "text": "區地圖光點依序亮起",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            },
+            {
+              "index": 4,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            },
+            {
+              "index": 5,
+              "text": "；",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 6,
+              "text": "最後再看見議會外觀",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x8nml0ra",
+      "id": "16",
+      "name": "audio-6",
+      "bbox": [
+        285.08,
+        259.81,
+        159.88,
+        781.42
+      ],
+      "geometry": "rect",
+      "text": "0–4 秒僅留環境音\n\n4K 空拍 + 眼神特寫\n「眼睛與光」為全片視覺母題\n\n虹膜內映城市倒影(後期合成)\n\n人口約 400 萬、面積 2,052 平方公里、海岸線約 120 公里、29 行政區、13 選區\n\n音樂從單一鋼琴音開始，弦樂慢慢展開\n\n鏡頭切換不追求快，讓每個日常停留 2–3 秒\n\n",
+      "textPreview": "0–4 秒僅留環境音 |  | 4K 空拍 + 眼神特寫 | 「眼睛與光」為全片視覺母題 |  | 虹膜內映城市倒影(後期合成) |  | 人口約 400 萬、面積 2,052 平方公里、海岸線約 120 公里、29 行政區、13 選區 |  | 音樂從單一鋼琴音開始，弦樂...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 23,
+        "lines": [
+          {
+            "index": 1,
+            "text": "0–4 秒僅留環境音"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "4K 空拍 + 眼神特寫"
+          },
+          {
+            "index": 4,
+            "text": "「眼睛與光」為全片"
+          },
+          {
+            "index": 5,
+            "text": "視覺母題"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "虹膜內映城市倒影(後"
+          },
+          {
+            "index": 8,
+            "text": "期合成)"
+          },
+          {
+            "index": 9,
+            "text": ""
+          },
+          {
+            "index": 10,
+            "text": "人口約 400 萬、面積"
+          },
+          {
+            "index": 11,
+            "text": "2,052"
+          },
+          {
+            "index": 12,
+            "text": "平方公里、海岸線約"
+          },
+          {
+            "index": 13,
+            "text": "120 公里、29"
+          },
+          {
+            "index": 14,
+            "text": "行政區、13 選區"
+          },
+          {
+            "index": 15,
+            "text": ""
+          },
+          {
+            "index": 16,
+            "text": "音樂從單一鋼琴音開"
+          },
+          {
+            "index": 17,
+            "text": "始，弦樂慢慢展開"
+          },
+          {
+            "index": 18,
+            "text": ""
+          },
+          {
+            "index": 19,
+            "text": "鏡頭切換不追求快，"
+          },
+          {
+            "index": 20,
+            "text": "讓每個日常停留 2–3"
+          },
+          {
+            "index": 21,
+            "text": "秒"
+          },
+          {
+            "index": 22,
+            "text": ""
+          },
+          {
+            "index": 23,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "0–4 秒僅留環境音\n\n4K 空拍 + 眼神特寫",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "0–4 秒僅留環境音",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            },
+            {
+              "index": 2,
+              "text": "\n"
+            },
+            {
+              "index": 3,
+              "text": "\n"
+            },
+            {
+              "index": 4,
+              "text": "4K 空拍 + 眼神特寫",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "「眼睛與光」為全片視覺母題\n",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "「眼睛與光」為全片視覺母題",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            },
+            {
+              "index": 2,
+              "text": "\n"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "虹膜內映城市倒影(後期合成)\n\n人口約 400 萬、面積 2,052 平方公里、海岸線約 120 公里、29 行政區、13 選區",
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "虹膜內映城市倒影(後期合成)",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            },
+            {
+              "index": 2,
+              "text": "\n"
+            },
+            {
+              "index": 3,
+              "text": "\n"
+            },
+            {
+              "index": 4,
+              "text": "人口約 400 萬、面積 2,052 平方公里、海岸線約 120 公里、29 行政區、13 選區",
+              "fontSize": 16,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "音樂從單一鋼琴音開始，弦樂慢慢展開",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "音樂從單一鋼琴音開始，弦樂慢慢展開",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "鏡頭切換不追求快，讓每個日常停留 2–3 秒",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "鏡頭切換不追求快，讓每個日常停留 2–3 秒",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "lineSpacingPercent": 122000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "\n"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7ulsvqp",
+      "id": "17",
+      "name": "narration-6",
+      "bbox": [
+        470.95,
+        257.81,
+        260.81,
+        785.42
+      ],
+      "geometry": "rect",
+      "text": "【旁白】\n 每一天,新北在四百萬雙眼睛裡醒來。有人看見山海,有人看見城市,有人看見孩子上學的路。而有一群人,把這四百萬個目光,看成自己的責任。 \n\n二千零五十二平方公里,從三千公尺的山,到一百二十公里的海岸線;二十九個行政區、四百萬市民,匯聚成臺灣最大的城市。這座城市的每一種樣貌,都值得被看見—而看見,是所有改變的開始 。它由一個個被珍惜的日常，慢慢成為我們共同生活的地方。\n\n而議會要做的第一件事，就是看見。\n\n【字卡】\n 《看見.共好》－ 第5屆新北市議會\n",
+      "textPreview": "【旁白】 |  每一天,新北在四百萬雙眼睛裡醒來。有人看見山海,有人看見城市,有人看見孩子上學的路。而有一群人,把這四百萬個目光,看成自己的責任。  |  | 二千零五十二平方公里,從三千公尺的山,到一百二十公里的海岸線;二十九個行政區、四百萬市民,匯聚成臺灣最大的城市。這...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 26,
+        "lines": [
+          {
+            "index": 1,
+            "text": "【旁白】"
+          },
+          {
+            "index": 2,
+            "text": " "
+          },
+          {
+            "index": 3,
+            "text": "每一天,新北在四百萬雙眼睛裡"
+          },
+          {
+            "index": 4,
+            "text": "醒來。有人看見山海,有人看見"
+          },
+          {
+            "index": 5,
+            "text": "城市,有人看見孩子上學的路。"
+          },
+          {
+            "index": 6,
+            "text": "而有一群人,把這四百萬個目光,"
+          },
+          {
+            "index": 7,
+            "text": "看成自己的責任。"
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "二千零五十二平方公里,從三千"
+          },
+          {
+            "index": 10,
+            "text": "公尺的山,到一百二十公里的海"
+          },
+          {
+            "index": 11,
+            "text": "岸線;二十九個行政區、四百萬"
+          },
+          {
+            "index": 12,
+            "text": "市民,匯聚成臺灣最大的城市。"
+          },
+          {
+            "index": 13,
+            "text": "這座城市的每一種樣貌,都值得"
+          },
+          {
+            "index": 14,
+            "text": "被看見—而看見,是所有改變的"
+          },
+          {
+            "index": 15,
+            "text": "開始"
+          },
+          {
+            "index": 16,
+            "text": "。它由一個個被珍惜的日常，"
+          },
+          {
+            "index": 17,
+            "text": "慢慢成為我們共同生活的地方"
+          },
+          {
+            "index": 18,
+            "text": "。"
+          },
+          {
+            "index": 19,
+            "text": ""
+          },
+          {
+            "index": 20,
+            "text": "而議會要做的第一件事，就是"
+          },
+          {
+            "index": 21,
+            "text": "看見。"
+          },
+          {
+            "index": 22,
+            "text": ""
+          },
+          {
+            "index": 23,
+            "text": "【字卡】"
+          },
+          {
+            "index": 24,
+            "text": " 《看見.共好》－"
+          },
+          {
+            "index": 25,
+            "text": "第5屆新北市議會"
+          },
+          {
+            "index": 26,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "【旁白】\n 每一天,新北在四百萬雙眼睛裡醒來。有人看見山海,有人看見城市,有人看見孩子上學的路。而有一群人,把這四百萬個目光,看成自己的責任。 \n\n二千零五十二平方公里,從三千公尺的山,到一百二十公里的海岸線;二十九個行政區、四百萬市民,匯聚成臺灣最大的城市。這座城市的每一種樣貌,都值得被看見—而看見,是所有改變的開始 。它由一個個被珍惜的日常，慢慢成為我們共同生活的地方。\n\n而議會要做的第一件事，就是看見。",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "【旁白】\n",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            },
+            {
+              "index": 3,
+              "text": "每一天,新北在四百萬雙眼睛裡醒來。有人看見山海,有人看見城市,有人看見孩子上學的路。而有一群人,把這四百萬個目光,看成自己的責任。 ",
+              "fontSize": 18.67,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 4,
+              "text": "\n",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 5,
+              "text": "\n",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 6,
+              "text": "二千零五十二平方公里,從三千公尺的山,到一百二十公里的海岸線;二十九個行政區、四百萬市民,匯聚成臺灣最大的城市。這座城市的每一種樣貌,都值得被看見—而看見,是所有改變的開始 。它由一個個被珍惜的日常，慢慢成為我們共同生活的地方。\n\n而議會要做的第一件事，就是看見。",
+              "fontSize": 18.67,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "\n【字卡】\n 《看見.共好》－ 第5屆新北市議會\n",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "\n",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 2,
+              "text": "【字卡】\n",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": " 《看見.共好》－ 第5屆新北市議會",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "\n",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ja54na9g",
+      "id": "18",
+      "name": "footer-line-6",
+      "bbox": [
+        48.26,
+        1074.2,
+        697.48,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i9w3u58v",
+      "id": "19",
+      "name": "footer-label-6",
+      "bbox": [
+        48.26,
+        1079.2,
+        569.58,
+        25.98
+      ],
+      "geometry": "rect",
+      "text": "看見.共好｜第一章｜看見城市｜00:00–01:00",
+      "textPreview": "看見.共好｜第一章｜看見城市｜00:00–01:00",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好｜第一章｜看見城市｜00:00–01:00"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好｜第一章｜看見城市｜00:00–01:00",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好｜第一章｜看見城市｜00:00–01:00",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/hg7apkj6",
+      "id": "37",
+      "name": "Picture 21",
+      "bbox": [
+        57.22,
+        621.71,
+        213.87,
+        107.09
+      ],
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "/ppt/media/image.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 58399
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 58399
+      }
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6d0fytg3",
+      "id": "24",
+      "name": "Rectangle 22",
+      "bbox": [
+        57.22,
+        728.79,
+        213.87,
+        21
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#147A78",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re9g7yxo",
+      "id": "25",
+      "name": "TextBox 23",
+      "bbox": [
+        62.47,
+        728.79,
+        203.37,
+        21
+      ],
+      "geometry": "rect",
+      "text": "示意｜北海岸晨光",
+      "textPreview": "示意｜北海岸晨光",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "示意｜北海岸晨光"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "示意｜北海岸晨光",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "示意｜北海岸晨光",
+              "fontSize": 12,
+              "typeface": "PingFang TC",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/z2pov6l0",
+      "id": "40",
+      "name": "storyboard-3-2",
+      "bbox": [
+        66.99,
+        757.31,
+        200.85,
+        157.13
+      ],
+      "geometry": "roundRect",
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 2630"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "/ppt/media/image4.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 48480
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image4.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 48480
+      }
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z2d07mh4",
+      "id": "32",
+      "name": "storyboard-caption-3-2",
+      "bbox": [
+        66.99,
+        887.44,
+        200.85,
+        27
+      ],
+      "geometry": "rect",
+      "text": "02｜四百萬雙眼睛",
+      "textPreview": "02｜四百萬雙眼睛",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02｜四百萬雙眼睛"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02｜四百萬雙眼睛",
+          "resolvedTextStyle": {
+            "fontSize": 12.2,
+            "typeface": "PingFang TC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02｜四百萬雙眼睛",
+              "fontSize": 12.2,
+              "typeface": "PingFang TC",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#0E7C79",
+      "lineColor": "#0E7C79",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/y1g7214f",
+      "id": "41",
+      "name": "storyboard-3-3",
+      "bbox": [
+        68.25,
+        919.44,
+        200.85,
+        126.84
+      ],
+      "geometry": "roundRect",
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 2630"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "/ppt/media/image5.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 56497
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image5.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 56497
+      }
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0vi5czy",
+      "id": "34",
+      "name": "storyboard-caption-3-3",
+      "bbox": [
+        68.25,
+        1019.28,
+        200.85,
+        27
+      ],
+      "geometry": "rect",
+      "text": "光點匯聚片名",
+      "textPreview": "光點匯聚片名",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "光點匯聚片名"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "光點匯聚片名",
+          "resolvedTextStyle": {
+            "fontSize": 12.2,
+            "typeface": "PingFang TC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "光點匯聚片名",
+              "fontSize": 12.2,
+              "typeface": "PingFang TC",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#0E7C79",
+      "lineColor": "#0E7C79",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

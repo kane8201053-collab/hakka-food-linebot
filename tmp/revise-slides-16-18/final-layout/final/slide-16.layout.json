@@ -1,0 +1,2313 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/gny5sjyp",
+    "id": "gny5sjyp",
+    "slide": 16,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ytgz6pg",
+      "id": "1",
+      "name": "title-16",
+      "bbox": [
+        54,
+        43,
+        686,
+        48
+      ],
+      "geometry": "rect",
+      "text": "工作團隊與執行分工",
+      "textPreview": "工作團隊與執行分工",
+      "resolvedFontSize": 29.63,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Microsoft JhengHei",
+        "color": "#22313F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.93,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工作團隊與執行分工"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工作團隊與執行分工",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Microsoft JhengHei",
+            "color": "#22313F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "工作團隊與執行分工",
+              "fontSize": 32,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22313F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8z2h8bq1",
+      "id": "2",
+      "name": "subtitle-16",
+      "bbox": [
+        55,
+        99,
+        560,
+        27
+      ],
+      "geometry": "rect",
+      "text": "影片拍攝陣容與器材配置",
+      "textPreview": "影片拍攝陣容與器材配置",
+      "resolvedFontSize": 13.43,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#0F8A85",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.87,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "影片拍攝陣容與器材配置"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "影片拍攝陣容與器材配置",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#0F8A85",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "影片拍攝陣容與器材配置",
+              "fontSize": 15.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#0F8A85",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9kby1g7m",
+      "id": "3",
+      "name": "header-line-16",
+      "bbox": [
+        54,
+        138,
+        686,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#0F8A85",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ytkf2h8j",
+      "id": "4",
+      "name": "header-gold-16",
+      "bbox": [
+        669,
+        138,
+        71,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9A62E",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zutgvm94",
+      "id": "5",
+      "name": "team-grid-label-bar",
+      "bbox": [
+        54,
+        161,
+        5,
+        19
+      ],
+      "geometry": "rect",
+      "fillColor": "#0F8A85",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kv2h4rqp",
+      "id": "6",
+      "name": "team-grid-label",
+      "bbox": [
+        68,
+        158,
+        570,
+        26
+      ],
+      "geometry": "rect",
+      "text": "實拍陣容｜跨場域拍攝經驗",
+      "textPreview": "實拍陣容｜跨場域拍攝經驗",
+      "resolvedFontSize": 12.65,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 15.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#22313F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.82,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "實拍陣容｜跨場域拍攝經驗"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "實拍陣容｜跨場域拍攝經驗",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#22313F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "實拍陣容｜跨場域拍攝經驗",
+              "fontSize": 15.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22313F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/cze1sfy5",
+      "id": "7",
+      "name": "production-photo-1",
+      "bbox": [
+        54,
+        193,
+        222,
+        166.5
+      ],
+      "geometry": "roundRect",
+      "alt": "原始拍攝團隊實拍照片 1",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 4805"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "374926ba-b3d5-4de1-85a2-2d7ee5080834",
+        "contentType": "image/jpeg",
+        "byteLength": 56972
+      }
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ip4zel83",
+      "id": "8",
+      "name": "production-index-1-bg",
+      "bbox": [
+        66,
+        325.5,
+        46,
+        23
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0F8A85",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qdg7qpo",
+      "id": "9",
+      "name": "production-index-1",
+      "bbox": [
+        71,
+        328.5,
+        36,
+        17
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 5.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 11.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.5,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 11.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/sn2t4fa1",
+      "id": "10",
+      "name": "production-photo-2",
+      "bbox": [
+        286,
+        193,
+        222,
+        166.5
+      ],
+      "geometry": "roundRect",
+      "alt": "原始拍攝團隊實拍照片 2",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 4805"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "a41eab2f-7a84-40c7-add3-cc3cfa75aefc",
+        "contentType": "image/jpeg",
+        "byteLength": 46710
+      }
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e1sf65o3",
+      "id": "11",
+      "name": "production-index-2-bg",
+      "bbox": [
+        298,
+        325.5,
+        46,
+        23
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D9A62E",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1ojy10ne",
+      "id": "12",
+      "name": "production-index-2",
+      "bbox": [
+        303,
+        328.5,
+        36,
+        17
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 5.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 11.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.5,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 11.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/7mtsba9g",
+      "id": "13",
+      "name": "production-photo-3",
+      "bbox": [
+        518,
+        193,
+        222,
+        166.5
+      ],
+      "geometry": "roundRect",
+      "alt": "原始拍攝團隊實拍照片 3",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 4805"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "78492955-548c-4d28-9575-825e01feb3ac",
+        "contentType": "image/jpeg",
+        "byteLength": 75266
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqlg3a5k",
+      "id": "14",
+      "name": "production-index-3-bg",
+      "bbox": [
+        530,
+        325.5,
+        46,
+        23
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0F8A85",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2pcfa5oz",
+      "id": "15",
+      "name": "production-index-3",
+      "bbox": [
+        535,
+        328.5,
+        36,
+        17
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 5.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 11.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.5,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 11.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ix0ry5sz",
+      "id": "16",
+      "name": "production-photo-4",
+      "bbox": [
+        54,
+        370,
+        222,
+        166.5
+      ],
+      "geometry": "roundRect",
+      "alt": "原始拍攝團隊實拍照片 4",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 4805"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "61b03e74-2770-44f1-a8cb-f8f095d460be",
+        "contentType": "image/jpeg",
+        "byteLength": 75767
+      }
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oruhcf65",
+      "id": "17",
+      "name": "production-index-4-bg",
+      "bbox": [
+        66,
+        502.5,
+        46,
+        23
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D9A62E",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bulg7u5g",
+      "id": "18",
+      "name": "production-index-4",
+      "bbox": [
+        71,
+        505.5,
+        36,
+        17
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 5.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 11.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.5,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 11.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/pgval4ru",
+      "id": "19",
+      "name": "production-photo-5",
+      "bbox": [
+        286,
+        370,
+        222,
+        166.5
+      ],
+      "geometry": "roundRect",
+      "alt": "原始拍攝團隊實拍照片 5",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 4805"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "45f7e3b1-d696-46aa-b766-86ab0e971b03",
+        "contentType": "image/jpeg",
+        "byteLength": 60771
+      }
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mpgj6t8j",
+      "id": "20",
+      "name": "production-index-5-bg",
+      "bbox": [
+        298,
+        502.5,
+        46,
+        23
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0F8A85",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qp0zepo",
+      "id": "21",
+      "name": "production-index-5",
+      "bbox": [
+        303,
+        505.5,
+        36,
+        17
+      ],
+      "geometry": "rect",
+      "text": "05",
+      "textPreview": "05",
+      "resolvedFontSize": 5.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 11.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.5,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "05",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05",
+              "fontSize": 11.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ba9snu1s",
+      "id": "22",
+      "name": "production-photo-6",
+      "bbox": [
+        518,
+        370,
+        222,
+        166.5
+      ],
+      "geometry": "roundRect",
+      "alt": "原始拍攝團隊實拍照片 6",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 4805"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "014df526-c9e6-4e9a-ad9e-d40e0c5fa5dc",
+        "contentType": "image/jpeg",
+        "byteLength": 48860
+      }
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9c7i1o7u",
+      "id": "23",
+      "name": "production-index-6-bg",
+      "bbox": [
+        530,
+        502.5,
+        46,
+        23
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D9A62E",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylwj2987",
+      "id": "24",
+      "name": "production-index-6",
+      "bbox": [
+        535,
+        505.5,
+        36,
+        17
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 5.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 11.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.5,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 11.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zm50veps",
+      "id": "25",
+      "name": "equipment-label-bar",
+      "bbox": [
+        54,
+        561,
+        5,
+        19
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9A62E",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kne14jqd",
+      "id": "26",
+      "name": "equipment-label",
+      "bbox": [
+        68,
+        558,
+        570,
+        26
+      ],
+      "geometry": "rect",
+      "text": "攝／錄影設備配置",
+      "textPreview": "攝／錄影設備配置",
+      "resolvedFontSize": 12.65,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 15.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#22313F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.82,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "攝／錄影設備配置"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "攝／錄影設備配置",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#22313F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "攝／錄影設備配置",
+              "fontSize": 15.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22313F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lo7ixo7y",
+      "id": "27",
+      "name": "camera-system-card",
+      "bbox": [
+        54,
+        594,
+        333,
+        405
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F4F7F7",
+      "lineColor": "#DCE4E6",
+      "lineWidth": 1
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ih0jedob",
+      "id": "28",
+      "name": "camera-system-accent",
+      "bbox": [
+        54,
+        594,
+        8,
+        405
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0F8A85",
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji9k7ypw",
+      "id": "29",
+      "name": "camera-system-tag-bg",
+      "bbox": [
+        79,
+        612,
+        120,
+        26
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0F8A85",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcbmdcre",
+      "id": "30",
+      "name": "camera-system-tag",
+      "bbox": [
+        84,
+        615,
+        110,
+        20
+      ],
+      "geometry": "rect",
+      "text": "主攝系統",
+      "textPreview": "主攝系統",
+      "resolvedFontSize": 8.02,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 11.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.7,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "主攝系統"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "主攝系統",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "主攝系統",
+              "fontSize": 11.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sb2l47at",
+      "id": "31",
+      "name": "camera-system-title",
+      "bbox": [
+        79,
+        646,
+        283,
+        34
+      ],
+      "geometry": "rect",
+      "text": "全片幅電影機配置",
+      "textPreview": "全片幅電影機配置",
+      "resolvedFontSize": 18.51,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#22313F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "全片幅電影機配置"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "全片幅電影機配置",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#22313F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "全片幅電影機配置",
+              "fontSize": 18.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22313F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rat4b298",
+      "id": "32",
+      "name": "camera-system-image-matte",
+      "bbox": [
+        79,
+        686,
+        283,
+        127
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/69k32xsn",
+      "id": "33",
+      "name": "drone-system-card",
+      "bbox": [
+        407,
+        594,
+        333,
+        405
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F9F3DF",
+      "lineColor": "#DCE4E6",
+      "lineWidth": 1
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58bm9sr2",
+      "id": "34",
+      "name": "drone-system-accent",
+      "bbox": [
+        407,
+        594,
+        8,
+        405
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D9A62E",
+      "lineWidth": 0
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47il0nah",
+      "id": "35",
+      "name": "drone-system-tag-bg",
+      "bbox": [
+        432,
+        612,
+        120,
+        26
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D9A62E",
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6947i9w",
+      "id": "36",
+      "name": "drone-system-tag",
+      "bbox": [
+        437,
+        615,
+        110,
+        20
+      ],
+      "geometry": "rect",
+      "text": "空拍系統",
+      "textPreview": "空拍系統",
+      "resolvedFontSize": 8.02,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 11.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.7,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "空拍系統"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "空拍系統",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "空拍系統",
+              "fontSize": 11.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i503ydsr",
+      "id": "37",
+      "name": "drone-system-title",
+      "bbox": [
+        432,
+        646,
+        283,
+        34
+      ],
+      "geometry": "rect",
+      "text": "專業級模組化空拍系統",
+      "textPreview": "專業級模組化空拍系統",
+      "resolvedFontSize": 18.51,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#22313F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "專業級模組化空拍系統"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "專業級模組化空拍系統",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 18.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#22313F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "專業級模組化空拍系統",
+              "fontSize": 18.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22313F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4vmlwrm",
+      "id": "38",
+      "name": "drone-system-image-matte",
+      "bbox": [
+        432,
+        686,
+        283,
+        127
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 39,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/viloj6hg",
+      "id": "39",
+      "name": "sony-camera-original",
+      "bbox": [
+        88,
+        695,
+        265,
+        111
+      ],
+      "geometry": "rect",
+      "alt": "原簡報中的 Sony 電影機器材示意",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "7d2b981d-cf52-40fa-8cef-79bdb8a68279",
+        "contentType": "image/png",
+        "byteLength": 227048
+      }
+    },
+    {
+      "order": 40,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/nal4v2lw",
+      "id": "40",
+      "name": "neutral-professional-drone",
+      "bbox": [
+        441,
+        695,
+        265,
+        111
+      ],
+      "geometry": "rect",
+      "alt": "無品牌識別的專業模組化空拍系統示意圖",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "prompt": "Photorealistic neutral professional modular cinema drone, carbon-fiber quadcopter, integrated gimbal camera, no logos, no text, not resembling a consumer DJI Mavic silhouette.",
+      "asset": {
+        "assetId": "361f89e0-cf71-4878-8619-02248eb15881",
+        "contentType": "image/png",
+        "prompt": "Photorealistic neutral professional modular cinema drone, carbon-fiber quadcopter, integrated gimbal camera, no logos, no text, not resembling a consumer DJI Mavic silhouette.",
+        "byteLength": 2084963
+      }
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xoju5wr2",
+      "id": "41",
+      "name": "camera-models",
+      "bbox": [
+        79,
+        825,
+        283,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Sony A7S III｜Sony ILME-FX3A",
+      "textPreview": "Sony A7S III｜Sony ILME-FX3A",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#0F8A85",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.98,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Sony A7S III｜Sony ILME-FX3A"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Sony A7S III｜Sony ILME-FX3A",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#0F8A85",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Sony A7S III｜Sony ILME-FX3A",
+              "fontSize": 14.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#0F8A85",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/alsbahsb",
+      "id": "42",
+      "name": "camera-specs",
+      "bbox": [
+        79,
+        863,
+        283,
+        96
+      ],
+      "geometry": "rect",
+      "text": "4K 高畫質最高 120p\n16–35／24–70／70–200 mm 全片幅鏡群\n雙機協作，支援紀錄與電影感畫面",
+      "textPreview": "4K 高畫質最高 120p | 16–35／24–70／70–200 mm 全片幅鏡群 | 雙機協作，支援紀錄與電影感畫面",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.2,
+        "typeface": "Microsoft JhengHei",
+        "color": "#34424D",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4K 高畫質最高 120p"
+          },
+          {
+            "index": 2,
+            "text": "16–35／24–70／70–200 mm 全片幅鏡群"
+          },
+          {
+            "index": 3,
+            "text": "雙機協作，支援紀錄與電影感畫面"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4K 高畫質最高 120p",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4K 高畫質最高 120p",
+              "fontSize": 14.2,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D",
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "16–35／24–70／70–200 mm 全片幅鏡群",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "16–35／24–70／70–200 mm 全片幅鏡群",
+              "fontSize": 14.2,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D",
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "雙機協作，支援紀錄與電影感畫面",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "雙機協作，支援紀錄與電影感畫面",
+              "fontSize": 14.2,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D",
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vm1c3m9w",
+      "id": "43",
+      "name": "drone-models",
+      "bbox": [
+        432,
+        825,
+        283,
+        28
+      ],
+      "geometry": "rect",
+      "text": "專業級模組化空拍系統",
+      "textPreview": "專業級模組化空拍系統",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#9A7418",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.98,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "專業級模組化空拍系統"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "專業級模組化空拍系統",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#9A7418",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "專業級模組化空拍系統",
+              "fontSize": 14.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9A7418",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kbudgrqt",
+      "id": "44",
+      "name": "drone-specs",
+      "bbox": [
+        432,
+        863,
+        283,
+        96
+      ],
+      "geometry": "rect",
+      "text": "4K 高畫質拍攝\n模組化雲台與可替換鏡頭配置\n廣角／中長焦視角，依場域安全調度",
+      "textPreview": "4K 高畫質拍攝 | 模組化雲台與可替換鏡頭配置 | 廣角／中長焦視角，依場域安全調度",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.2,
+        "typeface": "Microsoft JhengHei",
+        "color": "#34424D",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4K 高畫質拍攝"
+          },
+          {
+            "index": 2,
+            "text": "模組化雲台與可替換鏡頭配置"
+          },
+          {
+            "index": 3,
+            "text": "廣角／中長焦視角，依場域安全調度"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4K 高畫質拍攝",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4K 高畫質拍攝",
+              "fontSize": 14.2,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D",
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "模組化雲台與可替換鏡頭配置",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "模組化雲台與可替換鏡頭配置",
+              "fontSize": 14.2,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D",
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "廣角／中長焦視角，依場域安全調度",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "廣角／中長焦視角，依場域安全調度",
+              "fontSize": 14.2,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D",
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5c3u9wry",
+      "id": "45",
+      "name": "equipment-summary",
+      "bbox": [
+        54,
+        1013,
+        686,
+        29
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#22313F",
+      "lineWidth": 0
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i9sve18n",
+      "id": "46",
+      "name": "equipment-summary-text",
+      "bbox": [
+        70,
+        1016,
+        654,
+        23
+      ],
+      "geometry": "rect",
+      "text": "4K 高畫質｜雙機協作｜全片幅鏡群｜空地整合",
+      "textPreview": "4K 高畫質｜雙機協作｜全片幅鏡群｜空地整合",
+      "resolvedFontSize": 10.34,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.83,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4K 高畫質｜雙機協作｜全片幅鏡群｜空地整合"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4K 高畫質｜雙機協作｜全片幅鏡群｜空地整合",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 12.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4K 高畫質｜雙機協作｜全片幅鏡群｜空地整合",
+              "fontSize": 12.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ja1c7m98",
+      "id": "47",
+      "name": "footer-line-16",
+      "bbox": [
+        54,
+        1055,
+        686,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#DCE4E6",
+      "lineWidth": 0
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfudkbqp",
+      "id": "48",
+      "name": "footer-label-16",
+      "bbox": [
+        54,
+        1067,
+        330,
+        22
+      ],
+      "geometry": "rect",
+      "text": "看見.共好｜製作團隊",
+      "textPreview": "看見.共好｜製作團隊",
+      "resolvedFontSize": 9.57,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#687783",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.83,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好｜製作團隊"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好｜製作團隊",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#687783",
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好｜製作團隊",
+              "fontSize": 11.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#687783",
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tg3udgra",
+      "id": "49",
+      "name": "footer-page-16",
+      "bbox": [
+        655,
+        1067,
+        85,
+        22
+      ],
+      "geometry": "rect",
+      "text": "16 / 18",
+      "textPreview": "16 / 18",
+      "resolvedFontSize": 9.57,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11.51,
+        "typeface": "Microsoft JhengHei",
+        "color": "#687783",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.83,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "16 / 18"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "16 / 18",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#687783",
+            "alignment": "right",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "16 / 18",
+              "fontSize": 11.51,
+              "typeface": "Microsoft JhengHei",
+              "color": "#687783",
+              "alignment": "right",
+              "lineSpacing": 1.08
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

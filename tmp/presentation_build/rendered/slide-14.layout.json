@@ -1,0 +1,1447 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/6j2k2r",
+    "id": "6j2k2r",
+    "slide": 14,
+    "layoutId": "ede0ace0-d57a-491a-8b05-db160473e468",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7F3EA",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1123
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ede0ace0-d57a-491a-8b05-db160473e468",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/be5wnuh0",
+      "id": "1",
+      "name": "scene-kicker-14",
+      "bbox": [
+        48,
+        36,
+        360,
+        28
+      ],
+      "geometry": "rect",
+      "text": "分鏡腳本｜第三章｜看見民意如何成為行動",
+      "textPreview": "分鏡腳本｜第三章｜看見民意如何成為行動",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "PingFang TC",
+        "color": "#416E8A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "分鏡腳本｜第三章｜看見民意如何成為行動"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "分鏡腳本｜第三章｜看見民意如何成為行動",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#416E8A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "分鏡腳本｜第三章｜看見民意如何成為行動",
+              "fontSize": 14,
+              "typeface": "PingFang TC",
+              "color": "#416E8A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfedwzyl",
+      "id": "2",
+      "name": "scene-title-14",
+      "bbox": [
+        48,
+        70,
+        698,
+        60
+      ],
+      "geometry": "rect",
+      "text": "讓承諾有進度，讓改變能被追蹤",
+      "textPreview": "讓承諾有進度，讓改變能被追蹤",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "讓承諾有進度，讓改變能被追蹤"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "讓承諾有進度，讓改變能被追蹤",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "讓承諾有進度，讓改變能被追蹤",
+              "fontSize": 28,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xg7ep4zq",
+      "id": "3",
+      "name": "scene-band-14",
+      "bbox": [
+        48,
+        148,
+        698,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "#DEE8EE",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhgfy9gb",
+      "id": "4",
+      "name": "scene-band-label-14",
+      "bbox": [
+        62,
+        152,
+        380,
+        40
+      ],
+      "geometry": "rect",
+      "text": "民意轉化 B｜質詢、審查、議決、追蹤",
+      "textPreview": "民意轉化 B｜質詢、審查、議決、追蹤",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "PingFang TC",
+        "color": "#416E8A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "民意轉化 B｜質詢、審查、議決、追蹤"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "民意轉化 B｜質詢、審查、議決、追蹤",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#416E8A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "民意轉化 B｜質詢、審查、議決、追蹤",
+              "fontSize": 14,
+              "typeface": "PingFang TC",
+              "color": "#416E8A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jipwrehw",
+      "id": "5",
+      "name": "scene-duration-14",
+      "bbox": [
+        454,
+        152,
+        276,
+        40
+      ],
+      "geometry": "rect",
+      "text": "06:05–06:55｜50 秒｜累計 06:55",
+      "textPreview": "06:05–06:55｜50 秒｜累計 06:55",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06:05–06:55｜50 秒｜累計 06:55"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06:05–06:55｜50 秒｜累計 06:55",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06:05–06:55｜50 秒｜累計 06:55",
+              "fontSize": 12,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjyx0zyh",
+      "id": "6",
+      "name": "col-head-14-0",
+      "bbox": [
+        48,
+        208,
+        225,
+        38
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lk7et4z2",
+      "id": "7",
+      "name": "col-head-text-14-0",
+      "bbox": [
+        52,
+        210,
+        217,
+        34
+      ],
+      "geometry": "rect",
+      "text": "畫面設計",
+      "textPreview": "畫面設計",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "畫面設計"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "畫面設計",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "畫面設計",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/elcvm5g7",
+      "id": "8",
+      "name": "col-body-14-0",
+      "bbox": [
+        48,
+        246,
+        225,
+        810
+      ],
+      "geometry": "rect",
+      "fillColor": "#FCFAF5",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zmlwfahs",
+      "id": "9",
+      "name": "col-head-14-1",
+      "bbox": [
+        273,
+        208,
+        184,
+        38
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3e54fahk",
+      "id": "10",
+      "name": "col-head-text-14-1",
+      "bbox": [
+        277,
+        210,
+        176,
+        34
+      ],
+      "geometry": "rect",
+      "text": "剪輯／聲音",
+      "textPreview": "剪輯／聲音",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "剪輯／聲音"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "剪輯／聲音",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "剪輯／聲音",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2dc365gz",
+      "id": "11",
+      "name": "col-body-14-1",
+      "bbox": [
+        273,
+        246,
+        184,
+        810
+      ],
+      "geometry": "rect",
+      "fillColor": "#FCFAF5",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pgnmhkzq",
+      "id": "12",
+      "name": "col-head-14-2",
+      "bbox": [
+        457,
+        208,
+        289,
+        38
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fel8fy5",
+      "id": "13",
+      "name": "col-head-text-14-2",
+      "bbox": [
+        461,
+        210,
+        281,
+        34
+      ],
+      "geometry": "rect",
+      "text": "旁白／字卡",
+      "textPreview": "旁白／字卡",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旁白／字卡"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旁白／字卡",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旁白／字卡",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fal4bqho",
+      "id": "14",
+      "name": "col-body-14-2",
+      "bbox": [
+        457,
+        246,
+        289,
+        810
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9c325g3",
+      "id": "15",
+      "name": "visual-14",
+      "bbox": [
+        60,
+        260,
+        201,
+        782
+      ],
+      "geometry": "rect",
+      "text": "STEP 6｜議事殿堂：口頭／書面質詢\n\nSTEP 7｜委員會：資料比對、專業審查、意見交換\n\nSTEP 8｜大會：討論、議決與公開紀錄\n\nSTEP 9｜後續追蹤：列管回覆、工程進度、政策修正\n\nSTEP 10｜回到現場：同一機位拍攝改善前後，未完成案件則呈現追蹤狀態",
+      "textPreview": "STEP 6｜議事殿堂：口頭／書面質詢 |  | STEP 7｜委員會：資料比對、專業審查、意見交換 |  | STEP 8｜大會：討論、議決與公開紀錄 |  | STEP 9｜後續追蹤：列管回覆、工程進度、政策修正 |  | STEP 10｜回到現場：同一機位拍攝改善前後...",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 20,
+        "lines": [
+          {
+            "index": 1,
+            "text": "STEP"
+          },
+          {
+            "index": 2,
+            "text": "6｜議事殿堂：口頭／書面"
+          },
+          {
+            "index": 3,
+            "text": "質詢"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "STEP"
+          },
+          {
+            "index": 6,
+            "text": "7｜委員會：資料比對、專"
+          },
+          {
+            "index": 7,
+            "text": "業審查、意見交換"
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "STEP"
+          },
+          {
+            "index": 10,
+            "text": "8｜大會：討論、議決與公"
+          },
+          {
+            "index": 11,
+            "text": "開紀錄"
+          },
+          {
+            "index": 12,
+            "text": ""
+          },
+          {
+            "index": 13,
+            "text": "STEP"
+          },
+          {
+            "index": 14,
+            "text": "9｜後續追蹤：列管回覆、"
+          },
+          {
+            "index": 15,
+            "text": "工程進度、政策修正"
+          },
+          {
+            "index": 16,
+            "text": ""
+          },
+          {
+            "index": 17,
+            "text": "STEP"
+          },
+          {
+            "index": 18,
+            "text": "10｜回到現場：同一機位"
+          },
+          {
+            "index": 19,
+            "text": "拍攝改善前後，未完成案"
+          },
+          {
+            "index": 20,
+            "text": "件則呈現追蹤狀態"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "STEP 6｜議事殿堂：口頭／書面質詢",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "STEP 6｜議事殿堂：口頭／書面質詢",
+              "fontSize": 17,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "STEP 7｜委員會：資料比對、專業審查、意見交換",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "STEP 7｜委員會：資料比對、專業審查、意見交換",
+              "fontSize": 17,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "STEP 8｜大會：討論、議決與公開紀錄",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "STEP 8｜大會：討論、議決與公開紀錄",
+              "fontSize": 17,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "STEP 9｜後續追蹤：列管回覆、工程進度、政策修正",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "STEP 9｜後續追蹤：列管回覆、工程進度、政策修正",
+              "fontSize": 17,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "STEP 10｜回到現場：同一機位拍攝改善前後，未完成案件則呈現追蹤狀態",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "STEP 10｜回到現場：同一機位拍攝改善前後，未完成案件則呈現追蹤狀態",
+              "fontSize": 17,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hc3md0ze",
+      "id": "16",
+      "name": "audio-14",
+      "bbox": [
+        285,
+        260,
+        160,
+        782
+      ],
+      "geometry": "rect",
+      "text": "議事槌、麥克風開啟、翻頁與鍵盤聲形成節拍\n\n重要數據以簡潔動態字卡同步\n\n不以「完工」作為唯一結局；誠實呈現持續追蹤",
+      "textPreview": "議事槌、麥克風開啟、翻頁與鍵盤聲形成節拍 |  | 重要數據以簡潔動態字卡同步 |  | 不以「完工」作為唯一結局；誠實呈現持續追蹤",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "PingFang TC",
+        "color": "#60727A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 10,
+        "lines": [
+          {
+            "index": 1,
+            "text": "議事槌、麥克風開啟"
+          },
+          {
+            "index": 2,
+            "text": "、翻頁與鍵盤聲形成"
+          },
+          {
+            "index": 3,
+            "text": "節拍"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "重要數據以簡潔動態"
+          },
+          {
+            "index": 6,
+            "text": "字卡同步"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "不以「完工」作為唯"
+          },
+          {
+            "index": 9,
+            "text": "一結局；誠實呈現持"
+          },
+          {
+            "index": 10,
+            "text": "續追蹤"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "議事槌、麥克風開啟、翻頁與鍵盤聲形成節拍",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "議事槌、麥克風開啟、翻頁與鍵盤聲形成節拍",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "重要數據以簡潔動態字卡同步",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "重要數據以簡潔動態字卡同步",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "不以「完工」作為唯一結局；誠實呈現持續追蹤",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.22
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "不以「完工」作為唯一結局；誠實呈現持續追蹤",
+              "fontSize": 16,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.22
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbul4vy9",
+      "id": "17",
+      "name": "narration-14",
+      "bbox": [
+        471,
+        258,
+        261,
+        786
+      ],
+      "geometry": "rect",
+      "text": "【旁白】\n接著，問題走進質詢與審查。議員要求說明、檢視資料、確認預算與期程；不同意見在會議中被提出，也在公開紀錄中留下軌跡。\n\n有些事情能很快改善，有些需要跨局處協調，有些必須經過法規與預算程序。重要的不是一句承諾，而是每一步都有依據、每一個進度都能被追蹤。\n\n從人民的聲音，到制度的行動，再回到生活的現場——這就是監督的意義，也是民主看得見的方式。\n【動畫字卡】\n質詢 → 審查 → 議決 → 追蹤 → 回到現場",
+      "textPreview": "【旁白】 | 接著，問題走進質詢與審查。議員要求說明、檢視資料、確認預算與期程；不同意見在會議中被提出，也在公開紀錄中留下軌跡。 |  | 有些事情能很快改善，有些需要跨局處協調，有些必須經過法規與預算程序。重要的不是一句承諾，而是每一步都有依據、每一個進度都能被追蹤。 |...",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 20,
+        "lines": [
+          {
+            "index": 1,
+            "text": "【旁白】"
+          },
+          {
+            "index": 2,
+            "text": "接著，問題走進質詢與審查。議"
+          },
+          {
+            "index": 3,
+            "text": "員要求說明、檢視資料、確認預"
+          },
+          {
+            "index": 4,
+            "text": "算與期程；不同意見在會議中被"
+          },
+          {
+            "index": 5,
+            "text": "提出，也在公開紀錄中留下軌跡"
+          },
+          {
+            "index": 6,
+            "text": "。"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "有些事情能很快改善，有些需要"
+          },
+          {
+            "index": 9,
+            "text": "跨局處協調，有些必須經過法規"
+          },
+          {
+            "index": 10,
+            "text": "與預算程序。重要的不是一句承"
+          },
+          {
+            "index": 11,
+            "text": "諾，而是每一步都有依據、每一"
+          },
+          {
+            "index": 12,
+            "text": "個進度都能被追蹤。"
+          },
+          {
+            "index": 13,
+            "text": ""
+          },
+          {
+            "index": 14,
+            "text": "從人民的聲音，到制度的行動，"
+          },
+          {
+            "index": 15,
+            "text": "再回到生活的現場——這就是監"
+          },
+          {
+            "index": 16,
+            "text": "督的意義，也是民主看得見的方"
+          },
+          {
+            "index": 17,
+            "text": "式。"
+          },
+          {
+            "index": 18,
+            "text": "【動畫字卡】"
+          },
+          {
+            "index": 19,
+            "text": "質詢 → 審查 → 議決 → 追蹤"
+          },
+          {
+            "index": 20,
+            "text": "→ 回到現場"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "【旁白】\n接著，問題走進質詢與審查。議員要求說明、檢視資料、確認預算與期程；不同意見在會議中被提出，也在公開紀錄中留下軌跡。\n\n有些事情能很快改善，有些需要跨局處協調，有些必須經過法規與預算程序。重要的不是一句承諾，而是每一步都有依據、每一個進度都能被追蹤。\n\n從人民的聲音，到制度的行動，再回到生活的現場——這就是監督的意義，也是民主看得見的方式。",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.24
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "【旁白】\n",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.24
+            },
+            {
+              "index": 2,
+              "text": "接著，問題走進質詢與審查。議員要求說明、檢視資料、確認預算與期程；不同意見在會議中被提出，也在公開紀錄中留下軌跡。\n\n有些事情能很快改善，有些需要跨局處協調，有些必須經過法規與預算程序。重要的不是一句承諾，而是每一步都有依據、每一個進度都能被追蹤。\n\n從人民的聲音，到制度的行動，再回到生活的現場——這就是監督的意義，也是民主看得見的方式。",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.24
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "【動畫字卡】\n質詢 → 審查 → 議決 → 追蹤 → 回到現場",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left",
+            "lineSpacing": 1.24
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "【動畫字卡】\n",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.24
+            },
+            {
+              "index": 2,
+              "text": "質詢 → 審查 → 議決 → 追蹤 → 回到現場",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "alignment": "left",
+              "lineSpacing": 1.24
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mlk7qhc",
+      "id": "18",
+      "name": "footer-line-14",
+      "bbox": [
+        48,
+        1075,
+        698,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6ls3ylgr",
+      "id": "19",
+      "name": "footer-label-14",
+      "bbox": [
+        48,
+        1080,
+        570,
+        26
+      ],
+      "geometry": "rect",
+      "text": "看見.共好｜第三章｜看見民意如何成為行動｜06:05–06:55",
+      "textPreview": "看見.共好｜第三章｜看見民意如何成為行動｜06:05–06:55",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "PingFang TC",
+        "color": "#60727A",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好｜第三章｜看見民意如何成為行動｜06:05–06:55"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好｜第三章｜看見民意如何成為行動｜06:05–06:55",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好｜第三章｜看見民意如何成為行動｜06:05–06:55",
+              "fontSize": 12,
+              "typeface": "PingFang TC",
+              "color": "#60727A",
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahsnal0z",
+      "id": "20",
+      "name": "footer-page-14",
+      "bbox": [
+        686,
+        1080,
+        60,
+        26
+      ],
+      "geometry": "rect",
+      "text": "14",
+      "textPreview": "14",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13,
+        "typeface": "PingFang TC",
+        "color": "#142B34",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "14"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "14",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "14",
+              "fontSize": 13,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

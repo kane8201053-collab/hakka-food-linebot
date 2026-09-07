@@ -1,0 +1,53 @@
+{
+  "outputSlides": [
+    { "outputSlide": 1, "sourceSlide": 1, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 2, "sourceSlide": 2, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 3, "sourceSlide": 3, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 4, "sourceSlide": 4, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 5, "sourceSlide": 5, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 6, "sourceSlide": 6, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 7, "sourceSlide": 7, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 8, "sourceSlide": 8, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 9, "sourceSlide": 9, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 10, "sourceSlide": 10, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 11, "sourceSlide": 11, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 12, "sourceSlide": 12, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 13, "sourceSlide": 13, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 14, "sourceSlide": 14, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 15, "sourceSlide": 15, "narrativeRole": "preserve-only", "reuseMode": "duplicate-slide", "editTargets": [] },
+    {
+      "outputSlide": 16,
+      "sourceSlide": 16,
+      "narrativeRole": "professional production team and equipment overview",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite-and-reposition", "sourceElementIds": ["sh/z29gbutk", "sh/oruhcf65", "sh/atczepob", "sh/7qp0zepo", "sh/kne14jqd", "im/0zep4rql", "im/zy58vmp0", "im/yxw72h8f", "im/947q1g72", "im/83yp8bqx", "im/n258z6pc", "im/udsn6dob"], "reason": "Retain and professionally reorganize the title, section labels, production photos, footer, and camera-system visual." },
+        { "action": "delete", "sourceElementIds": ["sh/zutgvm94", "im/l4va90fi", "im/l0nqxw76", "tb/ix8jylg3", "im/xs7q5g7e", "im/wrypcbqt"], "reason": "Remove off-canvas content, tiny decorative icons, the dense table, and the branded DJI asset." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 48, "top": 130, "width": 698, "height": 930 }, "reason": "Add bounded section surfaces, concise equipment specifications, a neutral drone visual, and hierarchy rules inside the cleared slide content zone; the original table and product-card surfaces are intentionally replaced within this zone.", "mustNotOverlapInherited": false }
+      ]
+    },
+    {
+      "outputSlide": 17,
+      "sourceSlide": 17,
+      "narrativeRole": "core production team profiles one",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite-and-reposition", "sourceElementIds": ["sh/g32x0byd", "im/epo7m5sv", "sh/honqdwnu", "sh/ulw7ihoj", "sh/29grm1of", "sh/3ap8fm50", "im/2lory5cn", "sh/fm58bm54", "sh/0ji9wb6t", "sh/14rqpgne", "sh/90nq9gfi", "sh/8ze9gbyx", "sh/ny5876xc", "im/3mx87qd8", "sh/lwnq5gf6", "sh/0vepcbyl"], "reason": "Reformat the existing title, team-member photographs, names, roles, and credits into consistent profile sections." },
+        { "action": "delete", "sourceElementId": "sh/6lwvql4v", "reason": "Remove the empty off-canvas text box." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 48, "top": 130, "width": 698, "height": 930 }, "reason": "Add profile backgrounds, section marker, and alignment rules while replacing the original profile arrangement inside the bounded content zone.", "mustNotOverlapInherited": false }
+      ]
+    },
+    {
+      "outputSlide": 18,
+      "sourceSlide": 18,
+      "narrativeRole": "core production team profiles two",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite-and-reposition", "sourceElementIds": ["sh/3ilczmx4", "sh/q5kna5sz", "im/xsj6tsru", "sh/t0zqp8bm", "sh/szq9g3uh", "sh/7yh8nytw", "sh/6x8retcb", "im/dobmxoji", "sh/g3a9knud", "sh/f218rits", "sh/u1sridc7", "sh/x8fqhobu", "sh/w7698ju9", "sh/0netwrex", "sh/lonupwv2", "sh/ylwbuhwr", "im/cn2l4j2x"], "reason": "Reformat the existing title, team-member photographs, names, roles, and credits into consistent profile sections." },
+        { "action": "delete", "sourceElementId": "sh/wrelszu9", "reason": "Delete the broken off-canvas slide-number placeholder." },
+        { "action": "add", "newPrimitiveAllowed": true, "zone": { "left": 48, "top": 130, "width": 698, "height": 930 }, "reason": "Add profile backgrounds, section marker, and alignment rules while replacing the original profile arrangement inside the bounded content zone.", "mustNotOverlapInherited": false }
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}

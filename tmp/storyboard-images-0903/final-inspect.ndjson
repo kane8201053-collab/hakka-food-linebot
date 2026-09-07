@@ -1,0 +1,535 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"DEFAULT"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"CONCEPT","textShapes":42}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"Text 0","text":"CONCEPT","textPreview":"CONCEPT","textChars":7,"textLines":1,"bbox":[57.6,28.8,480,26.88]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"Text 1","text":"看見.共好 － 第5屆新北市議會|影片腳本","textPreview":"看見.共好 － 第5屆新北市議會|影片腳本","textChars":21,"textLines":1,"bbox":[333.12,28.8,403.2,26.88]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"Text 2","text":"腳本核心概念:五章結構,一句「看見」貫穿全片","textPreview":"腳本核心概念:五章結構,一句「看見」貫穿全片","textChars":22,"textLines":1,"bbox":[57.6,55.68,678.72,52.8]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"Text 3","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1292.67,570.72,76.8,24.96]}
+{"kind":"shape","id":"sh/ts7md4r2","slide":1,"name":"Shape 4","bbox":[57.6,119.04,678.72,117.12]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"Text 5","text":"片名即敘事方法|第4屆《傾聽.卓越》聽見聲音;第5屆《看見.共好》再進一步——「看見」是方法:先看見生活,再看見機關(片頭 60 秒不出現議會外觀,直到最後一顆鏡頭);「共好」是結局:當民意被聽見、行動被檢驗、承諾被追蹤,城市才能一起變好。","textPreview":"片名即敘事方法|第4屆《傾聽.卓越》聽見聲音;第5屆《看見.共好》再進一步——「看見」是方法:先看見生活,再看見機關(片頭 60 秒不出現議會外觀,直到最後一顆鏡頭);「共好」是結局:當民意被聽見、行動被檢驗、承諾被追蹤,城市才能一起變好。","textChars":120,"textLines":1,"bbox":[81.6,134.4,630.72,90.24]}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"name":"Text 6","text":"五章結構與章名系統(對照第 3 頁起之分鏡腳本)","textPreview":"五章結構與章名系統(對照第 3 頁起之分鏡腳本)","textChars":24,"textLines":1,"bbox":[57.6,257.28,576,30.72]}
+{"kind":"shape","id":"sh/utg3698n","slide":1,"name":"Shape 7","bbox":[57.6,297.6,678.72,55.68]}
+{"kind":"shape","id":"sh/wn6dc7eh","slide":1,"name":"Shape 8","bbox":[69.12,307.2,74.88,36.48]}
+{"kind":"textbox","id":"sh/hofulsf2","slide":1,"name":"Text 9","text":"第一章","textPreview":"第一章","textChars":3,"textLines":1,"bbox":[69.12,306.24,74.88,36.48]}
+{"kind":"textbox","id":"sh/ul4vaxgb","slide":1,"name":"Text 10","text":"看見城市","textPreview":"看見城市","textChars":4,"textLines":1,"bbox":[155.52,309.12,201.6,32.64]}
+{"kind":"textbox","id":"sh/vmdcj2xw","slide":1,"name":"Text 11","text":"片頭・沿革・就職","textPreview":"片頭・沿革・就職","textChars":8,"textLines":1,"bbox":[364.8,312,172.8,28.8]}
+{"kind":"textbox","id":"sh/4r6dg7et","slide":1,"name":"Text 12","text":"00:00–02:35","textPreview":"00:00–02:35","textChars":11,"textLines":1,"bbox":[514.1,313.37,110.4,28.8]}
+{"kind":"textbox","id":"sh/5sfepcfe","slide":1,"name":"Text 13","text":"2 分 35 秒","textPreview":"2 分 35 秒","textChars":8,"textLines":1,"bbox":[629.3,313.37,76.8,28.8]}
+{"kind":"shape","id":"sh/ipovexwn","slide":1,"name":"Shape 14","bbox":[57.6,362.88,678.72,55.68]}
+{"kind":"shape","id":"sh/3qxwn2x8","slide":1,"name":"Shape 15","bbox":[69.12,372.48,74.88,36.48]}
+{"kind":"textbox","id":"sh/sfqdkrep","slide":1,"name":"Text 16","text":"第二章","textPreview":"第二章","textChars":3,"textLines":1,"bbox":[69.12,371.52,74.88,36.48]}
+{"kind":"textbox","id":"sh/dgzetcfa","slide":1,"name":"Text 17","text":"看見每一種生活","textPreview":"看見每一種生活","textChars":7,"textLines":1,"bbox":[155.52,374.4,201.6,32.64]}
+{"kind":"textbox","id":"sh/1cvuxc7e","slide":1,"name":"Text 18","text":"選區群像 A/B/C","textPreview":"選區群像 A/B/C","textChars":10,"textLines":1,"bbox":[364.8,377.28,172.8,28.8]}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"name":"Text 19","text":"02:35–04:55","textPreview":"02:35–04:55","textChars":11,"textLines":1,"bbox":[514.1,378.65,110.4,28.8]}
+{"kind":"textbox","id":"sh/zadcv2p8","slide":1,"name":"Text 20","text":"2 分 20 秒","textPreview":"2 分 20 秒","textChars":8,"textLines":1,"bbox":[629.3,378.65,76.8,28.8]}
+{"kind":"shape","id":"sh/e94v2hon","slide":1,"name":"Shape 21","bbox":[57.6,428.16,678.72,55.68]}
+{"kind":"shape","id":"sh/90ve1w7q","slide":1,"name":"Shape 22","bbox":[69.12,437.76,74.88,36.48]}
+{"kind":"textbox","id":"sh/ozmd8r65","slide":1,"name":"Text 23","text":"第三章","textPreview":"第三章","textChars":3,"textLines":1,"bbox":[69.12,436.8,74.88,36.48]}
+{"kind":"textbox","id":"sh/nydczmpk","slide":1,"name":"Text 24","text":"看見民意如何成為行動","textPreview":"看見民意如何成為行動","textChars":10,"textLines":1,"bbox":[155.52,439.68,201.6,32.64]}
+{"kind":"textbox","id":"sh/mx4v6hoz","slide":1,"name":"Text 25","text":"轉折・民意轉化","textPreview":"轉折・民意轉化","textChars":7,"textLines":1,"bbox":[364.8,442.56,172.8,28.8]}
+{"kind":"textbox","id":"sh/p4bu5s76","slide":1,"name":"Text 26","text":"04:55–06:55","textPreview":"04:55–06:55","textChars":11,"textLines":1,"bbox":[514.1,443.93,110.4,28.8]}
+{"kind":"textbox","id":"sh/432dwn6l","slide":1,"name":"Text 27","text":"2 分 00 秒","textPreview":"2 分 00 秒","textChars":8,"textLines":1,"bbox":[629.3,443.93,76.8,28.8]}
+{"kind":"shape","id":"sh/uxgjq907","slide":1,"name":"Shape 28","bbox":[57.6,493.44,678.72,55.68]}
+{"kind":"shape","id":"sh/vyp0je1s","slide":1,"name":"Shape 29","bbox":[69.12,503.04,74.88,36.48]}
+{"kind":"textbox","id":"sh/wzy1szid","slide":1,"name":"Text 30","text":"第四章","textPreview":"第四章","textChars":3,"textLines":1,"bbox":[69.12,502.08,74.88,36.48]}
+{"kind":"textbox","id":"sh/h072l4jy","slide":1,"name":"Text 31","text":"看見議會如何運作","textPreview":"看見議會如何運作","textChars":8,"textLines":1,"bbox":[155.52,504.96,201.6,32.64]}
+{"kind":"textbox","id":"sh/i1gje90j","slide":1,"name":"Text 32","text":"議會職權・行政團隊","textPreview":"議會職權・行政團隊","textChars":9,"textLines":1,"bbox":[364.8,507.84,172.8,28.8]}
+{"kind":"textbox","id":"sh/j2pkne14","slide":1,"name":"Text 33","text":"06:55–09:10","textPreview":"06:55–09:10","textChars":11,"textLines":1,"bbox":[514.1,509.21,110.4,28.8]}
+{"kind":"textbox","id":"sh/43y1gji9","slide":1,"name":"Text 34","text":"2 分 15 秒","textPreview":"2 分 15 秒","textChars":8,"textLines":1,"bbox":[629.3,509.21,76.8,28.8]}
+{"kind":"shape","id":"sh/54r2poju","slide":1,"name":"Shape 35","bbox":[57.6,558.72,678.72,55.68]}
+{"kind":"shape","id":"sh/y5wjip0z","slide":1,"name":"Shape 36","bbox":[69.12,568.32,74.88,36.48]}
+{"kind":"textbox","id":"sh/z650ba1k","slide":1,"name":"Text 37","text":"第五章","textPreview":"第五章","textChars":3,"textLines":1,"bbox":[69.12,567.36,74.88,36.48]}
+{"kind":"textbox","id":"sh/z2xgf6to","slide":1,"name":"Text 38","text":"走向共好","textPreview":"走向共好","textChars":4,"textLines":1,"bbox":[155.52,570.24,201.6,32.64]}
+{"kind":"textbox","id":"sh/e1oz61c3","slide":1,"name":"Text 39","text":"議長期許・片尾回到片名","textPreview":"議長期許・片尾回到片名","textChars":11,"textLines":1,"bbox":[364.8,573.12,172.8,28.8]}
+{"kind":"textbox","id":"sh/14fyhgbe","slide":1,"name":"Text 40","text":"09:10–11:10","textPreview":"09:10–11:10","textChars":11,"textLines":1,"bbox":[514.1,574.49,110.4,28.8]}
+{"kind":"textbox","id":"sh/036h8but","slide":1,"name":"Text 41","text":"2 分 00 秒","textPreview":"2 分 00 秒","textChars":8,"textLines":1,"bbox":[629.3,574.49,76.8,28.8]}
+{"kind":"textbox","id":"sh/nqxgjqtk","slide":1,"name":"Text 42","text":"與 2022 版《傾聽.卓越》的三個「不一樣」","textPreview":"與 2022 版《傾聽.卓越》的三個「不一樣」","textChars":23,"textLines":1,"bbox":[57.6,641.28,576,30.72]}
+{"kind":"shape","id":"sh/mpozalcz","slide":1,"name":"Shape 43","bbox":[57.6,681.6,678.72,97.92]}
+{"kind":"shape","id":"sh/9sfylgbq","slide":1,"name":"Shape 44","bbox":[74.88,696.96,110.4,34.56]}
+{"kind":"textbox","id":"sh/or6hcvu5","slide":1,"name":"Text 45","text":"視角翻轉","textPreview":"視角翻轉","textChars":4,"textLines":1,"bbox":[74.88,696,110.4,34.56]}
+{"kind":"textbox","id":"sh/buh0nqtg","slide":1,"name":"Text 46","text":"第4屆:議會介紹自己(機構視角)","textPreview":"第4屆:議會介紹自己(機構視角)","textChars":16,"textLines":1,"bbox":[201.6,696.96,510.72,28.8]}
+{"kind":"textbox","id":"sh/at8zelcb","slide":1,"name":"Text 47","text":"第5屆:先看見生活,再看見機關——片頭以四百萬雙眼睛開場,議會外觀留到第 1 分鐘最後一顆鏡頭才出現","textPreview":"第5屆:先看見生活,再看見機關——片頭以四百萬雙眼睛開場,議會外觀留到第 1 分鐘最後一顆鏡頭才出現","textChars":50,"textLines":1,"bbox":[201.6,727.68,510.72,40.32]}
+{"kind":"shape","id":"sh/8zqx4vq9","slide":1,"name":"Shape 48","bbox":[57.6,792.96,678.72,97.92]}
+{"kind":"shape","id":"sh/t0jyd0ru","slide":1,"name":"Shape 49","bbox":[74.88,808.32,110.4,34.56]}
+{"kind":"textbox","id":"sh/6x8f2583","slide":1,"name":"Text 50","text":"選區重組","textPreview":"選區重組","textChars":4,"textLines":1,"bbox":[74.88,807.36,110.4,34.56]}
+{"kind":"textbox","id":"sh/7yhgbq9o","slide":1,"name":"Text 51","text":"第4屆:12 選區逐區介紹,共 7 分 30 秒","textPreview":"第4屆:12 選區逐區介紹,共 7 分 30 秒","textChars":24,"textLines":1,"bbox":[201.6,808.32,510.72,28.8]}
+{"kind":"textbox","id":"sh/kvqx0vqd","slide":1,"name":"Text 52","text":"第5屆:13 選舉區分為三組群像,每區採「人 3 秒＋地景 3 秒＋公共服務 3 秒」公平配置,區名固定位置出現,避免觀光廣告感","textPreview":"第5屆:13 選舉區分為三組群像,每區採「人 3 秒＋地景 3 秒＋公共服務 3 秒」公平配置,區名固定位置出現,避免觀光廣告感","textChars":64,"textLines":1,"bbox":[201.6,839.04,510.72,40.32]}
+{"kind":"shape","id":"sh/lwzy90ry","slide":1,"name":"Shape 53","bbox":[57.6,904.32,678.72,97.92]}
+{"kind":"shape","id":"sh/yt8fyl87","slide":1,"name":"Shape 54","bbox":[74.88,919.68,110.4,34.56]}
+{"kind":"textbox","id":"sh/juhg7q9s","slide":1,"name":"Text 55","text":"職權敘事","textPreview":"職權敘事","textChars":4,"textLines":1,"bbox":[74.88,918.72,110.4,34.56]}
+{"kind":"textbox","id":"sh/wr6xwbq1","slide":1,"name":"Text 56","text":"第4屆:組織架構圖 + 職權條列","textPreview":"第4屆:組織架構圖 + 職權條列","textChars":16,"textLines":1,"bbox":[201.6,919.68,510.72,28.8]}
+{"kind":"textbox","id":"sh/xsfy5grm","slide":1,"name":"Text 57","text":"第5屆:跟著一份陳情走完十個步驟——受理→查證→現勘→提案→質詢→審查→議決→追蹤→回到現場,同機位呈現改善前後","textPreview":"第5屆:跟著一份陳情走完十個步驟——受理→查證→現勘→提案→質詢→審查→議決→追蹤→回到現場,同機位呈現改善前後","textChars":56,"textLines":1,"bbox":[201.6,950.4,510.72,40.32]}
+{"kind":"shape","id":"sh/dc7md8fe","slide":1,"name":"Shape 58","bbox":[991.71,513.12,678.72,110.4]}
+{"kind":"textbox","id":"sh/cby5k3yt","slide":1,"name":"Text 59","text":"貫穿全片的三個母題|\n① 眼睛與光:片頭「睜開的眼睛」蒙太奇 → 片尾句點化為節點、匯成議會識別。   ② 同機位前後對照:第三章 STEP 10 以同一機位拍改善前後,未完成者誠實呈現追蹤狀態。   ③ 聲音接力:環境音 → 翻頁與議事聲 → 回到清晨,音樂自單一鋼琴音起、於片名與片尾兩次完整展開。","textPreview":"貫穿全片的三個母題| | ① 眼睛與光:片頭「睜開的眼睛」蒙太奇 → 片尾句點化為節點、匯成議會識別。   ② 同機位前後對照:第三章 STEP 10 以同一機位拍改善前後,未完成者誠實呈現追蹤狀態。   ③ 聲音接力:環境音 → 翻頁與議事聲 → 回到清晨,音樂自單一鋼琴...","textChars":151,"textLines":2,"bbox":[1015.71,526.56,630.72,86.4]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"OUTLINE","textShapes":6}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"Text 0","text":"OUTLINE","textPreview":"OUTLINE","textChars":7,"textLines":1,"bbox":[57.6,28.8,480,26.88]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"Text 1","text":"看見.共好 － 第5屆新北市議會|影片腳本","textPreview":"看見.共好 － 第5屆新北市議會|影片腳本","textChars":21,"textLines":1,"bbox":[333.12,28.8,403.2,26.88]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"Text 2","text":"分鏡腳本對照總表(總長度:11 分 10 秒)","textPreview":"分鏡腳本對照總表(總長度:11 分 10 秒)","textChars":23,"textLines":1,"bbox":[57.6,55.68,678.72,52.8]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"Text 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[358.56,1079.04,76.8,24.96]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"Shape 4","bbox":[57.64,827,678.72,182.6]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"name":"Text 5","text":"需求書合規|全片 11 分 10 秒,符合「10 至 12 分鐘」規範,且距上限尚餘 50 秒,可供審查階段增補內容;\n第5屆議員就職典禮全程錄影及拍照素材用於 1-3 段;會史館展示更新與簡報室新 LED 多語播放,於 4-2 段入鏡,四項工作成果於片中互相呼應;\n全片以 2K 以上等級攝影機拍攝並以相同規格剪輯輸出;中、英、日、台、韓五語版本畫面共用、語音與字幕分軌,片名字卡五語同步設計。","textPreview":"需求書合規|全片 11 分 10 秒,符合「10 至 12 分鐘」規範,且距上限尚餘 50 秒,可供審查階段增補內容; | 第5屆議員就職典禮全程錄影及拍照素材用於 1-3 段;會史館展示更新與簡報室新 LED 多語播放,於 4-2 段入鏡,四項工作成果於片中互相呼應; |...","textChars":198,"textLines":3,"bbox":[81.64,842.36,630.72,115.2]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"Text 6","text":"註:13 選舉區、應選 68 席(區域 62、平地原住民 4、山地原住民 2)依中選會公告;第5屆議員就職日為 115 年 12 月 25 日。實際議員人數、選區內容與議長致詞,得標後依本會核定資料修正。","textPreview":"註:13 選舉區、應選 68 席(區域 62、平地原住民 4、山地原住民 2)依中選會公告;第5屆議員就職日為 115 年 12 月 25 日。實際議員人數、選區內容與議長致詞,得標後依本會核定資料修正。","textChars":102,"textLines":1,"bbox":[57.64,1009.6,678.72,57.6]}
+{"kind":"table","id":"tb/j65krqps","slide":2,"name":"Table 0","rows":19,"cols":5,"preview":"編號 | 章節 / 段落 | 時間碼 | 長度 | 累計","bbox":[57.6,119.04,678.72,692.94]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"分鏡腳本｜第一章","textShapes":15}
+{"kind":"textbox","id":"sh/f29gbyx0","slide":3,"name":"scene-kicker-6","text":"分鏡腳本｜第一章","textPreview":"分鏡腳本｜第一章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"scene-title-6","text":"看見城市","textPreview":"看見城市","textChars":4,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/d0jax03i","slide":3,"name":"scene-band-6","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"name":"scene-band-label-6","text":"片頭｜先看見生活，再看見機關","textPreview":"片頭｜先看見生活，再看見機關","textChars":14,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"name":"scene-duration-6","text":"00:00–01:00｜60 秒｜累計 01:00","textPreview":"00:00–01:00｜60 秒｜累計 01:00","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"col-head-6-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"name":"col-head-text-6-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/m5cra54z","slide":3,"name":"col-body-6-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/n6ls3alk","slide":3,"name":"col-head-6-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"col-head-text-6-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/m1c3mlsn","slide":3,"name":"col-body-6-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/943mhgre","slide":3,"name":"col-head-6-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/83ulovat","slide":3,"name":"col-head-text-6-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/v6l4jq94","slide":3,"name":"col-body-6-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/a5c3ql8z","slide":3,"name":"visual-6","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"name":"audio-6","text":"0–4 秒僅留環境音\n\n4K 空拍 + 眼神特寫\n「眼睛與光」為全片視覺母題\n\n虹膜內映城市倒影(後期合成)\n\n人口約 400 萬、面積 2,052 平方公里、海岸線約 120 公里、29 行政區、12 選區\n\n音樂從單一鋼琴音開始，弦樂慢慢展開\n\n鏡頭切換不追求快，讓每個日常停留 2–3 秒\n\n","textPreview":"0–4 秒僅留環境音 |  | 4K 空拍 + 眼神特寫 | 「眼睛與光」為全片視覺母題 |  | 虹膜內映城市倒影(後期合成) |  | 人口約 400 萬、面積 2,052 平方公里、海岸線約 120 公里、29 行政區、12 選區 |  | 音樂從單一鋼琴音開始，弦樂...","textChars":149,"textLines":14,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"name":"narration-6","text":"【旁白】\n 每一天,新北在四百萬雙眼睛裡醒來。有人看見山海,有人看見城市,有人看見孩子上學的路。而有一群人,把這四百萬個目光,看成自己的責任。 \n\n二千零五十二平方公里,從三千公尺的山,到一百二十公里的海岸線;二十九個行政區、四百萬市民,匯聚成臺灣最大的城市。這座城市的每一種樣貌,都值得被看見—而看見,是所有改變的開始 。它由一個個被珍惜的日常，慢慢成為我們共同生活的地方。\n\n而議會要做的第一件事，就是看見。\n\n【字卡】\n 《看見.共好》－ 第5屆新北市議會\n","textPreview":"【旁白】 |  每一天,新北在四百萬雙眼睛裡醒來。有人看見山海,有人看見城市,有人看見孩子上學的路。而有一群人,把這四百萬個目光,看成自己的責任。  |  | 二千零五十二平方公里,從三千公尺的山,到一百二十公里的海岸線;二十九個行政區、四百萬市民,匯聚成臺灣最大的城市。這...","textChars":232,"textLines":10,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"name":"footer-line-6","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/i9w3u58v","slide":3,"name":"footer-label-6","text":"看見.共好｜第一章｜看見城市｜00:00–00:45","textPreview":"看見.共好｜第一章｜看見城市｜00:00–00:45","textChars":26,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"footer-page-6","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/14ryd8fq","slide":3,"name":"storyboard-caption-3-1","text":"01｜晨光穿雲・河岸山稜","textPreview":"01｜晨光穿雲・河岸山稜","textChars":12,"textLines":1,"bbox":[60.25,422.91,200.85,27]}
+{"kind":"textbox","id":"sh/re9g7yxo","slide":3,"name":"storyboard-caption-3-2","text":"02｜四百萬雙眼睛","textPreview":"02｜四百萬雙眼睛","textChars":9,"textLines":1,"bbox":[60.25,620.02,200.85,27]}
+{"kind":"textbox","id":"sh/tgry9ofu","slide":3,"name":"storyboard-caption-3-3","text":"03｜光點匯聚片名","textPreview":"03｜光點匯聚片名","textChars":9,"textLines":1,"bbox":[60.25,817.13,200.85,27]}
+{"kind":"textbox","id":"sh/batgjixs","slide":3,"name":"storyboard-caption-3-4","text":"04｜山海到城市","textPreview":"04｜山海到城市","textChars":8,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/n2tc3y1g","slide":3,"name":"storyboard-3-1","geometry":"roundRect","alt":"AI 示意分鏡：01｜晨光穿雲・河岸山稜","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,190.11]}
+{"kind":"image","id":"im/10bu183q","slide":3,"name":"storyboard-3-2","geometry":"roundRect","alt":"AI 示意分鏡：02｜四百萬雙眼睛","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,456.92,200.85,190.11]}
+{"kind":"image","id":"im/fytczylk","slide":3,"name":"storyboard-3-3","geometry":"roundRect","alt":"AI 示意分鏡：03｜光點匯聚片名","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,654.02,200.85,190.11]}
+{"kind":"image","id":"im/lwvexsju","slide":3,"name":"storyboard-3-4","geometry":"roundRect","alt":"AI 示意分鏡：04｜山海到城市","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,851.13,200.85,190.11]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n[/Sources]\n\n\n[完整畫面設計]\nSHOT 01｜ 黑幕一聲心跳→晨光穿雲縮時→淡水河面反光、山稜線\n\nSHOT 02｜ 「睜開的眼睛」特寫蒙太奇:孩子、長者、上班族、議事廳裡的眼神\n\nSHOT 03｜ 萬千目光化為光點,匯聚成片名 3D LOGO\n\nSHOT 04｜空拍由海岸、河川、山城推進都會→29 區地圖光點依序亮起 ；最後再看見議會外觀\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"分鏡腳本｜第一章","textShapes":15}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"scene-kicker-7","text":"分鏡腳本｜第一章","textPreview":"分鏡腳本｜第一章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"scene-title-7","text":"看見傳承(議會沿革 + 第5屆就職)","textPreview":"看見傳承(議會沿革 + 第5屆就職)","textChars":18,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"name":"scene-band-7","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"name":"scene-band-label-7","text":"議會沿革｜讓歷史成為民意的來路","textPreview":"議會沿革｜讓歷史成為民意的來路","textChars":15,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"name":"scene-duration-7","text":"01:00–01:50｜50 秒｜累計 01:50","textPreview":"01:00–01:50｜50 秒｜累計 01:50","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/doj29oba","slide":4,"name":"col-head-7-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"col-head-text-7-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"col-body-7-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/ih8ju9sn","slide":4,"name":"col-head-7-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"col-head-text-7-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"col-body-7-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/i94r6xgz","slide":4,"name":"col-head-7-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"col-head-text-7-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"col-body-7-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/x8vaxsfe","slide":4,"name":"visual-7","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"audio-7","text":"老照片以紙張翻頁聲串接\n\n歷史照片修復與調色,以光的軌跡串接年代\n\n音樂加入低音弦樂，維持莊重、清楚\n\n最後一排座位亮起時，接入輕微議場空間聲","textPreview":"老照片以紙張翻頁聲串接 |  | 歷史照片修復與調色,以光的軌跡串接年代 |  | 音樂加入低音弦樂，維持莊重、清楚 |  | 最後一排座位亮起時，接入輕微議場空間聲","textChars":71,"textLines":7,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"narration-7","text":"【旁白】\n民國三十五年，臺北縣參議會開啟地方自治的篇章；歷經十六屆臺北縣議會，地方的聲音在一次次討論、提案與監督中累積。\n\n民國九十九年，臺北縣改制為新北市，議會也以新的名稱，承接不變的責任。\n\n時代改變，城市擴大， 七十多年來,這道光不曾熄滅。今天它傳到了第5屆——66 位議員在四百萬市民的注視下宣誓:看見民意,守護共好。\n\n【字卡】\n看見傳承.民主如光 \n從地方自治出發，讓民意一路被看見。","textPreview":"【旁白】 | 民國三十五年，臺北縣參議會開啟地方自治的篇章；歷經十六屆臺北縣議會，地方的聲音在一次次討論、提案與監督中累積。 |  | 民國九十九年，臺北縣改制為新北市，議會也以新的名稱，承接不變的責任。 |  | 時代改變，城市擴大， 七十多年來,這道光不曾熄滅。今天它傳...","textChars":198,"textLines":10,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/g36tgryd","slide":4,"name":"footer-line-7","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"name":"footer-label-7","text":"看見.共好｜第一章｜看見城市｜00:45–01:35","textPreview":"看見.共好｜第一章｜看見城市｜00:45–01:35","textChars":26,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/p0batw72","slide":4,"name":"footer-page-7","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/2xkrih8b","slide":4,"name":"storyboard-caption-4-1","text":"05｜舊照與議事物件","textPreview":"05｜舊照與議事物件","textChars":10,"textLines":1,"bbox":[60.25,422.91,200.85,27]}
+{"kind":"textbox","id":"sh/gv29g7q5","slide":4,"name":"storyboard-caption-4-2","text":"06｜歷屆議會沿革","textPreview":"06｜歷屆議會沿革","textChars":9,"textLines":1,"bbox":[60.25,620.02,200.85,27]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"name":"storyboard-caption-4-3","text":"07｜改制・新北市議會","textPreview":"07｜改制・新北市議會","textChars":11,"textLines":1,"bbox":[60.25,817.13,200.85,27]}
+{"kind":"textbox","id":"sh/sri9s7q9","slide":4,"name":"storyboard-caption-4-4","text":"08｜現代議場亮燈","textPreview":"08｜現代議場亮燈","textChars":9,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/83apgj29","slide":4,"name":"storyboard-4-1","geometry":"roundRect","alt":"AI 示意分鏡：05｜舊照與議事物件","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,190.11]}
+{"kind":"image","id":"im/a5sritkf","slide":4,"name":"storyboard-4-2","geometry":"roundRect","alt":"AI 示意分鏡：06｜歷屆議會沿革","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,456.92,200.85,190.11]}
+{"kind":"image","id":"im/w7u9kj25","slide":4,"name":"storyboard-4-3","geometry":"roundRect","alt":"AI 示意分鏡：07｜改制・新北市議會","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,654.02,200.85,190.11]}
+{"kind":"image","id":"im/q9876pkv","slide":4,"name":"storyboard-4-4","geometry":"roundRect","alt":"AI 示意分鏡：08｜現代議場亮燈","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,851.13,200.85,190.11]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n[/Sources]\n\n\n[完整畫面設計]\nSHOT 05｜舊照片細節：會議桌、名牌、議事槌、手寫文件\n\nSHOT 06｜臺北縣參議會、歷屆臺北縣議會影像，採疊化與推鏡\n\nSHOT 07｜民國 99 年改制畫面，舊門牌過渡至「新北市議會」\n\nSHOT 08｜現代議場空鏡，座位燈逐排亮起\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"分鏡腳本｜第一章","textShapes":15}
+{"kind":"textbox","id":"sh/gfi5grih","slide":5,"name":"scene-kicker-8","text":"分鏡腳本｜第一章","textPreview":"分鏡腳本｜第一章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"scene-title-8","text":"每一席，都是眾多希望的託付","textPreview":"每一席，都是眾多希望的託付","textChars":13,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/cf2tcr61","slide":5,"name":"scene-band-8","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/z2tcnm5s","slide":5,"name":"scene-band-label-8","text":"就職與片名｜從選票走進議事殿堂","textPreview":"就職與片名｜從選票走進議事殿堂","textChars":15,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"scene-duration-8","text":"01:50–02:35｜45 秒｜累計 02:35","textPreview":"01:50–02:35｜45 秒｜累計 02:35","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"col-head-8-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"col-head-text-8-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/n6dcr65o","slide":5,"name":"col-body-8-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/m5kbi1oj","slide":5,"name":"col-head-8-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"name":"col-head-text-8-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/x4vedgvm","slide":5,"name":"col-body-8-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"name":"col-head-8-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"name":"col-head-text-8-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/k7mxovud","slide":5,"name":"col-body-8-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/58vehgvy","slide":5,"name":"visual-8","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"audio-8","text":"宣誓段落保留現場原音 8–10 秒\n\n快門聲只保留一次，避免過度煽情\n\n片名出現時音樂第一次完整展開\n\n畫面節奏：個人近景 → 群體全景 → 片名","textPreview":"宣誓段落保留現場原音 8–10 秒 |  | 快門聲只保留一次，避免過度煽情 |  | 片名出現時音樂第一次完整展開 |  | 畫面節奏：個人近景 → 群體全景 → 片名","textChars":73,"textLines":7,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"narration-8","text":"【旁白】\n一張選票，是一次託付；一席議員，是一個地區、一群人、一種生活的代表。\n\n民國一百一十五年十二月二十五日，第五屆新北市議會宣誓就職。六十八席民意，從十三個選舉區走進同一座議事殿堂。\n\n在這裡，不同立場將彼此相遇；共同的目標，是讓每一份託付都被認真回應。\n【現場原音】\n擷取宣誓誓詞重點與全體回應。\n【動畫字卡】\n看見.共好 － 第5屆新北市議會","textPreview":"【旁白】 | 一張選票，是一次託付；一席議員，是一個地區、一群人、一種生活的代表。 |  | 民國一百一十五年十二月二十五日，第五屆新北市議會宣誓就職。六十八席民意，從十三個選舉區走進同一座議事殿堂。 |  | 在這裡，不同立場將彼此相遇；共同的目標，是讓每一份託付都被認真...","textChars":176,"textLines":10,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/sb6xsvu9","slide":5,"name":"footer-line-8","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/tcfel0vu","slide":5,"name":"footer-label-8","text":"看見.共好｜第一章｜看見城市｜01:35–02:35","textPreview":"看見.共好｜第一章｜看見城市｜01:35–02:35","textChars":26,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/hgrmpwj2","slide":5,"name":"footer-page-8","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/ud0ne10b","slide":5,"name":"storyboard-caption-5-1","text":"09｜就職・宣誓・簽名","textPreview":"09｜就職・宣誓・簽名","textChars":11,"textLines":1,"bbox":[60.25,422.91,200.85,27]}
+{"kind":"textbox","id":"sh/4ji5kbid","slide":5,"name":"storyboard-caption-5-2","text":"10｜議長選舉與合照","textPreview":"10｜議長選舉與合照","textChars":10,"textLines":1,"bbox":[60.25,620.02,200.85,27]}
+{"kind":"textbox","id":"sh/2h0ni107","slide":5,"name":"storyboard-caption-5-3","text":"11｜選票化為節點","textPreview":"11｜選票化為節點","textChars":9,"textLines":1,"bbox":[60.25,817.13,200.85,27]}
+{"kind":"textbox","id":"sh/kny587i9","slide":5,"name":"storyboard-caption-5-4","text":"TITLE｜看見．共好","textPreview":"TITLE｜看見．共好","textChars":11,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/kf2x4b6x","slide":5,"name":"storyboard-5-1","geometry":"roundRect","alt":"AI 示意分鏡：09｜就職・宣誓・簽名","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,190.11]}
+{"kind":"image","id":"im/mhkf61o3","slide":5,"name":"storyboard-5-2","geometry":"roundRect","alt":"AI 示意分鏡：10｜議長選舉與合照","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,456.92,200.85,190.11]}
+{"kind":"image","id":"im/8j2x8b6t","slide":5,"name":"storyboard-5-3","geometry":"roundRect","alt":"AI 示意分鏡：11｜選票化為節點","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,654.02,200.85,190.11]}
+{"kind":"image","id":"im/ulkfaloz","slide":5,"name":"storyboard-5-4","geometry":"roundRect","alt":"AI 示意分鏡：TITLE｜看見．共好","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,851.13,200.85,190.11]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n- https://gazette.nat.gov.tw/egFront/eguploadpubWrapper?file=%2FEG_FileManager%2Feguploadpub%2Feg032154%2Fch02%2Ftype3%2Fgov15%2Fnum2%2FEg.htm&metaid=167808\n[/Sources]\n\n\n[完整畫面設計]\nSHOT 9｜12 月 25 日就職典禮：報到、胸花、宣誓、簽名\n\nSHOT 10｜議長／副議長選舉與握手、大合照\n\nSHOT 11｜句點由選票印記化為節點，連成片名\n\nTITLE｜看見.共好 － 第5屆新北市議會\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"分鏡腳本｜第二章","textShapes":15}
+{"kind":"textbox","id":"sh/dcnm98zm","slide":6,"name":"scene-kicker-9","text":"分鏡腳本｜第二章","textPreview":"分鏡腳本｜第二章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"scene-title-9","text":"看見日常 ，選區不是地圖上的切線","textPreview":"看見日常 ，選區不是地圖上的切線","textChars":16,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/zi98nu94","slide":6,"name":"scene-band-9","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/87ipkzal","slide":6,"name":"scene-band-label-9","text":"選區群像 A｜第 1 至第 4 選舉區","textPreview":"選區群像 A｜第 1 至第 4 選舉區","textChars":19,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"scene-duration-9","text":"02:35–03:20｜45 秒｜累計 03:20","textPreview":"02:35–03:20｜45 秒｜累計 03:20","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"col-head-9-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"col-head-text-9-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/oryp8fah","slide":6,"name":"col-body-9-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/pc76hkr2","slide":6,"name":"col-head-9-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"col-head-text-9-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/w32twb6l","slide":6,"name":"col-body-9-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/v2tcn650","slide":6,"name":"col-head-9-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"col-head-text-9-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/5svutgni","slide":6,"name":"col-body-9-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/47mt0b6x","slide":6,"name":"visual-9","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"name":"audio-9","text":"以列車行進節奏串連選區\n\n每個選區保留一個辨識度高的環境音\n\n區名採固定位置出現，避免像觀光廣告\n\n地圖只做定位，不做主畫面","textPreview":"以列車行進節奏串連選區 |  | 每個選區保留一個辨識度高的環境音 |  | 區名採固定位置出現，避免像觀光廣告 |  | 地圖只做定位，不做主畫面","textChars":62,"textLines":7,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"narration-9","text":"【旁白】\n每一個選舉區，不只是地圖上的切線，而是多種觀看城市的角度。\n\n從石門、三芝、淡水與八里的海風吹進城市；到林口、五股、泰山快速成長的新生活；新莊在產業記憶與新都心之間持續前進；蘆洲、三重沿著河岸與街巷，承接最密集也最真切的日常。\n\n地方不同，關心的事不同；每一種生活，都應該有被理解的位置。\n【字卡】\n第 1–4 選舉區｜海岸．成長．新舊交會．河岸生活","textPreview":"【旁白】 | 每一個選舉區，不只是地圖上的切線，而是多種觀看城市的角度。 |  | 從石門、三芝、淡水與八里的海風吹進城市；到林口、五股、泰山快速成長的新生活；新莊在產業記憶與新都心之間持續前進；蘆洲、三重沿著河岸與街巷，承接最密集也最真切的日常。 |  | 地方不同，關心...","textChars":180,"textLines":8,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/twfux0ne","slide":6,"name":"footer-line-9","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/svmt4v6t","slide":6,"name":"footer-label-9","text":"看見.共好｜第二章｜看見每一種生活｜02:35–03:20","textPreview":"看見.共好｜第二章｜看見每一種生活｜02:35–03:20","textChars":29,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/cbe5g3ih","slide":6,"name":"footer-page-9","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/bq547yhw","slide":6,"name":"storyboard-caption-6-1","text":"第1選區｜海岸・漁港・輕軌","textPreview":"第1選區｜海岸・漁港・輕軌","textChars":13,"textLines":1,"bbox":[60.25,422.91,200.85,27]}
+{"kind":"textbox","id":"sh/lg76d8zy","slide":6,"name":"storyboard-caption-6-2","text":"第2選區｜新市鎮・產業・交通","textPreview":"第2選區｜新市鎮・產業・交通","textChars":14,"textLines":1,"bbox":[60.25,620.02,200.85,27]}
+{"kind":"textbox","id":"sh/zep4byhs","slide":6,"name":"storyboard-caption-6-3","text":"第3選區｜老街・工業・副都心","textPreview":"第3選區｜老街・工業・副都心","textChars":14,"textLines":1,"bbox":[60.25,817.13,200.85,27]}
+{"kind":"textbox","id":"sh/1k3mhozu","slide":6,"name":"storyboard-caption-6-4","text":"第4選區｜河岸・市場・通勤","textPreview":"第4選區｜河岸・市場・通勤","textChars":13,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/1cfql0ra","slide":6,"name":"storyboard-6-1","geometry":"roundRect","alt":"AI 示意分鏡：第1選區｜海岸・漁港・輕軌","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,190.11]}
+{"kind":"image","id":"im/neh8na9g","slide":6,"name":"storyboard-6-2","geometry":"roundRect","alt":"AI 示意分鏡：第2選區｜新市鎮・產業・交通","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,456.92,200.85,190.11]}
+{"kind":"image","id":"im/90zqp0r6","slide":6,"name":"storyboard-6-3","geometry":"roundRect","alt":"AI 示意分鏡：第3選區｜老街・工業・副都心","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,654.02,200.85,190.11]}
+{"kind":"image","id":"im/3id8b69w","slide":6,"name":"storyboard-6-4","geometry":"roundRect","alt":"AI 示意分鏡：第4選區｜河岸・市場・通勤","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,851.13,200.85,190.11]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n- https://web.cec.gov.tw/api/file/49859749-3bbe-444c-b516-a4fc724d7e94.pdf\n[/Sources]\n\n\n[完整畫面設計]\n第 1 選區｜石門、三芝、淡水、八里：海岸、漁港、老街、輕軌\n\n第 2 選區｜林口、五股、泰山：新市鎮、產業、交通節點\n\n第 3 選區｜新莊：老街、工業脈絡、住宅與副都心\n\n第 4 選區｜蘆洲、三重：河岸、密集街區、通勤與市場\n\n每區採「人 3 秒＋地景 3 秒＋公共服務 3 秒」公平配置\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"分鏡腳本｜第二章","textShapes":15}
+{"kind":"textbox","id":"sh/jedkn654","slide":7,"name":"scene-kicker-10","text":"分鏡腳本｜第二章","textPreview":"分鏡腳本｜第二章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"scene-title-10","text":"城市的尺度不同，生活的重量相同","textPreview":"城市的尺度不同，生活的重量相同","textChars":15,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/dcbud0ra","slide":7,"name":"scene-band-10","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"name":"scene-band-label-10","text":"選區群像 B｜第 5 至第 8 選舉區","textPreview":"選區群像 B｜第 5 至第 8 選舉區","textChars":19,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"scene-duration-10","text":"03:20–04:05｜45 秒｜累計 04:05","textPreview":"03:20–04:05｜45 秒｜累計 04:05","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"name":"col-head-10-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"col-head-text-10-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/eh0ba1sr","slide":7,"name":"col-body-10-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/fi9c369c","slide":7,"name":"col-head-10-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"col-head-text-10-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/a9ojq5kz","slide":7,"name":"col-body-10-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/xcz2l03q","slide":7,"name":"col-head-10-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"col-head-text-10-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/n6x0fqlo","slide":7,"name":"col-body-10-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/25ojml43","slide":7,"name":"visual-10","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"name":"audio-10","text":"聲音由都會節奏轉入陶土、樹葉與校園環境音\n\n切換速度略加快，再於三峽河岸停留\n\n不使用口號式配樂；以生活感維持可信度","textPreview":"聲音由都會節奏轉入陶土、樹葉與校園環境音 |  | 切換速度略加快，再於三峽河岸停留 |  | 不使用口號式配樂；以生活感維持可信度","textChars":58,"textLines":5,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"name":"narration-10","text":"【旁白】\n板橋是行政與交通交會的核心；中和在居住、產業與通勤之間尋找更好的平衡；永和以緊密的城市尺度，讓每一寸公共空間都格外重要。\n\n再往西南，樹林、鶯歌、土城與三峽，把產業、工藝、校園、河川與山景放進同一幅生活圖像。\n\n有的需求來自快速成長，有的來自老城更新；城市的尺度不同，生活的重量相同。\n【字卡】\n第 5–8 選舉區｜核心．密度．公共空間．文化與產業","textPreview":"【旁白】 | 板橋是行政與交通交會的核心；中和在居住、產業與通勤之間尋找更好的平衡；永和以緊密的城市尺度，讓每一寸公共空間都格外重要。 |  | 再往西南，樹林、鶯歌、土城與三峽，把產業、工藝、校園、河川與山景放進同一幅生活圖像。 |  | 有的需求來自快速成長，有的來自老...","textChars":179,"textLines":8,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/f2d0b6lc","slide":7,"name":"footer-line-10","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/eh4jil4r","slide":7,"name":"footer-label-10","text":"看見.共好｜第二章｜看見每一種生活｜03:20–04:05","textPreview":"看見.共好｜第二章｜看見每一種生活｜03:20–04:05","textChars":29,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/id4ju1oz","slide":7,"name":"footer-page-10","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/50v2pgna","slide":7,"name":"storyboard-caption-7-1","text":"第5選區｜議會・市府・車站","textPreview":"第5選區｜議會・市府・車站","textChars":13,"textLines":1,"bbox":[60.25,422.91,200.85,27]}
+{"kind":"textbox","id":"sh/r2dkrq5g","slide":7,"name":"storyboard-caption-7-2","text":"第6選區｜住宅・產業・通勤","textPreview":"第6選區｜住宅・產業・通勤","textChars":13,"textLines":1,"bbox":[60.25,620.02,200.85,27]}
+{"kind":"textbox","id":"sh/d4f2t0nm","slide":7,"name":"storyboard-caption-7-3","text":"第7選區｜巷弄・公園・橋梁","textPreview":"第7選區｜巷弄・公園・橋梁","textChars":13,"textLines":1,"bbox":[60.25,817.13,200.85,27]}
+{"kind":"textbox","id":"sh/f6xkvq5c","slide":7,"name":"storyboard-caption-7-4","text":"第8選區｜陶瓷・老街・山景","textPreview":"第8選區｜陶瓷・老街・山景","textChars":13,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/vat4ne5o","slide":7,"name":"storyboard-7-1","geometry":"roundRect","alt":"AI 示意分鏡：第5選區｜議會・市府・車站","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,190.11]}
+{"kind":"image","id":"im/50v6tonq","slide":7,"name":"storyboard-7-2","geometry":"roundRect","alt":"AI 示意分鏡：第6選區｜住宅・產業・通勤","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,456.92,200.85,190.11]}
+{"kind":"image","id":"im/3ydory5k","slide":7,"name":"storyboard-7-3","geometry":"roundRect","alt":"AI 示意分鏡：第7選區｜巷弄・公園・橋梁","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,654.02,200.85,190.11]}
+{"kind":"image","id":"im/l4rmh4n6","slide":7,"name":"storyboard-7-4","geometry":"roundRect","alt":"AI 示意分鏡：第8選區｜陶瓷・老街・山景","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,851.13,200.85,190.11]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n- https://web.cec.gov.tw/api/file/49859749-3bbe-444c-b516-a4fc724d7e94.pdf\n[/Sources]\n\n\n[完整畫面設計]\n第 5 選區｜板橋：議會、市府、車站、文化街區\n\n第 6 選區｜中和：住宅、產業園區、通勤節點\n\n第 7 選區｜永和：巷弄、公園、橋梁與高密度生活\n\n第 8 選區｜樹林、鶯歌、土城、三峽：陶瓷、老街、產業、校園、山景\n\n畫面避開單一建設政績，聚焦人在空間裡的使用\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"分鏡腳本｜第二章","textShapes":16}
+{"kind":"textbox","id":"sh/svydgb65","slide":8,"name":"scene-kicker-11","text":"分鏡腳本｜第二章","textPreview":"分鏡腳本｜第二章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"scene-title-11","text":"看見地理， 多元共榮的日常","textPreview":"看見地理， 多元共榮的日常","textChars":13,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/g72x4zyd","slide":8,"name":"scene-band-11","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/ri9g7uhw","slide":8,"name":"scene-band-label-11","text":"選區群像 C｜第 9 至第 13 選舉區","textPreview":"選區群像 C｜第 9 至第 13 選舉區","textChars":20,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"scene-duration-11","text":"04:05–04:55｜50 秒｜累計 04:55","textPreview":"04:05–04:55｜50 秒｜累計 04:55","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/tkby9kzm","slide":8,"name":"col-head-11-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"col-head-text-11-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/je9g3ahk","slide":8,"name":"col-body-11-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"name":"col-head-11-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"col-head-text-11-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/98rehwve","slide":8,"name":"col-body-11-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/m5gvmhwn","slide":8,"name":"col-head-11-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"name":"col-head-text-11-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/0jydkreh","slide":8,"name":"col-body-11-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/1k7edwv2","slide":8,"name":"visual-11","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/ehgvihwr","slide":8,"name":"audio-11","text":"溪流與鐵道聲串起山海\n\n進入原住民選區時，採現場族語問候或經授權歌聲\n\n音樂不挪用儀式性歌謠；文化素材先取得族群同意","textPreview":"溪流與鐵道聲串起山海 |  | 進入原住民選區時，採現場族語問候或經授權歌聲 |  | 音樂不挪用儀式性歌謠；文化素材先取得族群同意","textChars":58,"textLines":5,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"narration-11","text":"【旁白】\n新店、深坑、石碇、坪林與烏來，沿著溪谷連結都會、茶鄉與部落；平溪、瑞芳、雙溪、貢寮，讓山城、鐵道與海岸彼此相望；金山、萬里、汐止，則把海洋、溫泉、科技與通勤生活連成一線。\n\n還有跨越行政邊界的平地與山地原住民選區，讓族人的生活、語言與文化，在城市裡持續被看見。\n\n十三個選區，六十八席民意；每一席，都連著一群人的現在與未來，多元,不只是共處——是彼此看見,一起變好。 \n【字卡】\n第 9–13 選舉區｜山海．城鄉．族群．文化傳承","textPreview":"【旁白】 | 新店、深坑、石碇、坪林與烏來，沿著溪谷連結都會、茶鄉與部落；平溪、瑞芳、雙溪、貢寮，讓山城、鐵道與海岸彼此相望；金山、萬里、汐止，則把海洋、溫泉、科技與通勤生活連成一線。 |  | 還有跨越行政邊界的平地與山地原住民選區，讓族人的生活、語言與文化，在城市裡持續...","textChars":219,"textLines":8,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/kfixwbe1","slide":8,"name":"footer-line-11","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/lgbepgvm","slide":8,"name":"footer-label-11","text":"看見.共好｜第二章｜看見每一種生活｜04:05–04:55","textPreview":"看見.共好｜第二章｜看見每一種生活｜04:05–04:55","textChars":29,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/tw7e9gnq","slide":8,"name":"footer-page-11","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/6twve1oz","slide":8,"name":"storyboard-caption-8-1","text":"第9選區｜溪谷・茶鄉・部落","textPreview":"第9選區｜溪谷・茶鄉・部落","textChars":13,"textLines":1,"bbox":[60.25,383.49,200.85,27]}
+{"kind":"textbox","id":"sh/kredcr6t","slide":8,"name":"storyboard-caption-8-2","text":"第10選區｜山城・鐵道・海岸","textPreview":"第10選區｜山城・鐵道・海岸","textChars":14,"textLines":1,"bbox":[60.25,541.18,200.85,27]}
+{"kind":"textbox","id":"sh/i5wva1o3","slide":8,"name":"storyboard-caption-8-3","text":"第11選區｜漁港・溫泉・科技","textPreview":"第11選區｜漁港・溫泉・科技","textChars":14,"textLines":1,"bbox":[60.25,698.86,200.85,27]}
+{"kind":"textbox","id":"sh/w3ed8r6x","slide":8,"name":"storyboard-caption-8-4","text":"第12選區｜平地原民生活","textPreview":"第12選區｜平地原民生活","textChars":12,"textLines":1,"bbox":[60.25,856.55,200.85,27]}
+{"kind":"textbox","id":"sh/na1sb2lg","slide":8,"name":"storyboard-caption-8-5","text":"第13選區｜部落・語言・土地","textPreview":"第13選區｜部落・語言・土地","textChars":14,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/krqtkn2x","slide":8,"name":"storyboard-8-1","geometry":"roundRect","alt":"AI 示意分鏡：第9選區｜溪谷・茶鄉・部落","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,150.68]}
+{"kind":"image","id":"im/alored4v","slide":8,"name":"storyboard-8-2","geometry":"roundRect","alt":"AI 示意分鏡：第10選區｜山城・鐵道・海岸","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,417.49,200.85,150.68]}
+{"kind":"image","id":"im/wnq9gnm1","slide":8,"name":"storyboard-8-3","geometry":"roundRect","alt":"AI 示意分鏡：第11選區｜漁港・溫泉・科技","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,575.18,200.85,150.68]}
+{"kind":"image","id":"im/uhsbqhkf","slide":8,"name":"storyboard-8-4","geometry":"roundRect","alt":"AI 示意分鏡：第12選區｜平地原民生活","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,732.86,200.85,150.68]}
+{"kind":"image","id":"im/pc3upgn2","slide":8,"name":"storyboard-8-5","geometry":"roundRect","alt":"AI 示意分鏡：第13選區｜部落・語言・土地","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,890.55,200.85,150.68]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n- https://web.cec.gov.tw/api/file/49859749-3bbe-444c-b516-a4fc724d7e94.pdf\n- https://gazette.nat.gov.tw/egFront/eguploadpubWrapper?file=%2FEG_FileManager%2Feguploadpub%2Feg032154%2Fch02%2Ftype3%2Fgov15%2Fnum2%2FEg.htm&metaid=167808\n[/Sources]\n\n\n[完整畫面設計]\n第 9 選區｜新店、深坑、石碇、坪林、烏來：溪谷、茶鄉、山路、部落\n\n第 10 選區｜平溪、瑞芳、雙溪、貢寮：山城、鐵道、海岸\n\n第 11 選區｜金山、萬里、汐止：漁港、溫泉、科技與通勤\n\n第 12 選區｜平地原住民：跨行政區的族人生活與文化\n\n第 13 選區｜山地原住民：部落、語言、工藝、土地連結\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"分鏡腳本｜第二章","textShapes":14}
+{"kind":"textbox","id":"sh/87a18zqt","slide":9,"name":"scene-kicker-12","text":"分鏡腳本｜第二章","textPreview":"分鏡腳本｜第二章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"scene-title-12","text":"看見民意，面對問題","textPreview":"看見民意，面對問題","textChars":9,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/0b65obm9","slide":9,"name":"scene-band-12","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"name":"scene-band-label-12","text":"轉折｜從城市群像走入議會核心","textPreview":"轉折｜從城市群像走入議會核心","textChars":14,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"scene-duration-12","text":"04:55–05:15｜20 秒｜累計 05:15","textPreview":"04:55–05:15｜20 秒｜累計 05:15","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/9gzml0nq","slide":9,"name":"col-head-12-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"col-head-text-12-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/bih4na5w","slide":9,"name":"col-body-12-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/ah8nu54b","slide":9,"name":"col-head-12-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"col-head-text-12-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/p0ji9kf2","slide":9,"name":"col-body-12-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/2xsjepgb","slide":9,"name":"col-head-12-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"col-head-text-12-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/cnu1kzyd","slide":9,"name":"col-body-12-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/do3id4fy","slide":9,"name":"visual-12","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"name":"audio-12","text":"音樂突然收斂，只留下雨聲、號誌聲、紙張聲\n\n三個問題各 3 秒，不交代答案\n\n最後以一聲訊息提示，帶入下一段","textPreview":"音樂突然收斂，只留下雨聲、號誌聲、紙張聲 |  | 三個問題各 3 秒，不交代答案 |  | 最後以一聲訊息提示，帶入下一段","textChars":54,"textLines":5,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"name":"narration-12","text":"【旁白】\n一場雨後的積水、一條不安心的上學路、一段等不到車的日常，都可能是城市下一步要回答的問題。\n\n當一個聲音走進議會，它會怎麼成為改變的開始？\n【動畫字卡】\n看見問題｜不是終點，是行動的起點。","textPreview":"【旁白】 | 一場雨後的積水、一條不安心的上學路、一段等不到車的日常，都可能是城市下一步要回答的問題。 |  | 當一個聲音走進議會，它會怎麼成為改變的開始？ | 【動畫字卡】 | 看見問題｜不是終點，是行動的起點。","textChars":98,"textLines":6,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/0ru1ozyp","slide":9,"name":"footer-line-12","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/lsn2h4fa","slide":9,"name":"footer-label-12","text":"看見.共好｜第三章｜看見民意如何成為行動｜04:55–05:15","textPreview":"看見.共好｜第三章｜看見民意如何成為行動｜04:55–05:15","textChars":32,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/98ji147e","slide":9,"name":"footer-page-12","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/ml8j6p8n","slide":9,"name":"storyboard-caption-9-1","text":"13｜三個日常問題","textPreview":"13｜三個日常問題","textChars":9,"textLines":1,"bbox":[60.25,484.62,200.85,31]}
+{"kind":"textbox","id":"sh/wba1cjqp","slide":9,"name":"storyboard-caption-9-2","text":"14｜手機陳情資料","textPreview":"14｜手機陳情資料","textChars":9,"textLines":1,"bbox":[60.25,747.42,200.85,31]}
+{"kind":"textbox","id":"sh/u9sja98z","slide":9,"name":"storyboard-caption-9-3","text":"15｜受理與服務處筆記","textPreview":"15｜受理與服務處筆記","textChars":11,"textLines":1,"bbox":[60.25,1010.23,200.85,31]}
+{"kind":"image","id":"im/ofmpgve5","slide":9,"name":"storyboard-9-1","geometry":"roundRect","alt":"AI 示意分鏡：13｜三個日常問題","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,255.81]}
+{"kind":"image","id":"im/aho72lwb","slide":9,"name":"storyboard-9-2","geometry":"roundRect","alt":"AI 示意分鏡：14｜手機陳情資料","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,522.62,200.85,255.81]}
+{"kind":"image","id":"im/wj6p4ve1","slide":9,"name":"storyboard-9-3","geometry":"roundRect","alt":"AI 示意分鏡：15｜受理與服務處筆記","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,785.42,200.85,255.81]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n[/Sources]\n\n\n[完整畫面設計]\nSHOT 13｜快速收斂三個日常細節\n• 雨天積水停在鞋尖\n• 家長牽孩子穿越路口\n• 長者在候車亭等待\n\nSHOT 14｜市民手機畫面／陳情資料／照片\n\nSHOT 15｜畫面停在「已受理」或服務處筆記，不呈現個資\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"分鏡腳本｜第三章","textShapes":16}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"name":"scene-kicker-13","text":"分鏡腳本｜第三章","textPreview":"分鏡腳本｜第三章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"scene-title-13","text":"看見問題，跟著一份提案走進議會","textPreview":"看見問題，跟著一份提案走進議會","textChars":15,"textLines":1,"bbox":[48.26,75.94,697.48,59.96]}
+{"kind":"shape","id":"sh/cbu58j2h","slide":10,"name":"scene-band-13","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"scene-band-label-13","text":"民意轉化 A｜受理、查證、現勘、提案","textPreview":"民意轉化 A｜受理、查證、現勘、提案","textChars":18,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"scene-duration-13","text":"05:15–06:05｜50 秒｜累計 06:05","textPreview":"05:15–06:05｜50 秒｜累計 06:05","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"name":"col-head-13-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"name":"col-head-text-13-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/725onyl4","slide":10,"name":"col-body-13-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/m1cnetkj","slide":10,"name":"col-head-13-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"col-head-text-13-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/d87uxg3m","slide":10,"name":"col-body-13-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/q5gb21kb","slide":10,"name":"col-head-13-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/r6pcv6lw","slide":10,"name":"col-head-text-13-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/0bit8b2d","slide":10,"name":"col-body-13-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/1cru1g3y","slide":10,"name":"visual-13","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/e9gb61k7","slide":10,"name":"audio-13","text":"節奏由單點訊息逐步堆疊\n\n保留市民一句原音：\n「我們希望有人把這件事說清楚。」\n\n會勘現場以同期聲為主，不另配過度情緒化音樂","textPreview":"節奏由單點訊息逐步堆疊 |  | 保留市民一句原音： | 「我們希望有人把這件事說清楚。」 |  | 會勘現場以同期聲為主，不另配過度情緒化音樂","textChars":62,"textLines":6,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/fapcz6ls","slide":10,"name":"narration-13","text":"【旁白】\n市民看見的每一個改變,在這裡都有一段旅程。一份提案與陳請,從服務處出發,走進委員會,被逐條檢視 。\n\n一個看似單純的困難，可能牽涉安全、預算、法規與不同機關的權責。議會的工作，是把零散感受整理成可以討論的問題，把個人的不方便，轉化為公共議題。\n\n每一年,數千億的市政預算在這裡逐項把關;大會與各委員會分工合力,只為一件事:讓你的聲音,成為城市的決定 。\n【字卡】\n受理 → 查證 → 現勘 → 定義問題","textPreview":"【旁白】 | 市民看見的每一個改變,在這裡都有一段旅程。一份提案與陳請,從服務處出發,走進委員會,被逐條檢視 。 |  | 一個看似單純的困難，可能牽涉安全、預算、法規與不同機關的權責。議會的工作，是把零散感受整理成可以討論的問題，把個人的不方便，轉化為公共議題。 |  |...","textChars":206,"textLines":8,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/ozitcv29","slide":10,"name":"footer-line-13","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/p0ru503u","slide":10,"name":"footer-label-13","text":"看見.共好｜第三章｜看見民意如何成為行動｜05:15–06:05","textPreview":"看見.共好｜第三章｜看見民意如何成為行動｜05:15–06:05","textChars":32,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/xwnupgvy","slide":10,"name":"footer-page-13","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/atwbelcn","slide":10,"name":"storyboard-caption-10-1","text":"STEP 1｜市民陳情","textPreview":"STEP 1｜市民陳情","textChars":11,"textLines":1,"bbox":[60.25,383.49,200.85,27]}
+{"kind":"textbox","id":"sh/kjytkvup","slide":10,"name":"storyboard-caption-10-2","text":"STEP 2｜資料整理","textPreview":"STEP 2｜資料整理","textChars":11,"textLines":1,"bbox":[60.25,541.18,200.85,27]}
+{"kind":"textbox","id":"sh/yxgbilcj","slide":10,"name":"storyboard-caption-10-3","text":"STEP 3｜共同會勘","textPreview":"STEP 3｜共同會勘","textChars":11,"textLines":1,"bbox":[60.25,698.86,200.85,27]}
+{"kind":"textbox","id":"sh/0nut8rul","slide":10,"name":"storyboard-caption-10-4","text":"STEP 4｜定義問題","textPreview":"STEP 4｜定義問題","textChars":11,"textLines":1,"bbox":[60.25,856.55,200.85,27]}
+{"kind":"textbox","id":"sh/ru18r2to","slide":10,"name":"storyboard-caption-10-5","text":"STEP 5｜形成提案／質詢","textPreview":"STEP 5｜形成提案／質詢","textChars":14,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/8jmtobq9","slide":10,"name":"storyboard-10-1","geometry":"roundRect","alt":"AI 示意分鏡：STEP 1｜市民陳情","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,150.68]}
+{"kind":"image","id":"im/u5obql8f","slide":10,"name":"storyboard-10-2","geometry":"roundRect","alt":"AI 示意分鏡：STEP 2｜資料整理","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,417.49,200.85,150.68]}
+{"kind":"image","id":"im/w76tsvq5","slide":10,"name":"storyboard-10-3","geometry":"roundRect","alt":"AI 示意分鏡：STEP 3｜共同會勘","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,575.18,200.85,150.68]}
+{"kind":"image","id":"im/q9kbeh8v","slide":10,"name":"storyboard-10-4","geometry":"roundRect","alt":"AI 示意分鏡：STEP 4｜定義問題","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,732.86,200.85,150.68]}
+{"kind":"image","id":"im/t4jetkry","slide":10,"name":"storyboard-10-5","geometry":"roundRect","alt":"AI 示意分鏡：STEP 5｜形成提案／質詢","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,890.55,200.85,150.68]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n[/Sources]\n\n\n[完整畫面設計]\nSTEP 1｜市民陳情：電話、線上、服務處與當面反映\n\nSTEP 2｜資料整理：遮蔽個資後呈現案件照片、地圖、時間軸\n\nSTEP 3｜現地了解：議員、居民與相關單位共同會勘\n\nSTEP 4｜問題定義：把個案拆成安全、預算、權責與期程\n\nSTEP 5｜形成提案或質詢重點\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"分鏡腳本｜第三章","textShapes":16}
+{"kind":"textbox","id":"sh/87ehgv6d","slide":11,"name":"scene-kicker-14","text":"分鏡腳本｜第三章","textPreview":"分鏡腳本｜第三章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"name":"scene-title-14","text":"讓承諾有進度，讓改變被追蹤","textPreview":"讓承諾有進度，讓改變被追蹤","textChars":13,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/wbih4b6d","slide":11,"name":"scene-band-14","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/n69grmpw","slide":11,"name":"scene-band-label-14","text":"民意轉化 B｜質詢、審查、議決、追蹤","textPreview":"民意轉化 B｜質詢、審查、議決、追蹤","textChars":18,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"scene-duration-14","text":"06:05–06:55｜50 秒｜累計 06:55","textPreview":"06:05–06:55｜50 秒｜累計 06:55","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/98rytw72","slide":11,"name":"col-head-14-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/o7ih0r6h","slide":11,"name":"col-head-text-14-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/72t03qp0","slide":11,"name":"col-body-14-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/61kzalof","slide":11,"name":"col-head-14-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"col-head-text-14-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/9gza9sze","slide":11,"name":"col-body-14-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/mdobedg3","slide":11,"name":"col-head-14-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/nehs7iho","slide":11,"name":"col-head-text-14-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/0b6tc3yx","slide":11,"name":"col-body-14-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/1cfa58zi","slide":11,"name":"visual-14","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"name":"audio-14","text":"議事槌、麥克風開啟、翻頁與鍵盤聲形成節拍\n\n重要數據以簡潔動態字卡同步\n\n不以「完工」作為唯一結局；誠實呈現持續追蹤","textPreview":"議事槌、麥克風開啟、翻頁與鍵盤聲形成節拍 |  | 重要數據以簡潔動態字卡同步 |  | 不以「完工」作為唯一結局；誠實呈現持續追蹤","textChars":58,"textLines":5,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"narration-14","text":"【旁白】\n接著，問題走進質詢與審查。議員要求說明、檢視資料、確認預算與期程；不同意見在會議中被提出，也在公開紀錄中留下軌跡。\n\n有些事情能很快改善，有些需要跨局處協調，有些必須經過法規與預算程序。重要的不是一句承諾，而是每一步都有依據、每一個進度都能被追蹤。\n\n從人民的聲音，到制度的行動，再回到生活的現場——這就是監督的意義，也是民主看得見的方式。\n【動畫字卡】\n質詢 → 審查 → 議決 → 追蹤 → 回到現場","textPreview":"【旁白】 | 接著，問題走進質詢與審查。議員要求說明、檢視資料、確認預算與期程；不同意見在會議中被提出，也在公開紀錄中留下軌跡。 |  | 有些事情能很快改善，有些需要跨局處協調，有些必須經過法規與預算程序。重要的不是一句承諾，而是每一步都有依據、每一個進度都能被追蹤。 |...","textChars":207,"textLines":8,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/cn6t83y1","slide":11,"name":"footer-line-14","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/dofa18z6","slide":11,"name":"footer-label-14","text":"看見.共好｜第三章｜看見民意如何成為行動｜06:05–06:55","textPreview":"看見.共好｜第三章｜看見民意如何成為行動｜06:05–06:55","textChars":32,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/tsnip0ny","slide":11,"name":"footer-page-14","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/65wzelo7","slide":11,"name":"storyboard-caption-11-1","text":"STEP 6｜口頭／書面質詢","textPreview":"STEP 6｜口頭／書面質詢","textChars":14,"textLines":1,"bbox":[60.25,383.49,200.85,27]}
+{"kind":"textbox","id":"sh/k3uhcb6h","slide":11,"name":"storyboard-caption-11-2","text":"STEP 7｜委員會審查","textPreview":"STEP 7｜委員會審查","textChars":12,"textLines":1,"bbox":[60.25,541.18,200.85,27]}
+{"kind":"textbox","id":"sh/y1czalob","slide":11,"name":"storyboard-caption-11-3","text":"STEP 8｜大會議決","textPreview":"STEP 8｜大會議決","textChars":11,"textLines":1,"bbox":[60.25,698.86,200.85,27]}
+{"kind":"textbox","id":"sh/4zyhofml","slide":11,"name":"storyboard-caption-11-4","text":"STEP 9｜後續追蹤","textPreview":"STEP 9｜後續追蹤","textChars":11,"textLines":1,"bbox":[60.25,856.55,200.85,27]}
+{"kind":"textbox","id":"sh/n61wbmlo","slide":11,"name":"storyboard-caption-11-5","text":"STEP 10｜回到現場","textPreview":"STEP 10｜回到現場","textChars":12,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/kf29ofmx","slide":11,"name":"storyboard-11-1","geometry":"roundRect","alt":"AI 示意分鏡：STEP 6｜口頭／書面質詢","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,150.68]}
+{"kind":"image","id":"im/6hkrqp43","slide":11,"name":"storyboard-11-2","geometry":"roundRect","alt":"AI 示意分鏡：STEP 7｜委員會審查","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,417.49,200.85,150.68]}
+{"kind":"image","id":"im/sj29szm9","slide":11,"name":"storyboard-11-3","geometry":"roundRect","alt":"AI 示意分鏡：STEP 8｜大會議決","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,575.18,200.85,150.68]}
+{"kind":"image","id":"im/ml0re54j","slide":11,"name":"storyboard-11-4","geometry":"roundRect","alt":"AI 示意分鏡：STEP 9｜後續追蹤","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,732.86,200.85,150.68]}
+{"kind":"image","id":"im/psz29sby","slide":11,"name":"storyboard-11-5","geometry":"roundRect","alt":"AI 示意分鏡：STEP 10｜回到現場","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,890.55,200.85,150.68]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n[/Sources]\n\n\n[完整畫面設計]\nSTEP 6｜議事殿堂：口頭／書面質詢\n\nSTEP 7｜委員會：資料比對、專業審查、意見交換\n\nSTEP 8｜大會：討論、議決與公開紀錄\n\nSTEP 9｜後續追蹤：列管回覆、工程進度、政策修正\n\nSTEP 10｜回到現場：同一機位拍攝改善前後，未完成案件則呈現追蹤狀態\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"分鏡腳本｜第四章","textShapes":16}
+{"kind":"textbox","id":"sh/gj25cry9","slide":12,"name":"scene-kicker-15","text":"分鏡腳本｜第四章","textPreview":"分鏡腳本｜第四章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"name":"scene-title-15","text":"每一項決定，都經得起公開討論","textPreview":"每一項決定，都經得起公開討論","textChars":14,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/0f2lgnmp","slide":12,"name":"scene-band-15","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"scene-band-label-15","text":"議會職權｜把制度拍成看得懂的流程","textPreview":"議會職權｜把制度拍成看得懂的流程","textChars":16,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"scene-duration-15","text":"06:55–08:15｜80 秒｜累計 08:15","textPreview":"06:55–08:15｜80 秒｜累計 08:15","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/dcbm583y","slide":12,"name":"col-head-15-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/sb2lcnmd","slide":12,"name":"col-head-text-15-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/b6d4f2lc","slide":12,"name":"col-body-15-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/a543mx4r","slide":12,"name":"col-head-15-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"col-head-text-15-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/xw3q94ne","slide":12,"name":"col-body-15-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/atc7epon","slide":12,"name":"col-head-15-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/bulo7u58","slide":12,"name":"col-head-text-15-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/orapcf6h","slide":12,"name":"col-body-15-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/9sj65kn2","slide":12,"name":"visual-15","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"audio-15","text":"旁白講職權時，每項搭配真實會議動作\n\n避免長時間停留在組織圖\n\n音樂降低，讓質詢原音穿插 2–3 句，每句不超過 4 秒\n\n字幕標示「實際議事畫面」與議程名稱","textPreview":"旁白講職權時，每項搭配真實會議動作 |  | 避免長時間停留在組織圖 |  | 音樂降低，讓質詢原音穿插 2–3 句，每句不超過 4 秒 |  | 字幕標示「實際議事畫面」與議程名稱","textChars":79,"textLines":7,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/nq1o3a5w","slide":12,"name":"narration-15","text":"【旁白】\n議會，是地方自治中代表市民行使監督與議決權的機關。\n\n從城市的法規、年度預算與決算，到市稅、公共財產、市府組織與各項提案，都必須透過議會的程序接受檢視。人民的請願，也能在這裡進入正式的制度。\n\n議案依性質進入程序與各審查委員會，經資料審閱、詢答、討論，再送交大會議決；議員也透過市政總質詢、業務質詢、現勘與書面建議，要求行政部門說明並改善。\n\n監督不是阻擋前進，而是讓每一筆公共資源用得更負責；討論也不是拖延，而是讓不同影響被充分看見。\n\n每一項決定，都必須留下紀錄，也必須經得起公開討論。\n【字卡】\n議決｜審查｜質詢｜請願｜監督","textPreview":"【旁白】 | 議會，是地方自治中代表市民行使監督與議決權的機關。 |  | 從城市的法規、年度預算與決算，到市稅、公共財產、市府組織與各項提案，都必須透過議會的程序接受檢視。人民的請願，也能在這裡進入正式的制度。 |  | 議案依性質進入程序與各審查委員會，經資料審閱、詢答...","textChars":270,"textLines":12,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/0nap8f6l","slide":12,"name":"footer-line-15","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/1oj61kn6","slide":12,"name":"footer-label-15","text":"看見.共好｜第四章｜看見議會如何運作｜06:55–08:15","textPreview":"看見.共好｜第四章｜看見議會如何運作｜06:55–08:15","textChars":30,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/hkbm5wzu","slide":12,"name":"footer-page-15","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/uh0na1g3","slide":12,"name":"storyboard-caption-12-1","text":"16｜大會全景","textPreview":"16｜大會全景","textChars":7,"textLines":1,"bbox":[60.25,383.49,200.85,27]}
+{"kind":"textbox","id":"sh/sfi58ryd","slide":12,"name":"storyboard-caption-12-2","text":"17｜程序與委員會","textPreview":"17｜程序與委員會","textChars":9,"textLines":1,"bbox":[60.25,541.18,200.85,27]}
+{"kind":"textbox","id":"sh/6t0n6hg7","slide":12,"name":"storyboard-caption-12-3","text":"18｜市政／業務質詢","textPreview":"18｜市政／業務質詢","textChars":10,"textLines":1,"bbox":[60.25,698.86,200.85,27]}
+{"kind":"textbox","id":"sh/cbm5kbyh","slide":12,"name":"storyboard-caption-12-4","text":"19｜預決算與條例","textPreview":"19｜預決算與條例","textChars":9,"textLines":1,"bbox":[60.25,856.55,200.85,27]}
+{"kind":"textbox","id":"sh/bm5sryt8","slide":12,"name":"storyboard-caption-12-5","text":"20｜影音・表決・紀錄","textPreview":"20｜影音・表決・紀錄","textChars":11,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/kfa90j6t","slide":12,"name":"storyboard-12-1","geometry":"roundRect","alt":"AI 示意分鏡：16｜大會全景","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,150.68]}
+{"kind":"image","id":"im/ap8rupob","slide":12,"name":"storyboard-12-2","geometry":"roundRect","alt":"AI 示意分鏡：17｜程序與委員會","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,417.49,200.85,150.68]}
+{"kind":"image","id":"im/crq9wz6h","slide":12,"name":"storyboard-12-3","geometry":"roundRect","alt":"AI 示意分鏡：18｜市政／業務質詢","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,575.18,200.85,150.68]}
+{"kind":"image","id":"im/2lorqpof","slide":12,"name":"storyboard-12-4","geometry":"roundRect","alt":"AI 示意分鏡：19｜預決算與條例","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,732.86,200.85,150.68]}
+{"kind":"image","id":"im/ps7mlwbu","slide":12,"name":"storyboard-12-5","geometry":"roundRect","alt":"AI 示意分鏡：20｜影音・表決・紀錄","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,890.55,200.85,150.68]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n- https://bms1.ntp.gov.tw/billsystem/mam/ScheduleAnnex/0407T/f0b20b98-9369-4730-9423-bc95900d22c4.pdf\n[/Sources]\n\n\n[完整畫面設計]\nSHOT 16｜大會全景＋議程字幕\n\nSHOT 17｜程序會、各審查委員會、法規審查、聯席會議\n\nSHOT 18｜市政總質詢、業務質詢、書面資料特寫\n\nSHOT 19｜預算書、決算審核報告、自治條例三讀畫面\n\nSHOT 20｜議事影音平台、表決與會議紀錄\n\n民意 → 提案／市府提案 → 審查 → 大會 → 執行與監督\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"分鏡腳本｜第四章","textShapes":16}
+{"kind":"textbox","id":"sh/xozyhkbi","slide":13,"name":"scene-kicker-16","text":"分鏡腳本｜第四章","textPreview":"分鏡腳本｜第四章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/q50nydsj","slide":13,"name":"scene-title-16","text":"讓民主被理解，也被完整保存","textPreview":"讓民主被理解，也被完整保存","textChars":13,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/bq9orito","slide":13,"name":"scene-band-16","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/o3i5w3ad","slide":13,"name":"scene-band-label-16","text":"行政團隊｜讓每一場會議可信、可查","textPreview":"行政團隊｜讓每一場會議可信、可查","textChars":16,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/p4r6p8by","slide":13,"name":"scene-duration-16","text":"08:15–09:10｜55 秒｜累計 09:10","textPreview":"08:15–09:10｜55 秒｜累計 09:10","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/21gnuts7","slide":13,"name":"col-head-16-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/32ponyts","slide":13,"name":"col-head-text-16-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/gzy5s3a1","slide":13,"name":"col-body-16-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/1076lobm","slide":13,"name":"col-head-16-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"col-head-text-16-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/gb6x0zm9","slide":13,"name":"col-body-16-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/vaxg7ulo","slide":13,"name":"col-head-16-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/u9ofyp43","slide":13,"name":"col-head-text-16-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/t8fy5k3i","slide":13,"name":"col-body-16-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/876xwfmx","slide":13,"name":"visual-16","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"name":"audio-16","text":"以開會前倒數聲建立秩序感\n\n不同處室動作採聲音接力：翻頁、插線、測麥、鍵盤、快門\n\n音樂重新加入溫度，節奏穩定向前","textPreview":"以開會前倒數聲建立秩序感 |  | 不同處室動作採聲音接力：翻頁、插線、測麥、鍵盤、快門 |  | 音樂重新加入溫度，節奏穩定向前","textChars":57,"textLines":5,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/6l4fu547","slide":13,"name":"narration-16","text":"【旁白】\n一場會議能順利進行，背後有許多看不見的準備。\n\n從議程安排、法制研析、文書與會議紀錄，到資訊系統、影音轉播、公共關係與行政支援，議會團隊讓每一場討論有秩序、有依據，也有可以查詢的紀錄。\n\n會史館保存地方自治走過的路；更新後的簡報室，則讓議會的故事以更清楚、更友善的方式被看見。\n\n當資料可以查找、影像可以回看、內容可以用不同語言理解，民主就不只發生在會議當下，也能被認識、被保存、被傳承。\n【字卡】\n準備每一場會議｜保存每一段民主紀錄","textPreview":"【旁白】 | 一場會議能順利進行，背後有許多看不見的準備。 |  | 從議程安排、法制研析、文書與會議紀錄，到資訊系統、影音轉播、公共關係與行政支援，議會團隊讓每一場討論有秩序、有依據，也有可以查詢的紀錄。 |  | 會史館保存地方自治走過的路；更新後的簡報室，則讓議會的故...","textChars":222,"textLines":10,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/lkvy103m","slide":13,"name":"footer-line-16","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/kjmxsfm1","slide":13,"name":"footer-label-16","text":"看見.共好｜第四章｜看見議會如何運作｜08:15–09:10","textPreview":"看見.共好｜第四章｜看見議會如何運作｜08:15–09:10","textChars":30,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/cnqh8fux","slide":13,"name":"footer-page-16","text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/bmhgfatc","slide":13,"name":"storyboard-caption-13-1","text":"21｜會前準備","textPreview":"21｜會前準備","textChars":7,"textLines":1,"bbox":[60.25,383.49,200.85,27]}
+{"kind":"textbox","id":"sh/p0zyd0b6","slide":13,"name":"storyboard-caption-13-2","text":"22｜跨處室協作","textPreview":"22｜跨處室協作","textChars":8,"textLines":1,"bbox":[60.25,541.18,200.85,27]}
+{"kind":"textbox","id":"sh/3yxgbqdg","slide":13,"name":"storyboard-caption-13-3","text":"23｜紀錄與典藏","textPreview":"23｜紀錄與典藏","textChars":8,"textLines":1,"bbox":[60.25,698.86,200.85,27]}
+{"kind":"textbox","id":"sh/9wjyp4bq","slide":13,"name":"storyboard-caption-13-4","text":"24｜展示與多語測試","textPreview":"24｜展示與多語測試","textChars":10,"textLines":1,"bbox":[60.25,856.55,200.85,27]}
+{"kind":"textbox","id":"sh/ipcjmtw7","slide":13,"name":"storyboard-caption-13-5","text":"25｜參訪與導覽","textPreview":"25｜參訪與導覽","textChars":8,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/pcvy1cr2","slide":13,"name":"storyboard-13-1","geometry":"roundRect","alt":"AI 示意分鏡：21｜會前準備","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,150.68]}
+{"kind":"image","id":"im/bedg3m9s","slide":13,"name":"storyboard-13-2","geometry":"roundRect","alt":"AI 示意分鏡：22｜跨處室協作","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,417.49,200.85,150.68]}
+{"kind":"image","id":"im/dgfy5wry","slide":13,"name":"storyboard-13-3","geometry":"roundRect","alt":"AI 示意分鏡：23｜紀錄與典藏","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,575.18,200.85,150.68]}
+{"kind":"image","id":"im/ritwri9o","slide":13,"name":"storyboard-13-4","geometry":"roundRect","alt":"AI 示意分鏡：24｜展示與多語測試","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,732.86,200.85,150.68]}
+{"kind":"image","id":"im/wbylczmp","slide":13,"name":"storyboard-13-5","geometry":"roundRect","alt":"AI 示意分鏡：25｜參訪與導覽","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,890.55,200.85,150.68]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n[/Sources]\n\n\n[完整畫面設計]\nSHOT 21｜開會前：議程、席次、麥克風、文件與系統測試\n\nSHOT 22｜會議中：議事、法制、文書、資訊與影音人員協作\n\nSHOT 23｜會議後：紀錄整理、議案上網、影音典藏\n\nSHOT 24｜會史館展示更新、簡報室新 LED 與多語播放測試\n\nSHOT 25｜國內外訪賓參訪、公共關係與導覽服務\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"分鏡腳本｜第五章","textShapes":15}
+{"kind":"textbox","id":"sh/grmxwvqt","slide":14,"name":"scene-kicker-18","text":"分鏡腳本｜第五章","textPreview":"分鏡腳本｜第五章","textChars":8,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/xc7eds76","slide":14,"name":"scene-title-18","text":"第 5 屆的承諾，是讓每一份託付持續被看見","textPreview":"第 5 屆的承諾，是讓每一份託付持續被看見","textChars":21,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/wbydknq1","slide":14,"name":"scene-band-18","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/jepwf2pc","slide":14,"name":"scene-band-label-18","text":"議長期許｜建議口白可直接送審錄製","textPreview":"議長期許｜建議口白可直接送審錄製","textChars":16,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"shape","id":"sh/5grehs7i","slide":14,"name":"col-head-18-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/kfidonqx","slide":14,"name":"col-head-text-18-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/zi5c3y98","slide":14,"name":"col-body-18-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/ehwvat8n","slide":14,"name":"col-head-18-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/c3e1gjyd","slide":14,"name":"col-head-text-18-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/x4ni9ofy","slide":14,"name":"col-body-18-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/a1wze9g7","slide":14,"name":"col-head-18-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/b2507exs","slide":14,"name":"col-head-text-18-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/kre1k3y9","slide":14,"name":"col-body-18-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/ls7idofu","slide":14,"name":"visual-18","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/y5wjitgj","slide":14,"name":"audio-18","text":"議長原音建議 28–32 秒\n\n不使用提詞感過重的正面背稿；採兩段訪談剪接\n\n背景音樂降至 25%，保留自然呼吸與停頓\n\n末句後停 1 秒再進旁白","textPreview":"議長原音建議 28–32 秒 |  | 不使用提詞感過重的正面背稿；採兩段訪談剪接 |  | 背景音樂降至 25%，保留自然呼吸與停頓 |  | 末句後停 1 秒再進旁白","textChars":73,"textLines":7,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/z650byxo","slide":14,"name":"narration-18","text":"【議長建議原音】\n第五屆新北市議會，承接的是六十八席民意，更是市民對這座城市的期待。\n\n我們會尊重不同聲音，善盡審議與監督責任，讓公共資源回應真正的需要；也會持續走進地方、傾聽市民，讓每一項承諾都有進度、每一個問題都有回應。\n\n新北的未來，需要市民、議會與市府一起努力。看見彼此，我們就能一起把城市變得更好。\n【旁白】\n每一屆議會，都站在前人走過的路上，也面向尚未完成的未來。第 5 屆的承諾，是讓每一份託付持續被看見，讓每一次討論，都更接近公共利益。","textPreview":"【議長建議原音】 | 第五屆新北市議會，承接的是六十八席民意，更是市民對這座城市的期待。 |  | 我們會尊重不同聲音，善盡審議與監督責任，讓公共資源回應真正的需要；也會持續走進地方、傾聽市民，讓每一項承諾都有進度、每一個問題都有回應。 |  | 新北的未來，需要市民、議會...","textChars":226,"textLines":8,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/0buh8zy5","slide":14,"name":"footer-line-18","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/1w3i14fq","slide":14,"name":"footer-label-18","text":"看見.共好｜第五章｜走向共好｜10:15–11:25","textPreview":"看見.共好｜第五章｜走向共好｜10:15–11:25","textChars":26,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/hsvy50re","slide":14,"name":"footer-page-18","text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/fqdg3q98","slide":14,"name":"scene-duration-17","text":"09:10–10:15｜65 秒｜累計 10:15","textPreview":"09:10–10:15｜65 秒｜累計 10:15","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"textbox","id":"sh/pwvy90rq","slide":14,"name":"storyboard-caption-14-1","text":"1｜議長自然訪談","textPreview":"1｜議長自然訪談","textChars":8,"textLines":1,"bbox":[60.25,422.91,200.85,27]}
+{"kind":"textbox","id":"sh/3udg7q9k","slide":14,"name":"storyboard-caption-14-2","text":"2｜致詞交叉畫面","textPreview":"2｜致詞交叉畫面","textChars":8,"textLines":1,"bbox":[60.25,620.02,200.85,27]}
+{"kind":"textbox","id":"sh/d0fydk7m","slide":14,"name":"storyboard-caption-14-3","text":"3｜第5屆正式群像","textPreview":"3｜第5屆正式群像","textChars":9,"textLines":1,"bbox":[60.25,817.13,200.85,27]}
+{"kind":"textbox","id":"sh/atg3idk7","slide":14,"name":"storyboard-caption-14-4","text":"4｜群像轉城市晨夜","textPreview":"4｜群像轉城市晨夜","textChars":9,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/9k7y1o3e","slide":14,"name":"storyboard-14-1","geometry":"roundRect","alt":"AI 示意分鏡：1｜議長自然訪談","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,190.11]}
+{"kind":"image","id":"im/vm9g3yl4","slide":14,"name":"storyboard-14-2","geometry":"roundRect","alt":"AI 示意分鏡：2｜致詞交叉畫面","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,456.92,200.85,190.11]}
+{"kind":"image","id":"im/hory583a","slide":14,"name":"storyboard-14-3","geometry":"roundRect","alt":"AI 示意分鏡：3｜第5屆正式群像","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,654.02,200.85,190.11]}
+{"kind":"image","id":"im/bq5wrul0","slide":14,"name":"storyboard-14-4","geometry":"roundRect","alt":"AI 示意分鏡：4｜群像轉城市晨夜","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,851.13,200.85,190.11]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n- https://gazette.nat.gov.tw/egFront/eguploadpubWrapper?file=%2FEG_FileManager%2Feguploadpub%2Feg032154%2Fch02%2Ftype3%2Fgov15%2Fnum2%2FEg.htm&metaid=167808\n[/Sources]\n\n\n[完整畫面設計]\nSHOT 1｜議長於議事廳或自然採光空間受訪；鏡位平視、背景保留議會辨識\n\nSHOT 2｜致詞間穿插：就職合照、議員傾聽、市民互動、現勘與質詢\n\nSHOT 3｜第 5 屆全體成員在議場／階梯完成正式群像\n\nSHOT 4｜鏡頭由群像拉遠，轉入城市夜景與清晨呼應\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"分鏡腳本｜片尾｜回到片名","textShapes":15}
+{"kind":"textbox","id":"sh/gjax03m9","slide":15,"name":"scene-kicker-19","text":"分鏡腳本｜片尾｜回到片名","textPreview":"分鏡腳本｜片尾｜回到片名","textChars":12,"textLines":1,"bbox":[48.26,35.97,359.73,27.98]}
+{"kind":"textbox","id":"sh/547mhg3m","slide":15,"name":"scene-title-19","text":"看見未來，共好新北","textPreview":"看見未來，共好新北","textChars":9,"textLines":1,"bbox":[48.26,69.95,697.48,59.96]}
+{"kind":"shape","id":"sh/k3y5ov21","slide":15,"name":"scene-band-19","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/76p4jqls","slide":15,"name":"scene-band-label-19","text":"結尾｜回收清晨，讓片名成為記憶","textPreview":"結尾｜回收清晨，讓片名成為記憶","textChars":15,"textLines":1,"bbox":[62.25,151.89,379.72,39.97]}
+{"kind":"textbox","id":"sh/65gnqlk7","slide":15,"name":"scene-duration-19","text":"10:15–11:10｜55 秒｜累計 11:10","textPreview":"10:15–11:10｜55 秒｜累計 11:10","textChars":25,"textLines":1,"bbox":[453.96,151.89,275.8,39.97]}
+{"kind":"shape","id":"sh/t87ml0ji","slide":15,"name":"col-head-19-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/s7y5sv2x","slide":15,"name":"col-head-text-19-0","text":"畫面設計","textPreview":"畫面設計","textChars":4,"textLines":1,"bbox":[52.26,209.84,216.84,33.97]}
+{"kind":"shape","id":"sh/na5476l8","slide":15,"name":"col-body-19-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/m9c3e1kn","slide":15,"name":"col-head-19-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/wrm9kvep","slide":15,"name":"col-head-text-19-1","text":"剪輯／聲音","textPreview":"剪輯／聲音","textChars":5,"textLines":1,"bbox":[277.09,209.84,175.87,33.97]}
+{"kind":"shape","id":"sh/hsvat0fa","slide":15,"name":"col-body-19-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/upkrilwj","slide":15,"name":"col-head-19-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/vqdsrqx4","slide":15,"name":"col-head-text-19-2","text":"旁白／字卡","textPreview":"旁白／字卡","textChars":5,"textLines":1,"bbox":[460.95,209.84,280.79,33.97]}
+{"kind":"shape","id":"sh/4vm9ovel","slide":15,"name":"col-body-19-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"shape","id":"sh/5wvax0f6","slide":15,"name":"visual-19","bbox":[60.25,259.81,200.85,781.42]}
+{"kind":"textbox","id":"sh/it4rm5wv","slide":15,"name":"audio-19","text":"音樂回到片頭鋼琴主題，再加入完整弦樂\n\n最後一句旁白後留 2 秒畫面呼吸\n\nLOGO 動畫結束保留 3 秒，便於簡報室播放銜接","textPreview":"音樂回到片頭鋼琴主題，再加入完整弦樂 |  | 最後一句旁白後留 2 秒畫面呼吸 |  | LOGO 動畫結束保留 3 秒，便於簡報室播放銜接","textChars":63,"textLines":5,"bbox":[285.08,259.81,159.88,781.42]}
+{"kind":"textbox","id":"sh/judsvqxg","slide":15,"name":"narration-19","text":"【旁白】\n看見，是願意靠近每一種生活；共好，是把不同的聲音，帶向共同的未來。\n\n當民意被聽見、行動被檢驗、承諾被追蹤，城市就能一步一步，走得更穩、更遠。\n\n看見每一個聲音，共好每一個日常。\n【片名字卡】\n看見.共好 － 第5屆新北市議會","textPreview":"【旁白】 | 看見，是願意靠近每一種生活；共好，是把不同的聲音，帶向共同的未來。 |  | 當民意被聽見、行動被檢驗、承諾被追蹤，城市就能一步一步，走得更穩、更遠。 |  | 看見每一個聲音，共好每一個日常。 | 【片名字卡】 | 看見.共好 － 第5屆新北市議會","textChars":118,"textLines":8,"bbox":[470.95,257.81,260.81,785.42]}
+{"kind":"shape","id":"sh/0z29cbyh","slide":15,"name":"footer-line-19","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/l0bqlgf2","slide":15,"name":"footer-label-19","text":"看見.共好｜片尾｜回到片名｜11:25–11:50","textPreview":"看見.共好｜片尾｜回到片名｜11:25–11:50","textChars":25,"textLines":1,"bbox":[48.26,1079.2,569.58,25.98]}
+{"kind":"textbox","id":"sh/1kjyt83e","slide":15,"name":"footer-page-19","text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[685.79,1079.2,59.96,25.98]}
+{"kind":"textbox","id":"sh/ehsfyt43","slide":15,"name":"storyboard-caption-15-1","text":"5｜清晨人物回收","textPreview":"5｜清晨人物回收","textChars":8,"textLines":1,"bbox":[60.25,422.91,200.85,27]}
+{"kind":"textbox","id":"sh/o7ah4nm5","slide":15,"name":"storyboard-caption-15-2","text":"6｜議場燈光亮起","textPreview":"6｜議場燈光亮起","textChars":8,"textLines":1,"bbox":[60.25,620.02,200.85,27]}
+{"kind":"textbox","id":"sh/25sf2d4z","slide":15,"name":"storyboard-caption-15-3","text":"7｜節點匯成新北意象","textPreview":"7｜節點匯成新北意象","textChars":10,"textLines":1,"bbox":[60.25,817.13,200.85,27]}
+{"kind":"textbox","id":"sh/cbuh8nmh","slide":15,"name":"storyboard-caption-15-4","text":"END｜LOGO＋正式片名","textPreview":"END｜LOGO＋正式片名","textChars":13,"textLines":1,"bbox":[60.25,1014.23,200.85,27]}
+{"kind":"image","id":"im/ozypgrah","slide":15,"name":"storyboard-15-1","geometry":"roundRect","alt":"AI 示意分鏡：5｜清晨人物回收","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,259.81,200.85,190.11]}
+{"kind":"image","id":"im/e9wnahcf","slide":15,"name":"storyboard-15-2","geometry":"roundRect","alt":"AI 示意分鏡：6｜議場燈光亮起","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,456.92,200.85,190.11]}
+{"kind":"image","id":"im/gve5crul","slide":15,"name":"storyboard-15-3","geometry":"roundRect","alt":"AI 示意分鏡：7｜節點匯成新北意象","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,654.02,200.85,190.11]}
+{"kind":"image","id":"im/65cn6xcj","slide":15,"name":"storyboard-15-4","geometry":"roundRect","alt":"AI 示意分鏡：END｜LOGO＋正式片名","prompt":"Photorealistic Taiwanese civic documentary storyboard; AI-generated illustration, not documentary evidence.","bbox":[60.25,851.13,200.85,190.11]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":"[Sources]\n- /Users/zhangzixuan/Desktop/4.需求書.pdf\n- /Users/zhangzixuan/Desktop/(OK-列印版)2022新北市議會-企劃書0629(成)B.pdf\n[/Sources]\n\n\n[完整畫面設計]\nSHOT 5｜清晨同一組人物，此刻進入一天：孩子走進校門、店家迎客、列車抵站\n\nSHOT 6｜議場燈光亮起，全體席位空鏡\n\nSHOT 7｜句點化為節點，多個節點匯成新北輪廓／議會識別\n\nEND CARD｜新北市議會 LOGO＋正式片名\n\n[Sources]\n- OpenAI image generation; AI-generated illustrative storyboard imagery for this page. Conceptual only; not documentary evidence or an official record."}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"HIGHLIGHTS","textShapes":42}
+{"kind":"textbox","id":"sh/8z2h8bq1","slide":16,"name":"Text 0","text":"HIGHLIGHTS","textPreview":"HIGHLIGHTS","textChars":10,"textLines":1,"bbox":[57.6,28.8,480,26.88]}
+{"kind":"textbox","id":"sh/9kby1g7m","slide":16,"name":"Text 1","text":"看見.共好 － 第5屆新北市議會｜腳本亮點","textPreview":"看見.共好 － 第5屆新北市議會｜腳本亮點","textChars":21,"textLines":1,"bbox":[333.12,28.8,403.2,26.88]}
+{"kind":"textbox","id":"sh/ytkf2h8j","slide":16,"name":"Text 2","text":"整體腳本亮點與核心","textPreview":"整體腳本亮點與核心","textChars":9,"textLines":1,"bbox":[57.6,55.68,678.72,52.8]}
+{"kind":"textbox","id":"sh/zutgvm94","slide":16,"name":"Text 3","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1292.67,570.72,76.8,24.96]}
+{"kind":"shape","id":"sh/kv2h4rqp","slide":16,"name":"Shape 4","bbox":[57.6,119.04,678.72,117.12]}
+{"kind":"textbox","id":"sh/lwbyxwra","slide":16,"name":"Text 5","text":"核心一句話｜以「看見」作為敘事方法，從城市生活出發，讓民意走過查證、審議與追蹤，最後把不同聲音帶向可被共同感受的「共好」。","textPreview":"核心一句話｜以「看見」作為敘事方法，從城市生活出發，讓民意走過查證、審議與追蹤，最後把不同聲音帶向可被共同感受的「共好」。","textChars":61,"textLines":1,"bbox":[81.6,134.4,630.72,90.24]}
+{"kind":"textbox","id":"sh/ip4zel83","slide":16,"name":"Text 6","text":"五個最重要的腳本亮點","textPreview":"五個最重要的腳本亮點","textChars":10,"textLines":1,"bbox":[57.6,257.28,576,30.72]}
+{"kind":"shape","id":"sh/3qdg7qpo","slide":16,"name":"Shape 7","bbox":[57.6,297.6,678.72,55.68]}
+{"kind":"shape","id":"sh/fm1gzq5o","slide":16,"name":"Shape 8","bbox":[69.12,307.2,74.88,36.48]}
+{"kind":"textbox","id":"sh/e1sf65o3","slide":16,"name":"Text 9","text":"亮點一","textPreview":"亮點一","textChars":3,"textLines":1,"bbox":[69.12,306.24,74.88,36.48]}
+{"kind":"textbox","id":"sh/1ojy10ne","slide":16,"name":"Text 10","text":"片名就是敘事方法","textPreview":"片名就是敘事方法","textChars":8,"textLines":1,"bbox":[155.52,309.12,201.6,32.64]}
+{"kind":"textbox","id":"sh/gnax8v6t","slide":16,"name":"Text 11","text":"看見→行動→共好","textPreview":"看見→行動→共好","textChars":8,"textLines":1,"bbox":[364.8,312,172.8,28.8]}
+{"kind":"textbox","id":"sh/nqlg3a5k","slide":16,"name":"Text 12","text":"全片主軸","textPreview":"全片主軸","textChars":4,"textLines":1,"bbox":[514.1,313.37,110.4,28.8]}
+{"kind":"textbox","id":"sh/2pcfa5oz","slide":16,"name":"Text 13","text":"高辨識","textPreview":"高辨識","textChars":3,"textLines":1,"bbox":[629.3,313.37,76.8,28.8]}
+{"kind":"shape","id":"sh/ps3y5knq","slide":16,"name":"Shape 14","bbox":[57.6,362.88,678.72,55.68]}
+{"kind":"shape","id":"sh/oruhcf65","slide":16,"name":"Shape 15","bbox":[69.12,372.48,74.88,36.48]}
+{"kind":"textbox","id":"sh/bulg7u5g","slide":16,"name":"Text 16","text":"亮點二","textPreview":"亮點二","textChars":3,"textLines":1,"bbox":[69.12,371.52,74.88,36.48]}
+{"kind":"textbox","id":"sh/atczepob","slide":16,"name":"Text 17","text":"56 個鏡位都有生活感","textPreview":"56 個鏡位都有生活感","textChars":11,"textLines":1,"bbox":[155.52,374.4,201.6,32.64]}
+{"kind":"textbox","id":"sh/mpgj6t8j","slide":16,"name":"Text 18","text":"城市・選區・民意","textPreview":"城市・選區・民意","textChars":8,"textLines":1,"bbox":[364.8,377.28,172.8,28.8]}
+{"kind":"textbox","id":"sh/7qp0zepo","slide":16,"name":"Text 19","text":"真實感","textPreview":"真實感","textChars":3,"textLines":1,"bbox":[514.1,378.65,110.4,28.8]}
+{"kind":"textbox","id":"sh/8by18jq9","slide":16,"name":"Text 20","text":"有畫面","textPreview":"有畫面","textChars":3,"textLines":1,"bbox":[629.3,378.65,76.8,28.8]}
+{"kind":"shape","id":"sh/9c7i1o7u","slide":16,"name":"Shape 21","bbox":[57.6,428.16,678.72,55.68]}
+{"kind":"shape","id":"sh/ylwj2987","slide":16,"name":"Shape 22","bbox":[69.12,437.76,74.88,36.48]}
+{"kind":"textbox","id":"sh/zm50veps","slide":16,"name":"Text 23","text":"亮點三","textPreview":"亮點三","textChars":3,"textLines":1,"bbox":[69.12,436.8,74.88,36.48]}
+{"kind":"textbox","id":"sh/kne14jqd","slide":16,"name":"Text 24","text":"一份陳情走完十步","textPreview":"一份陳情走完十步","textChars":8,"textLines":1,"bbox":[155.52,439.68,201.6,32.64]}
+{"kind":"textbox","id":"sh/lo7ixo7y","slide":16,"name":"Text 25","text":"受理→追蹤→回到現場","textPreview":"受理→追蹤→回到現場","textChars":10,"textLines":1,"bbox":[364.8,442.56,172.8,28.8]}
+{"kind":"textbox","id":"sh/ih0jedob","slide":16,"name":"Text 26","text":"制度化","textPreview":"制度化","textChars":3,"textLines":1,"bbox":[514.1,443.93,110.4,28.8]}
+{"kind":"textbox","id":"sh/ji9k7ypw","slide":16,"name":"Text 27","text":"可理解","textPreview":"可理解","textChars":3,"textLines":1,"bbox":[629.3,443.93,76.8,28.8]}
+{"kind":"shape","id":"sh/tcbmdcre","slide":16,"name":"Shape 28","bbox":[57.6,493.44,678.72,55.68]}
+{"kind":"shape","id":"sh/sb2l47at","slide":16,"name":"Shape 29","bbox":[69.12,503.04,74.88,36.48]}
+{"kind":"textbox","id":"sh/rat4b298","slide":16,"name":"Text 30","text":"亮點四","textPreview":"亮點四","textChars":3,"textLines":1,"bbox":[69.12,502.08,74.88,36.48]}
+{"kind":"textbox","id":"sh/69k32xsn","slide":16,"name":"Text 31","text":"不只成果，也呈現追蹤","textPreview":"不只成果，也呈現追蹤","textChars":10,"textLines":1,"bbox":[155.52,504.96,201.6,32.64]}
+{"kind":"textbox","id":"sh/58bm9sr2","slide":16,"name":"Text 32","text":"誠實保留未完成狀態","textPreview":"誠實保留未完成狀態","textChars":9,"textLines":1,"bbox":[364.8,507.84,172.8,28.8]}
+{"kind":"textbox","id":"sh/47il0nah","slide":16,"name":"Text 33","text":"可信度","textPreview":"可信度","textChars":3,"textLines":1,"bbox":[514.1,509.21,110.4,28.8]}
+{"kind":"textbox","id":"sh/j6947i9w","slide":16,"name":"Text 34","text":"不粉飾","textPreview":"不粉飾","textChars":3,"textLines":1,"bbox":[629.3,509.21,76.8,28.8]}
+{"kind":"shape","id":"sh/i503ydsr","slide":16,"name":"Shape 35","bbox":[57.6,558.72,678.72,55.68]}
+{"kind":"shape","id":"sh/p4vmlwrm","slide":16,"name":"Shape 36","bbox":[69.12,568.32,74.88,36.48]}
+{"kind":"textbox","id":"sh/o3m5crq1","slide":16,"name":"Text 37","text":"亮點五","textPreview":"亮點五","textChars":3,"textLines":1,"bbox":[69.12,567.36,74.88,36.48]}
+{"kind":"textbox","id":"sh/wnadcrqh","slide":16,"name":"Text 38","text":"片頭片尾形成完整回環","textPreview":"片頭片尾形成完整回環","textChars":10,"textLines":1,"bbox":[155.52,570.24,201.6,32.64]}
+{"kind":"textbox","id":"sh/xoju5wr2","slide":16,"name":"Text 39","text":"清晨・眼睛・光點回環","textPreview":"清晨・眼睛・光點回環","textChars":10,"textLines":1,"bbox":[364.8,573.12,172.8,28.8]}
+{"kind":"textbox","id":"sh/alsbahsb","slide":16,"name":"Text 40","text":"完整性","textPreview":"完整性","textChars":3,"textLines":1,"bbox":[514.1,574.49,110.4,28.8]}
+{"kind":"textbox","id":"sh/vm1c3m9w","slide":16,"name":"Text 41","text":"有餘韻","textPreview":"有餘韻","textChars":3,"textLines":1,"bbox":[629.3,574.49,76.8,28.8]}
+{"kind":"textbox","id":"sh/kbudgrqt","slide":16,"name":"Text 42","text":"整體核心：讓制度被看見，讓共好能被相信","textPreview":"整體核心：讓制度被看見，讓共好能被相信","textChars":19,"textLines":1,"bbox":[57.6,641.28,576,30.72]}
+{"kind":"shape","id":"sh/5c3u9wry","slide":16,"name":"Shape 43","bbox":[57.6,681.6,678.72,97.92]}
+{"kind":"shape","id":"sh/i9sve18n","slide":16,"name":"Shape 44","bbox":[74.88,696.96,110.4,34.56]}
+{"kind":"textbox","id":"sh/ja1c7m98","slide":16,"name":"Text 45","text":"敘事核心","textPreview":"敘事核心","textChars":4,"textLines":1,"bbox":[74.88,696,110.4,34.56]}
+{"kind":"textbox","id":"sh/sfudkbqp","slide":16,"name":"Text 46","text":"以生活帶出制度","textPreview":"以生活帶出制度","textChars":7,"textLines":1,"bbox":[201.6,696.96,510.72,28.8]}
+{"kind":"textbox","id":"sh/tg3udgra","slide":16,"name":"Text 47","text":"先看見人與日常，再看見問題如何被議會接住；制度因此不是條文，而是能回應生活的行動路徑。","textPreview":"先看見人與日常，再看見問題如何被議會接住；制度因此不是條文，而是能回應生活的行動路徑。","textChars":43,"textLines":1,"bbox":[201.6,727.68,510.72,40.32]}
+{"kind":"shape","id":"sh/3apg3atc","slide":16,"name":"Shape 48","bbox":[57.6,792.96,678.72,97.92]}
+{"kind":"shape","id":"sh/29wfa5sr","slide":16,"name":"Shape 49","bbox":[74.88,808.32,110.4,34.56]}
+{"kind":"textbox","id":"sh/pc7y5kbi","slide":16,"name":"Text 50","text":"視覺核心","textPreview":"視覺核心","textChars":4,"textLines":1,"bbox":[74.88,807.36,110.4,34.56]}
+{"kind":"textbox","id":"sh/obyxcfax","slide":16,"name":"Text 51","text":"眼睛、光與同機位","textPreview":"眼睛、光與同機位","textChars":8,"textLines":1,"bbox":[201.6,808.32,510.72,28.8]}
+{"kind":"textbox","id":"sh/f65wzqtg","slide":16,"name":"Text 52","text":"眼神建立連結，光點串起城市；同機位前後對照讓改變可被驗證，未完成也能誠實追蹤。","textPreview":"眼神建立連結，光點串起城市；同機位前後對照讓改變可被驗證，未完成也能誠實追蹤。","textChars":39,"textLines":1,"bbox":[201.6,839.04,510.72,40.32]}
+{"kind":"shape","id":"sh/u5wf6lcv","slide":16,"name":"Shape 53","bbox":[57.6,904.32,678.72,97.92]}
+{"kind":"shape","id":"sh/h8ne10b6","slide":16,"name":"Shape 54","bbox":[74.88,919.68,110.4,34.56]}
+{"kind":"textbox","id":"sh/g7ex8va1","slide":16,"name":"Text 55","text":"價值核心","textPreview":"價值核心","textChars":4,"textLines":1,"bbox":[74.88,918.72,110.4,34.56]}
+{"kind":"textbox","id":"sh/z29gbutk","slide":16,"name":"Text 56","text":"多元被看見，承諾被追蹤","textPreview":"多元被看見，承諾被追蹤","textChars":11,"textLines":1,"bbox":[201.6,919.68,510.72,28.8]}
+{"kind":"textbox","id":"sh/y10fipsz","slide":16,"name":"Text 57","text":"十三個選舉區與不同生活被公平呈現；每一席民意都進入公開討論，讓共好落在具體進度。","textPreview":"十三個選舉區與不同生活被公平呈現；每一席民意都進入公開討論，讓共好落在具體進度。","textChars":40,"textLines":1,"bbox":[201.6,950.4,510.72,40.32]}
+{"kind":"shape","id":"sh/axkjatc7","slide":16,"name":"Shape 58","bbox":[991.71,513.12,678.72,110.4]}
+{"kind":"textbox","id":"sh/vyt03yds","slide":16,"name":"Text 59","text":"貫穿全片的三個母題|\n① 眼睛與光:片頭「睜開的眼睛」蒙太奇 → 片尾句點化為節點、匯成議會識別。   ② 同機位前後對照:第三章 STEP 10 以同一機位拍改善前後,未完成者誠實呈現追蹤狀態。   ③ 聲音接力:環境音 → 翻頁與議事聲 → 回到清晨,音樂自單一鋼琴音起、於片名與片尾兩次完整展開。","textPreview":"貫穿全片的三個母題| | ① 眼睛與光:片頭「睜開的眼睛」蒙太奇 → 片尾句點化為節點、匯成議會識別。   ② 同機位前後對照:第三章 STEP 10 以同一機位拍改善前後,未完成者誠實呈現追蹤狀態。   ③ 聲音接力:環境音 → 翻頁與議事聲 → 回到清晨,音樂自單一鋼琴...","textChars":151,"textLines":2,"bbox":[1015.71,526.56,630.72,86.4]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":""}

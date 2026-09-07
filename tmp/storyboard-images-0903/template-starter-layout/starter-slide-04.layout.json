@@ -1,0 +1,1638 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/w0d8u8",
+    "id": "w0d8u8",
+    "slide": 4,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei",
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25gjedw7",
+      "id": "21",
+      "name": "scene-kicker-7",
+      "bbox": [
+        48.26,
+        35.97,
+        359.73,
+        27.98
+      ],
+      "geometry": "rect",
+      "text": "分鏡腳本｜第一章",
+      "textPreview": "分鏡腳本｜第一章",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "分鏡腳本｜第一章"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "分鏡腳本｜第一章",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#147A78",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "分鏡腳本｜第一章",
+              "fontSize": 13.99,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zy5kzqp0",
+      "id": "2",
+      "name": "scene-title-7",
+      "bbox": [
+        48.26,
+        69.95,
+        697.48,
+        59.96
+      ],
+      "geometry": "rect",
+      "text": "看見傳承(議會沿革 + 第5屆就職)",
+      "textPreview": "看見傳承(議會沿革 + 第5屆就職)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見傳承(議會沿革 + 第5屆就職)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見傳承(議會沿革 + 第5屆就職)",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見傳承",
+              "fontSize": 32,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "(",
+              "fontSize": 32,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "議會沿革",
+              "fontSize": 32,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": " + 第5屆就職)",
+              "fontSize": 32,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxw36l8f",
+      "id": "3",
+      "name": "scene-band-7",
+      "bbox": [
+        48.26,
+        147.89,
+        697.48,
+        47.96
+      ],
+      "geometry": "rect",
+      "fillColor": "#DDEDEA",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/to7m5072",
+      "id": "4",
+      "name": "scene-band-label-7",
+      "bbox": [
+        62.25,
+        151.89,
+        379.72,
+        39.97
+      ],
+      "geometry": "rect",
+      "text": "議會沿革｜讓歷史成為民意的來路",
+      "textPreview": "議會沿革｜讓歷史成為民意的來路",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "議會沿革｜讓歷史成為民意的來路"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "議會沿革｜讓歷史成為民意的來路",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#147A78",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "議會沿革｜讓歷史成為民意的來路",
+              "fontSize": 13.99,
+              "typeface": "PingFang TC",
+              "color": "#147A78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nylcv6h",
+      "id": "5",
+      "name": "scene-duration-7",
+      "bbox": [
+        453.96,
+        151.89,
+        275.8,
+        39.97
+      ],
+      "geometry": "rect",
+      "text": "01:00–01:50｜50 秒｜累計 01:50",
+      "textPreview": "01:00–01:50｜50 秒｜累計 01:50",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01:00–01:50｜50 秒｜累計 01:50"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01:00–01:50｜50 秒｜累計 01:50",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "0",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "1",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": ":",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "00",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "–01:",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "50",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": "｜5",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 8,
+              "text": "0",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 9,
+              "text": " ",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 10,
+              "text": "秒｜累計",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 11,
+              "text": " 0",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 12,
+              "text": "1",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 13,
+              "text": ":",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 14,
+              "text": "50",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7m543apw",
+      "id": "6",
+      "name": "col-head-7-0",
+      "bbox": [
+        48.26,
+        207.85,
+        224.83,
+        37.97
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6lw3a5ob",
+      "id": "7",
+      "name": "col-head-text-7-0",
+      "bbox": [
+        52.26,
+        209.84,
+        216.84,
+        33.97
+      ],
+      "geometry": "rect",
+      "text": "畫面設計",
+      "textPreview": "畫面設計",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "畫面設計"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "畫面設計",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "畫面設計",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hs7m9k7y",
+      "id": "8",
+      "name": "col-body-7-0",
+      "bbox": [
+        48.26,
+        245.82,
+        224.83,
+        809.4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FCFAF5",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/grylgf6t",
+      "id": "9",
+      "name": "col-head-7-1",
+      "bbox": [
+        273.09,
+        207.85,
+        183.86,
+        37.97
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ut4nu1gn",
+      "id": "10",
+      "name": "col-head-text-7-1",
+      "bbox": [
+        277.09,
+        209.84,
+        175.87,
+        33.97
+      ],
+      "geometry": "rect",
+      "text": "剪輯／聲音",
+      "textPreview": "剪輯／聲音",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "剪輯／聲音"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "剪輯／聲音",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "剪輯／聲音",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vud4n6xs",
+      "id": "11",
+      "name": "col-body-7-1",
+      "bbox": [
+        273.09,
+        245.82,
+        183.86,
+        809.4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FCFAF5",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvm5wryd",
+      "id": "12",
+      "name": "col-head-7-2",
+      "bbox": [
+        456.96,
+        207.85,
+        288.79,
+        37.97
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwvmpwfy",
+      "id": "13",
+      "name": "col-head-text-7-2",
+      "bbox": [
+        460.95,
+        209.84,
+        280.79,
+        33.97
+      ],
+      "geometry": "rect",
+      "text": "旁白／字卡",
+      "textPreview": "旁白／字卡",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旁白／字卡"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旁白／字卡",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旁白／字卡",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixony1gj",
+      "id": "14",
+      "name": "col-body-7-2",
+      "bbox": [
+        456.96,
+        245.82,
+        288.79,
+        809.4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jyxor6x4",
+      "id": "15",
+      "name": "visual-7",
+      "bbox": [
+        60.25,
+        259.81,
+        200.85,
+        781.42
+      ],
+      "geometry": "rect",
+      "text": "SHOT 05｜舊照片細節：會議桌、名牌、議事槌、手寫文件\n\nSHOT 06｜臺北縣參議會、歷屆臺北縣議會影像，採疊化與推鏡\n\nSHOT 07｜民國 99 年改制畫面，舊門牌過渡至「新北市議會」\n\nSHOT 08｜現代議場空鏡，座位燈逐排亮起",
+      "textPreview": "SHOT 05｜舊照片細節：會議桌、名牌、議事槌、手寫文件 |  | SHOT 06｜臺北縣參議會、歷屆臺北縣議會影像，採疊化與推鏡 |  | SHOT 07｜民國 99 年改制畫面，舊門牌過渡至「新北市議會」 |  | SHOT 08｜現代議場空鏡，座位燈逐排亮起",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 17,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SHOT"
+          },
+          {
+            "index": 2,
+            "text": "05｜舊照片細節：會議桌"
+          },
+          {
+            "index": 3,
+            "text": "、名牌、議事槌、手寫文"
+          },
+          {
+            "index": 4,
+            "text": "件"
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "SHOT"
+          },
+          {
+            "index": 7,
+            "text": "06｜臺北縣參議會、歷屆"
+          },
+          {
+            "index": 8,
+            "text": "臺北縣議會影像，採疊化"
+          },
+          {
+            "index": 9,
+            "text": "與推鏡"
+          },
+          {
+            "index": 10,
+            "text": ""
+          },
+          {
+            "index": 11,
+            "text": "SHOT 07｜民國 99"
+          },
+          {
+            "index": 12,
+            "text": "年改制畫面，舊門牌過渡"
+          },
+          {
+            "index": 13,
+            "text": "至「新北市議會」"
+          },
+          {
+            "index": 14,
+            "text": ""
+          },
+          {
+            "index": 15,
+            "text": "SHOT"
+          },
+          {
+            "index": 16,
+            "text": "08｜現代議場空鏡，座位"
+          },
+          {
+            "index": 17,
+            "text": "燈逐排亮起"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SHOT 05｜舊照片細節：會議桌、名牌、議事槌、手寫文件",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 05｜舊照片細節：會議桌、名牌、議事槌、手寫文件",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "SHOT 06｜臺北縣參議會、歷屆臺北縣議會影像，採疊化與推鏡",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 06｜臺北縣參議會、歷屆臺北縣議會影像，採疊化與推鏡",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "SHOT 07｜民國 99 年改制畫面，舊門牌過渡至「新北市議會」",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 07｜民國 99 年改制畫面，舊門牌過渡至「新北市議會」",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "SHOT 08｜現代議場空鏡，座位燈逐排亮起",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 08｜現代議場空鏡，座位燈逐排亮起",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4z650bep",
+      "id": "16",
+      "name": "audio-7",
+      "bbox": [
+        285.08,
+        259.81,
+        159.88,
+        781.42
+      ],
+      "geometry": "rect",
+      "text": "老照片以紙張翻頁聲串接\n\n歷史照片修復與調色,以光的軌跡串接年代\n\n音樂加入低音弦樂，維持莊重、清楚\n\n最後一排座位亮起時，接入輕微議場空間聲",
+      "textPreview": "老照片以紙張翻頁聲串接 |  | 歷史照片修復與調色,以光的軌跡串接年代 |  | 音樂加入低音弦樂，維持莊重、清楚 |  | 最後一排座位亮起時，接入輕微議場空間聲",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 12,
+        "lines": [
+          {
+            "index": 1,
+            "text": "老照片以紙張翻頁聲"
+          },
+          {
+            "index": 2,
+            "text": "串接"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "歷史照片修復與調色,"
+          },
+          {
+            "index": 5,
+            "text": "以光的軌跡串接年代"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "音樂加入低音弦樂，"
+          },
+          {
+            "index": 8,
+            "text": "維持莊重、清楚"
+          },
+          {
+            "index": 9,
+            "text": ""
+          },
+          {
+            "index": 10,
+            "text": "最後一排座位亮起時"
+          },
+          {
+            "index": 11,
+            "text": "，接入輕微議場空間"
+          },
+          {
+            "index": 12,
+            "text": "聲"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "老照片以紙張翻頁聲串接",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "老照片以紙張翻頁聲串接",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "歷史照片修復與調色,以光的軌跡串接年代",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "歷史照片修復與調色,以光的軌跡串接年代",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "音樂加入低音弦樂，維持莊重、清楚",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "音樂加入低音弦樂，維持莊重、清楚",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "最後一排座位亮起時，接入輕微議場空間聲",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "最後一排座位亮起時，接入輕微議場空間聲",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5kf6tgfa",
+      "id": "17",
+      "name": "narration-7",
+      "bbox": [
+        470.95,
+        257.81,
+        260.81,
+        785.42
+      ],
+      "geometry": "rect",
+      "text": "【旁白】\n民國三十五年，臺北縣參議會開啟地方自治的篇章；歷經十六屆臺北縣議會，地方的聲音在一次次討論、提案與監督中累積。\n\n民國九十九年，臺北縣改制為新北市，議會也以新的名稱，承接不變的責任。\n\n時代改變，城市擴大， 七十多年來,這道光不曾熄滅。今天它傳到了第5屆——66 位議員在四百萬市民的注視下宣誓:看見民意,守護共好。\n\n【字卡】\n看見傳承.民主如光 \n從地方自治出發，讓民意一路被看見。",
+      "textPreview": "【旁白】 | 民國三十五年，臺北縣參議會開啟地方自治的篇章；歷經十六屆臺北縣議會，地方的聲音在一次次討論、提案與監督中累積。 |  | 民國九十九年，臺北縣改制為新北市，議會也以新的名稱，承接不變的責任。 |  | 時代改變，城市擴大， 七十多年來,這道光不曾熄滅。今天它傳...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 20,
+        "lines": [
+          {
+            "index": 1,
+            "text": "【旁白】"
+          },
+          {
+            "index": 2,
+            "text": "民國三十五年，臺北縣參議會開"
+          },
+          {
+            "index": 3,
+            "text": "啟地方自治的篇章；歷經十六屆"
+          },
+          {
+            "index": 4,
+            "text": "臺北縣議會，地方的聲音在一次"
+          },
+          {
+            "index": 5,
+            "text": "次討論、提案與監督中累積。"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "民國九十九年，臺北縣改制為新"
+          },
+          {
+            "index": 8,
+            "text": "北市，議會也以新的名稱，承接"
+          },
+          {
+            "index": 9,
+            "text": "不變的責任。"
+          },
+          {
+            "index": 10,
+            "text": ""
+          },
+          {
+            "index": 11,
+            "text": "時代改變，城市擴大，"
+          },
+          {
+            "index": 12,
+            "text": "七十多年來,這道光不曾熄滅。"
+          },
+          {
+            "index": 13,
+            "text": "今天它傳到了第5屆——66"
+          },
+          {
+            "index": 14,
+            "text": "位議員在四百萬市民的注視下宣"
+          },
+          {
+            "index": 15,
+            "text": "誓:看見民意,守護共好。"
+          },
+          {
+            "index": 16,
+            "text": ""
+          },
+          {
+            "index": 17,
+            "text": "【字卡】"
+          },
+          {
+            "index": 18,
+            "text": "看見傳承.民主如光"
+          },
+          {
+            "index": 19,
+            "text": "從地方自治出發，讓民意一路"
+          },
+          {
+            "index": 20,
+            "text": "被看見。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "【旁白】\n民國三十五年，臺北縣參議會開啟地方自治的篇章；歷經十六屆臺北縣議會，地方的聲音在一次次討論、提案與監督中累積。\n\n民國九十九年，臺北縣改制為新北市，議會也以新的名稱，承接不變的責任。\n\n時代改變，城市擴大， 七十多年來,這道光不曾熄滅。今天它傳到了第5屆——66 位議員在四百萬市民的注視下宣誓:看見民意,守護共好。\n",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "【",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "旁白",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "】\n",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "民國三十五年，臺北縣參議會開啟地方自治的篇章；歷經十六屆臺北縣議會，地方的聲音在一次次討論、提案與監督中累積",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 5,
+              "text": "。\n\n",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 6,
+              "text": "民國九十九年，臺北縣改制為新北市，議會也以新的名稱，承接不變的責任",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 7,
+              "text": "。\n\n",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 8,
+              "text": "時代改變，城市擴大",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 9,
+              "text": "，",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 10,
+              "text": " 七十多年來,這道光不曾熄滅。今天它傳到了第5屆——66 ",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 11,
+              "text": "位議員在四百萬市民的注視下宣誓:看見民意,守護共好",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 12,
+              "text": "。",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 13,
+              "text": "\n",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "【字卡】\n看見傳承.民主如光 \n從地方自治出發，讓民意一路被看見。",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang TC",
+            "color": "#142B34"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "【",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "字卡",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "】",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "\n",
+              "fontSize": 18,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            },
+            {
+              "index": 5,
+              "text": "看見傳承.民主如光",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": "\n",
+              "fontSize": 17.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 8,
+              "text": "從地方自治出發，讓民意一路被看見",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            },
+            {
+              "index": 9,
+              "text": "。",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1knmhgf",
+      "id": "18",
+      "name": "footer-line-7",
+      "bbox": [
+        48.26,
+        1074.2,
+        697.48,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z2t4fmxk",
+      "id": "19",
+      "name": "footer-label-7",
+      "bbox": [
+        48.26,
+        1079.2,
+        569.58,
+        25.98
+      ],
+      "geometry": "rect",
+      "text": "看見.共好｜第一章｜看見城市｜00:45–01:35",
+      "textPreview": "看見.共好｜第一章｜看見城市｜00:45–01:35",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好｜第一章｜看見城市｜00:45–01:35"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好｜第一章｜看見城市｜00:45–01:35",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好｜第一章｜看見城市｜00:45–01:35",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n69knidc",
+      "id": "20",
+      "name": "footer-page-7",
+      "bbox": [
+        685.79,
+        1079.2,
+        59.96,
+        25.98
+      ],
+      "geometry": "rect",
+      "text": "07",
+      "textPreview": "07",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07",
+              "fontSize": 12.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

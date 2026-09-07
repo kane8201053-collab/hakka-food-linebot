@@ -1,0 +1,1839 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/3a73wh",
+    "id": "3a73wh",
+    "slide": 12,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "PingFang TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoji10bu",
+      "id": "21",
+      "name": "scene-kicker-15",
+      "bbox": [
+        48.26,
+        35.97,
+        359.73,
+        27.98
+      ],
+      "geometry": "rect",
+      "text": "分鏡腳本｜第四章",
+      "textPreview": "分鏡腳本｜第四章",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "分鏡腳本｜第四章"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "分鏡腳本｜第四章",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#416E8A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "分鏡腳本｜第四章",
+              "fontSize": 13.99,
+              "typeface": "PingFang TC",
+              "color": "#416E8A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m9436d8b",
+      "id": "2",
+      "name": "scene-title-15",
+      "bbox": [
+        48.26,
+        69.95,
+        697.48,
+        59.96
+      ],
+      "geometry": "rect",
+      "text": "每一項決定，都經得起公開討論",
+      "textPreview": "每一項決定，都經得起公開討論",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "每一項決定，都經得起公開討論"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "每一項決定，都經得起公開討論",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "每一項決定，都經得起公開討論",
+              "fontSize": 27.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nadkzi9w",
+      "id": "3",
+      "name": "scene-band-15",
+      "bbox": [
+        48.26,
+        147.89,
+        697.48,
+        47.96
+      ],
+      "geometry": "rect",
+      "fillColor": "#DEE8EE",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfmlcnqd",
+      "id": "4",
+      "name": "scene-band-label-15",
+      "bbox": [
+        62.25,
+        151.89,
+        379.72,
+        39.97
+      ],
+      "geometry": "rect",
+      "text": "議會職權｜把制度拍成看得懂的流程",
+      "textPreview": "議會職權｜把制度拍成看得懂的流程",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "議會職權｜把制度拍成看得懂的流程"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "議會職權｜把制度拍成看得懂的流程",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#416E8A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "議會職權｜把制度拍成看得懂的流程",
+              "fontSize": 13.99,
+              "typeface": "PingFang TC",
+              "color": "#416E8A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0vm5sry",
+      "id": "5",
+      "name": "scene-duration-15",
+      "bbox": [
+        453.96,
+        151.89,
+        275.8,
+        39.97
+      ],
+      "geometry": "rect",
+      "text": "06:55–08:15｜80 秒｜累計 08:15",
+      "textPreview": "06:55–08:15｜80 秒｜累計 08:15",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06:55–08:15｜80 秒｜累計 08:15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06:55–08:15｜80 秒｜累計 08:15",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06:55–08:15｜80 秒｜累計 08:15",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ad43ad87",
+      "id": "6",
+      "name": "col-head-15-0",
+      "bbox": [
+        48.26,
+        207.85,
+        224.83,
+        37.97
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ved43i9s",
+      "id": "7",
+      "name": "col-head-text-15-0",
+      "bbox": [
+        52.26,
+        209.84,
+        216.84,
+        33.97
+      ],
+      "geometry": "rect",
+      "text": "畫面設計",
+      "textPreview": "畫面設計",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "畫面設計"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "畫面設計",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "畫面設計",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj2l0jq9",
+      "id": "8",
+      "name": "col-body-15-0",
+      "bbox": [
+        48.26,
+        245.82,
+        224.83,
+        809.4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FCFAF5",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dkb2toru",
+      "id": "9",
+      "name": "col-head-15-1",
+      "bbox": [
+        273.09,
+        207.85,
+        183.86,
+        37.97
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1sryxs3a",
+      "id": "10",
+      "name": "col-head-text-15-1",
+      "bbox": [
+        277.09,
+        209.84,
+        175.87,
+        33.97
+      ],
+      "geometry": "rect",
+      "text": "剪輯／聲音",
+      "textPreview": "剪輯／聲音",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "剪輯／聲音"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "剪輯／聲音",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "剪輯／聲音",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0rixonmp",
+      "id": "11",
+      "name": "col-body-15-1",
+      "bbox": [
+        273.09,
+        245.82,
+        183.86,
+        809.4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FCFAF5",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zq9wv2lk",
+      "id": "12",
+      "name": "col-head-15-2",
+      "bbox": [
+        456.96,
+        207.85,
+        288.79,
+        37.97
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ep0fmx4z",
+      "id": "13",
+      "name": "col-head-text-15-2",
+      "bbox": [
+        460.95,
+        209.84,
+        280.79,
+        33.97
+      ],
+      "geometry": "rect",
+      "text": "旁白／字卡",
+      "textPreview": "旁白／字卡",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旁白／字卡"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旁白／字卡",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旁白／字卡",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gby1c3m",
+      "id": "14",
+      "name": "col-body-15-2",
+      "bbox": [
+        456.96,
+        245.82,
+        288.79,
+        809.4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDFC",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ofixs7m1",
+      "id": "15",
+      "name": "visual-15",
+      "bbox": [
+        60.25,
+        259.81,
+        200.85,
+        781.42
+      ],
+      "geometry": "rect",
+      "text": "SHOT 16｜大會全景＋議程字幕\nSHOT 17｜程序會、各審查委員會、法規審查、聯席會議\nSHOT 18｜市政總質詢、業務質詢、書面資料特寫\nSHOT 19｜預算書、決算審核報告、自治條例三讀畫面\nSHOT 20｜議事影音平台、表決與會議紀錄",
+      "textPreview": "SHOT 16｜大會全景＋議程字幕 | SHOT 17｜程序會、各審查委員會、法規審查、聯席會議 | SHOT 18｜市政總質詢、業務質詢、書面資料特寫 | SHOT 19｜預算書、決算審核報告、自治條例三讀畫面 | SHOT 20｜議事影音平台、表決與會議紀錄",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 14,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SHOT"
+          },
+          {
+            "index": 2,
+            "text": "16｜大會全景＋議程字幕"
+          },
+          {
+            "index": 3,
+            "text": "SHOT"
+          },
+          {
+            "index": 4,
+            "text": "17｜程序會、各審查委員"
+          },
+          {
+            "index": 5,
+            "text": "會、法規審查、聯席會議"
+          },
+          {
+            "index": 6,
+            "text": "SHOT"
+          },
+          {
+            "index": 7,
+            "text": "18｜市政總質詢、業務質"
+          },
+          {
+            "index": 8,
+            "text": "詢、書面資料特寫"
+          },
+          {
+            "index": 9,
+            "text": "SHOT"
+          },
+          {
+            "index": 10,
+            "text": "19｜預算書、決算審核報"
+          },
+          {
+            "index": 11,
+            "text": "告、自治條例三讀畫面"
+          },
+          {
+            "index": 12,
+            "text": "SHOT"
+          },
+          {
+            "index": 13,
+            "text": "20｜議事影音平台、表決"
+          },
+          {
+            "index": 14,
+            "text": "與會議紀錄"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SHOT 16｜大會全景＋議程字幕",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 16｜大會全景＋議程字幕",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "SHOT 17｜程序會、各審查委員會、法規審查、聯席會議",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 17｜程序會、各審查委員會、法規審查、聯席會議",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "SHOT 18｜市政總質詢、業務質詢、書面資料特寫",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 18｜市政總質詢、業務質詢、書面資料特寫",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "SHOT 19｜預算書、決算審核報告、自治條例三讀畫面",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 19｜預算書、決算審核報告、自治條例三讀畫面",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "SHOT 20｜議事影音平台、表決與會議紀錄",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHOT 20｜議事影音平台、表決與會議紀錄",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ne9gz2lg",
+      "id": "16",
+      "name": "audio-15",
+      "bbox": [
+        285.08,
+        259.81,
+        159.88,
+        781.42
+      ],
+      "geometry": "rect",
+      "text": "旁白講職權時，每項搭配真實會議動作\n\n避免長時間停留在組織圖\n\n音樂降低，讓質詢原音穿插 2–3 句，每句不超過 4 秒\n\n字幕標示「實際議事畫面」與議程名稱",
+      "textPreview": "旁白講職權時，每項搭配真實會議動作 |  | 避免長時間停留在組織圖 |  | 音樂降低，讓質詢原音穿插 2–3 句，每句不超過 4 秒 |  | 字幕標示「實際議事畫面」與議程名稱",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 12,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旁白講職權時，每項"
+          },
+          {
+            "index": 2,
+            "text": "搭配真實會議動作"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "避免長時間停留在組"
+          },
+          {
+            "index": 5,
+            "text": "織圖"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "音樂降低，讓質詢原"
+          },
+          {
+            "index": 8,
+            "text": "音穿插 2–3"
+          },
+          {
+            "index": 9,
+            "text": "句，每句不超過 4 秒"
+          },
+          {
+            "index": 10,
+            "text": ""
+          },
+          {
+            "index": 11,
+            "text": "字幕標示「實際議事"
+          },
+          {
+            "index": 12,
+            "text": "畫面」與議程名稱"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旁白講職權時，每項搭配真實會議動作",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旁白講職權時，每項搭配真實會議動作",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "避免長時間停留在組織圖",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "避免長時間停留在組織圖",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "音樂降低，讓質詢原音穿插 2–3 句，每句不超過 4 秒",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "音樂降低，讓質詢原音穿插 2–3 句，每句不超過 4 秒",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "字幕標示「實際議事畫面」與議程名稱",
+          "lineSpacingPercent": 122000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "字幕標示「實際議事畫面」與議程名稱",
+              "fontSize": 15.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/md0fqx4v",
+      "id": "17",
+      "name": "narration-15",
+      "bbox": [
+        470.95,
+        257.81,
+        260.81,
+        785.42
+      ],
+      "geometry": "rect",
+      "text": "【旁白】\n議會，是地方自治中代表市民行使監督與議決權的機關。\n\n從城市的法規、年度預算與決算，到市稅、公共財產、市府組織與各項提案，都必須透過議會的程序接受檢視。人民的請願，也能在這裡進入正式的制度。\n\n議案依性質進入程序與各審查委員會，經資料審閱、詢答、討論，再送交大會議決；議員也透過市政總質詢、業務質詢、現勘與書面建議，要求行政部門說明並改善。\n\n監督不是阻擋前進，而是讓每一筆公共資源用得更負責；討論也不是拖延，而是讓不同影響被充分看見。\n\n每一項決定，都必須留下紀錄，也必須經得起公開討論。\n【字卡】\n議決｜審查｜質詢｜請願｜監督",
+      "textPreview": "【旁白】 | 議會，是地方自治中代表市民行使監督與議決權的機關。 |  | 從城市的法規、年度預算與決算，到市稅、公共財產、市府組織與各項提案，都必須透過議會的程序接受檢視。人民的請願，也能在這裡進入正式的制度。 |  | 議案依性質進入程序與各審查委員會，經資料審閱、詢答...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 25,
+        "lines": [
+          {
+            "index": 1,
+            "text": "【旁白】"
+          },
+          {
+            "index": 2,
+            "text": "議會，是地方自治中代表市民行使"
+          },
+          {
+            "index": 3,
+            "text": "監督與議決權的機關。"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "從城市的法規、年度預算與決算，"
+          },
+          {
+            "index": 6,
+            "text": "到市稅、公共財產、市府組織與各"
+          },
+          {
+            "index": 7,
+            "text": "項提案，都必須透過議會的程序接"
+          },
+          {
+            "index": 8,
+            "text": "受檢視。人民的請願，也能在這裡"
+          },
+          {
+            "index": 9,
+            "text": "進入正式的制度。"
+          },
+          {
+            "index": 10,
+            "text": ""
+          },
+          {
+            "index": 11,
+            "text": "議案依性質進入程序與各審查委員"
+          },
+          {
+            "index": 12,
+            "text": "會，經資料審閱、詢答、討論，再"
+          },
+          {
+            "index": 13,
+            "text": "送交大會議決；議員也透過市政總"
+          },
+          {
+            "index": 14,
+            "text": "質詢、業務質詢、現勘與書面建議"
+          },
+          {
+            "index": 15,
+            "text": "，要求行政部門說明並改善。"
+          },
+          {
+            "index": 16,
+            "text": ""
+          },
+          {
+            "index": 17,
+            "text": "監督不是阻擋前進，而是讓每一筆"
+          },
+          {
+            "index": 18,
+            "text": "公共資源用得更負責；討論也不是"
+          },
+          {
+            "index": 19,
+            "text": "拖延，而是讓不同影響被充分看見"
+          },
+          {
+            "index": 20,
+            "text": "。"
+          },
+          {
+            "index": 21,
+            "text": ""
+          },
+          {
+            "index": 22,
+            "text": "每一項決定，都必須留下紀錄，也"
+          },
+          {
+            "index": 23,
+            "text": "必須經得起公開討論。"
+          },
+          {
+            "index": 24,
+            "text": "【字卡】"
+          },
+          {
+            "index": 25,
+            "text": "議決｜審查｜質詢｜請願｜監督"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "【旁白】\n議會，是地方自治中代表市民行使監督與議決權的機關。\n\n從城市的法規、年度預算與決算，到市稅、公共財產、市府組織與各項提案，都必須透過議會的程序接受檢視。人民的請願，也能在這裡進入正式的制度。\n\n議案依性質進入程序與各審查委員會，經資料審閱、詢答、討論，再送交大會議決；議員也透過市政總質詢、業務質詢、現勘與書面建議，要求行政部門說明並改善。\n\n監督不是阻擋前進，而是讓每一筆公共資源用得更負責；討論也不是拖延，而是讓不同影響被充分看見。\n\n每一項決定，都必須留下紀錄，也必須經得起公開討論。",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "【旁白】\n",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "議會，是地方自治中代表市民行使監督與議決權的機關。\n\n從城市的法規、年度預算與決算，到市稅、公共財產、市府組織與各項提案，都必須透過議會的程序接受檢視。人民的請願，也能在這裡進入正式的制度。\n\n議案依性質進入程序與各審查委員會，經資料審閱、詢答、討論，再送交大會議決；議員也透過市政總質詢、業務質詢、現勘與書面建議，要求行政部門說明並改善。\n\n監督不是阻擋前進，而是讓每一筆公共資源用得更負責；討論也不是拖延，而是讓不同影響被充分看見。\n\n每一項決定，都必須留下紀錄，也必須經得起公開討論。",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "【字卡】\n議決｜審查｜質詢｜請願｜監督",
+          "lineSpacingPercent": 124000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang TC",
+            "color": "#142B34",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "【字卡】\n",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "議決｜審查｜質詢｜請願｜監督",
+              "fontSize": 16.99,
+              "typeface": "PingFang TC",
+              "color": "#142B34"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xkby5c3i",
+      "id": "18",
+      "name": "footer-line-15",
+      "bbox": [
+        48.26,
+        1074.2,
+        697.48,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#D9D5CB",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wj2xw72x",
+      "id": "19",
+      "name": "footer-label-15",
+      "bbox": [
+        48.26,
+        1079.2,
+        569.58,
+        25.98
+      ],
+      "geometry": "rect",
+      "text": "看見.共好｜第四章｜看見議會如何運作｜06:55–08:15",
+      "textPreview": "看見.共好｜第四章｜看見議會如何運作｜06:55–08:15",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好｜第四章｜看見議會如何運作｜06:55–08:15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好｜第四章｜看見議會如何運作｜06:55–08:15",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "PingFang TC",
+            "color": "#60727A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好｜第四章｜看見議會如何運作｜06:55–08:15",
+              "fontSize": 11.99,
+              "typeface": "PingFang TC",
+              "color": "#60727A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kvqhkba1",
+      "id": "28",
+      "name": "visual-15",
+      "bbox": [
+        -365.43,
+        242.61,
+        200.85,
+        781.42
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/1cbylc7i",
+      "id": "39",
+      "name": "storyboard-12-1",
+      "bbox": [
+        62.01,
+        564.76,
+        200.85,
+        150.68
+      ],
+      "geometry": "roundRect",
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 3318"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "/ppt/media/image42.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 59732
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image42.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 59732
+      }
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nmpcfyhg",
+      "id": "30",
+      "name": "storyboard-caption-12-1",
+      "bbox": [
+        62.01,
+        688.44,
+        200.85,
+        27
+      ],
+      "geometry": "rect",
+      "text": "大會全景",
+      "textPreview": "大會全景",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "大會全景"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "大會全景",
+          "resolvedTextStyle": {
+            "fontSize": 11.2,
+            "typeface": "PingFang TC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "大會全景",
+              "fontSize": 11.2,
+              "typeface": "PingFang TC",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#244F66",
+      "lineColor": "#244F66",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/t47ihgby",
+      "id": "40",
+      "name": "storyboard-12-3",
+      "bbox": [
+        60.31,
+        729.43,
+        200.85,
+        150.68
+      ],
+      "geometry": "roundRect",
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 3318"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "/ppt/media/image43.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 34714
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image43.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 34714
+      }
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fypcbyh4",
+      "id": "34",
+      "name": "storyboard-caption-12-3",
+      "bbox": [
+        60.31,
+        853.12,
+        200.85,
+        27
+      ],
+      "geometry": "rect",
+      "text": "市政／業務質詢",
+      "textPreview": "市政／業務質詢",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "市政／業務質詢"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "市政／業務質詢",
+          "resolvedTextStyle": {
+            "fontSize": 11.2,
+            "typeface": "PingFang TC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "市政／業務質詢",
+              "fontSize": 11.2,
+              "typeface": "PingFang TC",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#244F66",
+      "lineColor": "#244F66",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/83yh8bud",
+      "id": "41",
+      "name": "storyboard-12-4",
+      "bbox": [
+        58.49,
+        893.04,
+        200.85,
+        150.68
+      ],
+      "geometry": "roundRect",
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 3318"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "/ppt/media/image44.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 43391
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image44.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 43391
+      }
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1k7ud8za",
+      "id": "36",
+      "name": "storyboard-caption-12-4",
+      "bbox": [
+        58.49,
+        1016.72,
+        200.85,
+        27
+      ],
+      "geometry": "rect",
+      "text": "預決算與條例",
+      "textPreview": "預決算與條例",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "預決算與條例"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "預決算與條例",
+          "resolvedTextStyle": {
+            "fontSize": 11.2,
+            "typeface": "PingFang TC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "預決算與條例",
+              "fontSize": 11.2,
+              "typeface": "PingFang TC",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#244F66",
+      "lineColor": "#244F66",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/72p0f6t8",
+      "id": "42",
+      "name": "storyboard-12-5",
+      "bbox": [
+        271.33,
+        897.54,
+        200.85,
+        150.68
+      ],
+      "geometry": "roundRect",
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 3318"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "/ppt/media/image45.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 53405
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image45.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 53405
+      }
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ru5s7eh8",
+      "id": "38",
+      "name": "storyboard-caption-12-5",
+      "bbox": [
+        271.33,
+        1021.22,
+        200.85,
+        27
+      ],
+      "geometry": "rect",
+      "text": "影音・表決・紀錄",
+      "textPreview": "影音・表決・紀錄",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "影音・表決・紀錄"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "影音・表決・紀錄",
+          "resolvedTextStyle": {
+            "fontSize": 11.2,
+            "typeface": "PingFang TC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "影音・表決・紀錄",
+              "fontSize": 11.2,
+              "typeface": "PingFang TC",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#244F66",
+      "lineColor": "#244F66",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,1179 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/y90nupkv",
+    "id": "y90nupkv",
+    "slide": 1,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/547294r6",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        28.8,
+        768,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "CONCEPT",
+      "textPreview": "CONCEPT",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CONCEPT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CONCEPT",
+          "runs": [
+            {
+              "index": 1,
+              "text": "CONCEPT",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qp4be9c",
+      "id": "4",
+      "name": "Text 2",
+      "bbox": [
+        57.6,
+        55.68,
+        678.72,
+        52.8
+      ],
+      "geometry": "rect",
+      "text": "腳本核心概念：看見生活，讓民意走向共好",
+      "textPreview": "腳本核心概念：看見生活，讓民意走向共好",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "腳本核心概念：看見生活，讓民意走向共好"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "腳本核心概念：看見生活，讓民意走向共好",
+          "runs": [
+            {
+              "index": 1,
+              "text": "腳本核心概念：看見生活，讓民意走向共好",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65g3298r",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1079.04,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "2",
+      "textPreview": "2",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ts7md4r2",
+      "id": "6",
+      "name": "Shape 4",
+      "bbox": [
+        57.6,
+        117.12,
+        678.72,
+        139.2
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F4F6FA"
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sryl4zqx",
+      "id": "7",
+      "name": "Text 5",
+      "bbox": [
+        81.6,
+        134.4,
+        630.72,
+        105.6
+      ],
+      "geometry": "rect",
+      "text": "核心推進｜影片從城市日常與議會沿革建立『看見』，再讓13個選區、68席民意走進議事殿堂；中段跟著一個問題，呈現民意如何被查證、審查與追蹤，最後由第5屆承諾收束成『共好』。",
+      "textPreview": "核心推進｜影片從城市日常與議會沿革建立『看見』，再讓13個選區、68席民意走進議事殿堂；中段跟著一個問題，呈現民意如何被查證、審查與追蹤，最後由第5屆承諾收束成『共好』。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "核心推進｜"
+          },
+          {
+            "index": 2,
+            "text": "影片從城市日常與議會沿革建立『看見』，再讓13個選區、68席民意走進議"
+          },
+          {
+            "index": 3,
+            "text": "事殿堂；中段跟著一個問題，呈現民意如何被查證、審查與追蹤，最後由第"
+          },
+          {
+            "index": 4,
+            "text": "5屆承諾收束成『共好』。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "核心推進｜影片從城市日常與議會沿革建立『看見』，再讓13個選區、68席民意走進議事殿堂；中段跟著一個問題，呈現民意如何被查證、審查與追蹤，最後由第5屆承諾收束成『共好』。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "核心推進｜",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "影片從城市日常與議會沿革建立『看見』，再讓13個選區、68席民意走進議事殿堂；中段跟著一個問題，呈現民意如何被查證、審查與追蹤，最後由第5屆承諾收束成『共好』。",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fu94fe98",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        57.6,
+        278.4,
+        576,
+        33.6
+      ],
+      "geometry": "rect",
+      "text": "分鏡腳本的四段敘事推進",
+      "textPreview": "分鏡腳本的四段敘事推進",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "分鏡腳本的四段敘事推進"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "分鏡腳本的四段敘事推進",
+          "runs": [
+            {
+              "index": 1,
+              "text": "分鏡腳本的四段敘事推進",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/utg3698n",
+      "id": "9",
+      "name": "Shape 7",
+      "bbox": [
+        57.6,
+        321.6,
+        678.72,
+        130.56
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F4F6FA"
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wn6dc7eh",
+      "id": "10",
+      "name": "Shape 8",
+      "bbox": [
+        78.72,
+        340.8,
+        129.6,
+        40.32
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1B2A4A"
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hofulsf2",
+      "id": "11",
+      "name": "Text 9",
+      "bbox": [
+        78.72,
+        339.84,
+        129.6,
+        40.32
+      ],
+      "geometry": "rect",
+      "text": "城市與託付",
+      "textPreview": "城市與託付",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "城市與託付"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "城市與託付",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "城市與託付",
+              "fontSize": 16.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ul4vaxgb",
+      "id": "12",
+      "name": "Text 10",
+      "bbox": [
+        225.6,
+        342.72,
+        486.72,
+        36.48
+      ],
+      "geometry": "rect",
+      "text": "00:00–02:35｜看見城市、傳承與就職",
+      "textPreview": "00:00–02:35｜看見城市、傳承與就職",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "00:00–02:35｜看見城市、傳承與就職"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "00:00–02:35｜看見城市、傳承與就職",
+          "runs": [
+            {
+              "index": 1,
+              "text": "00:00–02:35｜看見城市、傳承與就職",
+              "fontSize": 21.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmdcj2xw",
+      "id": "13",
+      "name": "Text 11",
+      "bbox": [
+        225.6,
+        381.12,
+        486.72,
+        55.68
+      ],
+      "geometry": "rect",
+      "text": "以眼睛與光開場，從山海、日常與議會沿革，走到第 5 屆宣誓與每一席託付。",
+      "textPreview": "以眼睛與光開場，從山海、日常與議會沿革，走到第 5 屆宣誓與每一席託付。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "以眼睛與光開場，從山海、日常與議會沿革，走到第 5"
+          },
+          {
+            "index": 2,
+            "text": "屆宣誓與每一席託付。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "以眼睛與光開場，從山海、日常與議會沿革，走到第 5 屆宣誓與每一席託付。",
+          "lineSpacingPercent": 125000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "以眼睛與光開場，從山海、日常與議會沿革，走到第 5 屆宣誓與每一席託付。",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r6dg7et",
+      "id": "14",
+      "name": "Shape 12",
+      "bbox": [
+        57.6,
+        469.44,
+        678.72,
+        155.52
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F4F6FA"
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5sfepcfe",
+      "id": "15",
+      "name": "Shape 13",
+      "bbox": [
+        78.72,
+        488.64,
+        129.6,
+        40.32
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1B2A4A"
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ipovexwn",
+      "id": "16",
+      "name": "Text 14",
+      "bbox": [
+        78.72,
+        487.68,
+        129.6,
+        40.32
+      ],
+      "geometry": "rect",
+      "text": "生活全景",
+      "textPreview": "生活全景",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "生活全景"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "生活全景",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "生活全景",
+              "fontSize": 16.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qxwn2x8",
+      "id": "17",
+      "name": "Text 15",
+      "bbox": [
+        225.6,
+        490.56,
+        486.72,
+        36.48
+      ],
+      "geometry": "rect",
+      "text": "02:35–04:55｜13 個選區、68 席民意",
+      "textPreview": "02:35–04:55｜13 個選區、68 席民意",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02:35–04:55｜13 個選區、68 席民意"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02:35–04:55｜13 個選區、68 席民意",
+          "runs": [
+            {
+              "index": 1,
+              "text": "02:35–04:55｜13 個選區、68 席民意",
+              "fontSize": 21.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfqdkrep",
+      "id": "18",
+      "name": "Text 16",
+      "bbox": [
+        225.6,
+        528.96,
+        486.72,
+        80.64
+      ],
+      "geometry": "rect",
+      "text": "分三組呈現第 1 至第 13 選區，讓海岸、都會、山城與原住民族生活都被看見。",
+      "textPreview": "分三組呈現第 1 至第 13 選區，讓海岸、都會、山城與原住民族生活都被看見。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "分三組呈現第 1 至第 13"
+          },
+          {
+            "index": 2,
+            "text": "選區，讓海岸、都會、山城與原住民族生活都被看見。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "分三組呈現第 1 至第 13 選區，讓海岸、都會、山城與原住民族生活都被看見。",
+          "lineSpacingPercent": 125000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "分三組呈現第 1 至第 13 選區，讓海岸、都會、山城與原住民族生活都被看見。",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dgzetcfa",
+      "id": "19",
+      "name": "Shape 17",
+      "bbox": [
+        57.6,
+        642.24,
+        678.72,
+        130.56
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F4F6FA"
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cvuxc7e",
+      "id": "20",
+      "name": "Shape 18",
+      "bbox": [
+        78.72,
+        661.44,
+        129.6,
+        40.32
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1B2A4A"
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0bmd476t",
+      "id": "21",
+      "name": "Text 19",
+      "bbox": [
+        78.72,
+        660.48,
+        129.6,
+        40.32
+      ],
+      "geometry": "rect",
+      "text": "民意行動",
+      "textPreview": "民意行動",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "民意行動"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "民意行動",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "民意行動",
+              "fontSize": 16.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zadcv2p8",
+      "id": "22",
+      "name": "Text 20",
+      "bbox": [
+        225.6,
+        663.36,
+        486.72,
+        36.48
+      ],
+      "geometry": "rect",
+      "text": "04:55–09:10｜問題走進制度",
+      "textPreview": "04:55–09:10｜問題走進制度",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04:55–09:10｜問題走進制度"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04:55–09:10｜問題走進制度",
+          "runs": [
+            {
+              "index": 1,
+              "text": "04:55–09:10｜問題走進制度",
+              "fontSize": 21.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e94v2hon",
+      "id": "23",
+      "name": "Text 21",
+      "bbox": [
+        225.6,
+        701.76,
+        486.72,
+        55.68
+      ],
+      "geometry": "rect",
+      "text": "由積水、上學路與候車日常切入，完整走過受理、查證、現勘、質詢、審查、議決與追蹤。",
+      "textPreview": "由積水、上學路與候車日常切入，完整走過受理、查證、現勘、質詢、審查、議決與追蹤。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "由積水、上學路與候車日常切入，完整走過受理、查證、"
+          },
+          {
+            "index": 2,
+            "text": "現勘、質詢、審查、議決與追蹤。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "由積水、上學路與候車日常切入，完整走過受理、查證、現勘、質詢、審查、議決與追蹤。",
+          "lineSpacingPercent": 125000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "由積水、上學路與候車日常切入，完整走過受理、查證、現勘、質詢、審查、議決與追蹤。",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/90ve1w7q",
+      "id": "24",
+      "name": "Shape 22",
+      "bbox": [
+        57.6,
+        799.68,
+        678.72,
+        134.4
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FDF6E0"
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ozmd8r65",
+      "id": "25",
+      "name": "Text 23",
+      "bbox": [
+        81.6,
+        816.96,
+        630.72,
+        100.8
+      ],
+      "geometry": "rect",
+      "text": "承諾與回收｜09:10–11:10\n議長期許承接前段制度與民意，片尾回到清晨人物與正式片名：『看見』是願意靠近每一種生活；『共好』是把不同聲音帶向共同未來。片頭與片尾互相呼應，敘事完成。",
+      "textPreview": "承諾與回收｜09:10–11:10 | 議長期許承接前段制度與民意，片尾回到清晨人物與正式片名：『看見』是願意靠近每一種生活；『共好』是把不同聲音帶向共同未來。片頭與片尾互相呼應，敘事完成。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "承諾與回收｜09:10–11:10"
+          },
+          {
+            "index": 2,
+            "text": "議長期許承接前段制度與民意，片尾回到清晨人物與正式片名：『看見』是"
+          },
+          {
+            "index": 3,
+            "text": "願意靠近每一種生活；『共好』是把不同聲音帶向共同未來。片頭與片尾互"
+          },
+          {
+            "index": 4,
+            "text": "相呼應，敘事完成。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "承諾與回收｜09:10–11:10\n議長期許承接前段制度與民意，片尾回到清晨人物與正式片名：『看見』是願意靠近每一種生活；『共好』是把不同聲音帶向共同未來。片頭與片尾互相呼應，敘事完成。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "承諾與回收｜09:10–11:10\n",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "議長期許承接前段制度與民意，片尾回到清晨人物與正式片名：『看見』是願意靠近每一種生活；『共好』是把不同聲音帶向共同未來。片頭與片尾互相呼應，敘事完成。",
+              "fontSize": 18.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22293A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,93 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "opening thesis",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "shapeId": "sh/7qp4be9c" },
+        { "action": "rewrite", "shapeId": "sh/sryl4zqx" },
+        { "action": "rewrite", "shapeId": "sh/fu94fe98" },
+        { "action": "rewrite", "shapeId": "sh/hofulsf2" },
+        { "action": "rewrite", "shapeId": "sh/ul4vaxgb" },
+        { "action": "rewrite", "shapeId": "sh/vmdcj2xw" },
+        { "action": "rewrite", "shapeId": "sh/ipovexwn" },
+        { "action": "rewrite", "shapeId": "sh/3qxwn2x8" },
+        { "action": "rewrite", "shapeId": "sh/sfqdkrep" },
+        { "action": "rewrite", "shapeId": "sh/0bmd476t" },
+        { "action": "rewrite", "shapeId": "sh/zadcv2p8" },
+        { "action": "rewrite", "shapeId": "sh/e94v2hon" },
+        { "action": "rewrite", "shapeId": "sh/ozmd8r65" }
+      ]
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 2,
+      "narrativeRole": "timeline table",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "shapeId": "sh/b29kza94" },
+        { "action": "rewrite", "shapeId": "tb/sjil0vu9" }
+      ]
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 3,
+      "narrativeRole": "opening script factual alignment",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "shapeId": "sh/x8nml0ra" },
+        { "action": "rewrite", "shapeId": "sh/i9w3u58v" },
+        { "action": "rewrite-and-reposition", "shapeId": "sh/a5c3ql8z" },
+        { "action": "rewrite-and-reposition", "shapeId": "im/n2tc3y1g" }
+      ]
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 4,
+      "narrativeRole": "heritage script factual alignment",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "shapeId": "sh/v6tsv2xo" },
+        { "action": "rewrite", "shapeId": "sh/h4fa9wfy" }
+      ]
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 5,
+      "narrativeRole": "inauguration timing alignment",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "shapeId": "sh/tcfel0vu" }
+      ]
+    },
+    { "outputSlide": 6, "sourceSlide": 6, "narrativeRole": "preserve source slide", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 7, "sourceSlide": 7, "narrativeRole": "preserve source slide", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 8, "sourceSlide": 8, "narrativeRole": "preserve source slide", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 9, "sourceSlide": 9, "narrativeRole": "preserve source slide", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 10, "sourceSlide": 10, "narrativeRole": "preserve source slide", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 11, "sourceSlide": 11, "narrativeRole": "preserve source slide", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 12, "sourceSlide": 12, "narrativeRole": "preserve source slide", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 13, "sourceSlide": 13, "narrativeRole": "preserve source slide", "reuseMode": "duplicate-slide", "editTargets": [] },
+    {
+      "outputSlide": 14,
+      "sourceSlide": 14,
+      "narrativeRole": "closing commitment timing alignment",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "shapeId": "sh/1w3i14fq" }
+      ]
+    },
+    {
+      "outputSlide": 15,
+      "sourceSlide": 15,
+      "narrativeRole": "closing callback timing alignment",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "shapeId": "sh/l0bqlgf2" }
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}

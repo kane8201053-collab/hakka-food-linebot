@@ -1,0 +1,545 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/lllvun",
+    "id": "lllvun",
+    "slide": 1,
+    "layoutId": "ede0ace0-d57a-491a-8b05-db160473e468",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#0E2B3A",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1123
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang TC",
+      "Songti TC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ede0ace0-d57a-491a-8b05-db160473e468",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "6b7d7d1b-f056-4cd0-8e38-982491423856",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psrq5g3a",
+      "id": "1",
+      "name": "cover-ghost",
+      "bbox": [
+        392,
+        52,
+        370,
+        440
+      ],
+      "geometry": "rect",
+      "text": "見",
+      "textPreview": "見",
+      "resolvedFontSize": 300,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 300,
+        "typeface": "Songti TC",
+        "color": "#214654",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "見"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "見",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 4,
+            "typeface": "Songti TC",
+            "color": "#214654",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "見",
+              "fontSize": 4,
+              "typeface": "Songti TC",
+              "color": "#214654",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2p07alkj",
+      "id": "2",
+      "name": "cover-kicker",
+      "bbox": [
+        62,
+        82,
+        560,
+        34
+      ],
+      "geometry": "rect",
+      "text": "第 5 屆新北市議會｜簡介影片分鏡腳本",
+      "textPreview": "第 5 屆新北市議會｜簡介影片分鏡腳本",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 15,
+        "typeface": "PingFang TC",
+        "color": "#9FD2CE",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第 5 屆新北市議會｜簡介影片分鏡腳本"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第 5 屆新北市議會｜簡介影片分鏡腳本",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "PingFang TC",
+            "color": "#9FD2CE",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第 5 屆新北市議會｜簡介影片分鏡腳本",
+              "fontSize": 15,
+              "typeface": "PingFang TC",
+              "color": "#9FD2CE",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3q9836l4",
+      "id": "3",
+      "name": "cover-main",
+      "bbox": [
+        62,
+        274,
+        610,
+        100
+      ],
+      "geometry": "rect",
+      "text": "看見.共好",
+      "textPreview": "看見.共好",
+      "resolvedFontSize": 62,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 62,
+        "typeface": "PingFang TC",
+        "color": "#FFFDFC",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 62,
+            "typeface": "PingFang TC",
+            "color": "#FFFDFC",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好",
+              "fontSize": 62,
+              "typeface": "PingFang TC",
+              "color": "#FFFDFC",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cv29gv2l",
+      "id": "4",
+      "name": "cover-sub",
+      "bbox": [
+        66,
+        388,
+        560,
+        55
+      ],
+      "geometry": "rect",
+      "text": "－ 第5屆新北市議會",
+      "textPreview": "－ 第5屆新北市議會",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 30,
+        "typeface": "PingFang TC",
+        "color": "#F1D39A",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "－ 第5屆新北市議會"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "－ 第5屆新北市議會",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "PingFang TC",
+            "color": "#F1D39A",
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "－ 第5屆新北市議會",
+              "fontSize": 30,
+              "typeface": "PingFang TC",
+              "color": "#F1D39A",
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dgbq9036",
+      "id": "5",
+      "name": "cover-accent",
+      "bbox": [
+        62,
+        470,
+        108,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#C85B4B",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qtk7elkv",
+      "id": "6",
+      "name": "cover-thesis",
+      "bbox": [
+        62,
+        535,
+        520,
+        118
+      ],
+      "geometry": "rect",
+      "text": "看見每一種生活，\n讓每一個聲音走向共好。",
+      "textPreview": "看見每一種生活， | 讓每一個聲音走向共好。",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "PingFang TC",
+        "color": "#DCECE9",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見每一種生活，"
+          },
+          {
+            "index": 2,
+            "text": "讓每一個聲音走向共好。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見每一種生活，",
+          "lineSpacingPercent": 128000,
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "PingFang TC",
+            "color": "#DCECE9",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.28
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見每一種生活，",
+              "fontSize": 27,
+              "typeface": "PingFang TC",
+              "color": "#DCECE9",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.28
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "讓每一個聲音走向共好。",
+          "lineSpacingPercent": 128000,
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "PingFang TC",
+            "color": "#DCECE9",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.28
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "讓每一個聲音走向共好。",
+              "fontSize": 27,
+              "typeface": "PingFang TC",
+              "color": "#DCECE9",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.28
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/but87qlg",
+      "id": "7",
+      "name": "cover-meta",
+      "bbox": [
+        62,
+        1008,
+        620,
+        32
+      ],
+      "geometry": "rect",
+      "text": "A4 直式提案版｜建議成片 11 分 50 秒｜2026.09",
+      "textPreview": "A4 直式提案版｜建議成片 11 分 50 秒｜2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "PingFang TC",
+        "color": "#9FB2BA",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A4 直式提案版｜建議成片 11 分 50 秒｜2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A4 直式提案版｜建議成片 11 分 50 秒｜2026.09",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang TC",
+            "color": "#9FB2BA",
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A4 直式提案版｜建議成片 11 分 50 秒｜2026.09",
+              "fontSize": 14,
+              "typeface": "PingFang TC",
+              "color": "#9FB2BA",
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

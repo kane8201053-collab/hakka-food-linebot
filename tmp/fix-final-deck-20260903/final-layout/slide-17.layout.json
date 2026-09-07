@@ -1,0 +1,2249 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/14bup87q",
+    "id": "14bup87q",
+    "slide": 17,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 794,
+      "height": 1122.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1c7e50ni",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        57.6,
+        28.8,
+        480,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "PRODUCTION TEAM",
+      "textPreview": "PRODUCTION TEAM",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PRODUCTION TEAM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PRODUCTION TEAM",
+          "runs": [
+            {
+              "index": 1,
+              "text": "PRODUCTION TEAM",
+              "fontSize": 14,
+              "typeface": "Microsoft JhengHei",
+              "color": "#C9A227",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbedwfmx",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        333.12,
+        28.8,
+        403.2,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "看見.共好 － 第5屆新北市議會|影片腳本",
+      "textPreview": "看見.共好 － 第5屆新北市議會|影片腳本",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "看見.共好 － 第5屆新北市議會|影片腳本"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "看見.共好 － 第5屆新北市議會|影片腳本",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "看見.共好 － 第5屆新北市議會|影片腳本",
+              "fontSize": 11.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#9AA3B2"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rm5czq50",
+      "id": "4",
+      "name": "Text 2",
+      "bbox": [
+        57.6,
+        55.68,
+        678.72,
+        52.8
+      ],
+      "geometry": "rect",
+      "text": "工作團隊與執行分工　|　核心製作團隊(一)",
+      "textPreview": "工作團隊與執行分工　|　核心製作團隊(一)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工作團隊與執行分工　|　核心製作團隊(一)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工作團隊與執行分工　|　核心製作團隊(一)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "工作團隊與執行分工",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "　|　核心製作團隊(一)",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8A701B",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6lwvql4v",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        358.56,
+        1079.04,
+        76.8,
+        24.96
+      ],
+      "geometry": "rect",
+      "text": "17",
+      "textPreview": "17",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "17"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "17",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "17",
+              "fontSize": 12.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8ne10n6",
+      "id": "6",
+      "name": "Shape 4",
+      "bbox": [
+        57.6,
+        126.72,
+        5.76,
+        24.96
+      ],
+      "geometry": "rect",
+      "fillColor": "#C9A227"
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/snedsvml",
+      "id": "7",
+      "name": "Text 5",
+      "bbox": [
+        74.88,
+        122.88,
+        403.2,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "導演、企劃與攝影",
+      "textPreview": "導演、企劃與攝影",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "導演、企劃與攝影"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "導演、企劃與攝影",
+          "runs": [
+            {
+              "index": 1,
+              "text": "導演、企劃與攝影",
+              "fontSize": 17.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1B2A4A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jilcvq54",
+      "id": "8",
+      "name": "Text 6",
+      "bbox": [
+        480,
+        122.88,
+        256.32,
+        30.72
+      ],
+      "geometry": "rect",
+      "text": "近年公部門形象影片與活動紀錄實績",
+      "textPreview": "近年公部門形象影片與活動紀錄實績",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "近年公部門形象影片與活動紀錄實績"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "近年公部門形象影片與活動紀錄實績",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "近年公部門形象影片與活動紀錄實績",
+              "fontSize": 12,
+              "typeface": "Microsoft JhengHei",
+              "color": "#6B7280"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2dsn2xwn",
+      "id": "30",
+      "name": "profile-card-17-1",
+      "bbox": [
+        54,
+        167,
+        686,
+        258
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E8F4F2",
+      "lineColor": "#DCE4E6",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3e1ob2d8",
+      "id": "31",
+      "name": "profile-accent-17-1",
+      "bbox": [
+        54,
+        167,
+        9,
+        258
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0F8A85",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oza547ed",
+      "id": "32",
+      "name": "profile-number-17-1",
+      "bbox": [
+        73,
+        187,
+        52,
+        28
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Microsoft JhengHei",
+            "color": "#0F8A85",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 13,
+              "typeface": "Microsoft JhengHei",
+              "color": "#0F8A85",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0j6dcvy",
+      "id": "33",
+      "name": "profile-photo-matte-17-1",
+      "bbox": [
+        73,
+        221,
+        164,
+        179
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/pofq90vy",
+      "id": "63",
+      "name": "profile-photo-17-1",
+      "bbox": [
+        78,
+        226,
+        154,
+        169
+      ],
+      "geometry": "roundRect",
+      "contentType": "image/png",
+      "imageCrop": {
+        "left": 0,
+        "top": 0.00474,
+        "right": 0,
+        "bottom": 0.00474
+      },
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 5195"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "/ppt/media/image3.png",
+        "contentType": "image/png",
+        "byteLength": 438038
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image3.png",
+        "contentType": "image/png",
+        "byteLength": 438038
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fah47idw",
+      "id": "35",
+      "name": "profile-name-17-1",
+      "bbox": [
+        263,
+        188,
+        220,
+        37
+      ],
+      "geometry": "rect",
+      "text": "張子軒",
+      "textPreview": "張子軒",
+      "resolvedFontSize": 23.86,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "張子軒"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "張子軒",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Microsoft JhengHei",
+            "color": "#22313F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "張子軒",
+              "fontSize": 23,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22313F",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbq50neh",
+      "id": "36",
+      "name": "profile-role-17-1-bg",
+      "bbox": [
+        578,
+        189,
+        132,
+        30
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0F8A85",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cj69sv2",
+      "id": "37",
+      "name": "profile-role-17-1",
+      "bbox": [
+        583,
+        192,
+        122,
+        24
+      ],
+      "geometry": "rect",
+      "text": "導演／剪輯",
+      "textPreview": "導演／剪輯",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "導演／剪輯"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "導演／剪輯",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "導演／剪輯",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/658nudwf",
+      "id": "38",
+      "name": "profile-rule-17-1",
+      "bbox": [
+        263,
+        232,
+        447,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#DCE4E6",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r6h43id0",
+      "id": "39",
+      "name": "profile-bio-label-17-1",
+      "bbox": [
+        263,
+        245,
+        250,
+        20
+      ],
+      "geometry": "rect",
+      "text": "SELECTED EXPERIENCE",
+      "textPreview": "SELECTED EXPERIENCE",
+      "resolvedFontSize": 22.93,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.96,
+        "autoFitLineSpaceReduction": 20000,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SELECTED EXPERIENCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SELECTED EXPERIENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 10.31,
+            "typeface": "Microsoft JhengHei",
+            "color": "#0F8A85",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SELECTED EXPERIENCE",
+              "fontSize": 10.31,
+              "typeface": "Microsoft JhengHei",
+              "color": "#0F8A85",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jy1kfehg",
+      "id": "40",
+      "name": "profile-bio-17-1",
+      "bbox": [
+        263,
+        271,
+        447,
+        129
+      ],
+      "geometry": "rect",
+      "text": "2024｜新北客家桐花祭、臺北市客家義民嘉年華宣傳影片\n2025｜新北平溪天燈節、新北市國慶宣傳影片\n2026｜新北平溪天燈節、新北市客家美食節宣傳影片\n負責｜腳本企劃・導演・導演\n2026｜臺北客家義民嘉年華、剪輯、倒仔",
+      "textPreview": "2024｜新北客家桐花祭、臺北市客家義民嘉年華宣傳影片 | 2025｜新北平溪天燈節、新北市國慶宣傳影片 | 2026｜新北平溪天燈節、新北市客家美食節宣傳影片 | 負責｜腳本企劃・導演・導演 | 2026｜臺北客家義民嘉年華、剪輯、倒仔",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2024｜新北客家桐花祭、臺北市客家義民嘉年華宣傳影片"
+          },
+          {
+            "index": 2,
+            "text": "2025｜新北平溪天燈節、新北市國慶宣傳影片"
+          },
+          {
+            "index": 3,
+            "text": "2026｜新北平溪天燈節、新北市客家美食節宣傳影片"
+          },
+          {
+            "index": 4,
+            "text": "負責｜腳本企劃・導演・導演"
+          },
+          {
+            "index": 5,
+            "text": "2026｜臺北客家義民嘉年華、剪輯、倒仔"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2024｜新北客家桐花祭、臺北市客家義民嘉年華宣傳影片",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2024｜新北客家桐花祭、臺北市客家義民嘉年華宣傳影片",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "2025｜新北平溪天燈節、新北市國慶宣傳影片",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2025｜新北平溪天燈節、新北市國慶宣傳影片",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "2026｜新北平溪天燈節、新北市客家美食節宣傳影片",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2026｜新北平溪天燈節、新北市客家美食節宣傳影片",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "負責｜腳本企劃・導演・導演\n2026｜臺北客家義民嘉年華、剪輯、倒仔",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "負責｜腳本企劃・導演",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 2,
+              "text": "・",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 3,
+              "text": "導演",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 4,
+              "text": "\n",
+              "fontSize": 13.2,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 5,
+              "text": "2026",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 6,
+              "text": "｜臺北客家義民嘉年華、剪輯、倒仔",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixsj690v",
+      "id": "41",
+      "name": "profile-card-17-2",
+      "bbox": [
+        54,
+        449,
+        686,
+        258
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F9F3DF",
+      "lineColor": "#DCE4E6",
+      "lineWidth": 1
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/50j2hozm",
+      "id": "42",
+      "name": "profile-accent-17-2",
+      "bbox": [
+        54,
+        449,
+        9,
+        258
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D9A62E",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kza18ji1",
+      "id": "43",
+      "name": "profile-number-17-2",
+      "bbox": [
+        73,
+        469,
+        52,
+        28
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Microsoft JhengHei",
+            "color": "#D9A62E",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 13,
+              "typeface": "Microsoft JhengHei",
+              "color": "#D9A62E",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vuhkbehk",
+      "id": "44",
+      "name": "profile-photo-matte-17-2",
+      "bbox": [
+        73,
+        503,
+        164,
+        179
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/qpor25cj",
+      "id": "64",
+      "name": "profile-photo-17-2",
+      "bbox": [
+        78,
+        508,
+        154,
+        169
+      ],
+      "geometry": "roundRect",
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0.03572,
+        "top": 0,
+        "right": 0.03572,
+        "bottom": 0
+      },
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 5195"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "/ppt/media/image65.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 159802
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image65.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 159802
+      }
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xwz2dozq",
+      "id": "46",
+      "name": "profile-name-17-2",
+      "bbox": [
+        263,
+        470,
+        220,
+        37
+      ],
+      "geometry": "rect",
+      "text": "蔡天與",
+      "textPreview": "蔡天與",
+      "resolvedFontSize": 23.86,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "蔡天與"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "蔡天與",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Microsoft JhengHei",
+            "color": "#22313F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "蔡天與",
+              "fontSize": 23,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22313F",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvq14ji5",
+      "id": "47",
+      "name": "profile-role-17-2-bg",
+      "bbox": [
+        578,
+        471,
+        132,
+        30
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D9A62E",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6h07uh8",
+      "id": "48",
+      "name": "profile-role-17-2",
+      "bbox": [
+        583,
+        474,
+        122,
+        24
+      ],
+      "geometry": "rect",
+      "text": "攝影師",
+      "textPreview": "攝影師",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "攝影師"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "攝影師",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "攝影師",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5ojyp03",
+      "id": "49",
+      "name": "profile-rule-17-2",
+      "bbox": [
+        263,
+        514,
+        447,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#DCE4E6",
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbmh8vyl",
+      "id": "50",
+      "name": "profile-bio-label-17-2",
+      "bbox": [
+        263,
+        527,
+        250,
+        20
+      ],
+      "geometry": "rect",
+      "text": "SELECTED EXPERIENCE",
+      "textPreview": "SELECTED EXPERIENCE",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SELECTED EXPERIENCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SELECTED EXPERIENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 10.31,
+            "typeface": "Microsoft JhengHei",
+            "color": "#D9A62E",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SELECTED EXPERIENCE",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#D9A62E",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcvyh0f6",
+      "id": "51",
+      "name": "profile-bio-17-2",
+      "bbox": [
+        263,
+        553,
+        447,
+        129
+      ],
+      "geometry": "rect",
+      "text": "2020–2021｜TimmyCall〈遲到王〉、〈Killer Paper〉MV\n2024｜新北客家桐花祭、臺北市客家義民嘉年華\n2025｜新北平溪天燈節\n負責｜MV 腳本企劃・導演／節慶影片攝影",
+      "textPreview": "2020–2021｜TimmyCall〈遲到王〉、〈Killer Paper〉MV | 2024｜新北客家桐花祭、臺北市客家義民嘉年華 | 2025｜新北平溪天燈節 | 負責｜MV 腳本企劃・導演／節慶影片攝影",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2020–2021｜TimmyCall〈遲到王〉、〈Killer Paper〉MV"
+          },
+          {
+            "index": 2,
+            "text": "2024｜新北客家桐花祭、臺北市客家義民嘉年華"
+          },
+          {
+            "index": 3,
+            "text": "2025｜新北平溪天燈節"
+          },
+          {
+            "index": 4,
+            "text": "負責｜MV 腳本企劃・導演／節慶影片攝影"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2020–2021｜TimmyCall〈遲到王〉、〈Killer Paper〉MV",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2020–2021｜TimmyCall〈遲到王〉、〈Killer Paper〉MV",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "2024｜新北客家桐花祭、臺北市客家義民嘉年華",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2024｜新北客家桐花祭、臺北市客家義民嘉年華",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "2025｜新北平溪天燈節",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2025｜新北平溪天燈節",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "負責｜MV 腳本企劃・導演／節慶影片攝影",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "負責｜MV 腳本企劃・導演／節慶影片攝影",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q94z6lgv",
+      "id": "52",
+      "name": "profile-card-17-3",
+      "bbox": [
+        54,
+        731,
+        686,
+        258
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F9EEEB",
+      "lineColor": "#DCE4E6",
+      "lineWidth": 1
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/radgfqx0",
+      "id": "53",
+      "name": "profile-accent-17-3",
+      "bbox": [
+        54,
+        731,
+        9,
+        258
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D96B57",
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z6hcfyx",
+      "id": "54",
+      "name": "profile-number-17-3",
+      "bbox": [
+        73,
+        751,
+        52,
+        28
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Microsoft JhengHei",
+            "color": "#D96B57",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 13,
+              "typeface": "Microsoft JhengHei",
+              "color": "#D96B57",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0fylkfi",
+      "id": "55",
+      "name": "profile-photo-matte-17-3",
+      "bbox": [
+        73,
+        785,
+        164,
+        179
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/rqx8bad4",
+      "id": "65",
+      "name": "profile-photo-17-3",
+      "bbox": [
+        78,
+        790,
+        154,
+        169
+      ],
+      "geometry": "roundRect",
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0.07903,
+        "top": 0,
+        "right": 0.07903,
+        "bottom": 0
+      },
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 5195"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "/ppt/media/image66.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 113877
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image66.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 113877
+      }
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zyxgjaxc",
+      "id": "57",
+      "name": "profile-name-17-3",
+      "bbox": [
+        263,
+        752,
+        220,
+        37
+      ],
+      "geometry": "rect",
+      "text": "Billy 雨利",
+      "textPreview": "Billy 雨利",
+      "resolvedFontSize": 23.86,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Billy 雨利"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Billy 雨利",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Microsoft JhengHei",
+            "color": "#22313F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Billy 雨利",
+              "fontSize": 23,
+              "typeface": "Microsoft JhengHei",
+              "color": "#22313F",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g32x0byd",
+      "id": "58",
+      "name": "profile-role-17-3-bg",
+      "bbox": [
+        578,
+        753,
+        132,
+        30
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D96B57",
+      "lineWidth": 0
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4by9gfy",
+      "id": "59",
+      "name": "profile-role-17-3",
+      "bbox": [
+        583,
+        756,
+        122,
+        24
+      ],
+      "geometry": "rect",
+      "text": "攝影師",
+      "textPreview": "攝影師",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "攝影師"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "攝影師",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "攝影師",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xoj6h83q",
+      "id": "60",
+      "name": "profile-rule-17-3",
+      "bbox": [
+        263,
+        796,
+        447,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#DCE4E6",
+      "lineWidth": 0
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wna5o3m5",
+      "id": "61",
+      "name": "profile-bio-label-17-3",
+      "bbox": [
+        263,
+        809,
+        250,
+        20
+      ],
+      "geometry": "rect",
+      "text": "SELECTED EXPERIENCE",
+      "textPreview": "SELECTED EXPERIENCE",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SELECTED EXPERIENCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SELECTED EXPERIENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 10.31,
+            "typeface": "Microsoft JhengHei",
+            "color": "#D96B57",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SELECTED EXPERIENCE",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#D96B57",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vm1ofilk",
+      "id": "62",
+      "name": "profile-bio-17-3",
+      "bbox": [
+        263,
+        835,
+        447,
+        129
+      ],
+      "geometry": "rect",
+      "text": "2022｜《費叔叔愛相挺》活動紀錄｜攝影・剪輯\n2023｜睡眠廣告｜攝影\n2023｜MCUT Global Image Video｜導演・攝影・剪輯\n2023｜《100種解決打呼的方法》｜攝影・燈光\n2024｜《如何消除背痘？》｜導演・攝影・燈光\n2026｜臺北客家義民嘉年華｜攝影・燈光\n",
+      "textPreview": "2022｜《費叔叔愛相挺》活動紀錄｜攝影・剪輯 | 2023｜睡眠廣告｜攝影 | 2023｜MCUT Global Image Video｜導演・攝影・剪輯 | 2023｜《100種解決打呼的方法》｜攝影・燈光 | 2024｜《如何消除背痘？》｜導演・攝影・燈光 | 202...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 7,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2022｜《費叔叔愛相挺》活動紀錄｜攝影・剪輯"
+          },
+          {
+            "index": 2,
+            "text": "2023｜睡眠廣告｜攝影"
+          },
+          {
+            "index": 3,
+            "text": "2023｜MCUT Global Image Video｜導演・攝影・剪輯"
+          },
+          {
+            "index": 4,
+            "text": "2023｜《100種解決打呼的方法》｜攝影・燈光"
+          },
+          {
+            "index": 5,
+            "text": "2024｜《如何消除背痘？》｜導演・攝影・燈光"
+          },
+          {
+            "index": 6,
+            "text": "2026｜臺北客家義民嘉年華｜攝影・燈光"
+          },
+          {
+            "index": 7,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2022｜《費叔叔愛相挺》活動紀錄｜攝影・剪輯",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2022｜《",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 2,
+              "text": "費叔叔愛相挺》活動紀錄｜攝影・剪輯",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "2023｜睡眠廣告｜攝影",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2023｜睡眠廣告｜攝影",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "2023｜MCUT Global Image Video｜導演・攝影・剪輯",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2023｜MCUT Global Image ",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 2,
+              "text": "Video｜導演・攝影・剪輯",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "2023｜《100種解決打呼的方法》｜攝影・燈光",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2023｜《100種解決打呼的方法》｜",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 2,
+              "text": "攝影・燈光",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "2024｜《如何消除背痘？》｜導演・攝影・燈光\n2026｜臺北客家義民嘉年華｜攝影・燈光",
+          "lineSpacingPercent": 116000,
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Microsoft JhengHei",
+            "color": "#34424D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2024｜《",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 2,
+              "text": "如何消除背痘",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 3,
+              "text": "？》｜",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 4,
+              "text": "導演・攝影・燈光",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 5,
+              "text": "\n",
+              "fontSize": 13.2,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 6,
+              "text": "2026",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 7,
+              "text": "｜臺北客家義民",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            },
+            {
+              "index": 8,
+              "text": "嘉年華｜攝影・燈光",
+              "fontSize": 14.67,
+              "typeface": "Microsoft JhengHei",
+              "color": "#34424D"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

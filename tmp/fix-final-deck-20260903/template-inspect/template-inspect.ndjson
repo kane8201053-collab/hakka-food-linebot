@@ -1,0 +1,136 @@
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"腳本核心概念:五章結構,一句「看見」貫穿全片","textShapes":40}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/ts7md4r2","slide":1,"name":"Shape 4","bbox":[57.6,119.04,678.72,130.56]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"textChars":120,"textLines":1}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"textChars":24,"textLines":1}
+{"kind":"shape","id":"sh/utg3698n","slide":1,"name":"Shape 7","bbox":[57.6,297.6,678.72,55.68]}
+{"kind":"shape","id":"sh/wn6dc7eh","slide":1,"name":"Shape 8","bbox":[69.12,307.2,74.88,36.48]}
+{"kind":"textbox","id":"sh/hofulsf2","slide":1,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/ul4vaxgb","slide":1,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/vmdcj2xw","slide":1,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/4r6dg7et","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/5sfepcfe","slide":1,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/ipovexwn","slide":1,"name":"Shape 14","bbox":[57.6,362.88,678.72,55.68]}
+{"kind":"shape","id":"sh/3qxwn2x8","slide":1,"name":"Shape 15","bbox":[69.12,372.48,74.88,36.48]}
+{"kind":"textbox","id":"sh/sfqdkrep","slide":1,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/dgzetcfa","slide":1,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/1cvuxc7e","slide":1,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/zadcv2p8","slide":1,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/e94v2hon","slide":1,"name":"Shape 21","bbox":[57.6,428.16,678.72,55.68]}
+{"kind":"shape","id":"sh/90ve1w7q","slide":1,"name":"Shape 22","bbox":[69.12,437.76,74.88,36.48]}
+{"kind":"textbox","id":"sh/ozmd8r65","slide":1,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/nydczmpk","slide":1,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/mx4v6hoz","slide":1,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/p4bu5s76","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/432dwn6l","slide":1,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/uxgjq907","slide":1,"name":"Shape 28","bbox":[57.6,493.44,678.72,55.68]}
+{"kind":"shape","id":"sh/vyp0je1s","slide":1,"name":"Shape 29","bbox":[69.12,503.04,74.88,36.48]}
+{"kind":"textbox","id":"sh/wzy1szid","slide":1,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/h072l4jy","slide":1,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/i1gje90j","slide":1,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/j2pkne14","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/43y1gji9","slide":1,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/54r2poju","slide":1,"name":"Shape 35","bbox":[57.6,558.72,678.72,55.68]}
+{"kind":"shape","id":"sh/y5wjip0z","slide":1,"name":"Shape 36","bbox":[69.12,568.32,74.88,36.48]}
+{"kind":"textbox","id":"sh/z650ba1k","slide":1,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/z2xgf6to","slide":1,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/e1oz61c3","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/14fyhgbe","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/036h8but","slide":1,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/nqxgjqtk","slide":1,"textChars":23,"textLines":1}
+{"kind":"shape","id":"sh/mpozalcz","slide":1,"name":"Shape 43","bbox":[57.6,681.6,678.72,112.32]}
+{"kind":"shape","id":"sh/9sfylgbq","slide":1,"name":"Shape 44","bbox":[74.88,696.96,110.4,34.56]}
+{"kind":"textbox","id":"sh/or6hcvu5","slide":1,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/buh0nqtg","slide":1,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/at8zelcb","slide":1,"textChars":50,"textLines":1}
+{"kind":"shape","id":"sh/8zqx4vq9","slide":1,"name":"Shape 48","bbox":[57.64,814.08,678.72,106.63]}
+{"kind":"shape","id":"sh/t0jyd0ru","slide":1,"name":"Shape 49","bbox":[74.88,829.72,110.4,34.56]}
+{"kind":"textbox","id":"sh/6x8f2583","slide":1,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/7yhgbq9o","slide":1,"textChars":24,"textLines":1}
+{"kind":"textbox","id":"sh/kvqx0vqd","slide":1,"textChars":64,"textLines":1}
+{"kind":"shape","id":"sh/lwzy90ry","slide":1,"name":"Shape 53","bbox":[57.6,937.92,678.72,118.97]}
+{"kind":"shape","id":"sh/yt8fyl87","slide":1,"name":"Shape 54","bbox":[74.88,953.28,110.4,34.56]}
+{"kind":"textbox","id":"sh/juhg7q9s","slide":1,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/wr6xwbq1","slide":1,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/xsfy5grm","slide":1,"textChars":56,"textLines":1}
+{"kind":"shape","id":"sh/dc7md8fe","slide":1,"name":"Shape 58","bbox":[991.71,513.12,678.72,110.4]}
+{"kind":"textbox","id":"sh/cby5k3yt","slide":1,"textChars":151,"textLines":2}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"分鏡腳本對照總表(總長度約11 分 10 秒)","textShapes":3}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"textChars":23,"textLines":1}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"Shape 4","bbox":[57.6,863.8,678.72,202.68]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"textChars":198,"textLines":3}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"textChars":102,"textLines":1}
+{"kind":"table","id":"tb/j65krqps","slide":2,"name":"Table 0","rows":19,"cols":5,"preview":"編號 | 章節 / 段落 | 時間碼 | 長度 | 累計","bbox":[57.6,102.26,678.72,745.22]}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"分鏡腳本｜第一章","textShapes":17}
+{"kind":"textbox","id":"sh/f29gbyx0","slide":3,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/d0jax03i","slide":3,"name":"scene-band-6","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"col-head-6-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/m5cra54z","slide":3,"name":"col-body-6-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/n6ls3alk","slide":3,"name":"col-head-6-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/m1c3mlsn","slide":3,"name":"col-body-6-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/943mhgre","slide":3,"name":"col-head-6-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/83ulovat","slide":3,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/v6l4jq94","slide":3,"name":"col-body-6-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"textChars":153,"textLines":4}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"textChars":149,"textLines":14}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"textChars":232,"textLines":10}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"name":"footer-line-6","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/i9w3u58v","slide":3,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/6d0fytg3","slide":3,"name":"Rectangle 22","bbox":[57.22,728.79,213.87,21]}
+{"kind":"textbox","id":"sh/re9g7yxo","slide":3,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/tgry9ofu","slide":3,"name":"Rectangle 25","bbox":[942,875.48,213.87,21]}
+{"kind":"textbox","id":"sh/a9kfadwn","slide":3,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/l4fi9cza","slide":3,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/z2d07mh4","slide":3,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/x0vi5czy","slide":3,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/byd032h8","slide":3,"textChars":8,"textLines":1}
+{"kind":"image","id":"im/hg7apkj6","slide":3,"name":"Picture 21","bbox":[57.22,621.71,213.87,107.09]}
+{"kind":"image","id":"im/e90b690z","slide":3,"name":"Picture 24","bbox":[942,768.39,213.87,107.09]}
+{"kind":"image","id":"im/fa9szehk","slide":3,"name":"storyboard-3-1","geometry":"roundRect","bbox":[-390.46,273.8,200.85,190.1]}
+{"kind":"image","id":"im/z2pov6l0","slide":3,"name":"storyboard-3-2","geometry":"roundRect","bbox":[66.99,757.31,200.85,157.13]}
+{"kind":"image","id":"im/y1g7214f","slide":3,"name":"storyboard-3-3","geometry":"roundRect","bbox":[68.25,919.44,200.85,126.84]}
+{"kind":"image","id":"im/l476xg3q","slide":3,"name":"storyboard-3-4","geometry":"roundRect","bbox":[-390.46,865.11,200.85,190.1]}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"分鏡腳本｜第一章","textShapes":16}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"textChars":18,"textLines":1}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"name":"scene-band-7","bbox":[48.26,147.89,697.48,47.96]}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/doj29oba","slide":4,"name":"col-head-7-0","bbox":[48.26,207.85,224.83,37.97]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"col-body-7-0","bbox":[48.26,245.82,224.83,809.4]}
+{"kind":"shape","id":"sh/ih8ju9sn","slide":4,"name":"col-head-7-1","bbox":[273.09,207.85,183.86,37.97]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"col-body-7-1","bbox":[273.09,245.82,183.86,809.4]}
+{"kind":"shape","id":"sh/i94r6xgz","slide":4,"name":"col-head-7-2","bbox":[456.96,207.85,288.79,37.97]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"col-body-7-2","bbox":[456.96,245.82,288.79,809.4]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"textChars":118,"textLines":4}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"textChars":71,"textLines":7}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"textChars":196,"textLines":10}
+{"kind":"shape","id":"sh/g36tgryd","slide":4,"name":"footer-line-7","bbox":[48.26,1074.2,697.48,0]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/2xkrih8b","slide":4,"name":"Rectangle 22","bbox":[53.74,646.6,213.87,21]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/fu9sn2p0","slide":4,"name":"Rectangle 25","bbox":[53.74,780.98,213.87,21]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"textChars":7,"textLines":1}
+{"kind":"shape","id":"sh/tsrqlc7u","slide":4,"name":"visual-7","bbox":[-336.45,297.78,200.85,781.42]}
+{"kind":"textbox","id":"sh/ilwf69kv","slide":4,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/knex8j21","slide":4,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/wzex4z2p","slide":4,"textChars":6,"textLines":1}
+{"kind":"image","id":"im/upwbex4j","slide":4,"name":"Picture 21","bbox":[53.74,539.51,213.87,107.09]}
+{"kind":"image","id":"im/xw3ax8nq","slide":4,"name":"Picture 24","bbox":[53.74,673.9,213.87,107.09]}
+{"kind":"image","id":"im/wvut43ml","slide":4,"name":"storyboard-4-1","geometry":"roundRect","bbox":[-336.45,297.78,200.85,190.1]}
+{"kind":"image","id":"im/0r2dcb6t","slide":4,"name":"storyboard-4-2","geometry":"roundRect","bbox":[-336.45,494.88,200.85,190.1]}
+{"kind":"image","id":"im/lsbelgne","slide":4,"name":"storyboard-4-4","geometry":"roundRect","bbox":[58.25,812.55,200.85,190.1]}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"分鏡腳本｜第一章","textShapes":14}
+{"kind":"textbox","id":"sh/gfi5grih","slide":5,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"textChars":13,"textLines":1}
+{"kind":"notice","message":"Truncated: omitted 440 lines. Increase maxChars or narrow target."}

@@ -1,0 +1,181 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "edited narrative overview",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeIds":["sh/7qp4be9c","sh/sryl4zqx","sh/xsfy5grm"]},
+        {"action":"delete","shapeIds":["sh/65g3298r","sh/dc7md8fe","sh/cby5k3yt"]}
+      ]
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 2,
+      "narrativeRole": "edited timing and compliance overview",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeId":"sh/b29kza94"},
+        {"action":"rewrite","shapeId":"tb/j65krqps"},
+        {"action":"rewrite-and-reposition","shapeIds":["sh/w3i1sfa9","sh/r65knqtk","sh/q5wjelsz"]}
+      ]
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 3,
+      "narrativeRole": "edited storyboard opening",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"delete","shapeIds":["im/e90b690z","sh/tgry9ofu","sh/a9kfadwn","im/fa9szehk","sh/l4fi9cza","im/l476xg3q","sh/byd032h8"]}
+      ]
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 4,
+      "narrativeRole": "edited council history storyboard",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeIds":["sh/1cj2d8b6","sh/v6tsv2xo"]},
+        {"action":"delete","shapeIds":["sh/tsrqlc7u","im/wvut43ml","sh/ilwf69kv","im/0r2dcb6t","sh/knex8j21"]}
+      ]
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 5,
+      "narrativeRole": "edited inauguration storyboard",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeIds":["sh/58vehgvy","sh/j6dwfqds"]}
+      ]
+    },
+    {
+      "outputSlide": 6,
+      "sourceSlide": 6,
+      "narrativeRole": "edited constituency storyboard layout",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeIds":["sh/yhg7epsj","sh/47mt0b6x"]},
+        {"action":"rewrite-and-reposition","shapeIds":["im/pgv6tw72","sh/jet8nm1c","im/10n2lone","sh/50bqpcj2","im/0zelcj6t","sh/va98j210","im/zy5kje58","sh/hcrqlcj6"]},
+        {"action":"delete","shapeIds":["im/ji9of2ps","sh/bq547yhw","sh/0fy5k3id","im/4fm5krqh","sh/ydgnit07","sh/zep4byhs","sh/gju58ji9"]}
+      ]
+    },
+    {
+      "outputSlide": 7,
+      "sourceSlide": 7,
+      "narrativeRole": "edited constituency storyboard cleanup",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"delete","shapeIds":["im/ehwjal4b","sh/50v2pgna","sh/q143ylov","im/zi5kjqlw","sh/s3ml0v61","sh/d4f2t0nm","sh/f6xkvq5c"]}
+      ]
+    },
+    {
+      "outputSlide": 8,
+      "sourceSlide": 8,
+      "narrativeRole": "edited constituency storyboard balance",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeId":"sh/18byd4zy"},
+        {"action":"rewrite-and-reposition","shapeIds":["im/uhsbqhkf","sh/6twve1oz","sh/5sne5wne","im/fi1sjmlk","sh/jq5w365o","sh/i5wva1o3"]}
+      ]
+    },
+    {
+      "outputSlide": 9,
+      "sourceSlide": 9,
+      "narrativeRole": "preserve-only transition storyboard",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 10,
+      "sourceSlide": 10,
+      "narrativeRole": "edited citizen-concern pathway storyboard",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeIds":["sh/xc3mho32","sh/zelojyl8","sh/1cru1g3y","sh/fapcz6ls"]},
+        {"action":"rewrite-and-reposition","shapeIds":["im/0rehk3ut","sh/ru18r2to","im/lsnit8be","sh/dwjqtcbu","im/ypwzidc3","sh/zyl8vmt0","im/zq50rito","sh/103qxcbq","im/c3ehg3ux","sh/f2h8jitg"]},
+        {"action":"delete","shapeId":"sh/0nut8rul"}
+      ]
+    },
+    {
+      "outputSlide": 11,
+      "sourceSlide": 11,
+      "narrativeRole": "edited conditional process storyboard",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeIds":["sh/n69grmpw","sh/1cfa58zi","sh/zaxs3yhc"]},
+        {"action":"delete","shapeId":"sh/4zyhofml"}
+      ]
+    },
+    {
+      "outputSlide": 12,
+      "sourceSlide": 12,
+      "narrativeRole": "edited council powers transition",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeId":"sh/nq1o3a5w"},
+        {"action":"delete","shapeId":"sh/dcv6dgz2"}
+      ]
+    },
+    {
+      "outputSlide": 13,
+      "sourceSlide": 13,
+      "narrativeRole": "edited administration storyboard cleanup",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"delete","shapeIds":["sh/8vahgzu5","im/4na1wb29","sh/re5kjydo"]}
+      ]
+    },
+    {
+      "outputSlide": 14,
+      "sourceSlide": 14,
+      "narrativeRole": "edited chairperson message storyboard",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeIds":["sh/jepwf2pc","sh/ls7idofu"]},
+        {"action":"delete","shapeId":"sh/cz6h4fq1"}
+      ]
+    },
+    {
+      "outputSlide": 15,
+      "sourceSlide": 15,
+      "narrativeRole": "edited closing storyboard",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeId":"sh/5wvax0f6"},
+        {"action":"delete","shapeId":"sh/dc3y1s3m"}
+      ]
+    },
+    {
+      "outputSlide": 16,
+      "sourceSlide": 16,
+      "narrativeRole": "edited equipment and compliance appendix",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeIds":["sh/9c7i1o7u","tb/exwzqdsn"]},
+        {"action":"rewrite-and-reposition","shapeIds":["sh/zm50veps","sh/kne14jqd","sh/lo7ixo7y"]},
+        {"action":"replace","shapeId":"im/4nupwbix"},
+        {"action":"delete","shapeId":"im/jmlon6hc"}
+      ]
+    },
+    {
+      "outputSlide": 17,
+      "sourceSlide": 17,
+      "narrativeRole": "edited team profile appendix one",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeIds":["sh/r6h43id0","sh/jy1kfehg","sh/cbmh8vyl","sh/wna5o3m5"]}
+      ]
+    },
+    {
+      "outputSlide": 18,
+      "sourceSlide": 18,
+      "narrativeRole": "edited team profile appendix two",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"action":"rewrite","shapeIds":["sh/z21cnmp4","sh/j25gja9o","sh/7alwbq9g","sh/q9sn65kb"]}
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}

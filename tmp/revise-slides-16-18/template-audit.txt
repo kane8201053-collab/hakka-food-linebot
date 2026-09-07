@@ -1,0 +1,25 @@
+Communication job: let proposal reviewers quickly understand the production capacity, equipment readiness, and team credentials while preserving the established A4 portrait deck style.
+
+Source structure
+- 18 A4 portrait slides at 794 x 1122.17 px.
+- Slides 1–15 use a refined navy/teal/orange/red editorial system with Microsoft JhengHei typography, light section bands, thin rules, and structured columns.
+- Slides 16–18 are appended team/equipment pages. Their content is useful but the hierarchy, spacing, cropping, and pagination are inconsistent with slides 1–15.
+- The source has one DEFAULT layout and one master with no inherited visible furniture.
+
+Reusable visual rules
+- White background, navy #22313F primary text.
+- Teal #0F8A85 as the equipment/team accent; muted gold #D9A62E for role and highlight details.
+- Main titles remain 32 px Microsoft JhengHei bold.
+- Body content uses Microsoft JhengHei and is reduced by editing copy, not by distorting imagery.
+- Images are displayed with cover/contain behavior and aspect-ratio-safe cropping.
+
+Insertion contract
+- Slides 1–15 are preserve-only.
+- Slides 16–18 retain their source slide identity and title elements.
+- Existing photographs on slides 16–18 are reused from their original embedded files and repositioned without stretching.
+- The DJI consumer-drone image and brand-specific row are removed. A neutral, unbranded professional aerial-cinematography asset is inserted in the cleared equipment zone.
+- New primitives are limited to the content zones below each title and provide section rules, profile backgrounds, and concise labels.
+
+Placeholder audit
+- No title/body placeholders are inherited from the master or layout.
+- Slide 18 contains a slide-number placeholder rendered outside the canvas; it is explicitly deleted.

@@ -1,0 +1,28 @@
+Communication job:
+By the end, New Taipei City Council reviewers should understand the film's five-chapter narrative, see that it responds to the requirement document, and believe the proposed production can be executed and documented.
+
+Source structure:
+- 18 A4 portrait slides, 794 x 1122 px.
+- Slides 3-15 use a recurring storyboard system: chapter kicker, takeaway title, timing band, three production columns, lower image storyboard, and footer.
+- Slides 16-18 use a production-team appendix system with navy, teal, amber, and coral accents.
+- Source typography is primarily PingFang TC with occasional Calibri English labels.
+
+Reusable rules:
+- Keep the existing A4 portrait format, masters, layouts, palette, footer system, and photographs.
+- Preserve the three-column storyboard structure.
+- Keep photographs cropped within their existing visual language; do not stretch images.
+- Use existing text boxes, image frames, table, and callout shapes rather than overlaying a new design.
+
+Required corrections:
+- Reframe the third chapter as a citizen-concern pathway with conditional branches, not a mandatory linear complaint-to-resolution process.
+- Continue shot numbering after SHOT 25.
+- Clarify full inauguration documentation, five-language versions, deliverables, and 4K workflow.
+- Remove unused fully off-canvas remnants.
+- Repair slide 6 and slide 10 image/text collisions.
+- Reduce slide 16 equipment and compliance risk; replace Alta X with the lighter Skydio X10 configuration and factual specifications.
+- Repair slide 17 overlapping labels and text errors; align slide 18 role labels with demonstrated experience.
+
+Insertion contract:
+- Every output slide duplicates the corresponding source slide.
+- Only mapped inherited elements are rewritten, repositioned, replaced, or deleted.
+- No new slide-local overlay system is introduced.

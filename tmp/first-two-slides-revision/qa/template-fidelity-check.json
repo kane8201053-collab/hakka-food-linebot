@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-09-03T03:00:20.469Z",
+  "workspace": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/first-two-slides-revision",
+  "finalPptx": "/Users/zhangzixuan/Desktop/hakka-food-linebot/output/看見共好_影片腳本_A4直式_敘事校正版.pptx",
+  "starterPptx": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/first-two-slides-revision/template-starter.pptx",
+  "mapPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/first-two-slides-revision/template-frame-map.json",
+  "starterLayoutDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/first-two-slides-revision/template-starter-layout",
+  "finalLayoutDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/first-two-slides-revision/final-layout/final",
+  "editDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/first-two-slides-revision",
+  "issueCount": 0,
+  "issues": []
+}

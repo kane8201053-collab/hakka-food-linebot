@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-09-03T05:14:27.285Z",
+  "workspace": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/storyboard-images-0903",
+  "finalPptx": "/Users/zhangzixuan/Desktop/hakka-food-linebot/output/看見共好_影片腳本0903_分鏡示意圖版.pptx",
+  "starterPptx": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/storyboard-images-0903/template-starter.pptx",
+  "mapPath": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/storyboard-images-0903/template-frame-map.json",
+  "starterLayoutDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/storyboard-images-0903/template-starter-layout",
+  "finalLayoutDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/storyboard-images-0903/final-layout/final",
+  "editDir": "/Users/zhangzixuan/Desktop/hakka-food-linebot/tmp/storyboard-images-0903",
+  "issueCount": 0,
+  "issues": []
+}
