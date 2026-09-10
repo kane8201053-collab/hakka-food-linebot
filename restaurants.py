@@ -49,19 +49,6 @@ RESTAURANTS = [
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
     },
     {
-        "name": "關西客家仙草",
-        "district": "中正區",
-        "category": "甜點 / 客家甜品",
-        "description":"新竹關西「仙草公」二代匠心傳承，純天然客家風味，隱身東門市場，藏不住的客家在地古早味！",
-        "recommended_dishes": ["客家仙草"],
-        "features": ["下午茶", "消暑", "關西仙草慢熬草香回甘"],
-        "address": "臺北市中正區臨沂街75巷11號",
-        "business_hours":"07:00至13:00 每週一休市，週二至週日營業",
-        "phone":"暫無資料",
-        "discount": "",
-        "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
-    },
-    {
         "name": "富富の正",
         "district": "中正區",
         "category": "客家甜點 / 傳統米食",
@@ -108,13 +95,13 @@ RESTAURANTS = [
         "recommended_dishes": ["鹹蛋絲瓜麵線", "黑糖牛汶水"],
         "features": ["六堆客家、少油少鹽、高CP值"],
         "address": "臺北市中正區黎明里忠孝西路一段36號B1",
-        "business_hours":"11:30至22:00",
+        "business_hours":"官網查詢門市時間 https://www.liouduai.com.tw/",
         "phone":"02-25636239",
         "discount": "",
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
     },
     {
-        "name": "龍傳客家放山雞莊",
+        "name": "客家放山雞(龍傳客家放山雞莊)",
         "district": "大同區",
         "category": "客家料理",
         "description":"穀物飼育放山閹雞、金黃Q彈、肉質緊實、皮凍油亮、扎實有嚼勁的經典白斬雞",
@@ -140,7 +127,7 @@ RESTAURANTS = [
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
     },
     {
-        "name": "駱師傅醬味川客菜館",
+        "name": "駱師父醬味川客菜(駱師傅醬味川客菜館)",
         "district": "大同區",
         "category": "客家料理|川菜料理",
         "description":"駱師傅坐鎮！麻辣融合醬香，芋頭米粉濃郁綿密，川客獨門醬香搭配有料芋頭米粉，令人欲罷不能",
@@ -173,19 +160,19 @@ RESTAURANTS = [
         "recommended_dishes": ["北埔珍珠擂擂鮮奶", "珍溜醇厚紅茶拿鐵"],
         "features": ["客語食茶｜北埔擂茶｜珍溜雙料｜平價現泡"],
         "address": "臺北市中山區錦州街358號",
-        "business_hours":"週一至週六 10:30至13:00 每週日公休",
+        "business_hours":"官網查詢門市時間 https://www.missingtea.com.tw",
         "phone":"02-25170050",
         "discount": "",
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
     },
     {
-        "name": "楗康盒子",
-        "district": "中山區",
+        "name": "楗康盒子(新光三越台北站前店)",
+        "district": "中正區",
         "category": "客家飲食零售",
         "description":"客家飲食美學時尚轉化，健康純粹伴手禮，摩登包裝蘊含阿婆古早味，質感送禮體面首選",
         "recommended_dishes": ["細末擂茶"],
         "features": ["低溫堅果｜綜合果乾｜十里目茶包｜年節禮盒"],
-        "address": "臺北市中山區忠孝西路一段66號 B2",
+        "address": "臺北市中正區忠孝西路一段66號B2",
         "business_hours":"週日至週四 11:00至21:30、週五至週六 11:00至22:00",
         "phone":"0989766824",
         "discount": "",
@@ -225,7 +212,7 @@ RESTAURANTS = [
         "recommended_dishes": ["客家鹹豬肉便當", "紅糟排骨便當"],
         "features": ["客家便當｜紅糟紅麴｜少油清爽｜南京復興外帶"],
         "address": "臺北市中山區復華里南京東路三段89巷5-2號",
-        "business_hours":"週一至週五 11:30至13:20",
+        "business_hours":"官網查詢門市時間 https://www.liouduai.com.tw/branch/all/1.htm",
         "phone":"02-25162963",
         "discount": "",
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
@@ -315,8 +302,8 @@ RESTAURANTS = [
         "description":"主打綿密順口廣東粥，巧妙融入客家鹹豬肉，提供溫暖庶民美味，粥底濃郁綿密，搭配鹹香客家小菜堪稱絕配",
         "recommended_dishes": ["招牌皮蛋瘦肉粥", "客家鹹豬肉小菜"],
         "features": ["八德路砂鍋粥｜老菜脯雞｜小農小菜｜大烹手路"],
-        "address": "臺北市松山區吉祥里八德路四段227號",
-        "business_hours":"週二至週日 11:00至14:00、17:00至22:00",
+        "address": "臺北市松山區八德路四段229號",
+        "business_hours":"官網查詢門市時間 https://greathuda.com/%e6%88%91%e5%80%91%e7%9a%84%e5%ba%97-2/",
         "phone":"02-27476261",
         "discount": "",
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
@@ -432,7 +419,7 @@ RESTAURANTS = [
         "description":"主廚炒功一流！將傳統客家菜完美改良，鑊氣十足超下飯，巷弄實力派私房菜！鑊氣十足、酸香夠勁的薑絲大腸必點",
         "recommended_dishes": ["薑絲炒大腸", "蒜苗五花肉"],
         "features": ["忠孝熱炒｜金沙杏鮑菇｜三杯雞｜開到午夜"],
-        "address": "臺北市信義區永春里忠孝東路五段783號1樓",
+        "address": "官網查詢門市時間 https://heba-rchao.weebly.com/",
         "business_hours":"17:00至00:00",
         "phone":"02-87858788",
         "discount": "",

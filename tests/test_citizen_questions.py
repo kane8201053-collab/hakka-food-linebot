@@ -59,7 +59,7 @@ QUESTION_CASES = [
     ("松山區合作店家", "district", "福客粥"),
     ("內湖區有客家餐廳嗎？", "district", "廚房客家小館"),
     ("萬華區有哪些店家？", "district-empty", "尚未提供萬華區"),
-    ("中正區美食推薦", "district", "關西客家仙草"),
+    ("中正區美食推薦", "district", "六堆伙房"),
     ("大安區有什麼好吃的？", "district", "大安區目前"),
     ("信義區附近吃什麼？", "district", "富鼎餐館"),
     ("南港區推薦店家", "district", "南港大排檔"),
@@ -84,7 +84,7 @@ QUESTION_CASES = [
     ("哪一間有包廂？", "ai", None),
     ("苗栗客家菜館今天幾點開？", "ai", None),
     ("富鼎餐館電話是多少？", "ai", None),
-    ("關西客家仙草地址在哪？", "ai", None),
+    ("六堆伙房地址在哪？", "ai", None),
     ("活動優惠有哪些？", "ai", None),
     ("可以現場訂位嗎？", "ai", None),
     ("店家可以刷卡嗎？", "ai", None),
@@ -123,11 +123,11 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
             with self.subTest(question=question):
                 decision = decide_reply(question)
                 self.assertEqual("restaurant-count", decision.route)
-                self.assertIn("共有 47 家合作店家", decision.reply_text)
+                self.assertIn("共有 46 家合作店家", decision.reply_text)
                 self.assertEqual(1, len(build_reply_links(decision.reply_text, question)))
         with patch("bot_logic.RESTAURANTS", RESTAURANTS[:-1]):
-            self.assertIn("共有 46 家合作店家", decide_reply("總共有幾家合作店家？").reply_text)
-            self.assertIn("目前合作店家總數：46 家", build_ai_prompt("店家有多少？"))
+            self.assertIn("共有 45 家合作店家", decide_reply("總共有幾家合作店家？").reply_text)
+            self.assertIn("目前合作店家總數：45 家", build_ai_prompt("店家有多少？"))
 
     def test_filtered_questions_do_not_use_global_total(self):
         for question in ("中山區有幾家合作店家？", "有幾家店賣客家小炒？", "有哪些合作店家？"):
@@ -226,7 +226,7 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         self.assertEqual(MESSAGE_TOO_LONG_REPLY, decision.reply_text)
 
     def test_restaurant_database_is_complete_and_consistent(self):
-        self.assertEqual(47, len(RESTAURANTS))
+        self.assertEqual(46, len(RESTAURANTS))
         names = [restaurant["name"] for restaurant in RESTAURANTS]
         self.assertEqual(len(names), len(set(names)))
 
