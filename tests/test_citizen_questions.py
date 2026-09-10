@@ -10,6 +10,7 @@ from bot_logic import (
     add_spacing_for_single_store_fields,
     build_ai_prompt,
     build_district_reply,
+    build_restaurant_detail_reply,
     build_reply_links,
     decide_reply,
     hide_google_maps_urls,
@@ -82,9 +83,9 @@ QUESTION_CASES = [
     ("想找晚上十二點還開的店", "ai", None),
     ("有素食可以吃嗎？", "ai", None),
     ("哪一間有包廂？", "ai", None),
-    ("苗栗客家菜館今天幾點開？", "ai", None),
-    ("富鼎餐館電話是多少？", "ai", None),
-    ("六堆伙房地址在哪？", "ai", None),
+    ("苗栗客家菜館今天幾點開？", "restaurant", "🕒 營業時間"),
+    ("富鼎餐館電話是多少？", "restaurant", "☎️ 聯絡電話"),
+    ("六堆伙房地址在哪？", "restaurant", "📍 地址"),
     ("活動優惠有哪些？", "ai", None),
     ("可以現場訂位嗎？", "ai", None),
     ("店家可以刷卡嗎？", "ai", None),
@@ -320,7 +321,7 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
 
         single_store_reply = build_district_reply("南港區")
         self.assertIn("目前只有這一家合作店家", single_store_reply)
-        self.assertIn("直接輸入店名", single_store_reply)
+        self.assertIn("可點下方「地址超連結」", single_store_reply)
 
     def test_single_store_districts_show_complete_restaurant_details(self):
         for district in ("信義區", "南港區", "內湖區"):
@@ -363,6 +364,29 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         self.assertEqual("📍 地址超連結", links[0].label)
         self.assertTrue(links[0].url.startswith("https://www.google.com/maps/search/"))
         self.assertLessEqual(utf16_length(links[0].label), 20)
+
+    def test_every_store_name_uses_local_detail_without_ai(self):
+        for restaurant in RESTAURANTS:
+            with self.subTest(restaurant=restaurant["name"]):
+                decision = decide_reply(restaurant["name"])
+                self.assertEqual("restaurant", decision.route)
+                self.assertEqual(
+                    build_restaurant_detail_reply(restaurant),
+                    decision.reply_text,
+                )
+                self.assertIn(f"🏠 店名：{restaurant['name']}", decision.reply_text)
+                self.assertIn(f"📍 地址：{restaurant['address']}", decision.reply_text)
+                self.assertIn(
+                    f"☎️ 聯絡電話：{restaurant['phone']}",
+                    decision.reply_text,
+                )
+                self.assertLessEqual(
+                    utf16_length(decision.reply_text),
+                    MAX_LINE_REPLY_UNITS,
+                )
+                links = build_reply_links(decision.reply_text, restaurant["name"])
+                self.assertEqual("📍 地址超連結", links[0].label)
+                self.assertEqual(restaurant["google_maps_url"], links[0].url)
 
     def test_single_store_reply_removes_all_asterisks(self):
         reply = "🏠 **老頭家客家菜**\n- **行政區**：文山區"
@@ -407,8 +431,16 @@ class CitizenQuestionRoutingTests(unittest.TestCase):
         )
 
     def test_unique_store_short_name_gets_map_button(self):
-        for question in ("富鼎", "苗栗客家", "胡鍋"):
+        for question in (
+            "富鼎",
+            "富鼎電話是多少？",
+            "苗栗客家",
+            "苗栗客家今天幾點開？",
+            "胡鍋",
+            "胡鍋地址在哪？",
+        ):
             with self.subTest(question=question):
+                self.assertEqual("restaurant", decide_reply(question).route)
                 links = build_reply_links("店家資訊如下。", question)
                 self.assertEqual(2, len(links))
                 self.assertEqual("📍 地址超連結", links[0].label)

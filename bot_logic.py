@@ -173,6 +173,34 @@ def _is_district_listing_question(message, district):
     return any(phrase in message for phrase in _DISTRICT_LISTING_PHRASES)
 
 
+def build_restaurant_detail_reply(restaurant, introduction="找到這家囉！🏠"):
+    """直接使用本機資料產生單店完整介紹，不需要呼叫 Gemini。"""
+
+    dishes = "、".join(restaurant["recommended_dishes"])
+    features = "、".join(restaurant["features"])
+    description = restaurant.get("description") or "目前尚未提供"
+    business_hours = restaurant.get("business_hours") or "目前尚未提供"
+    phone = restaurant.get("phone") or "目前尚未提供"
+    discount = restaurant.get("discount") or "目前尚未提供"
+    notes = restaurant.get("notes") or "目前尚未提供"
+
+    return (
+        f"{introduction}\n\n"
+        f"🏠 店名：{restaurant['name']}\n\n"
+        f"🏙️ 行政區：{restaurant['district']}\n\n"
+        f"🍽️ 類型：{restaurant['category']}\n\n"
+        f"📝 餐廳介紹：{description}\n\n"
+        f"🥢 推薦餐點：{dishes}\n\n"
+        f"✨ 特色：{features}\n\n"
+        f"📍 地址：{restaurant['address']}\n\n"
+        f"🕒 營業時間：{business_hours}\n\n"
+        f"☎️ 聯絡電話：{phone}\n\n"
+        f"優惠：{discount}\n\n"
+        f"備註：{notes}\n\n"
+        "想前往這家店嗎？可點下方「地址超連結」查看位置與導航！📍"
+    )
+
+
 def build_district_reply(district):
     """列出行政區內所有正式合作店家，不做人為筆數截斷。"""
 
@@ -185,29 +213,9 @@ def build_district_reply(district):
         )
 
     if len(restaurants) == 1:
-        restaurant = restaurants[0]
-        dishes = "、".join(restaurant["recommended_dishes"])
-        features = "、".join(restaurant["features"])
-        description = restaurant.get("description") or "目前尚未提供"
-        business_hours = restaurant.get("business_hours") or "目前尚未提供"
-        phone = restaurant.get("phone") or "目前尚未提供"
-        discount = restaurant.get("discount") or "目前尚未提供"
-        notes = restaurant.get("notes") or "目前尚未提供"
-
-        return (
-            f"找到囉！🔍 {district}目前只有這一家合作店家：\n\n"
-            f"🏠 店名：{restaurant['name']}\n\n"
-            f"🏙️ 行政區：{restaurant['district']}\n\n"
-            f"🍽️ 類型：{restaurant['category']}\n\n"
-            f"📝 餐廳介紹：{description}\n\n"
-            f"🥢 推薦餐點：{dishes}\n\n"
-            f"✨ 特色：{features}\n\n"
-            f"📍 地址：{restaurant['address']}\n\n"
-            f"🕒 營業時間：{business_hours}\n\n"
-            f"☎️ 聯絡電話：{phone}\n\n"
-            f"優惠：{discount}\n\n"
-            f"備註：{notes}\n\n"
-            "想取得地址導航嗎？直接輸入店名，就會出現地址超連結唷！📍"
+        return build_restaurant_detail_reply(
+            restaurants[0],
+            f"找到囉！🔍 {district}目前只有這一家合作店家：",
         )
 
     restaurant_lines = []
@@ -239,27 +247,33 @@ def _normalize_store_search_text(text):
     return re.sub(r"[\W_]+", "", (text or "").lower())
 
 
-def _longest_common_substring_length(first, second):
-    """計算連續相同字串長度，用來辨識「富鼎」等唯一簡稱。"""
+def _restaurant_search_aliases(restaurant_name):
+    """建立可安全辨識的店名簡稱，避免任意相似字造成誤判。"""
 
-    if not first or not second:
-        return 0
+    aliases = {_normalize_store_search_text(restaurant_name)}
+    segments = re.split(r"[（()｜|/]", restaurant_name)
+    removable_suffixes = (
+        "客家菜館",
+        "客家餐館",
+        "料理餐廳",
+        "美食餐廳",
+        "餐館",
+        "菜館",
+        "小館",
+    )
 
-    previous = [0] * (len(second) + 1)
-    longest = 0
+    for segment in segments:
+        normalized_segment = _normalize_store_search_text(segment)
+        if normalized_segment:
+            aliases.add(normalized_segment)
+        for suffix in removable_suffixes:
+            normalized_suffix = _normalize_store_search_text(suffix)
+            if normalized_segment.endswith(normalized_suffix):
+                shortened = normalized_segment.removesuffix(normalized_suffix)
+                if len(shortened) >= 2:
+                    aliases.add(shortened)
 
-    for first_character in first:
-        current = [0]
-        for index, second_character in enumerate(second, start=1):
-            if first_character == second_character:
-                matched_length = previous[index - 1] + 1
-                current.append(matched_length)
-                longest = max(longest, matched_length)
-            else:
-                current.append(0)
-        previous = current
-
-    return longest
+    return aliases
 
 
 def _find_mentioned_restaurants(text):
@@ -301,9 +315,6 @@ def _find_mentioned_restaurants(text):
     ):
         return []
 
-    if any(term in searchable_text for term in _SPECIFIC_QUERY_TERMS):
-        return []
-
     normalized_question = _normalize_store_search_text(searchable_text)
     if normalized_question in {
         "客家菜",
@@ -317,13 +328,38 @@ def _find_mentioned_restaurants(text):
         "我家",
     }:
         return []
-    scored_restaurants = []
+    alias_matches = []
     for restaurant in RESTAURANTS:
-        score = _longest_common_substring_length(
-            normalized_question,
-            _normalize_store_search_text(restaurant["name"]),
-        )
-        scored_restaurants.append((score, restaurant))
+        matching_alias_lengths = [
+            len(alias)
+            for alias in _restaurant_search_aliases(restaurant["name"])
+            if alias and alias in normalized_question
+        ]
+        if matching_alias_lengths:
+            alias_matches.append((max(matching_alias_lengths), restaurant))
+
+    if alias_matches:
+        best_score = max(score for score, _ in alias_matches)
+        best_matches = [
+            restaurant
+            for score, restaurant in alias_matches
+            if score == best_score
+        ]
+        if len(best_matches) == 1:
+            return best_matches
+
+    if any(term in searchable_text for term in _SPECIFIC_QUERY_TERMS):
+        return []
+
+    scored_restaurants = []
+    if len(normalized_question) >= 4:
+        for restaurant in RESTAURANTS:
+            normalized_name = _normalize_store_search_text(restaurant["name"])
+            if normalized_question in normalized_name:
+                scored_restaurants.append((len(normalized_question), restaurant))
+
+    if not scored_restaurants:
+        return []
 
     best_score = max(score for score, _ in scored_restaurants)
     best_matches = [
@@ -332,8 +368,7 @@ def _find_mentioned_restaurants(text):
         if score == best_score
     ]
 
-    # 至少連續兩字且只有一間最高分，才視為單一店家簡稱。
-    if best_score >= 2 and len(best_matches) == 1:
+    if len(best_matches) == 1:
         return best_matches
 
     return []
@@ -498,6 +533,15 @@ def decide_reply(user_message):
     if district and _is_district_listing_question(normalized, district):
         route = "district" if find_restaurants_by_district(district) else "district-empty"
         return ReplyDecision(route, normalized, district, build_district_reply(district))
+
+    mentioned_restaurants = _find_mentioned_restaurants(normalized)
+    if len(mentioned_restaurants) == 1:
+        return ReplyDecision(
+            "restaurant",
+            normalized,
+            district,
+            build_restaurant_detail_reply(mentioned_restaurants[0]),
+        )
 
     faq_answer = find_faq_answer(normalized)
     if faq_answer:
