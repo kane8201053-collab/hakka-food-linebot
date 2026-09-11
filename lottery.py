@@ -6,8 +6,8 @@
 
 
 LATEST_LOTTERY_INFO = {
-    "participation": "至臺北客家臉書粉絲團的美食地圖上線文章參加抽獎",
-    "description": "吃美食＋拍照即可抽 沖繩來回機票！",
+    "participation": "至臺北客家粉絲團本文章 https://reurl.cc/mzkWr9 參加抽獎",
+    "description": "即可抽 沖繩來回機票！",
 }
 
 LOTTERY_KEYWORDS = (
