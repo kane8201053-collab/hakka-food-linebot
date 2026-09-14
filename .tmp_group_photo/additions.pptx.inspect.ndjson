@@ -1,0 +1,55 @@
+{"kind":"deck","id":"pr/bi1niv","name":"Deck"}
+{"kind":"layout","layoutId":"12577686-a58a-4248-b396-39dcbb65dab6","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"81f12fa0-ae08-4144-8ca5-8b5a8e5d4da9","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/3c6zke","slide":1,"title":"一. 10/15記者會　啟動儀式後大合照","textShapes":12}
+{"kind":"textbox","id":"sh/4bil4vep","slide":1,"text":"一. 10/15記者會　啟動儀式後大合照","textPreview":"一. 10/15記者會　啟動儀式後大合照","textChars":20,"textLines":1,"bbox":[42,22,830,30]}
+{"kind":"textbox","id":"sh/3a9kvqd4","slide":1,"text":"大合照舞台與主視覺配置","textPreview":"大合照舞台與主視覺配置","textChars":11,"textLines":1,"bbox":[42,62,880,57]}
+{"kind":"textbox","id":"sh/i9032lwj","slide":1,"text":"35","textPreview":"35","textChars":2,"textLines":1,"bbox":[871,681,48,22]}
+{"kind":"textbox","id":"sh/ry94zqd0","slide":1,"text":"電視牆播放附件一主視覺","textPreview":"電視牆播放附件一主視覺","textChars":11,"textLines":1,"bbox":[620,335,299,30]}
+{"kind":"textbox","id":"sh/qx036lwv","slide":1,"text":"場地採市府一樓中庭\n舞台設於中庭正中央\n攝影機正對舞台中線","textPreview":"場地採市府一樓中庭 | 舞台設於中庭正中央 | 攝影機正對舞台中線","textChars":29,"textLines":3,"bbox":[620,380,298,116]}
+{"kind":"textbox","id":"sh/t472pwv2","slide":1,"text":"紅色舞台","textPreview":"紅色舞台","textChars":4,"textLines":1,"bbox":[42,520,265,36]}
+{"kind":"textbox","id":"sh/83ylwbeh","slide":1,"text":"台高約 50 公分\n長官於台上橫向並列","textPreview":"台高約 50 公分 | 長官於台上橫向並列","textChars":19,"textLines":2,"bbox":[42,562,270,70]}
+{"kind":"textbox","id":"sh/6dg3ehkf","slide":1,"text":"後方電視牆","textPreview":"後方電視牆","textChars":5,"textLines":1,"bbox":[349,520,267,36]}
+{"kind":"textbox","id":"sh/7ep47ml0","slide":1,"text":"先以寬約 3 公尺規劃\n主標題高於人物頭部","textPreview":"先以寬約 3 公尺規劃 | 主標題高於人物頭部","textChars":21,"textLines":2,"bbox":[349,562,275,70]}
+{"kind":"textbox","id":"sh/8filgr2l","slide":1,"text":"中央手機框","textPreview":"中央手機框","textChars":5,"textLines":1,"bbox":[659,520,261,36]}
+{"kind":"textbox","id":"sh/tgrm9wj6","slide":1,"text":"中間鏤空容納 3 人\n其餘長官分立左右","textPreview":"中間鏤空容納 3 人 | 其餘長官分立左右","textChars":19,"textLines":2,"bbox":[659,562,260,70]}
+{"kind":"textbox","id":"sh/u103i1kr","slide":1,"text":"本次尺寸更新：舞台約 50 公分；電視牆 3 公尺先按寬度解讀，現勘後定案。","textPreview":"本次尺寸更新：舞台約 50 公分；電視牆 3 公尺先按寬度解讀，現勘後定案。","textChars":38,"textLines":1,"bbox":[42,656,820,29]}
+{"kind":"image","id":"im/kfedkzih","slide":1,"name":"","bbox":[42,133,555,357]}
+{"kind":"image","id":"im/lgnedkj2","slide":1,"name":"","bbox":[620,135,298,189]}
+{"kind":"notes","id":"nt/3c6zke","slide":1,"text":"依使用者最新要求規劃。原稿第3、4頁為60公分舞台與200吋LED，本新增方案採50公分與寬3公尺假設，原頁保留未改。附件三為場地參考，附件一為主視覺。舞台寬深與LED高度由現場實測及出席人數決定。"}
+{"kind":"slide","id":"sl/7yeqwq","slide":2,"title":"一. 10/15記者會　啟動儀式後大合照","textShapes":5}
+{"kind":"textbox","id":"sh/0vidkzip","slide":2,"text":"一. 10/15記者會　啟動儀式後大合照","textPreview":"一. 10/15記者會　啟動儀式後大合照","textChars":20,"textLines":1,"bbox":[42,22,830,30]}
+{"kind":"textbox","id":"sh/zu9cbuh4","slide":2,"text":"大合照正面場景示意","textPreview":"大合照正面場景示意","textChars":9,"textLines":1,"bbox":[42,62,880,57]}
+{"kind":"textbox","id":"sh/yt0vip0j","slide":2,"text":"36","textPreview":"36","textChars":2,"textLines":1,"bbox":[871,681,48,22]}
+{"kind":"textbox","id":"sh/8z2dozil","slide":2,"text":"中央 3 人同框，兩側長官持牌面向正前方攝影機。","textPreview":"中央 3 人同框，兩側長官持牌面向正前方攝影機。","textChars":24,"textLines":1,"bbox":[42,657,800,28]}
+{"kind":"textbox","id":"sh/nytcfuh0","slide":2,"text":"AI 情境示意，人物、比例及道具細節以現場與完稿為準。","textPreview":"AI 情境示意，人物、比例及道具細節以現場與完稿為準。","textChars":27,"textLines":1,"bbox":[42,690,800,20]}
+{"kind":"image","id":"im/wj2hk7ud","slide":2,"name":"","bbox":[24,139,912,513]}
+{"kind":"notes","id":"nt/7yeqwq","slide":2,"text":"以內建圖像生成工具，參照附件一主視覺、附件二手機框格式及附件三中庭場地製作。非真實活動照片。圖中以11人（中央3人、左右各4人）作為站位示意，正式人數依貴賓名單調整；3公尺LED寬度與舞台50公分高度請依工程尺寸製作，生成圖不作比例施工依據。"}
+{"kind":"slide","id":"sl/bm4opw","slide":3,"title":"一. 10/15記者會　啟動儀式後大合照","textShapes":10}
+{"kind":"textbox","id":"sh/d0jmxobi","slide":3,"text":"一. 10/15記者會　啟動儀式後大合照","textPreview":"一. 10/15記者會　啟動儀式後大合照","textChars":20,"textLines":1,"bbox":[42,22,830,30]}
+{"kind":"textbox","id":"sh/qxs3m9s7","slide":3,"text":"手機社群框輸出物設計","textPreview":"手機社群框輸出物設計","textChars":10,"textLines":1,"bbox":[42,62,880,57]}
+{"kind":"textbox","id":"sh/ry14vets","slide":3,"text":"37","textPreview":"37","textChars":2,"textLines":1,"bbox":[871,681,48,22]}
+{"kind":"textbox","id":"sh/143m1obu","slide":3,"text":"主視覺延伸","textPreview":"主視覺延伸","textChars":5,"textLines":1,"bbox":[490,141,421,37]}
+{"kind":"textbox","id":"sh/e1s3qts3","slide":3,"text":"沿用桃紅、粉白棋盤格與\n廟簷、貓狗角色等圖像。\n保留「義鳴紀」活動辨識。","textPreview":"沿用桃紅、粉白棋盤格與 | 廟簷、貓狗角色等圖像。 | 保留「義鳴紀」活動辨識。","textChars":36,"textLines":3,"bbox":[490,188,425,113]}
+{"kind":"textbox","id":"sh/f214zyto","slide":3,"text":"三人同框的鏤空視窗","textPreview":"三人同框的鏤空視窗","textChars":9,"textLines":1,"bbox":[490,320,420,39]}
+{"kind":"textbox","id":"sh/oru5w3a5","slide":3,"text":"中段挖空，讓 3 位人物並肩。\n上框高於頭部，下框低於胸前\n手拿牌，避免遮擋臉部。","textPreview":"中段挖空，讓 3 位人物並肩。 | 上框高於頭部，下框低於胸前 | 手拿牌，避免遮擋臉部。","textChars":41,"textLines":3,"bbox":[490,367,425,114]}
+{"kind":"textbox","id":"sh/ps3m58bq","slide":3,"text":"建議打樣尺寸","textPreview":"建議打樣尺寸","textChars":6,"textLines":1,"bbox":[490,500,420,38]}
+{"kind":"textbox","id":"sh/h0jex0ju","slide":3,"text":"外框約寬 220 × 高 240 公分\n淨開口寬約 190 公分\n背面加支撐、配重及消光表面","textPreview":"外框約寬 220 × 高 240 公分 | 淨開口寬約 190 公分 | 背面加支撐、配重及消光表面","textChars":46,"textLines":3,"bbox":[490,549,425,108]}
+{"kind":"textbox","id":"sh/wzad4f2p","slide":3,"text":"造型與尺寸為提案示意，依三人實站、視線及結構打樣調整；帳號圖樣待確認。","textPreview":"造型與尺寸為提案示意，依三人實站、視線及結構打樣調整；帳號圖樣待確認。","textChars":35,"textLines":1,"bbox":[42,680,816,27]}
+{"kind":"image","id":"im/90r61kfa","slide":3,"name":"","bbox":[36,128,416,536]}
+{"kind":"notes","id":"nt/bm4opw","slide":3,"text":"手機社群框格式取自附件二；配色及裝飾元素取自附件一。AI生成概念圖，非印刷完稿。建議外框寬220公分、高240公分、淨寬190公分為提案尺寸，须依3位成人肩寬與框材結構打樣；不將生成圖比例作施工依據。帳號與認證圖示為參考圖樣，印製前改為主辦核定內容。"}
+{"kind":"slide","id":"sl/m24z05","slide":4,"title":"一. 10/15記者會　啟動儀式後大合照","textShapes":12}
+{"kind":"textbox","id":"sh/wfap07qx","slide":4,"text":"一. 10/15記者會　啟動儀式後大合照","textPreview":"一. 10/15記者會　啟動儀式後大合照","textChars":20,"textLines":1,"bbox":[42,22,830,30]}
+{"kind":"textbox","id":"sh/ve1o72ps","slide":4,"text":"長官站位、手拿牌與拍照流程","textPreview":"長官站位、手拿牌與拍照流程","textChars":13,"textLines":1,"bbox":[42,62,880,57]}
+{"kind":"textbox","id":"sh/ad87yx87","slide":4,"text":"38","textPreview":"38","textChars":2,"textLines":1,"bbox":[871,681,48,22]}
+{"kind":"textbox","id":"sh/9sz65s7m","slide":4,"text":"站位安排","textPreview":"站位安排","textChars":4,"textLines":1,"bbox":[42,141,475,36]}
+{"kind":"textbox","id":"sh/8rqpwnq1","slide":4,"text":"中央 3 位主要貴賓站於手機框後。\n其餘長官分列左右，依禮序向外延伸。\n手拿牌置於胸前，完整露出人臉。","textPreview":"中央 3 位主要貴賓站於手機框後。 | 其餘長官分列左右，依禮序向外延伸。 | 手拿牌置於胸前，完整露出人臉。","textChars":51,"textLines":3,"bbox":[42,191,521,119]}
+{"kind":"textbox","id":"sh/mp87ud8v","slide":4,"text":"社群框形式參考（附件二）","textPreview":"社群框形式參考（附件二）","textChars":12,"textLines":1,"bbox":[600,369,318,26]}
+{"kind":"textbox","id":"sh/to3qhc7q","slide":4,"text":"手拿牌主題","textPreview":"手拿牌主題","textChars":5,"textLines":1,"bbox":[42,349,502,38]}
+{"kind":"textbox","id":"sh/snup8rq5","slide":4,"text":"挑擔奉飯　　創意踩街　　AR實境\n新紀元　　　義鳴紀","textPreview":"挑擔奉飯　　創意踩街　　AR實境 | 新紀元　　　義鳴紀","textChars":26,"textLines":2,"bbox":[42,401,850,83]}
+{"kind":"textbox","id":"sh/2hofmtcj","slide":4,"text":"手拿牌建議採主視覺桃紅底搭配白字，依人數重複配置，避免互相遮字。","textPreview":"手拿牌建議採主視覺桃紅底搭配白字，依人數重複配置，避免互相遮字。","textChars":32,"textLines":1,"bbox":[42,477,866,31]}
+{"kind":"textbox","id":"sh/3ixgvyd4","slide":4,"text":"拍照流程","textPreview":"拍照流程","textChars":4,"textLines":1,"bbox":[42,535,869,38]}
+{"kind":"textbox","id":"sh/ojqxo3up","slide":4,"text":"1　啟動完成後，電視牆切回主視覺，工作人員協助框體與長官定位。\n2　先拍正面正式合照，確認中央 3 人及兩側長官皆完整入鏡。\n3　主持人帶口號「義鳴紀」，長官舉牌定格，再補拍活力合照。","textPreview":"1　啟動完成後，電視牆切回主視覺，工作人員協助框體與長官定位。 | 2　先拍正面正式合照，確認中央 3 人及兩側長官皆完整入鏡。 | 3　主持人帶口號「義鳴紀」，長官舉牌定格，再補拍活力合照。","textChars":92,"textLines":3,"bbox":[42,582,875,96]}
+{"kind":"textbox","id":"sh/pkzyx8va","slide":4,"text":"框體於拍攝前完成固定；攝影主機位與舞台中線對齊。","textPreview":"框體於拍攝前完成固定；攝影主機位與舞台中線對齊。","textChars":24,"textLines":1,"bbox":[42,688,800,23]}
+{"kind":"image","id":"im/61cny5gr","slide":4,"name":"","bbox":[600,141,317,219]}
+{"kind":"notes","id":"nt/m24z05","slide":4,"text":"手拿牌文字依使用者指定：挑擔奉飯、創意踩街、AR實境、新紀元、義鳴紀。站位與拍照流程為新增建議。附件二僅作框體形式參考，背景場地與舊版圖樣不沿用為現場設計。"}

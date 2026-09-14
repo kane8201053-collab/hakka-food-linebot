@@ -1,0 +1,6 @@
+import fs from 'node:fs/promises';
+import {Presentation,PresentationFile} from '@oai/artifact-tool';
+import {finalizePresentation} from '/Users/zhangzixuan/.codex/plugins/cache/openai-primary-runtime/presentations/26.904.11930/skills/presentations/container_tools/artifact_tool_utils.mjs';
+const cwd='/Users/zhangzixuan/Desktop/hakka-food-linebot';
+const skill='/Users/zhangzixuan/.codex/plugins/cache/openai-primary-runtime/presentations/26.904.11930/skills/presentations';
+const result=await finalizePresentation({workspaceDir:cwd,candidatePath:cwd+'/.ppt-work/candidate.pptx',finalPath:cwd+'/output/115年國慶升旗典禮_橫式工作紀錄完成版.pptx',pythonExecutable:'/Users/zhangzixuan/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3',integrityValidatorPath:skill+'/container_tools/inspect_presentation_package_integrity.py',layoutValidatorPath:skill+'/container_tools/inspect_presentation_layout_geometry.py',layoutArgs:['--expected-slide-size-emu','15240000,8572500','--validate-heading-fit',...Array.from({length:7},(_,i)=>['--require-native-table-slide',String(i+1)]).flat()],requiredNativeTableOwnerSlides:[1,2,3,4,5,6,7],fontPolicy:{basis:'design',families:["PingFang TC"]},verifyArtifactToolImport:true,receiptPath:cwd+'/.ppt-work/validation-final.json'});console.log(result);
