@@ -56,7 +56,7 @@ RESTAURANTS = [
         "recommended_dishes": ["草仔粿"],
         "features": ["現作不隔夜｜內餡飽滿｜東門傳統粿｜可素食｜可預訂"],
         "address": "臺北市中正區金山南路一段110巷2號 東門市場52攤",
-        "business_hours":"官網查詢https://www.facebook.com/SDK124/?locale=zh_TW營業時間",
+        "business_hours":"官網查詢 https://www.facebook.com/SDK124/?locale=zh_TW 營業時間",
         "phone":"0986638586",
         "discount": "",
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"
@@ -419,8 +419,8 @@ RESTAURANTS = [
         "description":"主廚炒功一流！將傳統客家菜完美改良，鑊氣十足超下飯，巷弄實力派私房菜！鑊氣十足、酸香夠勁的薑絲大腸必點",
         "recommended_dishes": ["薑絲炒大腸", "蒜苗五花肉"],
         "features": ["忠孝熱炒｜金沙杏鮑菇｜三杯雞｜開到午夜"],
-        "address": "官網查詢門市時間 https://heba-rchao.weebly.com/",
-        "business_hours":"17:00至00:00",
+        "address": "臺北市信義區永春里忠孝東路五段783號",
+        "business_hours":"官網查詢門市時間 https://heba-rchao.weebly.com/",
         "phone":"02-87858788",
         "discount": "",
         "notes": "實際營業時間、餐點供應及活動優惠依店家現場公告為準"

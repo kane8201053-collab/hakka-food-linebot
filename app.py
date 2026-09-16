@@ -202,9 +202,9 @@ def generate_ai_reply(user_message, detected_district):
         input=prompt,
         generation_config={
             "thinking_level": "minimal",
-            "max_output_tokens": 400,
+            "max_output_tokens": 600,
         },
-        timeout=10,
+        timeout=15,
     )
     return safe_line_reply(interaction.output_text)
 
